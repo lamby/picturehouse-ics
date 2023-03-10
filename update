@@ -1,0 +1,179 @@
+#!/usr/bin/env python3
+
+# TODO
+# * Timezones? (eg. stuff today (early March) in late March
+
+# https://icalendar.readthedocs.io/en/latest/usage.html#example
+import click
+import requests
+import icalendar
+import slugify
+import yaml
+
+from dateutil import parser
+
+import datetime
+import pytz
+import sys
+
+from pprint import pprint
+
+
+HIDE_ATTRIBUTES = {
+    "AD",
+    "Subtitled",
+    "Silver Screen",
+    "Picturehouse Docs",
+    "Screen Arts",
+}
+
+IGNORE_FILMS_WITH_ATTRIBUTES = {
+    "Kids' Club",
+    "Toddler Time",
+    "Watch with Baby",
+    "Autism-Friendly",
+    "Dementia-Friendly Screening",
+}
+
+
+class PictureHouseICS:
+    def __init__(self, padding):
+        self.padding = padding
+        self.session = requests.Session()
+
+    def main(self):
+        #cinemas = self.get_cinemas()
+        # with open("_data/cinemas.yml", "w") as f:
+        #   f.write(yaml.dump(cinemas))
+
+        with open("_data/cinemas.yml") as f:
+            cinemas = yaml.safe_load(f.read())
+
+        for cinema in cinemas:
+            ics = self.get_ics(cinema)
+
+            with open(f"ics/{cinema['slug']}.ics", "w") as f:
+                f.write(ics)
+
+    def get_cinemas(self):
+        r = self.session.post(
+            "https://www.picturehouses.com/ajax-cinema-list",
+            headers={"x-requested-with": "XMLHttpRequest"},
+        )
+        r.raise_for_status()
+
+        data = r.json()
+
+        cinemas = []
+
+        for x in data["cinema_list"]:
+            cinemas.append({
+                "cinema_id": x["cinema_id"],
+                "name": data["cinemaloc"][x["cinema_id"]],
+                "slug": x["slug"].replace("-picturehouse", ""),
+            })
+
+        return cinemas
+
+    def get_ics(self, cinema):
+        print(f"Updating for {cinema['name']}")
+        cal = icalendar.Calendar()
+        cal.add("prodid", "-//icalendar//mxm.dk//")
+        cal.add("version", "2.0")
+        cal.add("name", f"Picture House: {cinema['name']}")
+        cal.add("x-wr-calname", f"Picture House: {cinema['name']}")
+
+        # Movies metadata
+        r = self.session.post(
+            "https://www.picturehouses.com/api/get-movies-ajax",
+            headers={"x-requested-with": "XMLHttpRequest"},
+            data={"start_date": "show_all_dates", "cinema_id": cinema["cinema_id"]},
+        )
+        r.raise_for_status()
+        movies = r.json()["movies"]
+
+        for x in movies:
+            result = []
+
+            for y in x["show_times"]:
+                if y["CinemaId"] == cinema["cinema_id"]:
+                    result.append(y)
+
+            if not result:
+                continue
+
+            for y in result:
+                description = []
+                all_attributes = {z["attribute_full"] for z in y["attributes"]}
+
+                event = icalendar.Event()
+                event.add("uid", y["SessionId"])
+
+                summary = x["Title"]
+                if y["SoldoutStatus"]:
+                    summary += " (sold out)"
+                event.add("summary", summary)
+
+                start = datetime.datetime.utcfromtimestamp(y["show_time"])
+
+                # Calculate runtime
+                runtime = int(x["RunTime"])
+                if "Ad and Trailer Free" not in all_attributes:
+                    runtime += self.padding
+
+                # Calculate end time
+                round_to_nearest = 5
+                runtime_rounded = (
+                    (runtime + (round_to_nearest - 1))
+                    // round_to_nearest
+                    * round_to_nearest
+                )
+                end = start + datetime.timedelta(minutes=runtime_rounded)
+
+                event.add("dtstamp", start)
+                event.add("dtstart", start)
+                event.add("dtend", end)
+
+                hours, minutes = divmod(int(x["RunTime"]), 60)
+                description.append(f"Duration: {hours}h {minutes:02d}m ({x['RunTime']} min)")
+                description.append(y["ScreenName"])
+                skip_entry = False
+
+                SKIP_ATTRIBUTES = {"Toddler Time", "Kids' Club"}
+
+                ignore_film = False
+                for z in y["attributes"]:
+                    name = z["attribute_full"].strip()
+                    if name in IGNORE_FILMS_WITH_ATTRIBUTES:
+                        ignore_film = True
+                        break
+                    if name in HIDE_ATTRIBUTES:
+                        continue
+                    description.append(f"{name}: {z['description']}")
+
+                if ignore_film:
+                    continue
+
+                slug = slugify.slugify(x["Title"])
+                description.append(
+                    f"https://www.picturehouses.com/movie-details/{y['CinemaId']}/{y['ScheduledFilmId']}/{slug}/"
+                )
+                description.append(
+                    f"Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode={y['CinemaId']}&txtSessionId={y['SessionId']}&visLang=1"
+                )
+
+                event.add("description", "\n\n".join(description))
+
+                cal.add_component(event)
+
+        return cal.to_ical().decode("utf-8")
+
+
+@click.command()
+@click.option("--padding", type=int, default=20)
+def main(padding):
+    PictureHouseICS(padding).main()
+
+
+if __name__ == "__main__":
+    main()
