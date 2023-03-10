@@ -8,6 +8,7 @@ import click
 import requests
 import icalendar
 import slugify
+import logging
 import yaml
 
 from dateutil import parser
@@ -17,6 +18,13 @@ import pytz
 import sys
 
 from pprint import pprint
+
+from xml.etree import ElementTree
+from rich.logging import RichHandler
+
+logging.basicConfig(
+    level=logging.INFO, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
+)
 
 
 HIDE_ATTRIBUTES = {
@@ -76,7 +84,7 @@ class PictureHouseICS:
         return cinemas
 
     def get_ics(self, cinema):
-        print(f"Updating for {cinema['name']}")
+        logging.info(f"Updating for {cinema['name']}")
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
         cal.add("version", "2.0")
