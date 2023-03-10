@@ -88,8 +88,8 @@ class PictureHouseICS:
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
         cal.add("version", "2.0")
-        cal.add("name", f"Picture House: {cinema['name']}")
-        cal.add("x-wr-calname", f"Picture House: {cinema['name']}")
+        cal.add("name", f"Picture House {cinema['name']}")
+        cal.add("x-wr-calname", f"Picture House {cinema['name']}")
 
         # Movies metadata
         r = self.session.post(
