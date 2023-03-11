@@ -19,3 +19,5 @@ layout: default
 </li>
 {% endfor %}
 </ul>
+
+<p><a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}">Last update</a></p>
