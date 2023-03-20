@@ -21,6 +21,7 @@ from pprint import pprint
 
 from xml.etree import ElementTree
 from rich.logging import RichHandler
+from rich.progress import track
 
 logging.basicConfig(
     level=logging.INFO, format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
@@ -57,7 +58,7 @@ class PictureHouseICS:
         with open("_data/cinemas.yml") as f:
             cinemas = yaml.safe_load(f.read())
 
-        for cinema in cinemas:
+        for cinema in track(cinemas, description="Updating…"):
             ics = self.get_ics(cinema)
 
             with open(f"ics/{cinema['slug']}.ics", "w") as f:
@@ -84,7 +85,7 @@ class PictureHouseICS:
         return cinemas
 
     def get_ics(self, cinema):
-        logging.info(f"Updating for {cinema['name']}")
+        #logging.(f"Updating for {cinema['name']}")
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
         cal.add("version", "2.0")
