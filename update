@@ -44,6 +44,10 @@ IGNORE_FILMS_WITH_ATTRIBUTES = {
     "Dementia-Friendly Screening",
 }
 
+STRIP_PREFIXES = {
+    "A24: ",
+}
+
 
 class PictureHouseICS:
     def __init__(self, padding):
@@ -119,8 +123,13 @@ class PictureHouseICS:
                 event.add("uid", y["SessionId"])
 
                 summary = x["Title"]
+                for needle in STRIP_PREFIXES:
+                    if summary.startswith(needle):
+                        summary = summary[len(needle):]
+
                 if y["SoldoutStatus"]:
                     summary += " (sold out)"
+
                 event.add("summary", summary)
 
                 start = datetime.datetime.utcfromtimestamp(y["show_time"])
