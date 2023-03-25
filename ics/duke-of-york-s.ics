@@ -1,6 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
+LAST-MODIFIED;VALUE=DATE-TIME:20230325T140630Z
 NAME:Picture House Brighton - Duke of York's
 X-WR-CALNAME:Picture House Brighton - Duke of York's
 BEGIN:VEVENT
@@ -13,6 +14,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012736/dog-friendly-screening-allelujah/\n\
  nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicke
  ts.aspx?cinemacode=008&txtSessionId=13938&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dog-Friendly Screening: One Fine Morning
@@ -24,6 +26,7 @@ DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012817/dog-friendly-screening-one-fine-mor
  ning/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
  ectTickets.aspx?cinemacode=008&txtSessionId=13991&visLang=1
+LOCATION:Kids' Club
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kurosawa: Ran
@@ -38,6 +41,7 @@ DESCRIPTION:Duration: 2h 41m (161 min)\n\nScreen 1\n\nreDiscover: Time to
  ie-details/008/HO00012637/kurosawa-ran/\n\nBooking URL: https://ticketing.
  picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessio
  nId=13795&visLang=1
+LOCATION:Toddler Time
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kurosawa: Ran
@@ -49,17 +53,7 @@ DESCRIPTION:Duration: 2h 41m (161 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012637/kurosawa-ran/\n\nBooking URL: https
  ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
  008&txtSessionId=13988&visLang=1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Mulholland Drive
-DTSTART;VALUE=DATE-TIME:20230527T130000
-DTEND;VALUE=DATE-TIME:20230527T155000
-DTSTAMP;VALUE=DATE-TIME:20230527T130000Z
-UID:13968
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012769/sight-sound-top-10-mulholland-drive
- /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=008&txtSessionId=13968&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
@@ -71,6 +65,7 @@ DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012766/sight-sound-top-10-2001-a-space-ody
  ssey/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
  ectTickets.aspx?cinemacode=008&txtSessionId=13970&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - Man With A Movie Camera
@@ -82,6 +77,7 @@ DESCRIPTION:Duration: 1h 08m (68 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012768/sight-sound-top-10-man-with-a-movie-
  camera/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visS
  electTickets.aspx?cinemacode=008&txtSessionId=13967&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - Beau Travail
@@ -93,17 +89,19 @@ DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012764/sight-sound-top-10-beau-travail/\n\n
  Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
  s.aspx?cinemacode=008&txtSessionId=13969&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Singin' In The Rain
-DTSTART;VALUE=DATE-TIME:20230325T130000
-DTEND;VALUE=DATE-TIME:20230325T151000
-DTSTAMP;VALUE=DATE-TIME:20230325T130000Z
-UID:13966
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012767/sight-sound-top-10-singin-in-the-ra
- in/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=008&txtSessionId=13966&visLang=1
+SUMMARY:Sight & Sound Top 10 - Mulholland Drive
+DTSTART;VALUE=DATE-TIME:20230527T130000
+DTEND;VALUE=DATE-TIME:20230527T155000
+DTSTAMP;VALUE=DATE-TIME:20230527T130000Z
+UID:13968
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/008/HO00012769/sight-sound-top-10-mulholland-drive
+ /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
+ ickets.aspx?cinemacode=008&txtSessionId=13968&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Safety Last! (100th Anniversary)
@@ -115,6 +113,7 @@ DESCRIPTION:Duration: 1h 10m (70 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012723/safety-last-100th-anniversary/\n\nBo
  oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
  aspx?cinemacode=008&txtSessionId=13962&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Your Name & Weathering With You: Double Bill
@@ -128,6 +127,7 @@ DESCRIPTION:Duration: 3h 51m (231 min)\n\nScreen 1\n\nAd and Trailer Free:
  ails/008/HO00010392/your-name-weathering-with-you-double-bill/\n\nBooking 
  URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
  inemacode=008&txtSessionId=13842&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -139,6 +139,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012633/allelujah/\n\nBooking URL: https://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&
  txtSessionId=14006&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -150,6 +151,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012633/allelujah/\n\nBooking URL: https://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&
  txtSessionId=14008&visLang=1
+LOCATION:AD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -161,6 +163,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012633/allelujah/\n\nBooking URL: https://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&
  txtSessionId=13997&visLang=1
+LOCATION:AD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -173,6 +176,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nSubtitled (Captioned)
  oss.\n\nhttps://www.picturehouses.com/movie-details/008/HO00012633/alleluj
  ah/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
  tTickets.aspx?cinemacode=008&txtSessionId=13999&visLang=1
+LOCATION:AD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -184,6 +188,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012633/allelujah/\n\nBooking URL: https://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&
  txtSessionId=14010&visLang=1
+LOCATION:Subtitled (Captioned)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -195,6 +200,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012633/allelujah/\n\nBooking URL: https://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&
  txtSessionId=14009&visLang=1
+LOCATION:AD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -206,6 +212,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012633/allelujah/\n\nBooking URL: https://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&
  txtSessionId=13755&visLang=1
+LOCATION:AD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -217,6 +224,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012633/allelujah/\n\nBooking URL: https://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&
  txtSessionId=13754&visLang=1
+LOCATION:Silver Screen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -228,6 +236,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012633/allelujah/\n\nBooking URL: https://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&
  txtSessionId=14012&visLang=1
+LOCATION:Silver Screen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -240,6 +249,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nSubtitled (Captioned)
  oss.\n\nhttps://www.picturehouses.com/movie-details/008/HO00012633/alleluj
  ah/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
  tTickets.aspx?cinemacode=008&txtSessionId=14001&visLang=1
+LOCATION:AD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Allelujah
@@ -251,6 +261,7 @@ DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012633/allelujah/\n\nBooking URL: https://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&
  txtSessionId=14000&visLang=1
+LOCATION:Subtitled (Captioned)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monty Python's Life Of Brian
@@ -262,6 +273,7 @@ DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00007463/monty-python-s-life-of-brian/\n\nBoo
  king URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
  spx?cinemacode=008&txtSessionId=13913&visLang=1
+LOCATION:Silver Screen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:EOS: Vincent Van Gogh - A New Way Of Seeing
@@ -273,6 +285,7 @@ DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00000030/eos-vincent-van-gogh-a-new-way-of-se
  eing/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
  ectTickets.aspx?cinemacode=008&txtSessionId=13911&visLang=1
+LOCATION:Silver Screen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:God's Petting You + Q&A
@@ -286,6 +299,7 @@ DESCRIPTION:Duration: 2h 00m (120 min)\n\nScreen 1\n\nAd and Trailer Free:
   a Q&A.\n\nhttps://www.picturehouses.com/movie-details/008/HO00012776/god-
  s-petting-you-q-a/\n\nBooking URL: https://ticketing.picturehouses.com/Tic
  keting/visSelectTickets.aspx?cinemacode=008&txtSessionId=13990&visLang=1
+LOCATION:Silver Screen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alien Day: Alien & Aliens Double Bill
@@ -300,6 +314,7 @@ DESCRIPTION:Duration: 4h 46m (286 min)\n\nScreen 1\n\nCulture Shock: Dedic
  -details/008/HO00003864/alien-day-alien-aliens-double-bill/\n\nBooking URL
  : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
  macode=008&txtSessionId=13839&visLang=1
+LOCATION:Q&A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROH: The Marriage of Figaro (2023)
@@ -312,6 +327,7 @@ DESCRIPTION:Duration: 4h 00m (240 min)\n\nScreen 1\n\nLive via Satellite:
  icturehouses.com/movie-details/008/HO00011865/roh-the-marriage-of-figaro-2
  023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
  ctTickets.aspx?cinemacode=008&txtSessionId=12577&visLang=1
+LOCATION:Ad and Trailer Free
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hamlet: Bristol Old Vic Live
@@ -323,6 +339,7 @@ DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012622/hamlet-bristol-old-vic-live/\n\nBoo
  king URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
  spx?cinemacode=008&txtSessionId=13790&visLang=1
+LOCATION:Live via Satellite
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kurosawa: Seven Samurai
@@ -334,6 +351,7 @@ DESCRIPTION:Duration: 3h 27m (207 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00003282/kurosawa-seven-samurai/\n\nBooking 
  URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
  inemacode=008&txtSessionId=13987&visLang=1
+LOCATION:Screen Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROH Live: Il Trovatore (2023)
@@ -346,6 +364,7 @@ DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 1\n\nLive via Satellite:
  icturehouses.com/movie-details/008/HO00011869/roh-live-il-trovatore-2023/\
  n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
  kets.aspx?cinemacode=008&txtSessionId=12579&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROH Live: Cinderella (2023)
@@ -358,6 +377,7 @@ DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 1\n\nLive via Satellite:
  icturehouses.com/movie-details/008/HO00011863/roh-live-cinderella-2023/\n\
  nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicke
  ts.aspx?cinemacode=008&txtSessionId=12576&visLang=1
+LOCATION:Live via Satellite
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROH Live: The Sleeping Beauty (2023)
@@ -370,6 +390,7 @@ DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 1\n\nLive via Satellite:
  icturehouses.com/movie-details/008/HO00011867/roh-live-the-sleeping-beauty
  -2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
  lectTickets.aspx?cinemacode=008&txtSessionId=12578&visLang=1
+LOCATION:Live via Satellite
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Honey
@@ -384,6 +405,7 @@ DESCRIPTION:Duration: 2h 43m (163 min)\n\nScreen 1\n\nreDiscover: Time to
  ie-details/008/HO00012708/a24-american-honey/\n\nBooking URL: https://tick
  eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txt
  SessionId=13903&visLang=1
+LOCATION:Live via Satellite
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live 2023: Life of Pi (Encore)
@@ -395,6 +417,7 @@ DESCRIPTION:Duration: 2h 30m (150 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012535/nt-live-2023-life-of-pi-encore/\n\n
  Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
  s.aspx?cinemacode=008&txtSessionId=13689&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live 2023: Life of Pi
@@ -406,6 +429,7 @@ DESCRIPTION:Duration: 2h 30m (150 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012534/nt-live-2023-life-of-pi/\n\nBooking
   URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
  cinemacode=008&txtSessionId=13686&visLang=1
+LOCATION:Screen Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AIR
@@ -420,6 +444,7 @@ DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nMembers' Priority Bo
  com/movie-details/008/HO00012733/air/\n\nBooking URL: https://ticketing.pi
  cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionI
  d=13995&visLang=1
+LOCATION:Screen Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live 2023: Best of Enemies
@@ -431,6 +456,7 @@ DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012536/nt-live-2023-best-of-enemies/\n\nBo
  oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
  aspx?cinemacode=008&txtSessionId=13688&visLang=1
+LOCATION:Preview
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live 2023: GOOD (Encore)
@@ -442,6 +468,7 @@ DESCRIPTION:Duration: 2h 40m (160 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012457/nt-live-2023-good-encore/\n\nBookin
  g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
  ?cinemacode=008&txtSessionId=13319&visLang=1
+LOCATION:Screen Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live 2023: GOOD
@@ -453,6 +480,7 @@ DESCRIPTION:Duration: 2h 40m (160 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012433/nt-live-2023-good/\n\nBooking URL: 
  https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
  code=008&txtSessionId=13318&visLang=1
+LOCATION:Screen Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Last Black Man in San Francisco
@@ -467,6 +495,7 @@ DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nreDiscover: Time to
  ie-details/008/HO00012712/a24-the-last-black-man-in-san-francisco/\n\nBook
  ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
  px?cinemacode=008&txtSessionId=13905&visLang=1
+LOCATION:Screen Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Florida Project
@@ -481,6 +510,7 @@ DESCRIPTION:Duration: 1h 51m (111 min)\n\nScreen 1\n\nreDiscover: Time to
  ie-details/008/HO00012713/a24-the-florida-project/\n\nBooking URL: https:/
  /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=00
  8&txtSessionId=13906&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evolution of Horror Presents: The Birds + Panel
@@ -494,6 +524,7 @@ DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 1\n\nAd and Trailer Free:
  ails/008/HO00012694/evolution-of-horror-presents-the-birds-panel/\n\nBooki
  ng URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
  x?cinemacode=008&txtSessionId=13866&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lighthouse
@@ -508,6 +539,7 @@ DESCRIPTION:Duration: 1h 49m (109 min)\n\nScreen 1\n\nreDiscover: Time to
  ie-details/008/HO00012711/a24-the-lighthouse/\n\nBooking URL: https://tick
  eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txt
  SessionId=13904&visLang=1
+LOCATION:Ad and Trailer Free
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eighth Grade
@@ -522,6 +554,7 @@ DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 1\n\nreDiscover: Time to b
  e-details/008/HO00012706/a24-eighth-grade/\n\nBooking URL: https://ticketi
  ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSes
  sionId=13895&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moonlight
@@ -536,6 +569,7 @@ DESCRIPTION:Duration: 1h 51m (111 min)\n\nScreen 1\n\nreDiscover: Time to
  ie-details/008/HO00012705/a24-moonlight/\n\nBooking URL: https://ticketing
  .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessi
  onId=13893&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heathers The Musical
@@ -547,6 +581,7 @@ DESCRIPTION:Duration: 2h 00m (120 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012608/heathers-the-musical/\n\nBooking UR
  L: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
  emacode=008&txtSessionId=13753&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Lobster
@@ -561,6 +596,7 @@ DESCRIPTION:Duration: 1h 56m (116 min)\n\nScreen 1\n\nreDiscover: Time to
  ie-details/008/HO00012715/a24-the-lobster/\n\nBooking URL: https://ticketi
  ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSes
  sionId=13907&visLang=1
+LOCATION:Screen Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Farewell
@@ -575,6 +611,7 @@ DESCRIPTION:Duration: 1h 40m (100 min)\n\nScreen 1\n\nreDiscover: Time to
  ie-details/008/HO00012716/a24-the-farewell/\n\nBooking URL: https://ticket
  ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSe
  ssionId=13908&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:48 Hour Film Project Brighton Showcase
@@ -586,6 +623,7 @@ DESCRIPTION:Duration: 2h 30m (150 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012656/48-hour-film-project-brighton-showc
  ase/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
  ctTickets.aspx?cinemacode=008&txtSessionId=13996&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zola
@@ -600,6 +638,7 @@ DESCRIPTION:Duration: 1h 26m (86 min)\n\nScreen 1\n\nreDiscover: Time to b
  e-details/008/HO00012707/a24-zola/\n\nBooking URL: https://ticketing.pictu
  rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=1
  3902&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Five Devils
@@ -611,6 +650,7 @@ DESCRIPTION:Duration: 1h 36m (96 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012779/the-five-devils/\n\nBooking URL: htt
  ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
  e=008&txtSessionId=14007&visLang=1
+LOCATION:reDiscover
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Five Devils
@@ -622,6 +662,7 @@ DESCRIPTION:Duration: 1h 36m (96 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012779/the-five-devils/\n\nBooking URL: htt
  ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
  e=008&txtSessionId=13998&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Five Devils
@@ -633,6 +674,7 @@ DESCRIPTION:Duration: 1h 36m (96 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012779/the-five-devils/\n\nBooking URL: htt
  ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
  e=008&txtSessionId=14011&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Five Devils
@@ -644,6 +686,7 @@ DESCRIPTION:Duration: 1h 36m (96 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012779/the-five-devils/\n\nBooking URL: htt
  ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
  e=008&txtSessionId=13994&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Five Devils
@@ -655,6 +698,7 @@ DESCRIPTION:Duration: 1h 36m (96 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012779/the-five-devils/\n\nBooking URL: htt
  ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
  e=008&txtSessionId=14014&visLang=1
+LOCATION:Watch with Baby
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Five Devils
@@ -666,6 +710,7 @@ DESCRIPTION:Duration: 1h 36m (96 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012779/the-five-devils/\n\nBooking URL: htt
  ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
  e=008&txtSessionId=13992&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In the Court of the Crimson King + Toby Amies Q&A
@@ -680,5 +725,6 @@ DESCRIPTION:Duration: 1h 56m (116 min)\n\nScreen 1\n\nAd and Trailer Free:
  82/in-the-court-of-the-crimson-king-toby-amies-q-a/\n\nBooking URL: https:
  //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
  08&txtSessionId=13954&visLang=1
+LOCATION:Subtitled
 END:VEVENT
 END:VCALENDAR
