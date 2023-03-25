@@ -97,6 +97,7 @@ class PictureHouseICS:
         cal.add("version", "2.0")
         cal.add("name", f"Picture House {cinema['name']}")
         cal.add("x-wr-calname", f"Picture House {cinema['name']}")
+        cal.add("last-modified", datetime.datetime.utcnow())
 
         # Movies metadata
         r = self.session.post(
