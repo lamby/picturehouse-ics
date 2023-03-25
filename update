@@ -55,7 +55,7 @@ class PictureHouseICS:
         self.session = requests.Session()
 
     def main(self):
-        #cinemas = self.get_cinemas()
+        # cinemas = self.get_cinemas()
         # with open("_data/cinemas.yml", "w") as f:
         #   f.write(yaml.dump(cinemas))
 
@@ -80,16 +80,18 @@ class PictureHouseICS:
         cinemas = []
 
         for x in data["cinema_list"]:
-            cinemas.append({
-                "cinema_id": x["cinema_id"],
-                "name": data["cinemaloc"][x["cinema_id"]],
-                "slug": x["slug"].replace("-picturehouse", ""),
-            })
+            cinemas.append(
+                {
+                    "cinema_id": x["cinema_id"],
+                    "name": data["cinemaloc"][x["cinema_id"]],
+                    "slug": x["slug"].replace("-picturehouse", ""),
+                }
+            )
 
         return cinemas
 
     def get_ics(self, cinema):
-        #logging.(f"Updating for {cinema['name']}")
+        # logging.(f"Updating for {cinema['name']}")
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
         cal.add("version", "2.0")
@@ -125,7 +127,7 @@ class PictureHouseICS:
                 summary = x["Title"]
                 for needle in STRIP_PREFIXES:
                     if summary.startswith(needle):
-                        summary = summary[len(needle):]
+                        summary = summary[len(needle) :]
 
                 if y["SoldoutStatus"]:
                     summary += " (sold out)"
@@ -153,7 +155,9 @@ class PictureHouseICS:
                 event.add("dtend", end)
 
                 hours, minutes = divmod(int(x["RunTime"]), 60)
-                description.append(f"Duration: {hours}h {minutes:02d}m ({x['RunTime']} min)")
+                description.append(
+                    f"Duration: {hours}h {minutes:02d}m ({x['RunTime']} min)"
+                )
                 description.append(y["ScreenName"])
                 skip_entry = False
 
