@@ -92,11 +92,13 @@ class PictureHouseICS:
 
     def get_ics(self, cinema):
         # logging.(f"Updating for {cinema['name']}")
+        name = f"Picture House {cinema['name']}"
+
         cal = icalendar.Calendar()
         cal.add("prodid", "-//icalendar//mxm.dk//")
         cal.add("version", "2.0")
-        cal.add("name", f"Picture House {cinema['name']}")
-        cal.add("x-wr-calname", f"Picture House {cinema['name']}")
+        cal.add("name", name)
+        cal.add("x-wr-calname", name)
         cal.add("last-modified", datetime.datetime.utcnow())
 
         # Movies metadata
@@ -124,6 +126,7 @@ class PictureHouseICS:
 
                 event = icalendar.Event()
                 event.add("uid", y["SessionId"])
+                event.add("location", name)
 
                 summary = x["Title"]
                 for needle in STRIP_PREFIXES:
