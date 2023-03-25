@@ -177,13 +177,13 @@ class PictureHouseICS:
                 if ignore_film:
                     continue
 
+                # Calculate some URLs
                 slug = slugify.slugify(x["Title"])
-                description.append(
-                    f"https://www.picturehouses.com/movie-details/{y['CinemaId']}/{y['ScheduledFilmId']}/{slug}/"
-                )
-                description.append(
-                    f"Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode={y['CinemaId']}&txtSessionId={y['SessionId']}&visLang=1"
-                )
+                url = f"https://www.picturehouses.com/movie-details/{y['CinemaId']}/{y['ScheduledFilmId']}/{slug}/"
+                booking_url = f"https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode={y['CinemaId']}&txtSessionId={y['SessionId']}&visLang=1"
+
+                description.append(url)
+                description.append(f"Booking URL: {booking_url}")
 
                 event.add("description", "\n\n".join(description))
 
