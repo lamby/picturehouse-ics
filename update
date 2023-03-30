@@ -169,13 +169,13 @@ class PictureHouseICS:
 
                 ignore_film = False
                 for z in y["attributes"]:
-                    name = z["attribute_full"].strip()
-                    if name in IGNORE_FILMS_WITH_ATTRIBUTES:
+                    attr = z["attribute_full"].strip()
+                    if attr in IGNORE_FILMS_WITH_ATTRIBUTES:
                         ignore_film = True
                         break
-                    if name in HIDE_ATTRIBUTES:
+                    if attr in HIDE_ATTRIBUTES:
                         continue
-                    description.append(f"{name}: {z['description']}")
+                    description.append(f"{attr}: {z['description']}")
 
                 if ignore_film:
                     continue
