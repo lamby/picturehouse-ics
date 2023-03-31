@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<a href="{{ site.github.repository_url }}"><img decoding="async" loading="lazy" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_darkblue_121621.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
+
 <a href="https://www.picturehouses.com/">
     <img src="assets/logo.png?{{ site.github.build_revision }}" height="100">
 </a>
