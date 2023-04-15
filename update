@@ -48,6 +48,10 @@ STRIP_PREFIXES = {
     "A24: ",
 }
 
+STRIP_SUFFIXES = {
+    " (Subbed)",
+}
+
 
 class PictureHouseICS:
     def __init__(self, padding):
@@ -128,7 +132,12 @@ class PictureHouseICS:
                 event.add("uid", y["SessionId"])
                 event.add("location", name)
 
+                # Summary
                 summary = x["Title"]
+                for needle in STRIP_SUFFIXES:
+                    if summary.endswith(needle):
+                        summary = summary[: len(needle)]
+
                 for needle in STRIP_PREFIXES:
                     if summary.startswith(needle):
                         summary = summary[len(needle) :]
