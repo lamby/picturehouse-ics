@@ -1,14 +1,12 @@
 #!/usr/bin/env python3
-
-# TODO
-# * Timezones? (eg. stuff today (early March) in late March
-
+#
 # https://icalendar.readthedocs.io/en/latest/usage.html#example
+
 import click
-import requests
 import icalendar
-import slugify
 import logging
+import requests
+import slugify
 import yaml
 
 from dateutil import parser
@@ -51,6 +49,8 @@ STRIP_PREFIXES = {
 STRIP_SUFFIXES = {
     " (Subbed)",
 }
+
+LOCAL_TIMEZONE = pytz.timezone("Europe/London")
 
 
 class PictureHouseICS:
@@ -147,7 +147,9 @@ class PictureHouseICS:
 
                 event.add("summary", summary)
 
-                start = datetime.datetime.utcfromtimestamp(y["show_time"])
+                start = LOCAL_TIMEZONE.localize(
+                    datetime.datetime.utcfromtimestamp(y["show_time"]), is_dst=True
+                )
 
                 # Calculate runtime
                 runtime = int(x["RunTime"])

@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230415T080945Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230415T141522Z
 NAME:Picture House Brighton - Duke of York's
 X-WR-CALNAME:Picture House Brighton - Duke of York's
 BEGIN:VEVENT
 SUMMARY:Dog-Friendly Screening: One Fine Morning
-DTSTART;VALUE=DATE-TIME:20230423T104500
-DTEND;VALUE=DATE-TIME:20230423T130000
-DTSTAMP;VALUE=DATE-TIME:20230423T104500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230423T104500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230423T130000
+DTSTAMP;VALUE=DATE-TIME:20230423T094500Z
 UID:13991
 DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012817/dog-friendly-screening-one-fine-mor
@@ -18,9 +18,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;VALUE=DATE-TIME:20230512T122000
-DTEND;VALUE=DATE-TIME:20230512T141500
-DTSTAMP;VALUE=DATE-TIME:20230512T122000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T122000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T141500
+DTSTAMP;VALUE=DATE-TIME:20230512T112000Z
 UID:14135
 DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012753/still-a-michael-j-fox-movie/\n\nBook
@@ -30,9 +30,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;VALUE=DATE-TIME:20230512T175000
-DTEND;VALUE=DATE-TIME:20230512T194500
-DTSTAMP;VALUE=DATE-TIME:20230512T175000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T175000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T194500
+DTSTAMP;VALUE=DATE-TIME:20230512T165000Z
 UID:14133
 DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012753/still-a-michael-j-fox-movie/\n\nBook
@@ -42,9 +42,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;VALUE=DATE-TIME:20230512T201000
-DTEND;VALUE=DATE-TIME:20230512T220500
-DTSTAMP;VALUE=DATE-TIME:20230512T201000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T201000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T220500
+DTSTAMP;VALUE=DATE-TIME:20230512T191000Z
 UID:14132
 DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012753/still-a-michael-j-fox-movie/\n\nBook
@@ -54,9 +54,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;VALUE=DATE-TIME:20230513T124000
-DTEND;VALUE=DATE-TIME:20230513T143500
-DTSTAMP;VALUE=DATE-TIME:20230513T124000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T124000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T143500
+DTSTAMP;VALUE=DATE-TIME:20230513T114000Z
 UID:14136
 DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012753/still-a-michael-j-fox-movie/\n\nBook
@@ -66,9 +66,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;VALUE=DATE-TIME:20230514T120000
-DTEND;VALUE=DATE-TIME:20230514T135500
-DTSTAMP;VALUE=DATE-TIME:20230514T120000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T135500
+DTSTAMP;VALUE=DATE-TIME:20230514T110000Z
 UID:14139
 DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012753/still-a-michael-j-fox-movie/\n\nBook
@@ -78,9 +78,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;VALUE=DATE-TIME:20230514T174000
-DTEND;VALUE=DATE-TIME:20230514T193500
-DTSTAMP;VALUE=DATE-TIME:20230514T174000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T174000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T193500
+DTSTAMP;VALUE=DATE-TIME:20230514T164000Z
 UID:14138
 DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012753/still-a-michael-j-fox-movie/\n\nBook
@@ -89,58 +89,10 @@ DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Three Colours: Red
-DTSTART;VALUE=DATE-TIME:20230415T123000
-DTEND;VALUE=DATE-TIME:20230415T143000
-DTSTAMP;VALUE=DATE-TIME:20230415T123000Z
-UID:14083
-DESCRIPTION:Duration: 1h 39m (99 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/008/HO00012757/three-colours-red/\n\nBooking URL: h
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=008&txtSessionId=14083&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Beau Travail
-DTSTART;VALUE=DATE-TIME:20230624T130000
-DTEND;VALUE=DATE-TIME:20230624T145500
-DTSTAMP;VALUE=DATE-TIME:20230624T130000Z
-UID:13969
-DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/008/HO00012764/sight-sound-top-10-beau-travail/\n\n
- Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
- s.aspx?cinemacode=008&txtSessionId=13969&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Mulholland Drive
-DTSTART;VALUE=DATE-TIME:20230527T130000
-DTEND;VALUE=DATE-TIME:20230527T155000
-DTSTAMP;VALUE=DATE-TIME:20230527T130000Z
-UID:13968
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012769/sight-sound-top-10-mulholland-drive
- /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=008&txtSessionId=13968&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Man With A Movie Camera
-DTSTART;VALUE=DATE-TIME:20230429T130000
-DTEND;VALUE=DATE-TIME:20230429T143000
-DTSTAMP;VALUE=DATE-TIME:20230429T130000Z
-UID:13967
-DESCRIPTION:Duration: 1h 08m (68 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/008/HO00012768/sight-sound-top-10-man-with-a-movie-
- camera/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visS
- electTickets.aspx?cinemacode=008&txtSessionId=13967&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
-DTSTART;VALUE=DATE-TIME:20230729T130000
-DTEND;VALUE=DATE-TIME:20230729T155000
-DTSTAMP;VALUE=DATE-TIME:20230729T130000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T155000
+DTSTAMP;VALUE=DATE-TIME:20230729T120000Z
 UID:13970
 DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012766/sight-sound-top-10-2001-a-space-ody
@@ -149,10 +101,46 @@ DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Beau Travail
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230624T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230624T145500
+DTSTAMP;VALUE=DATE-TIME:20230624T120000Z
+UID:13969
+DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/008/HO00012764/sight-sound-top-10-beau-travail/\n\n
+ Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=008&txtSessionId=13969&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Man With A Movie Camera
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T143000
+DTSTAMP;VALUE=DATE-TIME:20230429T120000Z
+UID:13967
+DESCRIPTION:Duration: 1h 08m (68 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/008/HO00012768/sight-sound-top-10-man-with-a-movie-
+ camera/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visS
+ electTickets.aspx?cinemacode=008&txtSessionId=13967&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Mulholland Drive
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T155000
+DTSTAMP;VALUE=DATE-TIME:20230527T120000Z
+UID:13968
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/008/HO00012769/sight-sound-top-10-mulholland-drive
+ /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
+ ickets.aspx?cinemacode=008&txtSessionId=13968&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Walk-in preview: The Unlikely Pilgrimage of Harold Fry
-DTSTART;VALUE=DATE-TIME:20230423T133000
-DTEND;VALUE=DATE-TIME:20230423T154000
-DTSTAMP;VALUE=DATE-TIME:20230423T133000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230423T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230423T154000
+DTSTAMP;VALUE=DATE-TIME:20230423T123000Z
 UID:14156
 DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 1\n\nPreview: A special p
  review screening of this film. See it before anyone else on the big screen
@@ -165,9 +153,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Living + A Recorded Conversation between Bill Nighy and producer S
  tephen Woolley
-DTSTART;VALUE=DATE-TIME:20230508T141500
-DTEND;VALUE=DATE-TIME:20230508T171000
-DTSTAMP;VALUE=DATE-TIME:20230508T141500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230508T141500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230508T171000
+DTSTAMP;VALUE=DATE-TIME:20230508T131500Z
 UID:14128
 DESCRIPTION:Duration: 2h 32m (152 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012884/living-a-recorded-conversation-betw
@@ -178,9 +166,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eight Mountains
-DTSTART;VALUE=DATE-TIME:20230512T144000
-DTEND;VALUE=DATE-TIME:20230512T173000
-DTSTAMP;VALUE=DATE-TIME:20230512T144000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T173000
+DTSTAMP;VALUE=DATE-TIME:20230512T134000Z
 UID:14134
 DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012650/the-eight-mountains/\n\nBooking URL
@@ -190,9 +178,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eight Mountains
-DTSTART;VALUE=DATE-TIME:20230513T150000
-DTEND;VALUE=DATE-TIME:20230513T175000
-DTSTAMP;VALUE=DATE-TIME:20230513T150000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T175000
+DTSTAMP;VALUE=DATE-TIME:20230513T140000Z
 UID:14097
 DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012650/the-eight-mountains/\n\nBooking URL
@@ -202,9 +190,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Eight Mountains
-DTSTART;VALUE=DATE-TIME:20230514T142000
-DTEND;VALUE=DATE-TIME:20230514T171000
-DTSTAMP;VALUE=DATE-TIME:20230514T142000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T171000
+DTSTAMP;VALUE=DATE-TIME:20230514T132000Z
 UID:14137
 DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nSubtitled (Captioned
  ): Everyone welcome. This screening has subtitles for people with hearing 
@@ -214,46 +202,10 @@ DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nSubtitled (Captioned
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live 2023: GOOD (Encore)
-DTSTART;VALUE=DATE-TIME:20230422T145000
-DTEND;VALUE=DATE-TIME:20230422T173500
-DTSTAMP;VALUE=DATE-TIME:20230422T145000Z
-UID:14157
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012457/nt-live-2023-good-encore/\n\nBookin
- g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=008&txtSessionId=14157&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2023: GOOD (Encore)
-DTSTART;VALUE=DATE-TIME:20230504T193000
-DTEND;VALUE=DATE-TIME:20230504T221500
-DTSTAMP;VALUE=DATE-TIME:20230504T193000Z
-UID:13319
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012457/nt-live-2023-good-encore/\n\nBookin
- g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=008&txtSessionId=13319&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cairo Conspiracy
-DTSTART;VALUE=DATE-TIME:20230415T150000
-DTEND;VALUE=DATE-TIME:20230415T172500
-DTSTAMP;VALUE=DATE-TIME:20230415T150000Z
-UID:14081
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012258/cairo-conspiracy/\n\nBooking URL: h
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=008&txtSessionId=14081&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cairo Conspiracy
-DTSTART;VALUE=DATE-TIME:20230416T144500
-DTEND;VALUE=DATE-TIME:20230416T171000
-DTSTAMP;VALUE=DATE-TIME:20230416T144500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230416T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230416T171000
+DTSTAMP;VALUE=DATE-TIME:20230416T134500Z
 UID:13949
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012258/cairo-conspiracy/\n\nBooking URL: h
@@ -263,9 +215,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cairo Conspiracy
-DTSTART;VALUE=DATE-TIME:20230417T133000
-DTEND;VALUE=DATE-TIME:20230417T155500
-DTSTAMP;VALUE=DATE-TIME:20230417T133000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230417T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230417T155500
+DTSTAMP;VALUE=DATE-TIME:20230417T123000Z
 UID:14147
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012258/cairo-conspiracy/\n\nBooking URL: h
@@ -275,9 +227,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cairo Conspiracy
-DTSTART;VALUE=DATE-TIME:20230417T203000
-DTEND;VALUE=DATE-TIME:20230417T225500
-DTSTAMP;VALUE=DATE-TIME:20230417T203000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230417T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230417T225500
+DTSTAMP;VALUE=DATE-TIME:20230417T193000Z
 UID:14145
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012258/cairo-conspiracy/\n\nBooking URL: h
@@ -287,9 +239,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cairo Conspiracy
-DTSTART;VALUE=DATE-TIME:20230418T151000
-DTEND;VALUE=DATE-TIME:20230418T173500
-DTSTAMP;VALUE=DATE-TIME:20230418T151000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230418T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230418T173500
+DTSTAMP;VALUE=DATE-TIME:20230418T141000Z
 UID:14093
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012258/cairo-conspiracy/\n\nBooking URL: h
@@ -299,9 +251,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cairo Conspiracy
-DTSTART;VALUE=DATE-TIME:20230418T204000
-DTEND;VALUE=DATE-TIME:20230418T230500
-DTSTAMP;VALUE=DATE-TIME:20230418T204000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230418T204000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230418T230500
+DTSTAMP;VALUE=DATE-TIME:20230418T194000Z
 UID:14094
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nSubtitled (Captioned
  ): Everyone welcome. This screening has subtitles for people with hearing 
@@ -312,9 +264,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cairo Conspiracy
-DTSTART;VALUE=DATE-TIME:20230419T151000
-DTEND;VALUE=DATE-TIME:20230419T173500
-DTSTAMP;VALUE=DATE-TIME:20230419T151000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230419T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230419T173500
+DTSTAMP;VALUE=DATE-TIME:20230419T141000Z
 UID:14150
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012258/cairo-conspiracy/\n\nBooking URL: h
@@ -324,9 +276,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cairo Conspiracy
-DTSTART;VALUE=DATE-TIME:20230420T140000
-DTEND;VALUE=DATE-TIME:20230420T162500
-DTSTAMP;VALUE=DATE-TIME:20230420T140000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230420T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230420T162500
+DTSTAMP;VALUE=DATE-TIME:20230420T130000Z
 UID:14152
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012258/cairo-conspiracy/\n\nBooking URL: h
@@ -335,22 +287,34 @@ DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EOS: Vincent Van Gogh - A New Way Of Seeing
-DTSTART;VALUE=DATE-TIME:20230706T174500
-DTEND;VALUE=DATE-TIME:20230706T193500
-DTSTAMP;VALUE=DATE-TIME:20230706T174500Z
-UID:13911
-DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/008/HO00000030/eos-vincent-van-gogh-a-new-way-of-se
- eing/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=008&txtSessionId=13911&visLang=1
+SUMMARY:NT Live 2023: GOOD (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230422T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230422T173500
+DTSTAMP;VALUE=DATE-TIME:20230422T135000Z
+UID:14157
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/008/HO00012457/nt-live-2023-good-encore/\n\nBookin
+ g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=008&txtSessionId=14157&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2023: GOOD (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230504T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230504T221500
+DTSTAMP;VALUE=DATE-TIME:20230504T183000Z
+UID:13319
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/008/HO00012457/nt-live-2023-good-encore/\n\nBookin
+ g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=008&txtSessionId=13319&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Captioned Preview: The Unlikely Pilgrimage of Harold Fry
-DTSTART;VALUE=DATE-TIME:20230425T174500
-DTEND;VALUE=DATE-TIME:20230425T195500
-DTSTAMP;VALUE=DATE-TIME:20230425T174500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230425T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230425T195500
+DTSTAMP;VALUE=DATE-TIME:20230425T164500Z
 UID:14127
 DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 1\n\nPreview: A special p
  review screening of this film. See it before anyone else on the big screen
@@ -362,10 +326,22 @@ DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 1\n\nPreview: A special p
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EOS: Vincent Van Gogh - A New Way Of Seeing
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T193500
+DTSTAMP;VALUE=DATE-TIME:20230706T164500Z
+UID:13911
+DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/008/HO00000030/eos-vincent-van-gogh-a-new-way-of-se
+ eing/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
+ ectTickets.aspx?cinemacode=008&txtSessionId=13911&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;VALUE=DATE-TIME:20230419T180000
-DTEND;VALUE=DATE-TIME:20230419T202500
-DTSTAMP;VALUE=DATE-TIME:20230419T180000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230419T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230419T202500
+DTSTAMP;VALUE=DATE-TIME:20230419T170000Z
 UID:14140
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nMembers' Priority Bo
  oking: Tickets are only available to Picturehouse Members. Enter your Memb
@@ -378,9 +354,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;VALUE=DATE-TIME:20230428T204000
-DTEND;VALUE=DATE-TIME:20230428T230500
-DTSTAMP;VALUE=DATE-TIME:20230428T204000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230428T204000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230428T230500
+DTSTAMP;VALUE=DATE-TIME:20230428T194000Z
 UID:14115
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012878/the-three-musketeers-dartagnan/\n\n
@@ -390,9 +366,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;VALUE=DATE-TIME:20230429T203000
-DTEND;VALUE=DATE-TIME:20230429T225500
-DTSTAMP;VALUE=DATE-TIME:20230429T203000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T225500
+DTSTAMP;VALUE=DATE-TIME:20230429T193000Z
 UID:14119
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012878/the-three-musketeers-dartagnan/\n\n
@@ -402,9 +378,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;VALUE=DATE-TIME:20230430T171500
-DTEND;VALUE=DATE-TIME:20230430T194000
-DTSTAMP;VALUE=DATE-TIME:20230430T171500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T194000
+DTSTAMP;VALUE=DATE-TIME:20230430T161500Z
 UID:14120
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012878/the-three-musketeers-dartagnan/\n\n
@@ -413,10 +389,24 @@ DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:God's Petting You + Q&A
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230415T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230415T200000
+DTSTAMP;VALUE=DATE-TIME:20230415T170000Z
+UID:13990
+DESCRIPTION:Duration: 2h 00m (120 min)\n\nScreen 1\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nQ&A: This screening will be followed by
+  a Q&A.\n\nhttps://www.picturehouses.com/movie-details/008/HO00012776/god-
+ s-petting-you-q-a/\n\nBooking URL: https://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=008&txtSessionId=13990&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alien Day: Alien & Aliens Double Bill
-DTSTART;VALUE=DATE-TIME:20230426T180000
-DTEND;VALUE=DATE-TIME:20230426T225000
-DTSTAMP;VALUE=DATE-TIME:20230426T180000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230426T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230426T225000
+DTSTAMP;VALUE=DATE-TIME:20230426T170000Z
 UID:13839
 DESCRIPTION:Duration: 4h 46m (286 min)\n\nScreen 1\n\nCulture Shock: Dedic
  ated to bringing you the best in cult and genre films.\n\nAd and Trailer F
@@ -428,24 +418,10 @@ DESCRIPTION:Duration: 4h 46m (286 min)\n\nScreen 1\n\nCulture Shock: Dedic
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:God's Petting You + Q&A
-DTSTART;VALUE=DATE-TIME:20230415T180000
-DTEND;VALUE=DATE-TIME:20230415T200000
-DTSTAMP;VALUE=DATE-TIME:20230415T180000Z
-UID:13990
-DESCRIPTION:Duration: 2h 00m (120 min)\n\nScreen 1\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nQ&A: This screening will be followed by
-  a Q&A.\n\nhttps://www.picturehouses.com/movie-details/008/HO00012776/god-
- s-petting-you-q-a/\n\nBooking URL: https://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=008&txtSessionId=13990&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Berliner Philharmoniker LIVE: Summer Concert
-DTSTART;VALUE=DATE-TIME:20230616T183000
-DTEND;VALUE=DATE-TIME:20230616T204500
-DTSTAMP;VALUE=DATE-TIME:20230616T183000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T183000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T204500
+DTSTAMP;VALUE=DATE-TIME:20230616T173000Z
 UID:14044
 DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nAd and Trailer Free:
   No advertisements or trailers will play ahead of this screening. You are 
@@ -458,9 +434,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROH: The Marriage of Figaro (2023)
-DTSTART;VALUE=DATE-TIME:20230427T184500
-DTEND;VALUE=DATE-TIME:20230427T230500
-DTSTAMP;VALUE=DATE-TIME:20230427T184500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230427T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230427T230500
+DTSTAMP;VALUE=DATE-TIME:20230427T174500Z
 UID:12577
 DESCRIPTION:Duration: 4h 00m (240 min)\n\nScreen 1\n\nLive via Satellite: 
  This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
@@ -470,72 +446,10 @@ DESCRIPTION:Duration: 4h 00m (240 min)\n\nScreen 1\n\nLive via Satellite:
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:An Irish Goodbye + Q&A
-DTSTART;VALUE=DATE-TIME:20230417T190000
-DTEND;VALUE=DATE-TIME:20230417T200000
-DTSTAMP;VALUE=DATE-TIME:20230417T190000Z
-UID:14043
-DESCRIPTION:Duration: 1h 00m (60 min)\n\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/008/HO00012830/an-ir
- ish-goodbye-q-a/\n\nBooking URL: https://ticketing.picturehouses.com/Ticke
- ting/visSelectTickets.aspx?cinemacode=008&txtSessionId=14043&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;VALUE=DATE-TIME:20230615T190000
-DTEND;VALUE=DATE-TIME:20230615T204000
-DTSTAMP;VALUE=DATE-TIME:20230615T190000Z
-UID:14107
-DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/008/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=008&txtSessionId=14107&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;VALUE=DATE-TIME:20230616T211500
-DTEND;VALUE=DATE-TIME:20230616T225500
-DTSTAMP;VALUE=DATE-TIME:20230616T211500Z
-UID:14108
-DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/008/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=008&txtSessionId=14108&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;VALUE=DATE-TIME:20230617T180000
-DTEND;VALUE=DATE-TIME:20230617T194000
-DTSTAMP;VALUE=DATE-TIME:20230617T180000Z
-UID:14109
-DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/008/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=008&txtSessionId=14109&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;VALUE=DATE-TIME:20230618T120000
-DTEND;VALUE=DATE-TIME:20230618T134000
-DTSTAMP;VALUE=DATE-TIME:20230618T120000Z
-UID:14110
-DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/008/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=008&txtSessionId=14110&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Duke Of York's Eurovision Party 2023
-DTSTART;VALUE=DATE-TIME:20230513T190000
-DTEND;VALUE=DATE-TIME:20230513T230000
-DTSTAMP;VALUE=DATE-TIME:20230513T190000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T230000
+DTSTAMP;VALUE=DATE-TIME:20230513T180000Z
 UID:14035
 DESCRIPTION:Duration: 4h 00m (240 min)\n\nScreen 1\n\nAd and Trailer Free:
   No advertisements or trailers will play ahead of this screening. You are 
@@ -547,23 +461,72 @@ DESCRIPTION:Duration: 4h 00m (240 min)\n\nScreen 1\n\nAd and Trailer Free:
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: The Sleeping Beauty (2023)
-DTSTART;VALUE=DATE-TIME:20230524T191500
-DTEND;VALUE=DATE-TIME:20230524T230000
-DTSTAMP;VALUE=DATE-TIME:20230524T191500Z
-UID:12578
-DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 1\n\nLive via Satellite: 
- This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/008/HO00011867/roh-live-the-sleeping-beauty
- -2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=008&txtSessionId=12578&visLang=1
+SUMMARY:An Irish Goodbye + Q&A
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230417T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230417T200000
+DTSTAMP;VALUE=DATE-TIME:20230417T180000Z
+UID:14043
+DESCRIPTION:Duration: 1h 00m (60 min)\n\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
+ a Q&A.\n\nhttps://www.picturehouses.com/movie-details/008/HO00012830/an-ir
+ ish-goodbye-q-a/\n\nBooking URL: https://ticketing.picturehouses.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=008&txtSessionId=14043&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T204000
+DTSTAMP;VALUE=DATE-TIME:20230615T180000Z
+UID:14107
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/008/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=008&txtSessionId=14107&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T211500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T225500
+DTSTAMP;VALUE=DATE-TIME:20230616T201500Z
+UID:14108
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/008/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=008&txtSessionId=14108&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T194000
+DTSTAMP;VALUE=DATE-TIME:20230617T170000Z
+UID:14109
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/008/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=008&txtSessionId=14109&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T134000
+DTSTAMP;VALUE=DATE-TIME:20230618T110000Z
+UID:14110
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/008/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=008&txtSessionId=14110&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American Honey
-DTSTART;VALUE=DATE-TIME:20230423T191500
-DTEND;VALUE=DATE-TIME:20230423T222000
-DTSTAMP;VALUE=DATE-TIME:20230423T191500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230423T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230423T222000
+DTSTAMP;VALUE=DATE-TIME:20230423T181500Z
 UID:13903
 DESCRIPTION:Duration: 2h 43m (163 min)\n\nScreen 1\n\nreDiscover: Time to 
  broaden your cinematic horizons: you'll find the best of what's next with 
@@ -576,9 +539,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROH Live: Il Trovatore (2023)
-DTSTART;VALUE=DATE-TIME:20230613T191500
-DTEND;VALUE=DATE-TIME:20230613T231500
-DTSTAMP;VALUE=DATE-TIME:20230613T191500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
+DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
 UID:12579
 DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 1\n\nLive via Satellite: 
  This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
@@ -588,22 +551,23 @@ DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 1\n\nLive via Satellite:
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live 2023: Best of Enemies
-DTSTART;VALUE=DATE-TIME:20230518T193000
-DTEND;VALUE=DATE-TIME:20230518T225000
-DTSTAMP;VALUE=DATE-TIME:20230518T193000Z
-UID:13688
-DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012536/nt-live-2023-best-of-enemies/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=008&txtSessionId=13688&visLang=1
+SUMMARY:ROH Live: The Sleeping Beauty (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T230000
+DTSTAMP;VALUE=DATE-TIME:20230524T181500Z
+UID:12578
+DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 1\n\nLive via Satellite: 
+ This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
+ icturehouses.com/movie-details/008/HO00011867/roh-live-the-sleeping-beauty
+ -2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=008&txtSessionId=12578&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live 2023: GOOD
-DTSTART;VALUE=DATE-TIME:20230420T193000
-DTEND;VALUE=DATE-TIME:20230420T221500
-DTSTAMP;VALUE=DATE-TIME:20230420T193000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230420T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230420T221500
+DTSTAMP;VALUE=DATE-TIME:20230420T183000Z
 UID:13318
 DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012433/nt-live-2023-good/\n\nBooking URL: 
@@ -612,10 +576,22 @@ DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NT Live 2023: Best of Enemies
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T225000
+DTSTAMP;VALUE=DATE-TIME:20230518T183000Z
+UID:13688
+DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/008/HO00012536/nt-live-2023-best-of-enemies/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=008&txtSessionId=13688&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Last Black Man in San Francisco
-DTSTART;VALUE=DATE-TIME:20230507T194500
-DTEND;VALUE=DATE-TIME:20230507T221000
-DTSTAMP;VALUE=DATE-TIME:20230507T194500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230507T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230507T221000
+DTSTAMP;VALUE=DATE-TIME:20230507T184500Z
 UID:13905
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nreDiscover: Time to 
  broaden your cinematic horizons: you'll find the best of what's next with 
@@ -627,40 +603,10 @@ DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nreDiscover: Time to
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Florida Project
-DTSTART;VALUE=DATE-TIME:20230514T200000
-DTEND;VALUE=DATE-TIME:20230514T221500
-DTSTAMP;VALUE=DATE-TIME:20230514T200000Z
-UID:13906
-DESCRIPTION:Duration: 1h 51m (111 min)\n\nScreen 1\n\nreDiscover: Time to 
- broaden your cinematic horizons: you'll find the best of what's next with 
- Discover's under-the-radar releases\, and return to favourites of yesterda
- y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
- ie-details/008/HO00012713/a24-the-florida-project/\n\nBooking URL: https:/
- /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=00
- 8&txtSessionId=13906&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lobster
-DTSTART;VALUE=DATE-TIME:20230521T200000
-DTEND;VALUE=DATE-TIME:20230521T222000
-DTSTAMP;VALUE=DATE-TIME:20230521T200000Z
-UID:13907
-DESCRIPTION:Duration: 1h 56m (116 min)\n\nScreen 1\n\nreDiscover: Time to 
- broaden your cinematic horizons: you'll find the best of what's next with 
- Discover's under-the-radar releases\, and return to favourites of yesterda
- y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
- ie-details/008/HO00012715/a24-the-lobster/\n\nBooking URL: https://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSes
- sionId=13907&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Lighthouse
-DTSTART;VALUE=DATE-TIME:20230430T200000
-DTEND;VALUE=DATE-TIME:20230430T221000
-DTSTAMP;VALUE=DATE-TIME:20230430T200000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T221000
+DTSTAMP;VALUE=DATE-TIME:20230430T190000Z
 UID:13904
 DESCRIPTION:Duration: 1h 49m (109 min)\n\nScreen 1\n\nreDiscover: Time to 
  broaden your cinematic horizons: you'll find the best of what's next with 
@@ -672,10 +618,40 @@ DESCRIPTION:Duration: 1h 49m (109 min)\n\nScreen 1\n\nreDiscover: Time to
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Lobster
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T222000
+DTSTAMP;VALUE=DATE-TIME:20230521T190000Z
+UID:13907
+DESCRIPTION:Duration: 1h 56m (116 min)\n\nScreen 1\n\nreDiscover: Time to 
+ broaden your cinematic horizons: you'll find the best of what's next with 
+ Discover's under-the-radar releases\, and return to favourites of yesterda
+ y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
+ ie-details/008/HO00012715/a24-the-lobster/\n\nBooking URL: https://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSes
+ sionId=13907&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Florida Project
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T221500
+DTSTAMP;VALUE=DATE-TIME:20230514T190000Z
+UID:13906
+DESCRIPTION:Duration: 1h 51m (111 min)\n\nScreen 1\n\nreDiscover: Time to 
+ broaden your cinematic horizons: you'll find the best of what's next with 
+ Discover's under-the-radar releases\, and return to favourites of yesterda
+ y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
+ ie-details/008/HO00012713/a24-the-florida-project/\n\nBooking URL: https:/
+ /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=00
+ 8&txtSessionId=13906&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Farewell
-DTSTART;VALUE=DATE-TIME:20230528T201500
-DTEND;VALUE=DATE-TIME:20230528T221500
-DTSTAMP;VALUE=DATE-TIME:20230528T201500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T221500
+DTSTAMP;VALUE=DATE-TIME:20230528T191500Z
 UID:13908
 DESCRIPTION:Duration: 1h 40m (100 min)\n\nScreen 1\n\nreDiscover: Time to 
  broaden your cinematic horizons: you'll find the best of what's next with 
@@ -688,9 +664,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Field in England + Ben Wheatley Q&A
-DTSTART;VALUE=DATE-TIME:20230501T201500
-DTEND;VALUE=DATE-TIME:20230501T222000
-DTSTAMP;VALUE=DATE-TIME:20230501T201500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230501T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230501T222000
+DTSTAMP;VALUE=DATE-TIME:20230501T191500Z
 UID:14111
 DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nCulture Shock: Dedic
  ated to bringing you the best in cult and genre films.\n\nAd and Trailer F
@@ -704,9 +680,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zola
-DTSTART;VALUE=DATE-TIME:20230416T201500
-DTEND;VALUE=DATE-TIME:20230416T220500
-DTSTAMP;VALUE=DATE-TIME:20230416T201500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230416T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230416T220500
+DTSTAMP;VALUE=DATE-TIME:20230416T191500Z
 UID:13902
 DESCRIPTION:Duration: 1h 26m (86 min)\n\nScreen 1\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
@@ -719,9 +695,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;VALUE=DATE-TIME:20230628T201500
-DTEND;VALUE=DATE-TIME:20230628T222500
-DTSTAMP;VALUE=DATE-TIME:20230628T201500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230628T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230628T222500
+DTSTAMP;VALUE=DATE-TIME:20230628T191500Z
 UID:14154
 DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012824/matthew-bourne-s-sleeping-beauty/\n
@@ -731,9 +707,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;VALUE=DATE-TIME:20230702T120000
-DTEND;VALUE=DATE-TIME:20230702T141000
-DTSTAMP;VALUE=DATE-TIME:20230702T120000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T141000
+DTSTAMP;VALUE=DATE-TIME:20230702T110000Z
 UID:14155
 DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012824/matthew-bourne-s-sleeping-beauty/\n
@@ -743,9 +719,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:48 Hour Film Project Brighton Showcase
-DTSTART;VALUE=DATE-TIME:20230731T201500
-DTEND;VALUE=DATE-TIME:20230731T230500
-DTSTAMP;VALUE=DATE-TIME:20230731T201500Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230731T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230731T230500
+DTSTAMP;VALUE=DATE-TIME:20230731T191500Z
 UID:13996
 DESCRIPTION:Duration: 2h 30m (150 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012656/48-hour-film-project-brighton-showc
@@ -755,9 +731,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Fine Morning
-DTSTART;VALUE=DATE-TIME:20230415T203000
-DTEND;VALUE=DATE-TIME:20230415T224500
-DTSTAMP;VALUE=DATE-TIME:20230415T203000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230415T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230415T224500
+DTSTAMP;VALUE=DATE-TIME:20230415T193000Z
 UID:14082
 DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012750/one-fine-morning/\n\nBooking URL: h
@@ -767,9 +743,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Fine Morning
-DTSTART;VALUE=DATE-TIME:20230416T120000
-DTEND;VALUE=DATE-TIME:20230416T141500
-DTSTAMP;VALUE=DATE-TIME:20230416T120000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230416T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230416T141500
+DTSTAMP;VALUE=DATE-TIME:20230416T110000Z
 UID:13950
 DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012750/one-fine-morning/\n\nBooking URL: h
@@ -779,9 +755,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Fine Morning
-DTSTART;VALUE=DATE-TIME:20230416T173000
-DTEND;VALUE=DATE-TIME:20230416T194500
-DTSTAMP;VALUE=DATE-TIME:20230416T173000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230416T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230416T194500
+DTSTAMP;VALUE=DATE-TIME:20230416T163000Z
 UID:13948
 DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nSubtitled (Captioned
  ): Everyone welcome. This screening has subtitles for people with hearing 
@@ -792,9 +768,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Fine Morning
-DTSTART;VALUE=DATE-TIME:20230417T162000
-DTEND;VALUE=DATE-TIME:20230417T183500
-DTSTAMP;VALUE=DATE-TIME:20230417T162000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230417T162000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230417T183500
+DTSTAMP;VALUE=DATE-TIME:20230417T152000Z
 UID:14144
 DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012750/one-fine-morning/\n\nBooking URL: h
@@ -804,9 +780,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Fine Morning
-DTSTART;VALUE=DATE-TIME:20230418T123000
-DTEND;VALUE=DATE-TIME:20230418T144500
-DTSTAMP;VALUE=DATE-TIME:20230418T123000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230418T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230418T144500
+DTSTAMP;VALUE=DATE-TIME:20230418T113000Z
 UID:14091
 DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012750/one-fine-morning/\n\nBooking URL: h
@@ -816,9 +792,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Fine Morning
-DTSTART;VALUE=DATE-TIME:20230418T180000
-DTEND;VALUE=DATE-TIME:20230418T201500
-DTSTAMP;VALUE=DATE-TIME:20230418T180000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230418T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230418T201500
+DTSTAMP;VALUE=DATE-TIME:20230418T170000Z
 UID:14092
 DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012750/one-fine-morning/\n\nBooking URL: h
@@ -828,9 +804,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Fine Morning
-DTSTART;VALUE=DATE-TIME:20230419T205000
-DTEND;VALUE=DATE-TIME:20230419T230500
-DTSTAMP;VALUE=DATE-TIME:20230419T205000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230419T205000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230419T230500
+DTSTAMP;VALUE=DATE-TIME:20230419T195000Z
 UID:14141
 DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012750/one-fine-morning/\n\nBooking URL: h
@@ -840,9 +816,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One Fine Morning
-DTSTART;VALUE=DATE-TIME:20230420T164000
-DTEND;VALUE=DATE-TIME:20230420T185500
-DTSTAMP;VALUE=DATE-TIME:20230420T164000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230420T164000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230420T185500
+DTSTAMP;VALUE=DATE-TIME:20230420T154000Z
 UID:14153
 DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012750/one-fine-morning/\n\nBooking URL: h
