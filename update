@@ -138,7 +138,7 @@ class PictureHouseICS:
                 summary = x["Title"]
                 for needle in STRIP_SUFFIXES:
                     if summary.endswith(needle):
-                        summary = summary[: len(needle)]
+                        summary = summary[:-len(needle)]
 
                 for needle in STRIP_PREFIXES:
                     if summary.startswith(needle):
