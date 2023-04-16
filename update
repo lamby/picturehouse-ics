@@ -154,7 +154,7 @@ class PictureHouseICS:
                 )
 
                 # Calculate runtime
-                if "RunTime" not in x:
+                if x["RunTime"] == "":
                     # Some films, possibly children's one, don't have a
                     # RunTime, so we guess one.
                     x["RunTime"] = "60"
