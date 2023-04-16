@@ -154,6 +154,11 @@ class PictureHouseICS:
                 )
 
                 # Calculate runtime
+                if "RunTime" not in x:
+                    # Some films, possibly children's one, don't have a
+                    # RunTime, so we guess one.
+                    x["RunTime"] = "60"
+
                 runtime = int(x["RunTime"])
                 if "Ad and Trailer Free" not in all_attributes:
                     runtime += self.padding
