@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230428T150227Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230430T143856Z
 NAME:Picture House London - Stratford
 X-WR-CALNAME:Picture House London - Stratford
+BEGIN:VEVENT
+SUMMARY:NT Live 2023: GOOD (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230502T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230502T144500
+DTSTAMP;VALUE=DATE-TIME:20230502T110000Z
+UID:45939
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/012/HO00012457/nt-live-2023-good-encore/\n\nBookin
+ g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=012&txtSessionId=45939&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Are You There God? It’s Me\, Margaret
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T123000
@@ -42,45 +54,6 @@ DESCRIPTION:Duration: 3h 23m (203 min)\n\nScreen 2\n\nhttps://www.pictureh
  ouses.com/movie-details/012/HO00012922/fantastic-mr-fox-isle-of-dogs/\n\nB
  ooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets
  .aspx?cinemacode=012&txtSessionId=48175&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2023: GOOD (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T134500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T163000
-DTSTAMP;VALUE=DATE-TIME:20230430T124500Z
-UID:48196
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012457/nt-live-2023-good-encore/\n\nBookin
- g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=012&txtSessionId=48196&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2023: GOOD (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230502T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230502T144500
-DTSTAMP;VALUE=DATE-TIME:20230502T110000Z
-UID:45939
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012457/nt-live-2023-good-encore/\n\nBookin
- g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=012&txtSessionId=45939&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Black Man in San Francisco
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230507T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230507T162500
-DTSTAMP;VALUE=DATE-TIME:20230507T130000Z
-UID:47564
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nreDiscover: Time to 
- broaden your cinematic horizons: you'll find the best of what's next with 
- Discover's under-the-radar releases\, and return to favourites of yesterda
- y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
- ie-details/012/HO00012712/a24-the-last-black-man-in-san-francisco/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=012&txtSessionId=47564&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -266,6 +239,21 @@ DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Last Black Man in San Francisco
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230507T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230507T162500
+DTSTAMP;VALUE=DATE-TIME:20230507T130000Z
+UID:47564
+DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nreDiscover: Time to 
+ broaden your cinematic horizons: you'll find the best of what's next with 
+ Discover's under-the-radar releases\, and return to favourites of yesterda
+ y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
+ ie-details/012/HO00012712/a24-the-last-black-man-in-san-francisco/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=012&txtSessionId=47564&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T140000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T165000
@@ -344,18 +332,6 @@ DESCRIPTION:Duration: 1h 56m (116 min)\n\nScreen 1\n\nreDiscover: Time to
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Man With A Movie Camera
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T161500
-DTSTAMP;VALUE=DATE-TIME:20230429T134500Z
-UID:47724
-DESCRIPTION:Duration: 1h 08m (68 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012768/sight-sound-top-10-man-with-a-movie-
- camera/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visS
- electTickets.aspx?cinemacode=012&txtSessionId=47724&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bottle Rocket & The Darjeeling Limited
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T150000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T184000
@@ -365,18 +341,6 @@ DESCRIPTION:Duration: 3h 19m (199 min)\n\nScreen 2\n\nhttps://www.pictureh
  ouses.com/movie-details/012/HO00012921/bottle-rocket-the-darjeeling-limite
  d/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
  Tickets.aspx?cinemacode=012&txtSessionId=48170&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Life Aquatic & The Grand Budapest Hotel
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230610T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230610T191500
-DTSTAMP;VALUE=DATE-TIME:20230610T140000Z
-UID:48179
-DESCRIPTION:Duration: 3h 51m (231 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012924/the-life-aquatic-the-grand-budapest
- -hotel/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visS
- electTickets.aspx?cinemacode=012&txtSessionId=48179&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -392,6 +356,18 @@ DESCRIPTION:Duration: 1h 40m (100 min)\n\nScreen 1\n\nreDiscover: Time to
  ie-details/012/HO00012716/a24-the-farewell/\n\nBooking URL: https://ticket
  ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSe
  ssionId=47567&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life Aquatic & The Grand Budapest Hotel
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230610T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230610T191500
+DTSTAMP;VALUE=DATE-TIME:20230610T140000Z
+UID:48179
+DESCRIPTION:Duration: 3h 51m (231 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/012/HO00012924/the-life-aquatic-the-grand-budapest
+ -hotel/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visS
+ electTickets.aspx?cinemacode=012&txtSessionId=48179&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -416,66 +392,6 @@ DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen 2\n\nhttps://www.pictureh
  ouses.com/movie-details/012/HO00012750/one-fine-morning/\n\nBooking URL: h
  ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
  ode=012&txtSessionId=48224&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rye Lane
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T171500
-DTSTAMP;VALUE=DATE-TIME:20230430T143000Z
-UID:48206
-DESCRIPTION:Duration: 1h 22m (82 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012657/rye-lane/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48206&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rye Lane
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230501T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230501T190000
-DTSTAMP;VALUE=DATE-TIME:20230501T161500Z
-UID:48218
-DESCRIPTION:Duration: 1h 22m (82 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012657/rye-lane/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48218&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rye Lane
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230502T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230502T194500
-DTSTAMP;VALUE=DATE-TIME:20230502T170000Z
-UID:48230
-DESCRIPTION:Duration: 1h 22m (82 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012657/rye-lane/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48230&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suzume
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T154500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T181000
-DTSTAMP;VALUE=DATE-TIME:20230429T144500Z
-UID:48195
-DESCRIPTION:Duration: 2h 02m (122 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012778/suzume-subbed/\n\nBooking URL: http
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =012&txtSessionId=48195&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suzume
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230502T164500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230502T191000
-DTSTAMP;VALUE=DATE-TIME:20230502T154500Z
-UID:48231
-DESCRIPTION:Duration: 2h 02m (122 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012778/suzume-subbed/\n\nBooking URL: http
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =012&txtSessionId=48231&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -698,54 +614,6 @@ LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Thousand and One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230428T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230428T185000
-DTSTAMP;VALUE=DATE-TIME:20230428T153000Z
-UID:48157
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012874/a-thousand-and-one/\n\nBooking URL:
-  https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=012&txtSessionId=48157&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Thousand and One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230428T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230428T213500
-DTSTAMP;VALUE=DATE-TIME:20230428T181500Z
-UID:48159
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012874/a-thousand-and-one/\n\nBooking URL:
-  https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=012&txtSessionId=48159&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Thousand and One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T152000
-DTSTAMP;VALUE=DATE-TIME:20230429T120000Z
-UID:48186
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012874/a-thousand-and-one/\n\nBooking URL:
-  https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=012&txtSessionId=48186&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Thousand and One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T215000
-DTSTAMP;VALUE=DATE-TIME:20230429T183000Z
-UID:48190
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012874/a-thousand-and-one/\n\nBooking URL:
-  https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=012&txtSessionId=48190&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Thousand and One
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T163000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T185000
 DTSTAMP;VALUE=DATE-TIME:20230430T153000Z
@@ -866,105 +734,15 @@ DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 4\n\nhttps://www.pictureh
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Florida Project
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T191500
-DTSTAMP;VALUE=DATE-TIME:20230514T160000Z
-UID:47565
-DESCRIPTION:Duration: 1h 51m (111 min)\n\nScreen 1\n\nreDiscover: Time to 
- broaden your cinematic horizons: you'll find the best of what's next with 
- Discover's under-the-radar releases\, and return to favourites of yesterda
- y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
- ie-details/012/HO00012713/a24-the-florida-project/\n\nBooking URL: https:/
- /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
- 2&txtSessionId=47565&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Beau Travail
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230624T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230624T185500
-DTSTAMP;VALUE=DATE-TIME:20230624T160000Z
-UID:47729
-DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012764/sight-sound-top-10-beau-travail/\n\n
- Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
- s.aspx?cinemacode=012&txtSessionId=47729&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dungeons & Dragons: Honour Among Thieves
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230428T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230428T193500
-DTSTAMP;VALUE=DATE-TIME:20230428T160000Z
-UID:48184
-DESCRIPTION:Duration: 2h 14m (134 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012662/dungeons-dragons-honour-among-thiev
- es/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=012&txtSessionId=48184&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lighthouse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T191000
-DTSTAMP;VALUE=DATE-TIME:20230430T160000Z
-UID:47563
-DESCRIPTION:Duration: 1h 49m (109 min)\n\nScreen 1\n\nreDiscover: Time to 
- broaden your cinematic horizons: you'll find the best of what's next with 
- Discover's under-the-radar releases\, and return to favourites of yesterda
- y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
- ie-details/012/HO00012711/a24-the-lighthouse/\n\nBooking URL: https://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txt
- SessionId=47563&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230428T171000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230428T192000
-DTSTAMP;VALUE=DATE-TIME:20230428T161000Z
-UID:48160
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=012&txtSessionId=48160&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T171000
-DTSTAMP;VALUE=DATE-TIME:20230429T140000Z
-UID:48187
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=012&txtSessionId=48187&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T174000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T195000
-DTSTAMP;VALUE=DATE-TIME:20230429T164000Z
-UID:48185
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=012&txtSessionId=48185&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T141500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T162500
-DTSTAMP;VALUE=DATE-TIME:20230430T131500Z
-UID:48201
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=012&txtSessionId=48201&visLang=1
+SUMMARY:Suzume
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230502T164500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230502T191000
+DTSTAMP;VALUE=DATE-TIME:20230502T154500Z
+UID:48231
+DESCRIPTION:Duration: 2h 02m (122 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/012/HO00012778/suzume-subbed/\n\nBooking URL: http
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =012&txtSessionId=48231&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1078,6 +856,48 @@ DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 3\n\nhttps://www.pictureh
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Lighthouse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T191000
+DTSTAMP;VALUE=DATE-TIME:20230430T160000Z
+UID:47563
+DESCRIPTION:Duration: 1h 49m (109 min)\n\nScreen 1\n\nreDiscover: Time to 
+ broaden your cinematic horizons: you'll find the best of what's next with 
+ Discover's under-the-radar releases\, and return to favourites of yesterda
+ y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
+ ie-details/012/HO00012711/a24-the-lighthouse/\n\nBooking URL: https://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txt
+ SessionId=47563&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Beau Travail
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230624T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230624T185500
+DTSTAMP;VALUE=DATE-TIME:20230624T160000Z
+UID:47729
+DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/012/HO00012764/sight-sound-top-10-beau-travail/\n\n
+ Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=012&txtSessionId=47729&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Florida Project
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T191500
+DTSTAMP;VALUE=DATE-TIME:20230514T160000Z
+UID:47565
+DESCRIPTION:Duration: 1h 51m (111 min)\n\nScreen 1\n\nreDiscover: Time to 
+ broaden your cinematic horizons: you'll find the best of what's next with 
+ Discover's under-the-radar releases\, and return to favourites of yesterda
+ y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
+ ie-details/012/HO00012713/a24-the-florida-project/\n\nBooking URL: https:/
+ /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
+ 2&txtSessionId=47565&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Living + A Recorded Conversation between Bill Nighy and producer S
  tephen Woolley
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230508T171000
@@ -1092,51 +912,27 @@ DESCRIPTION:Duration: 2h 04m (124 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Super Mario Bros. Movie (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230428T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230428T194000
-DTSTAMP;VALUE=DATE-TIME:20230428T164500Z
-UID:48163
-DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012697/the-super-mario-bros-movie-2d/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=012&txtSessionId=48163&visLang=1
+SUMMARY:Rye Lane
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230501T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230501T190000
+DTSTAMP;VALUE=DATE-TIME:20230501T161500Z
+UID:48218
+DESCRIPTION:Duration: 1h 22m (82 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/012/HO00012657/rye-lane/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
+ xtSessionId=48218&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Super Mario Bros. Movie (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T124000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T143500
-DTSTAMP;VALUE=DATE-TIME:20230429T114000Z
-UID:48191
-DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012697/the-super-mario-bros-movie-2d/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=012&txtSessionId=48191&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Super Mario Bros. Movie (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T144000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T163500
-DTSTAMP;VALUE=DATE-TIME:20230429T134000Z
-UID:48193
-DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012697/the-super-mario-bros-movie-2d/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=012&txtSessionId=48193&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Super Mario Bros. Movie (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T131500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T151000
-DTSTAMP;VALUE=DATE-TIME:20230430T121500Z
-UID:48204
-DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012697/the-super-mario-bros-movie-2d/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=012&txtSessionId=48204&visLang=1
+SUMMARY:Rye Lane
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230502T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230502T194500
+DTSTAMP;VALUE=DATE-TIME:20230502T170000Z
+UID:48230
+DESCRIPTION:Duration: 1h 22m (82 min)\n\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/012/HO00012657/rye-lane/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
+ xtSessionId=48230&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1200,19 +996,6 @@ DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Die Zauberflöte (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T214500
-DTSTAMP;VALUE=DATE-TIME:20230603T165500Z
-UID:44320
-DESCRIPTION:Duration: 3h 30m (210 min)\n\nScreen 2\n\nLive via Satellite: 
- This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/012/HO00011961/met-opera-live-die-zauberflo
- te-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=012&txtSessionId=44320&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MET OPERA LIVE: DON GIOVANNI (2023)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T175500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T213000
@@ -1226,16 +1009,16 @@ DESCRIPTION:Duration: 3h 14m (194 min)\n\nScreen 2\n\nLive via Satellite:
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Champion (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T213500
-DTSTAMP;VALUE=DATE-TIME:20230429T165500Z
-UID:44318
-DESCRIPTION:Duration: 3h 20m (200 min)\n\nScreen 2\n\nLive via Satellite: 
+SUMMARY:Met Opera Live: Die Zauberflöte (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T214500
+DTSTAMP;VALUE=DATE-TIME:20230603T165500Z
+UID:44320
+DESCRIPTION:Duration: 3h 30m (210 min)\n\nScreen 2\n\nLive via Satellite: 
  This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/012/HO00011957/met-opera-live-champion-2023
- /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=012&txtSessionId=44318&visLang=1
+ icturehouses.com/movie-details/012/HO00011961/met-opera-live-die-zauberflo
+ te-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=012&txtSessionId=44320&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1263,18 +1046,6 @@ DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Royal Tenenbaums & Moonrise Kingdom
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T215500
-DTSTAMP;VALUE=DATE-TIME:20230618T170000Z
-UID:48180
-DESCRIPTION:Duration: 3h 32m (212 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012925/the-royal-tenenbaums-moonrise-kingd
- om/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=012&txtSessionId=48180&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reality
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T180000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T194500
@@ -1285,6 +1056,18 @@ DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 2\n\nDiscover: Discover st
  e film.\n\nhttps://www.picturehouses.com/movie-details/012/HO00012911/real
  ity/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
  ctTickets.aspx?cinemacode=012&txtSessionId=48177&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Royal Tenenbaums & Moonrise Kingdom
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T215500
+DTSTAMP;VALUE=DATE-TIME:20230618T170000Z
+UID:48180
+DESCRIPTION:Duration: 3h 32m (212 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/012/HO00012925/the-royal-tenenbaums-moonrise-kingd
+ om/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=012&txtSessionId=48180&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1352,20 +1135,6 @@ DESCRIPTION:Duration: 2h 10m (130 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:In The Middle + Q&A
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T201000
-DTSTAMP;VALUE=DATE-TIME:20230429T180000Z
-UID:48054
-DESCRIPTION:Duration: 1h 07m (67 min)\n\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/012/HO00012914/in-th
- e-middle-q-a/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=012&txtSessionId=48054&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NT Live 2023: Best of Enemies
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T190000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T222000
@@ -1375,19 +1144,6 @@ DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 2\n\nhttps://www.pictureh
  ouses.com/movie-details/012/HO00012536/nt-live-2023-best-of-enemies/\n\nBo
  oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
  aspx?cinemacode=012&txtSessionId=46697&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Il Trovatore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
-DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
-UID:43748
-DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 2\n\nLive via Satellite: 
- This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/012/HO00011869/roh-live-il-trovatore-2023/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=012&txtSessionId=43748&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1401,6 +1157,19 @@ DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 2\n\nLive via Satellite:
  icturehouses.com/movie-details/012/HO00011867/roh-live-the-sleeping-beauty
  -2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
  lectTickets.aspx?cinemacode=012&txtSessionId=43747&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Il Trovatore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
+DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
+UID:43748
+DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 2\n\nLive via Satellite: 
+ This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
+ icturehouses.com/movie-details/012/HO00011869/roh-live-il-trovatore-2023/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=012&txtSessionId=43748&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1462,67 +1231,6 @@ DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/012/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
  ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
  px?cinemacode=012&txtSessionId=47964&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230502T194000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230502T220000
-DTSTAMP;VALUE=DATE-TIME:20230502T184000Z
-UID:48168
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 1\n\nDiscover: Discover s
- tunning cinema. Each week\, the Picturehouse film team champion one must-s
- ee film.\n\nhttps://www.picturehouses.com/movie-details/012/HO00012870/ret
- urn-to-seoul/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=012&txtSessionId=48168&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230428T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230428T215000
-DTSTAMP;VALUE=DATE-TIME:20230428T184500Z
-UID:48158
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012781/polite-society/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=012&txtSessionId=48158&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T121500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T142000
-DTSTAMP;VALUE=DATE-TIME:20230429T111500Z
-UID:48188
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012781/polite-society/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=012&txtSessionId=48188&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T190500
-DTSTAMP;VALUE=DATE-TIME:20230429T160000Z
-UID:48189
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012781/polite-society/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=012&txtSessionId=48189&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T160500
-DTSTAMP;VALUE=DATE-TIME:20230430T130000Z
-UID:48202
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/012/HO00012781/polite-society/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=012&txtSessionId=48202&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1647,80 +1355,16 @@ DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Master Gardener
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T195000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T220000
-DTSTAMP;VALUE=DATE-TIME:20230523T185000Z
-UID:48176
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 2\n\nDiscover: Discover s
+SUMMARY:Return to Seoul
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230502T194000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230502T220000
+DTSTAMP;VALUE=DATE-TIME:20230502T184000Z
+UID:48168
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 1\n\nDiscover: Discover s
  tunning cinema. Each week\, the Picturehouse film team champion one must-s
- ee film.\n\nhttps://www.picturehouses.com/movie-details/012/HO00012912/mas
- ter-gardener/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=012&txtSessionId=48176&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sightseers
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230508T195000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230508T213500
-DTSTAMP;VALUE=DATE-TIME:20230508T185000Z
-UID:47967
-DESCRIPTION:Duration: 1h 25m (85 min)\n\nScreen 2\n\nCulture Shock: Dedica
- ted to bringing you the best in cult and genre films.\n\nhttps://www.pictu
- rehouses.com/movie-details/012/HO00012490/sightseers/\n\nBooking URL: http
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =012&txtSessionId=47967&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In The Earth
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T221000
-DTSTAMP;VALUE=DATE-TIME:20230515T190000Z
-UID:47969
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 2\n\nCulture Shock: Dedic
- ated to bringing you the best in cult and genre films.\n\nhttps://www.pict
- urehouses.com/movie-details/012/HO00010833/in-the-earth/\n\nBooking URL: h
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=012&txtSessionId=47969&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Richard: I Am Everything
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T220500
-DTSTAMP;VALUE=DATE-TIME:20230516T190000Z
-UID:48171
-DESCRIPTION:Duration: 1h 41m (101 min)\n\nScreen 2\n\nDiscover: Discover s
- tunning cinema. Each week\, the Picturehouse film team champion one must-s
- ee film.\n\nhttps://www.picturehouses.com/movie-details/012/HO00012868/lit
- tle-richard-i-am-everything/\n\nBooking URL: https://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48171&v
- isLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evil Dead Rise
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230428T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230428T215500
-DTSTAMP;VALUE=DATE-TIME:20230428T190000Z
-UID:48165
-DESCRIPTION:Duration: 1h 33m (93 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012759/evil-dead-rise/\n\nBooking URL: http
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =012&txtSessionId=48165&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Evil Dead Rise
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230429T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230429T221000
-DTSTAMP;VALUE=DATE-TIME:20230429T191500Z
-UID:48192
-DESCRIPTION:Duration: 1h 33m (93 min)\n\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012759/evil-dead-rise/\n\nBooking URL: http
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =012&txtSessionId=48192&visLang=1
+ ee film.\n\nhttps://www.picturehouses.com/movie-details/012/HO00012870/ret
+ urn-to-seoul/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=012&txtSessionId=48168&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1784,6 +1428,59 @@ DESCRIPTION:Duration: 1h 33m (93 min)\n\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Master Gardener
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T195000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T220000
+DTSTAMP;VALUE=DATE-TIME:20230523T185000Z
+UID:48176
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 2\n\nDiscover: Discover s
+ tunning cinema. Each week\, the Picturehouse film team champion one must-s
+ ee film.\n\nhttps://www.picturehouses.com/movie-details/012/HO00012912/mas
+ ter-gardener/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=012&txtSessionId=48176&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sightseers
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230508T195000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230508T213500
+DTSTAMP;VALUE=DATE-TIME:20230508T185000Z
+UID:47967
+DESCRIPTION:Duration: 1h 25m (85 min)\n\nScreen 2\n\nCulture Shock: Dedica
+ ted to bringing you the best in cult and genre films.\n\nhttps://www.pictu
+ rehouses.com/movie-details/012/HO00012490/sightseers/\n\nBooking URL: http
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =012&txtSessionId=47967&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Old Man Movie: Lactopalpse!
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T215000
+DTSTAMP;VALUE=DATE-TIME:20230529T190000Z
+UID:48181
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 2\n\nCulture Shock: Dedica
+ ted to bringing you the best in cult and genre films.\n\nhttps://www.pictu
+ rehouses.com/movie-details/012/HO00012913/the-old-man-movie-lactopalpse/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=012&txtSessionId=48181&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Richard: I Am Everything
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T220500
+DTSTAMP;VALUE=DATE-TIME:20230516T190000Z
+UID:48171
+DESCRIPTION:Duration: 1h 41m (101 min)\n\nScreen 2\n\nDiscover: Discover s
+ tunning cinema. Each week\, the Picturehouse film team champion one must-s
+ ee film.\n\nhttps://www.picturehouses.com/movie-details/012/HO00012868/lit
+ tle-richard-i-am-everything/\n\nBooking URL: https://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48171&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UKAFF: Whispers of A Storm
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230509T200000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230509T211500
@@ -1798,16 +1495,40 @@ DESCRIPTION:Duration: 1h 14m (74 min)\n\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Old Man Movie: Lactopalpse!
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T215000
-DTSTAMP;VALUE=DATE-TIME:20230529T190000Z
-UID:48181
-DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 2\n\nCulture Shock: Dedica
- ted to bringing you the best in cult and genre films.\n\nhttps://www.pictu
- rehouses.com/movie-details/012/HO00012913/the-old-man-movie-lactopalpse/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=012&txtSessionId=48181&visLang=1
+SUMMARY:Renfield
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T215500
+DTSTAMP;VALUE=DATE-TIME:20230430T190000Z
+UID:48207
+DESCRIPTION:Duration: 1h 33m (93 min)\n\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/012/HO00012866/renfield/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
+ xtSessionId=48207&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Renfield
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230502T172500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230502T192000
+DTSTAMP;VALUE=DATE-TIME:20230502T162500Z
+UID:48228
+DESCRIPTION:Duration: 1h 33m (93 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/012/HO00012866/renfield/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
+ xtSessionId=48228&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In The Earth
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T221000
+DTSTAMP;VALUE=DATE-TIME:20230515T190000Z
+UID:47969
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 2\n\nCulture Shock: Dedic
+ ated to bringing you the best in cult and genre films.\n\nhttps://www.pict
+ urehouses.com/movie-details/012/HO00010833/in-the-earth/\n\nBooking URL: h
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=012&txtSessionId=47969&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1834,42 +1555,6 @@ DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 2\n\nCulture Shock: Dedica
  rehouses.com/movie-details/012/HO00003531/kill-list/\n\nBooking URL: https
  ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
  012&txtSessionId=47970&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renfield
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230428T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230428T221000
-DTSTAMP;VALUE=DATE-TIME:20230428T191500Z
-UID:48183
-DESCRIPTION:Duration: 1h 33m (93 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012866/renfield/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48183&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renfield
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230430T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230430T215500
-DTSTAMP;VALUE=DATE-TIME:20230430T190000Z
-UID:48207
-DESCRIPTION:Duration: 1h 33m (93 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012866/renfield/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48207&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renfield
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230502T172500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230502T192000
-DTSTAMP;VALUE=DATE-TIME:20230502T162500Z
-UID:48228
-DESCRIPTION:Duration: 1h 33m (93 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/012/HO00012866/renfield/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48228&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 END:VCALENDAR
