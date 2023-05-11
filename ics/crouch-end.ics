@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230510T125505Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230511T150127Z
 NAME:Picture House London - Crouch End
 X-WR-CALNAME:Picture House London - Crouch End
 BEGIN:VEVENT
@@ -81,29 +81,15 @@ DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen Three\n\nMembers' Priorit
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live 2023: Best of Enemies (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T152000
-DTSTAMP;VALUE=DATE-TIME:20230530T110000Z
-UID:51707
-DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012537/nt-live-2023-best-of-enemies-enco
- re/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=023&txtSessionId=51707&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Il Trovatore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T160000
-DTSTAMP;VALUE=DATE-TIME:20230620T110000Z
-UID:47196
-DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen Four\n\nMembers' Priority
-  Booking: Tickets are only available to Picturehouse Members. Enter your M
- embership Card number.\n\nhttps://www.picturehouses.com/movie-details/023/
- HO00011870/roh-encore-il-trovatore-2023/\n\nBooking URL: https://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txtSessi
- onId=47196&visLang=1
+SUMMARY:Dog-Friendly Screening: Isle Of Dogs
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T132000
+DTSTAMP;VALUE=DATE-TIME:20230521T101500Z
+UID:54289
+DESCRIPTION:Duration: 1h 41m (101 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00007718/dog-friendly-screening-isle-of-d
+ ogs/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=023&txtSessionId=54289&visLang=1
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
@@ -118,18 +104,6 @@ DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen Four\n\nMembers' Priority
  HO00011868/roh-encore-the-sleeping-beauty-2023/\n\nBooking URL: https://ti
  cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&t
  xtSessionId=47198&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Vermeer - The Greatest Exhibition
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T142000
-DTSTAMP;VALUE=DATE-TIME:20230511T113000Z
-UID:54129
-DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen Three\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012070/eos-vermeer-the-greatest-exhibit
- ion/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=023&txtSessionId=54129&visLang=1
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
@@ -262,6 +236,32 @@ DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen Two\n\nhttps://www.picture
  houses.com/movie-details/023/HO00012070/eos-vermeer-the-greatest-exhibitio
  n/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
  Tickets.aspx?cinemacode=023&txtSessionId=54198&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Il Trovatore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T160000
+DTSTAMP;VALUE=DATE-TIME:20230620T110000Z
+UID:47196
+DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen Four\n\nMembers' Priority
+  Booking: Tickets are only available to Picturehouse Members. Enter your M
+ embership Card number.\n\nhttps://www.picturehouses.com/movie-details/023/
+ HO00011870/roh-encore-il-trovatore-2023/\n\nBooking URL: https://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txtSessi
+ onId=47196&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2023: Best of Enemies (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T152000
+DTSTAMP;VALUE=DATE-TIME:20230530T110000Z
+UID:51707
+DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen Two\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00012537/nt-live-2023-best-of-enemies-enco
+ re/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=023&txtSessionId=51707&visLang=1
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
@@ -855,548 +855,6 @@ DESCRIPTION:Duration: 3h 12m (192 min)\n\nScreen Three\n\nhttps://www.pict
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T165500
-DTSTAMP;VALUE=DATE-TIME:20230510T134500Z
-UID:54030
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harold
- -fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=023&txtSessionId=54030&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T194000
-DTSTAMP;VALUE=DATE-TIME:20230510T163000Z
-UID:54029
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harold
- -fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=023&txtSessionId=54029&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T224000
-DTSTAMP;VALUE=DATE-TIME:20230510T193000Z
-UID:54117
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54117&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T141000
-DTSTAMP;VALUE=DATE-TIME:20230511T110000Z
-UID:54034
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harold
- -fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=023&txtSessionId=54034&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T165500
-DTSTAMP;VALUE=DATE-TIME:20230511T134500Z
-UID:54033
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harold
- -fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=023&txtSessionId=54033&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T194000
-DTSTAMP;VALUE=DATE-TIME:20230511T163000Z
-UID:54032
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harold
- -fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=023&txtSessionId=54032&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T204500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T225500
-DTSTAMP;VALUE=DATE-TIME:20230511T194500Z
-UID:54118
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54118&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T151500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T172500
-DTSTAMP;VALUE=DATE-TIME:20230512T141500Z
-UID:54231
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54231&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T224000
-DTSTAMP;VALUE=DATE-TIME:20230512T193000Z
-UID:54232
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54232&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T215500
-DTSTAMP;VALUE=DATE-TIME:20230513T184500Z
-UID:54235
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54235&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T194000
-DTSTAMP;VALUE=DATE-TIME:20230514T163000Z
-UID:54237
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nSubtitled (Captio
- ned): Everyone welcome. This screening has subtitles for people with heari
- ng loss.\n\nhttps://www.picturehouses.com/movie-details/023/HO00012749/the
- -unlikely-pilgrimage-of-harold-fry/\n\nBooking URL: https://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txtSessionId=
- 54237&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T151000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T172000
-DTSTAMP;VALUE=DATE-TIME:20230515T141000Z
-UID:54239
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54239&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T222500
-DTSTAMP;VALUE=DATE-TIME:20230515T191500Z
-UID:54241
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54241&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T144000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T165000
-DTSTAMP;VALUE=DATE-TIME:20230516T134000Z
-UID:54244
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54244&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T215500
-DTSTAMP;VALUE=DATE-TIME:20230516T184500Z
-UID:54242
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54242&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T151500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T172500
-DTSTAMP;VALUE=DATE-TIME:20230517T141500Z
-UID:54248
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54248&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T151500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T172500
-DTSTAMP;VALUE=DATE-TIME:20230518T141500Z
-UID:54252
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
- d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=54252&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T164500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T185500
-DTSTAMP;VALUE=DATE-TIME:20230518T154500Z
-UID:54250
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harold
- -fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=023&txtSessionId=54250&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T170500
-DTSTAMP;VALUE=DATE-TIME:20230510T140000Z
-UID:54072
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54072&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T210000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T230500
-DTSTAMP;VALUE=DATE-TIME:20230510T200000Z
-UID:54073
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54073&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T121500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T142000
-DTSTAMP;VALUE=DATE-TIME:20230511T111500Z
-UID:54074
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54074&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T195000
-DTSTAMP;VALUE=DATE-TIME:20230511T164500Z
-UID:54075
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54075&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T143500
-DTSTAMP;VALUE=DATE-TIME:20230512T113000Z
-UID:54230
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54230&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T200500
-DTSTAMP;VALUE=DATE-TIME:20230512T170000Z
-UID:54233
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54233&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T144000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T164500
-DTSTAMP;VALUE=DATE-TIME:20230513T134000Z
-UID:54234
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54234&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T170500
-DTSTAMP;VALUE=DATE-TIME:20230514T140000Z
-UID:54236
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54236&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T143500
-DTSTAMP;VALUE=DATE-TIME:20230515T113000Z
-UID:54238
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54238&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T195000
-DTSTAMP;VALUE=DATE-TIME:20230515T164500Z
-UID:54240
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54240&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T121000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T141500
-DTSTAMP;VALUE=DATE-TIME:20230516T111000Z
-UID:54245
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54245&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T192000
-DTSTAMP;VALUE=DATE-TIME:20230516T161500Z
-UID:54243
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54243&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T145000
-DTSTAMP;VALUE=DATE-TIME:20230517T114500Z
-UID:54249
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54249&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T195000
-DTSTAMP;VALUE=DATE-TIME:20230517T164500Z
-UID:54247
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54247&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T143500
-DTSTAMP;VALUE=DATE-TIME:20230518T113000Z
-UID:54253
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54253&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polite Society
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T200500
-DTSTAMP;VALUE=DATE-TIME:20230518T170000Z
-UID:54251
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=023&txtSessionId=54251&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cairo Conspiracy
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T172500
-DTSTAMP;VALUE=DATE-TIME:20230510T140000Z
-UID:54050
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Three\n\nhttps://www.pict
- urehouses.com/movie-details/023/HO00012258/cairo-conspiracy/\n\nBooking UR
- L: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=023&txtSessionId=54050&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cairo Conspiracy
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T225500
-DTSTAMP;VALUE=DATE-TIME:20230510T193000Z
-UID:54051
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Three\n\nhttps://www.pict
- urehouses.com/movie-details/023/HO00012258/cairo-conspiracy/\n\nBooking UR
- L: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=023&txtSessionId=54051&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cairo Conspiracy
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T201000
-DTSTAMP;VALUE=DATE-TIME:20230511T164500Z
-UID:54053
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Three\n\nhttps://www.pict
- urehouses.com/movie-details/023/HO00012258/cairo-conspiracy/\n\nBooking UR
- L: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=023&txtSessionId=54053&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Fine Morning
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T151500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T173000
-DTSTAMP;VALUE=DATE-TIME:20230510T141500Z
-UID:54104
-DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=023&txtSessionId=54104&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Fine Morning
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T201500
-DTSTAMP;VALUE=DATE-TIME:20230511T170000Z
-UID:54105
-DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=023&txtSessionId=54105&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Fine Morning
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T141500
-DTSTAMP;VALUE=DATE-TIME:20230512T110000Z
-UID:54255
-DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=023&txtSessionId=54255&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Fine Morning
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T111500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T133000
-DTSTAMP;VALUE=DATE-TIME:20230514T101500Z
-UID:54268
-DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=023&txtSessionId=54268&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Fine Morning
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T114500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T140000
-DTSTAMP;VALUE=DATE-TIME:20230515T104500Z
-UID:54271
-DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=023&txtSessionId=54271&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Fine Morning
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T141500
-DTSTAMP;VALUE=DATE-TIME:20230516T110000Z
-UID:54275
-DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=023&txtSessionId=54275&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Fine Morning
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T114000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T135500
-DTSTAMP;VALUE=DATE-TIME:20230518T104000Z
-UID:54288
-DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=023&txtSessionId=54288&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Suzume
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T151500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T174000
-DTSTAMP;VALUE=DATE-TIME:20230511T141500Z
-UID:54097
-DESCRIPTION:Duration: 2h 02m (122 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012778/suzume-subbed/\n\nBooking URL: h
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=023&txtSessionId=54097&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Florida Project
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T153000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T174500
@@ -1436,41 +894,18 @@ DESCRIPTION:Duration: 3h 32m (212 min)\n\nScreen Two\n\nhttps://www.pictur
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T191500
-DTSTAMP;VALUE=DATE-TIME:20230510T153000Z
-UID:53517
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen One\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012859/guardians-of-the-galaxy-vol-3-2d/
- \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
- ckets.aspx?cinemacode=023&txtSessionId=53517&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T224500
-DTSTAMP;VALUE=DATE-TIME:20230510T190000Z
-UID:53524
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen One\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012859/guardians-of-the-galaxy-vol-3-2d/
- \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
- ckets.aspx?cinemacode=023&txtSessionId=53524&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T135000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T163500
-DTSTAMP;VALUE=DATE-TIME:20230511T125000Z
-UID:53511
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen One\n\nSubtitled (Caption
- ed): Everyone welcome. This screening has subtitles for people with hearin
- g loss.\n\nhttps://www.picturehouses.com/movie-details/023/HO00012859/guar
- dians-of-the-galaxy-vol-3-2d/\n\nBooking URL: https://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txtSessionId=53511&
- visLang=1
+SUMMARY:The Farewell
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T190000
+DTSTAMP;VALUE=DATE-TIME:20230528T160000Z
+UID:52886
+DESCRIPTION:Duration: 1h 40m (100 min)\n\nScreen One\n\nreDiscover: Time t
+ o broaden your cinematic horizons: you'll find the best of what's next wit
+ h Discover's under-the-radar releases\, and return to favourites of yester
+ day with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/m
+ ovie-details/023/HO00012716/a24-the-farewell/\n\nBooking URL: https://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txt
+ SessionId=52886&visLang=1
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
@@ -1800,18 +1235,161 @@ DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen One\n\nhttps://www.pictur
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Farewell
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T190000
-DTSTAMP;VALUE=DATE-TIME:20230528T160000Z
-UID:52886
-DESCRIPTION:Duration: 1h 40m (100 min)\n\nScreen One\n\nreDiscover: Time t
- o broaden your cinematic horizons: you'll find the best of what's next wit
- h Discover's under-the-radar releases\, and return to favourites of yester
- day with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/m
- ovie-details/023/HO00012716/a24-the-farewell/\n\nBooking URL: https://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txt
- SessionId=52886&visLang=1
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T194000
+DTSTAMP;VALUE=DATE-TIME:20230511T163000Z
+UID:54032
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Two\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harold
+ -fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
+ ectTickets.aspx?cinemacode=023&txtSessionId=54032&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T204500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T225500
+DTSTAMP;VALUE=DATE-TIME:20230511T194500Z
+UID:54118
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
+ d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=54118&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T172500
+DTSTAMP;VALUE=DATE-TIME:20230512T141500Z
+UID:54231
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
+ d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=54231&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T224000
+DTSTAMP;VALUE=DATE-TIME:20230512T193000Z
+UID:54232
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
+ d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=54232&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T215500
+DTSTAMP;VALUE=DATE-TIME:20230513T184500Z
+UID:54235
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
+ d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=54235&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T194000
+DTSTAMP;VALUE=DATE-TIME:20230514T163000Z
+UID:54237
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nSubtitled (Captio
+ ned): Everyone welcome. This screening has subtitles for people with heari
+ ng loss.\n\nhttps://www.picturehouses.com/movie-details/023/HO00012749/the
+ -unlikely-pilgrimage-of-harold-fry/\n\nBooking URL: https://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txtSessionId=
+ 54237&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T172000
+DTSTAMP;VALUE=DATE-TIME:20230515T141000Z
+UID:54239
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
+ d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=54239&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T222500
+DTSTAMP;VALUE=DATE-TIME:20230515T191500Z
+UID:54241
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
+ d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=54241&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T165000
+DTSTAMP;VALUE=DATE-TIME:20230516T134000Z
+UID:54244
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
+ d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=54244&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T215500
+DTSTAMP;VALUE=DATE-TIME:20230516T184500Z
+UID:54242
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
+ d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=54242&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T172500
+DTSTAMP;VALUE=DATE-TIME:20230517T141500Z
+UID:54248
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
+ d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=54248&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T172500
+DTSTAMP;VALUE=DATE-TIME:20230518T141500Z
+UID:54252
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harol
+ d-fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=54252&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T164500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T185500
+DTSTAMP;VALUE=DATE-TIME:20230518T154500Z
+UID:54250
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Two\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00012749/the-unlikely-pilgrimage-of-harold
+ -fry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
+ ectTickets.aspx?cinemacode=023&txtSessionId=54250&visLang=1
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
@@ -1830,27 +1408,889 @@ DESCRIPTION:Duration: 1h 56m (116 min)\n\nScreen One\n\nreDiscover: Time t
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T200500
-DTSTAMP;VALUE=DATE-TIME:20230510T164500Z
-UID:54056
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen Three\n\nhttps://www.pict
- urehouses.com/movie-details/023/HO00012870/return-to-seoul/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=023&txtSessionId=54056&visLang=1
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T195000
+DTSTAMP;VALUE=DATE-TIME:20230511T164500Z
+UID:54075
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54075&visLang=1
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T172000
-DTSTAMP;VALUE=DATE-TIME:20230511T140000Z
-UID:54058
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen Three\n\nhttps://www.pict
- urehouses.com/movie-details/023/HO00012870/return-to-seoul/\n\nBooking URL
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T143500
+DTSTAMP;VALUE=DATE-TIME:20230512T113000Z
+UID:54230
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54230&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T200500
+DTSTAMP;VALUE=DATE-TIME:20230512T170000Z
+UID:54233
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54233&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T164500
+DTSTAMP;VALUE=DATE-TIME:20230513T134000Z
+UID:54234
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54234&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T170500
+DTSTAMP;VALUE=DATE-TIME:20230514T140000Z
+UID:54236
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54236&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T143500
+DTSTAMP;VALUE=DATE-TIME:20230515T113000Z
+UID:54238
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54238&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T195000
+DTSTAMP;VALUE=DATE-TIME:20230515T164500Z
+UID:54240
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54240&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T121000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T141500
+DTSTAMP;VALUE=DATE-TIME:20230516T111000Z
+UID:54245
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54245&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T192000
+DTSTAMP;VALUE=DATE-TIME:20230516T161500Z
+UID:54243
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54243&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T124500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T145000
+DTSTAMP;VALUE=DATE-TIME:20230517T114500Z
+UID:54249
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54249&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T195000
+DTSTAMP;VALUE=DATE-TIME:20230517T164500Z
+UID:54247
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54247&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T143500
+DTSTAMP;VALUE=DATE-TIME:20230518T113000Z
+UID:54253
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54253&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polite Society
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T200500
+DTSTAMP;VALUE=DATE-TIME:20230518T170000Z
+UID:54251
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012781/polite-society/\n\nBooking URL: 
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=023&txtSessionId=54251&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cairo Conspiracy
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T201000
+DTSTAMP;VALUE=DATE-TIME:20230511T164500Z
+UID:54053
+DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Three\n\nhttps://www.pict
+ urehouses.com/movie-details/023/HO00012258/cairo-conspiracy/\n\nBooking UR
+ L: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=023&txtSessionId=54053&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Die Zauberflöte (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T214500
+DTSTAMP;VALUE=DATE-TIME:20230603T165500Z
+UID:48054
+DESCRIPTION:Duration: 3h 30m (210 min)\n\nScreen Four\n\nLive via Satellit
+ e: This screening will be streamed live via a Satellite Feed\n\nhttps://ww
+ w.picturehouses.com/movie-details/023/HO00011961/met-opera-live-die-zauber
+ flote-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=023&txtSessionId=48054&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MET OPERA LIVE: DON GIOVANNI (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T213000
+DTSTAMP;VALUE=DATE-TIME:20230520T165500Z
+UID:48053
+DESCRIPTION:Duration: 3h 14m (194 min)\n\nScreen Four\n\nLive via Satellit
+ e: This screening will be streamed live via a Satellite Feed\n\nhttps://ww
+ w.picturehouses.com/movie-details/023/HO00011959/met-opera-live-don-giovan
+ ni-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=023&txtSessionId=48053&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In The Earth
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T201000
+DTSTAMP;VALUE=DATE-TIME:20230515T170000Z
+UID:53548
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Five\n\nCulture Shock: De
+ dicated to bringing you the best in cult and genre films.\n\nhttps://www.p
+ icturehouses.com/movie-details/023/HO00010833/in-the-earth/\n\nBooking URL
  : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=023&txtSessionId=54058&visLang=1
+ macode=023&txtSessionId=53548&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kill List
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T195500
+DTSTAMP;VALUE=DATE-TIME:20230522T170000Z
+UID:53549
+DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen Five\n\nCulture Shock: Ded
+ icated to bringing you the best in cult and genre films.\n\nhttps://www.pi
+ cturehouses.com/movie-details/023/HO00003531/kill-list/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=023&txtSessionId=53549&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Blow Up A Pipeline
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T200500
+DTSTAMP;VALUE=DATE-TIME:20230512T170000Z
+UID:54256
+DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=023&txtSessionId=54256&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Blow Up A Pipeline
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T195000
+DTSTAMP;VALUE=DATE-TIME:20230513T164500Z
+UID:54263
+DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=023&txtSessionId=54263&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Blow Up A Pipeline
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T141500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T162000
+DTSTAMP;VALUE=DATE-TIME:20230514T131500Z
+UID:54267
+DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=023&txtSessionId=54267&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Blow Up A Pipeline
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T200500
+DTSTAMP;VALUE=DATE-TIME:20230516T170000Z
+UID:54276
+DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=023&txtSessionId=54276&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Blow Up A Pipeline
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T163500
+DTSTAMP;VALUE=DATE-TIME:20230517T133000Z
+UID:54287
+DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=023&txtSessionId=54287&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Blow Up A Pipeline
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T174000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T194500
+DTSTAMP;VALUE=DATE-TIME:20230518T164000Z
+UID:54259
+DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=023&txtSessionId=54259&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXHIBITION ON SCREEN: Tokyo Stories
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T195000
+DTSTAMP;VALUE=DATE-TIME:20230523T170000Z
+UID:48703
+DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen Five\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00012071/exhibition-on-screen-tokyo-storie
+ s/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=48703&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Morning
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T201500
+DTSTAMP;VALUE=DATE-TIME:20230511T170000Z
+UID:54105
+DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=023&txtSessionId=54105&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Morning
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T141500
+DTSTAMP;VALUE=DATE-TIME:20230512T110000Z
+UID:54255
+DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=023&txtSessionId=54255&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Morning
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T133000
+DTSTAMP;VALUE=DATE-TIME:20230514T101500Z
+UID:54268
+DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=023&txtSessionId=54268&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Morning
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T140000
+DTSTAMP;VALUE=DATE-TIME:20230515T104500Z
+UID:54271
+DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=023&txtSessionId=54271&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Morning
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T141500
+DTSTAMP;VALUE=DATE-TIME:20230516T110000Z
+UID:54275
+DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=023&txtSessionId=54275&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Fine Morning
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T135500
+DTSTAMP;VALUE=DATE-TIME:20230518T104000Z
+UID:54288
+DESCRIPTION:Duration: 1h 52m (112 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012750/one-fine-morning/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=023&txtSessionId=54288&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Berliner Philharmoniker LIVE: Summer Concert
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T183000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T204500
+DTSTAMP;VALUE=DATE-TIME:20230616T173000Z
+UID:53378
+DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen Four\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nLive via Satellite: This screening w
+ ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
+ /movie-details/023/HO00012825/berliner-philharmoniker-live-summer-concert/
+ \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=023&txtSessionId=53378&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grateful Dead Meet-Up At The Movies 2023
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T223000
+DTSTAMP;VALUE=DATE-TIME:20230622T180000Z
+UID:54290
+DESCRIPTION:Duration: 3h 10m (190 min)\n\nScreen Three\n\nhttps://www.pict
+ urehouses.com/movie-details/023/HO00013047/grateful-dead-meet-up-at-the-mo
+ vies-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=023&txtSessionId=54290&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T222000
+DTSTAMP;VALUE=DATE-TIME:20230517T180000Z
+UID:53984
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen One\n\nMembers' Priority 
+ Booking: Tickets are only available to Picturehouse Members. Enter your Me
+ mbership Card number.\n\nPreview: A special preview screening of this film
+ . See it before anyone else on the big screen!\n\nhttps://www.picturehouse
+ s.com/movie-details/023/HO00012826/beau-is-afraid/\n\nBooking URL: https:/
+ /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=02
+ 3&txtSessionId=53984&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230519T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230519T222000
+DTSTAMP;VALUE=DATE-TIME:20230519T180000Z
+UID:53838
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen One\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00012826/beau-is-afraid/\n\nBooking URL: h
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=023&txtSessionId=53838&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T222000
+DTSTAMP;VALUE=DATE-TIME:20230520T180000Z
+UID:53839
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen One\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00012826/beau-is-afraid/\n\nBooking URL: h
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=023&txtSessionId=53839&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Il Trovatore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
+DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
+UID:47195
+DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen Four\n\nLive via Satellit
+ e: This screening will be streamed live via a Satellite Feed\n\nhttps://ww
+ w.picturehouses.com/movie-details/023/HO00011869/roh-live-il-trovatore-202
+ 3/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=47195&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Sleeping Beauty (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T230000
+DTSTAMP;VALUE=DATE-TIME:20230524T181500Z
+UID:47193
+DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen Four\n\nLive via Satellit
+ e: This screening will be streamed live via a Satellite Feed\n\nhttps://ww
+ w.picturehouses.com/movie-details/023/HO00011867/roh-live-the-sleeping-bea
+ uty-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=023&txtSessionId=47193&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T211000
+DTSTAMP;VALUE=DATE-TIME:20230615T183000Z
+UID:53535
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen One\n\nhttps://www.picture
+ houses.com/movie-details/023/HO00012865/nt-live-fleabag-encore-2023/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=023&txtSessionId=53535&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T194000
+DTSTAMP;VALUE=DATE-TIME:20230616T170000Z
+UID:53536
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen One\n\nhttps://www.picture
+ houses.com/movie-details/023/HO00012865/nt-live-fleabag-encore-2023/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=023&txtSessionId=53536&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T194000
+DTSTAMP;VALUE=DATE-TIME:20230617T170000Z
+UID:53537
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen One\n\nhttps://www.picture
+ houses.com/movie-details/023/HO00012865/nt-live-fleabag-encore-2023/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=023&txtSessionId=53537&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T154000
+DTSTAMP;VALUE=DATE-TIME:20230618T130000Z
+UID:53538
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen Two\n\nhttps://www.picture
+ houses.com/movie-details/023/HO00012865/nt-live-fleabag-encore-2023/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=023&txtSessionId=53538&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T211500
+DTSTAMP;VALUE=DATE-TIME:20230530T183000Z
+UID:53915
+DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen Two\n\nDiscover: Discover 
+ stunning cinema. Each week\, the Picturehouse film team champion one must-
+ see film.\n\nhttps://www.picturehouses.com/movie-details/023/HO00012911/re
+ ality/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=53915&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2023: Best of Enemies
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T225000
+DTSTAMP;VALUE=DATE-TIME:20230518T183000Z
+UID:51706
+DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen Two\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00012536/nt-live-2023-best-of-enemies/\n\n
+ Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=023&txtSessionId=51706&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Bourne's Sleeping Beauty
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230628T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230628T214000
+DTSTAMP;VALUE=DATE-TIME:20230628T183000Z
+UID:53695
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen Three\n\nhttps://www.pict
+ urehouses.com/movie-details/023/HO00012824/matthew-bourne-s-sleeping-beaut
+ y/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=53695&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Bourne's Sleeping Beauty
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T141000
+DTSTAMP;VALUE=DATE-TIME:20230702T110000Z
+UID:53696
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen Three\n\nhttps://www.pict
+ urehouses.com/movie-details/023/HO00012824/matthew-bourne-s-sleeping-beaut
+ y/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=53696&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T222500
+DTSTAMP;VALUE=DATE-TIME:20230601T184500Z
+UID:54140
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
+ e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=54140&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T221000
+DTSTAMP;VALUE=DATE-TIME:20230602T183000Z
+UID:54141
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
+ e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=54141&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T134000
+DTSTAMP;VALUE=DATE-TIME:20230603T100000Z
+UID:54145
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen One\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
+ e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=54145&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T161000
+DTSTAMP;VALUE=DATE-TIME:20230603T123000Z
+UID:54144
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nSubtitled (Caption
+ ed): Everyone welcome. This screening has subtitles for people with hearin
+ g loss.\n\nhttps://www.picturehouses.com/movie-details/023/HO00013031/spid
+ er-man-across-the-spider-verse/\n\nBooking URL: https://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txtSessionId=5414
+ 4&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T164500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T192500
+DTSTAMP;VALUE=DATE-TIME:20230603T154500Z
+UID:54143
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
+ e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=54143&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T224000
+DTSTAMP;VALUE=DATE-TIME:20230603T190000Z
+UID:54142
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
+ e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=54142&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T131500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T155500
+DTSTAMP;VALUE=DATE-TIME:20230604T121500Z
+UID:54147
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen One\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
+ e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=54147&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T161500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T185500
+DTSTAMP;VALUE=DATE-TIME:20230604T151500Z
+UID:54148
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen One\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
+ e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=54148&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T215500
+DTSTAMP;VALUE=DATE-TIME:20230604T181500Z
+UID:54149
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen One\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
+ e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=54149&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roger Waters - This Is Not A Drill - Live From Prague
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T223000
+DTSTAMP;VALUE=DATE-TIME:20230525T184500Z
+UID:53832
+DESCRIPTION:Duration: 2h 45m (165 min)\n\nScreen Four\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nLive via Satellite: This screening w
+ ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
+ /movie-details/023/HO00012926/roger-waters-this-is-not-a-drill-live-from-p
+ rague/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=023&txtSessionId=53832&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Mulholland Drive
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T225000
+DTSTAMP;VALUE=DATE-TIME:20230601T190000Z
+UID:53100
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012769/sight-sound-top-10-mulholland-dr
+ ive/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=023&txtSessionId=53100&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Master Gardener
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T221000
+DTSTAMP;VALUE=DATE-TIME:20230523T190000Z
+UID:53841
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen Two\n\nDiscover: Discover
+  stunning cinema. Each week\, the Picturehouse film team champion one must
+ -see film.\n\nhttps://www.picturehouses.com/movie-details/023/HO00012912/m
+ aster-gardener/\n\nBooking URL: https://ticketing.picturehouses.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=023&txtSessionId=53841&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Richard: I Am Everything
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T220500
+DTSTAMP;VALUE=DATE-TIME:20230516T190000Z
+UID:53837
+DESCRIPTION:Duration: 1h 41m (101 min)\n\nScreen Two\n\nDiscover: Discover
+  stunning cinema. Each week\, the Picturehouse film team champion one must
+ -see film.\n\nhttps://www.picturehouses.com/movie-details/023/HO00012868/l
+ ittle-richard-i-am-everything/\n\nBooking URL: https://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txtSessionId=53837
+ &visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Old Man Movie: Lactopalypse!
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T215000
+DTSTAMP;VALUE=DATE-TIME:20230529T190000Z
+UID:53916
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen Five\n\nCulture Shock: Ded
+ icated to bringing you the best in cult and genre films.\n\nhttps://www.pi
+ cturehouses.com/movie-details/023/HO00012913/the-old-man-movie-lactopalyps
+ e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=023&txtSessionId=53916&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230803T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230803T225000
+DTSTAMP;VALUE=DATE-TIME:20230803T190000Z
+UID:53102
+DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012766/sight-sound-top-10-2001-a-space-
+ odyssey/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=023&txtSessionId=53102&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wicker Man: The Final Cut + Recorded Content
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T225500
+DTSTAMP;VALUE=DATE-TIME:20230621T190000Z
+UID:54131
+DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen Three\n\nhttps://www.pict
+ urehouses.com/movie-details/023/HO00012931/the-wicker-man-the-final-cut-re
+ corded-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=023&txtSessionId=54131&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Thousand and One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T223500
+DTSTAMP;VALUE=DATE-TIME:20230511T191500Z
+UID:54015
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen Two\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00012874/a-thousand-and-one/\n\nBooking UR
+ L: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=023&txtSessionId=54015&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Beau Travail
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230629T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230629T222500
+DTSTAMP;VALUE=DATE-TIME:20230629T193000Z
+UID:53101
+DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen Four\n\nhttps://www.pictur
+ ehouses.com/movie-details/023/HO00012764/sight-sound-top-10-beau-travail/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=023&txtSessionId=53101&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Musketeers: D’Artagnan
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T225500
+DTSTAMP;VALUE=DATE-TIME:20230511T193000Z
+UID:54089
+DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Four\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=023&txtSessionId=54089&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Musketeers: D’Artagnan
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T172500
+DTSTAMP;VALUE=DATE-TIME:20230512T140000Z
+UID:54257
+DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=023&txtSessionId=54257&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Musketeers: D’Artagnan
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T142500
+DTSTAMP;VALUE=DATE-TIME:20230513T110000Z
+UID:54262
+DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=023&txtSessionId=54262&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Musketeers: D’Artagnan
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T194000
+DTSTAMP;VALUE=DATE-TIME:20230514T161500Z
+UID:54266
+DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=023&txtSessionId=54266&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Musketeers: D’Artagnan
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T171000
+DTSTAMP;VALUE=DATE-TIME:20230515T134500Z
+UID:54273
+DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=023&txtSessionId=54273&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Musketeers: D’Artagnan
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T172500
+DTSTAMP;VALUE=DATE-TIME:20230516T140000Z
+UID:54274
+DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=023&txtSessionId=54274&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Musketeers: D’Artagnan
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T195500
+DTSTAMP;VALUE=DATE-TIME:20230517T163000Z
+UID:54280
+DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=023&txtSessionId=54280&visLang=1
+LOCATION:Picture House London - Crouch End
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Three Musketeers: D’Artagnan
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T165500
+DTSTAMP;VALUE=DATE-TIME:20230518T133000Z
+UID:54258
+DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
+ rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=023&txtSessionId=54258&visLang=1
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
@@ -2019,712 +2459,6 @@ DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen Four\n\nhttps://www.pictu
  rehouses.com/movie-details/023/HO00012870/return-to-seoul/\n\nBooking URL:
   https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
  acode=023&txtSessionId=54196&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Die Zauberflöte (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T214500
-DTSTAMP;VALUE=DATE-TIME:20230603T165500Z
-UID:48054
-DESCRIPTION:Duration: 3h 30m (210 min)\n\nScreen Four\n\nLive via Satellit
- e: This screening will be streamed live via a Satellite Feed\n\nhttps://ww
- w.picturehouses.com/movie-details/023/HO00011961/met-opera-live-die-zauber
- flote-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
- visSelectTickets.aspx?cinemacode=023&txtSessionId=48054&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MET OPERA LIVE: DON GIOVANNI (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T213000
-DTSTAMP;VALUE=DATE-TIME:20230520T165500Z
-UID:48053
-DESCRIPTION:Duration: 3h 14m (194 min)\n\nScreen Four\n\nLive via Satellit
- e: This screening will be streamed live via a Satellite Feed\n\nhttps://ww
- w.picturehouses.com/movie-details/023/HO00011959/met-opera-live-don-giovan
- ni-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=023&txtSessionId=48053&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Blow Up A Pipeline
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T200500
-DTSTAMP;VALUE=DATE-TIME:20230510T170000Z
-UID:54111
-DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=54111&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Blow Up A Pipeline
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T143500
-DTSTAMP;VALUE=DATE-TIME:20230511T113000Z
-UID:54112
-DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=54112&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Blow Up A Pipeline
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T200500
-DTSTAMP;VALUE=DATE-TIME:20230512T170000Z
-UID:54256
-DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=54256&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Blow Up A Pipeline
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T195000
-DTSTAMP;VALUE=DATE-TIME:20230513T164500Z
-UID:54263
-DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=54263&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Blow Up A Pipeline
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T141500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T162000
-DTSTAMP;VALUE=DATE-TIME:20230514T131500Z
-UID:54267
-DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=54267&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Blow Up A Pipeline
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T200500
-DTSTAMP;VALUE=DATE-TIME:20230516T170000Z
-UID:54276
-DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=54276&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Blow Up A Pipeline
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T163500
-DTSTAMP;VALUE=DATE-TIME:20230517T133000Z
-UID:54287
-DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=54287&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How To Blow Up A Pipeline
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T174000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T194500
-DTSTAMP;VALUE=DATE-TIME:20230518T164000Z
-UID:54259
-DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012832/how-to-blow-up-a-pipeline/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=54259&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kill List
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T195500
-DTSTAMP;VALUE=DATE-TIME:20230522T170000Z
-UID:53549
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen Five\n\nCulture Shock: Ded
- icated to bringing you the best in cult and genre films.\n\nhttps://www.pi
- cturehouses.com/movie-details/023/HO00003531/kill-list/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=023&txtSessionId=53549&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T202500
-DTSTAMP;VALUE=DATE-TIME:20230510T170000Z
-UID:54087
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=54087&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T171000
-DTSTAMP;VALUE=DATE-TIME:20230511T134500Z
-UID:54088
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=54088&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T225500
-DTSTAMP;VALUE=DATE-TIME:20230511T193000Z
-UID:54089
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=54089&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T172500
-DTSTAMP;VALUE=DATE-TIME:20230512T140000Z
-UID:54257
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=54257&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T142500
-DTSTAMP;VALUE=DATE-TIME:20230513T110000Z
-UID:54262
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=54262&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T194000
-DTSTAMP;VALUE=DATE-TIME:20230514T161500Z
-UID:54266
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=54266&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T171000
-DTSTAMP;VALUE=DATE-TIME:20230515T134500Z
-UID:54273
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=54273&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T172500
-DTSTAMP;VALUE=DATE-TIME:20230516T140000Z
-UID:54274
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=54274&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T195500
-DTSTAMP;VALUE=DATE-TIME:20230517T163000Z
-UID:54280
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=54280&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Three Musketeers: D’Artagnan
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T165500
-DTSTAMP;VALUE=DATE-TIME:20230518T133000Z
-UID:54258
-DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen Five\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012878/the-three-musketeers-dartagnan/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=54258&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In The Earth
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T201000
-DTSTAMP;VALUE=DATE-TIME:20230515T170000Z
-UID:53548
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen Five\n\nCulture Shock: De
- dicated to bringing you the best in cult and genre films.\n\nhttps://www.p
- icturehouses.com/movie-details/023/HO00010833/in-the-earth/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=023&txtSessionId=53548&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXHIBITION ON SCREEN: Tokyo Stories
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T195000
-DTSTAMP;VALUE=DATE-TIME:20230523T170000Z
-UID:48703
-DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen Five\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012071/exhibition-on-screen-tokyo-storie
- s/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=48703&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Berliner Philharmoniker LIVE: Summer Concert
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T183000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T204500
-DTSTAMP;VALUE=DATE-TIME:20230616T173000Z
-UID:53378
-DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen Four\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nLive via Satellite: This screening w
- ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
- /movie-details/023/HO00012825/berliner-philharmoniker-live-summer-concert/
- \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
- ckets.aspx?cinemacode=023&txtSessionId=53378&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T222000
-DTSTAMP;VALUE=DATE-TIME:20230517T180000Z
-UID:53984
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen One\n\nMembers' Priority 
- Booking: Tickets are only available to Picturehouse Members. Enter your Me
- mbership Card number.\n\nPreview: A special preview screening of this film
- . See it before anyone else on the big screen!\n\nhttps://www.picturehouse
- s.com/movie-details/023/HO00012826/beau-is-afraid/\n\nBooking URL: https:/
- /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=02
- 3&txtSessionId=53984&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230519T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230519T222000
-DTSTAMP;VALUE=DATE-TIME:20230519T180000Z
-UID:53838
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen One\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012826/beau-is-afraid/\n\nBooking URL: h
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=023&txtSessionId=53838&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T222000
-DTSTAMP;VALUE=DATE-TIME:20230520T180000Z
-UID:53839
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen One\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012826/beau-is-afraid/\n\nBooking URL: h
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=023&txtSessionId=53839&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grateful Dead Meet-Up At The Movies 2023
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T223000
-DTSTAMP;VALUE=DATE-TIME:20230622T180000Z
-UID:54290
-DESCRIPTION:Duration: 3h 10m (190 min)\n\nScreen Three\n\nhttps://www.pict
- urehouses.com/movie-details/023/HO00013047/grateful-dead-meet-up-at-the-mo
- vies-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=023&txtSessionId=54290&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Il Trovatore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
-DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
-UID:47195
-DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen Four\n\nLive via Satellit
- e: This screening will be streamed live via a Satellite Feed\n\nhttps://ww
- w.picturehouses.com/movie-details/023/HO00011869/roh-live-il-trovatore-202
- 3/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=47195&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Sleeping Beauty (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T230000
-DTSTAMP;VALUE=DATE-TIME:20230524T181500Z
-UID:47193
-DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen Four\n\nLive via Satellit
- e: This screening will be streamed live via a Satellite Feed\n\nhttps://ww
- w.picturehouses.com/movie-details/023/HO00011867/roh-live-the-sleeping-bea
- uty-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=023&txtSessionId=47193&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T211000
-DTSTAMP;VALUE=DATE-TIME:20230615T183000Z
-UID:53535
-DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen One\n\nhttps://www.picture
- houses.com/movie-details/023/HO00012865/nt-live-fleabag-encore-2023/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=53535&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T194000
-DTSTAMP;VALUE=DATE-TIME:20230616T170000Z
-UID:53536
-DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen One\n\nhttps://www.picture
- houses.com/movie-details/023/HO00012865/nt-live-fleabag-encore-2023/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=53536&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T194000
-DTSTAMP;VALUE=DATE-TIME:20230617T170000Z
-UID:53537
-DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen One\n\nhttps://www.picture
- houses.com/movie-details/023/HO00012865/nt-live-fleabag-encore-2023/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=53537&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T154000
-DTSTAMP;VALUE=DATE-TIME:20230618T130000Z
-UID:53538
-DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen Two\n\nhttps://www.picture
- houses.com/movie-details/023/HO00012865/nt-live-fleabag-encore-2023/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=023&txtSessionId=53538&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T211500
-DTSTAMP;VALUE=DATE-TIME:20230530T183000Z
-UID:53915
-DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen Two\n\nDiscover: Discover 
- stunning cinema. Each week\, the Picturehouse film team champion one must-
- see film.\n\nhttps://www.picturehouses.com/movie-details/023/HO00012911/re
- ality/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=53915&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2023: Best of Enemies
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T225000
-DTSTAMP;VALUE=DATE-TIME:20230518T183000Z
-UID:51706
-DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012536/nt-live-2023-best-of-enemies/\n\n
- Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
- s.aspx?cinemacode=023&txtSessionId=51706&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230628T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230628T214000
-DTSTAMP;VALUE=DATE-TIME:20230628T183000Z
-UID:53695
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen Three\n\nhttps://www.pict
- urehouses.com/movie-details/023/HO00012824/matthew-bourne-s-sleeping-beaut
- y/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=53695&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T141000
-DTSTAMP;VALUE=DATE-TIME:20230702T110000Z
-UID:53696
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen Three\n\nhttps://www.pict
- urehouses.com/movie-details/023/HO00012824/matthew-bourne-s-sleeping-beaut
- y/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=53696&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roger Waters - This Is Not A Drill - Live From Prague
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T223000
-DTSTAMP;VALUE=DATE-TIME:20230525T184500Z
-UID:53832
-DESCRIPTION:Duration: 2h 45m (165 min)\n\nScreen Four\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nLive via Satellite: This screening w
- ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
- /movie-details/023/HO00012926/roger-waters-this-is-not-a-drill-live-from-p
- rague/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=023&txtSessionId=53832&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T222500
-DTSTAMP;VALUE=DATE-TIME:20230601T184500Z
-UID:54140
-DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
- e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=54140&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T221000
-DTSTAMP;VALUE=DATE-TIME:20230602T183000Z
-UID:54141
-DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
- e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=54141&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T103000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T131000
-DTSTAMP;VALUE=DATE-TIME:20230603T093000Z
-UID:54145
-DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
- e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=54145&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T161000
-DTSTAMP;VALUE=DATE-TIME:20230603T123000Z
-UID:54144
-DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nSubtitled (Caption
- ed): Everyone welcome. This screening has subtitles for people with hearin
- g loss.\n\nhttps://www.picturehouses.com/movie-details/023/HO00013031/spid
- er-man-across-the-spider-verse/\n\nBooking URL: https://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txtSessionId=5414
- 4&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T191000
-DTSTAMP;VALUE=DATE-TIME:20230603T153000Z
-UID:54143
-DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
- e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=54143&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T221000
-DTSTAMP;VALUE=DATE-TIME:20230603T183000Z
-UID:54142
-DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
- e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=54142&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T131500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T155500
-DTSTAMP;VALUE=DATE-TIME:20230604T121500Z
-UID:54147
-DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen One\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
- e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=54147&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T185500
-DTSTAMP;VALUE=DATE-TIME:20230604T151500Z
-UID:54148
-DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen One\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
- e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=54148&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T215500
-DTSTAMP;VALUE=DATE-TIME:20230604T181500Z
-UID:54149
-DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen One\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00013031/spider-man-across-the-spider-vers
- e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=54149&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Old Man Movie: Lactopalypse!
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T215000
-DTSTAMP;VALUE=DATE-TIME:20230529T190000Z
-UID:53916
-DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen Five\n\nCulture Shock: Ded
- icated to bringing you the best in cult and genre films.\n\nhttps://www.pi
- cturehouses.com/movie-details/023/HO00012913/the-old-man-movie-lactopalyps
- e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=023&txtSessionId=53916&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wicker Man: The Final Cut + Recorded Content
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T225500
-DTSTAMP;VALUE=DATE-TIME:20230621T190000Z
-UID:54131
-DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen Three\n\nhttps://www.pict
- urehouses.com/movie-details/023/HO00012931/the-wicker-man-the-final-cut-re
- corded-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticket
- ing/visSelectTickets.aspx?cinemacode=023&txtSessionId=54131&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Richard: I Am Everything
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T220500
-DTSTAMP;VALUE=DATE-TIME:20230516T190000Z
-UID:53837
-DESCRIPTION:Duration: 1h 41m (101 min)\n\nScreen Two\n\nDiscover: Discover
-  stunning cinema. Each week\, the Picturehouse film team champion one must
- -see film.\n\nhttps://www.picturehouses.com/movie-details/023/HO00012868/l
- ittle-richard-i-am-everything/\n\nBooking URL: https://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=023&txtSessionId=53837
- &visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Mulholland Drive
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T225000
-DTSTAMP;VALUE=DATE-TIME:20230601T190000Z
-UID:53100
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012769/sight-sound-top-10-mulholland-dr
- ive/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=023&txtSessionId=53100&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230803T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230803T225000
-DTSTAMP;VALUE=DATE-TIME:20230803T190000Z
-UID:53102
-DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen Four\n\nhttps://www.pictu
- rehouses.com/movie-details/023/HO00012766/sight-sound-top-10-2001-a-space-
- odyssey/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=023&txtSessionId=53102&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master Gardener
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T221000
-DTSTAMP;VALUE=DATE-TIME:20230523T190000Z
-UID:53841
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen Two\n\nDiscover: Discover
-  stunning cinema. Each week\, the Picturehouse film team champion one must
- -see film.\n\nhttps://www.picturehouses.com/movie-details/023/HO00012912/m
- aster-gardener/\n\nBooking URL: https://ticketing.picturehouses.com/Ticket
- ing/visSelectTickets.aspx?cinemacode=023&txtSessionId=53841&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Thousand and One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230511T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230511T223500
-DTSTAMP;VALUE=DATE-TIME:20230511T191500Z
-UID:54015
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen Two\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012874/a-thousand-and-one/\n\nBooking UR
- L: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=023&txtSessionId=54015&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sick Of Myself
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230510T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230510T221000
-DTSTAMP;VALUE=DATE-TIME:20230510T191500Z
-UID:54014
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen Two\n\nhttps://www.picture
- houses.com/movie-details/023/HO00012774/sick-of-myself/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=023&txtSessionId=54014&visLang=1
-LOCATION:Picture House London - Crouch End
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Beau Travail
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230629T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230629T222500
-DTSTAMP;VALUE=DATE-TIME:20230629T193000Z
-UID:53101
-DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen Four\n\nhttps://www.pictur
- ehouses.com/movie-details/023/HO00012764/sight-sound-top-10-beau-travail/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=023&txtSessionId=53101&visLang=1
 LOCATION:Picture House London - Crouch End
 END:VEVENT
 BEGIN:VEVENT
