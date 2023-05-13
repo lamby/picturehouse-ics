@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230512T131918Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230513T135103Z
 NAME:Picture House London - The Gate
 X-WR-CALNAME:Picture House London - The Gate
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230805T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230805T145000
+DTSTAMP;VALUE=DATE-TIME:20230805T110000Z
+UID:13477
+DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/016/HO00012766/sight-sound-top-10-2001-a-space-ody
+ ssey/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
+ ectTickets.aspx?cinemacode=016&txtSessionId=13477&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Life Aquatic & The Grand Budapest Hotel
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230610T120000
@@ -17,18 +29,6 @@ DESCRIPTION:Duration: 3h 51m (231 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rushmore & The French Dispatch
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T155500
-DTSTAMP;VALUE=DATE-TIME:20230603T110000Z
-UID:13640
-DESCRIPTION:Duration: 3h 34m (214 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012923/rushmore-the-french-dispatch/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=016&txtSessionId=13640&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Royal Tenenbaums & Moonrise Kingdom
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T155500
@@ -38,6 +38,18 @@ DESCRIPTION:Duration: 3h 32m (212 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/016/HO00012925/the-royal-tenenbaums-moonrise-kingd
  om/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
  tTickets.aspx?cinemacode=016&txtSessionId=13642&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Beau Travail
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230624T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230624T135500
+DTSTAMP;VALUE=DATE-TIME:20230624T110000Z
+UID:13475
+DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012764/sight-sound-top-10-beau-travail/\n\n
+ Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=016&txtSessionId=13475&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -56,6 +68,33 @@ DESCRIPTION:Duration: 1h 40m (100 min)\n\nScreen 1\n\nreDiscover: Time to
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Lobster
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T142000
+DTSTAMP;VALUE=DATE-TIME:20230521T110000Z
+UID:13444
+DESCRIPTION:Duration: 1h 56m (116 min)\n\nScreen 1\n\nreDiscover: Time to 
+ broaden your cinematic horizons: you'll find the best of what's next with 
+ Discover's under-the-radar releases\, and return to favourites of yesterda
+ y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
+ ie-details/016/HO00012715/a24-the-lobster/\n\nBooking URL: https://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtSes
+ sionId=13444&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rushmore & The French Dispatch
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T155500
+DTSTAMP;VALUE=DATE-TIME:20230603T110000Z
+UID:13640
+DESCRIPTION:Duration: 3h 34m (214 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/016/HO00012923/rushmore-the-french-dispatch/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=016&txtSessionId=13640&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Florida Project
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T141500
@@ -71,18 +110,6 @@ DESCRIPTION:Duration: 1h 51m (111 min)\n\nScreen 1\n\nreDiscover: Time to
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Beau Travail
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230624T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230624T135500
-DTSTAMP;VALUE=DATE-TIME:20230624T110000Z
-UID:13475
-DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/016/HO00012764/sight-sound-top-10-beau-travail/\n\n
- Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
- s.aspx?cinemacode=016&txtSessionId=13475&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - Mulholland Drive
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T145000
@@ -92,33 +119,6 @@ DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/016/HO00012769/sight-sound-top-10-mulholland-drive
  /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
  ickets.aspx?cinemacode=016&txtSessionId=13474&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230805T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230805T145000
-DTSTAMP;VALUE=DATE-TIME:20230805T110000Z
-UID:13477
-DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012766/sight-sound-top-10-2001-a-space-ody
- ssey/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=016&txtSessionId=13477&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Lobster
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T142000
-DTSTAMP;VALUE=DATE-TIME:20230521T110000Z
-UID:13444
-DESCRIPTION:Duration: 1h 56m (116 min)\n\nScreen 1\n\nreDiscover: Time to 
- broaden your cinematic horizons: you'll find the best of what's next with 
- Discover's under-the-radar releases\, and return to favourites of yesterda
- y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
- ie-details/016/HO00012715/a24-the-lobster/\n\nBooking URL: https://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtSes
- sionId=13444&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -158,41 +158,15 @@ DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T175000
-DTSTAMP;VALUE=DATE-TIME:20230512T140000Z
-UID:13568
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012650/the-ei
- ght-mountains/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=016&txtSessionId=13568&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T201000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T230000
-DTSTAMP;VALUE=DATE-TIME:20230512T191000Z
-UID:13566
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=016&txtSessionId=13566&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T172000
-DTSTAMP;VALUE=DATE-TIME:20230513T133000Z
-UID:13689
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012650/the-ei
- ght-mountains/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=016&txtSessionId=13689&visLang=1
+SUMMARY:EXHIBITION ON SCREEN: Tokyo Stories
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T172000
+DTSTAMP;VALUE=DATE-TIME:20230530T143000Z
+UID:13686
+DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012071/exhibition-on-screen-tokyo-stories/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=016&txtSessionId=13686&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -276,18 +250,6 @@ DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nSubtitled (Captioned
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EXHIBITION ON SCREEN: Tokyo Stories
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T172000
-DTSTAMP;VALUE=DATE-TIME:20230530T143000Z
-UID:13686
-DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/016/HO00012071/exhibition-on-screen-tokyo-stories/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=016&txtSessionId=13686&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Master Gardener
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T174500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T195500
@@ -300,106 +262,6 @@ DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nDiscover: Discover s
  etails/016/HO00012912/master-gardener/\n\nBooking URL: https://ticketing.p
  icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtSession
  Id=13622&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230512T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230512T195500
-DTSTAMP;VALUE=DATE-TIME:20230512T170000Z
-UID:13567
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=016&txtSessionId=13567&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230513T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230513T135500
-DTSTAMP;VALUE=DATE-TIME:20230513T110000Z
-UID:13688
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012753/still-a
- -michael-j-fox-movie/\n\nBooking URL: https://ticketing.picturehouses.com/
- Ticketing/visSelectTickets.aspx?cinemacode=016&txtSessionId=13688&visLang=
- 1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T222500
-DTSTAMP;VALUE=DATE-TIME:20230514T193000Z
-UID:13589
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=016&txtSessionId=13589&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T182500
-DTSTAMP;VALUE=DATE-TIME:20230515T153000Z
-UID:13635
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=016&txtSessionId=13635&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T154000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T173500
-DTSTAMP;VALUE=DATE-TIME:20230516T144000Z
-UID:13628
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012753/still-a
- -michael-j-fox-movie/\n\nBooking URL: https://ticketing.picturehouses.com/
- Ticketing/visSelectTickets.aspx?cinemacode=016&txtSessionId=13628&visLang=
- 1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T155500
-DTSTAMP;VALUE=DATE-TIME:20230517T130000Z
-UID:13631
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=016&txtSessionId=13631&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T185500
-DTSTAMP;VALUE=DATE-TIME:20230518T160000Z
-UID:13630
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=016&txtSessionId=13630&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Still: A Michael J. Fox Movie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T185500
-DTSTAMP;VALUE=DATE-TIME:20230520T160000Z
-UID:13639
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
- ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=016&txtSessionId=13639&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -456,19 +318,6 @@ DESCRIPTION:Duration: 3h 19m (199 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Il Trovatore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
-DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
-UID:12178
-DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 1\n\nLive via Satellite: 
- This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/016/HO00011869/roh-live-il-trovatore-2023/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=016&txtSessionId=12178&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: The Sleeping Beauty (2023)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T191500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T230000
@@ -479,6 +328,19 @@ DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 1\n\nLive via Satellite:
  icturehouses.com/movie-details/016/HO00011867/roh-live-the-sleeping-beauty
  -2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
  lectTickets.aspx?cinemacode=016&txtSessionId=12177&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Il Trovatore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
+DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
+UID:12178
+DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 1\n\nLive via Satellite: 
+ This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
+ icturehouses.com/movie-details/016/HO00011869/roh-live-il-trovatore-2023/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=016&txtSessionId=12178&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -622,6 +484,18 @@ DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NT Live 2023: GOOD (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T224500
+DTSTAMP;VALUE=DATE-TIME:20230608T190000Z
+UID:13723
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/016/HO00012457/nt-live-2023-good-encore/\n\nBookin
+ g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=016&txtSessionId=13723&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Wicker Man: The Final Cut + Recorded Content
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T201000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T230500
@@ -631,6 +505,80 @@ DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/016/HO00012931/the-wicker-man-the-final-cut-record
  ed-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
  visSelectTickets.aspx?cinemacode=016&txtSessionId=13706&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still: A Michael J. Fox Movie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230514T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230514T222500
+DTSTAMP;VALUE=DATE-TIME:20230514T193000Z
+UID:13589
+DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=016&txtSessionId=13589&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still: A Michael J. Fox Movie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230515T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230515T182500
+DTSTAMP;VALUE=DATE-TIME:20230515T153000Z
+UID:13635
+DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=016&txtSessionId=13635&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still: A Michael J. Fox Movie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230516T154000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230516T173500
+DTSTAMP;VALUE=DATE-TIME:20230516T144000Z
+UID:13628
+DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012753/still-a
+ -michael-j-fox-movie/\n\nBooking URL: https://ticketing.picturehouses.com/
+ Ticketing/visSelectTickets.aspx?cinemacode=016&txtSessionId=13628&visLang=
+ 1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still: A Michael J. Fox Movie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230517T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230517T155500
+DTSTAMP;VALUE=DATE-TIME:20230517T130000Z
+UID:13631
+DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=016&txtSessionId=13631&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still: A Michael J. Fox Movie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230518T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230518T185500
+DTSTAMP;VALUE=DATE-TIME:20230518T160000Z
+UID:13630
+DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=016&txtSessionId=13630&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still: A Michael J. Fox Movie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T185500
+DTSTAMP;VALUE=DATE-TIME:20230520T160000Z
+UID:13639
+DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012753/still-a-michael-j-fox-movie/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=016&txtSessionId=13639&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 END:VCALENDAR
