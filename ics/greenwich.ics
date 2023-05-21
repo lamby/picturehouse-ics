@@ -1,9 +1,33 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230520T161506Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230521T173350Z
 NAME:Picture House London - Greenwich
 X-WR-CALNAME:Picture House London - Greenwich
+BEGIN:VEVENT
+SUMMARY:Dog Friendly - Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230611T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230611T134000
+DTSTAMP;VALUE=DATE-TIME:20230611T100000Z
+UID:67503
+DESCRIPTION:Duration: 2h 20m (140 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00013033/dog-friendly-across-the-spider-vers
+ e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=021&txtSessionId=67503&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dog-Friendly Screening: The Little Mermaid (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T133500
+DTSTAMP;VALUE=DATE-TIME:20230528T100000Z
+UID:67502
+DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00013013/dog-friendly-screening-the-little-m
+ ermaid-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=021&txtSessionId=67502&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Little Mermaid (2023)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T110000
@@ -324,39 +348,15 @@ DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dog-Friendly Screening: The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T133500
-DTSTAMP;VALUE=DATE-TIME:20230528T100000Z
-UID:67502
-DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00013013/dog-friendly-screening-the-little-m
- ermaid-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing
- /visSelectTickets.aspx?cinemacode=021&txtSessionId=67502&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dog Friendly - Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230611T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230611T134000
-DTSTAMP;VALUE=DATE-TIME:20230611T100000Z
-UID:67503
-DESCRIPTION:Duration: 2h 20m (140 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00013033/dog-friendly-across-the-spider-vers
- e/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=021&txtSessionId=67503&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Super Mario Bros. Movie (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T132500
-DTSTAMP;VALUE=DATE-TIME:20230521T103000Z
-UID:67555
-DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00012697/the-super-mario-bros-movie-2d/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=021&txtSessionId=67555&visLang=1
+SUMMARY:Don Giovanni (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T153500
+DTSTAMP;VALUE=DATE-TIME:20230523T110000Z
+UID:60249
+DESCRIPTION:Duration: 3h 14m (194 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00011960/met-opera-encore-don-giovanni-2023/
+ \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=021&txtSessionId=60249&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -372,27 +372,15 @@ DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Die Zauberflöte (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230606T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230606T155000
-DTSTAMP;VALUE=DATE-TIME:20230606T110000Z
-UID:60251
-DESCRIPTION:Duration: 3h 30m (210 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00011962/met-opera-encore-die-zauberflote-20
- 23/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=021&txtSessionId=60251&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Don Giovanni (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T153500
-DTSTAMP;VALUE=DATE-TIME:20230523T110000Z
-UID:60249
-DESCRIPTION:Duration: 3h 14m (194 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00011960/met-opera-encore-don-giovanni-2023/
- \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
- ckets.aspx?cinemacode=021&txtSessionId=60249&visLang=1
+SUMMARY:NT Live 2023: Best of Enemies (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T152000
+DTSTAMP;VALUE=DATE-TIME:20230531T110000Z
+UID:64622
+DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012537/nt-live-2023-best-of-enemies-encore
+ /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
+ ickets.aspx?cinemacode=021&txtSessionId=64622&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -408,27 +396,117 @@ DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live 2023: Best of Enemies (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T152000
-DTSTAMP;VALUE=DATE-TIME:20230531T110000Z
-UID:64622
-DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012537/nt-live-2023-best-of-enemies-encore
- /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=021&txtSessionId=64622&visLang=1
+SUMMARY:Die Zauberflöte (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230606T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230606T155000
+DTSTAMP;VALUE=DATE-TIME:20230606T110000Z
+UID:60251
+DESCRIPTION:Duration: 3h 30m (210 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00011962/met-opera-encore-die-zauberflote-20
+ 23/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=021&txtSessionId=60251&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fantastic Mr. Fox & Isle of Dogs
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T171500
-DTSTAMP;VALUE=DATE-TIME:20230521T123000Z
-UID:66963
-DESCRIPTION:Duration: 3h 23m (203 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012922/fantastic-mr-fox-isle-of-dogs/\n\nB
- ooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=021&txtSessionId=66963&visLang=1
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T125000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T150000
+DTSTAMP;VALUE=DATE-TIME:20230522T115000Z
+UID:67565
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
+ ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=021&txtSessionId=67565&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T201000
+DTSTAMP;VALUE=DATE-TIME:20230522T170000Z
+UID:67539
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012749/the-un
+ likely-pilgrimage-of-harold-fry/\n\nBooking URL: https://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=675
+ 39&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T121500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T142500
+DTSTAMP;VALUE=DATE-TIME:20230523T111500Z
+UID:67594
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012749/the-un
+ likely-pilgrimage-of-harold-fry/\n\nBooking URL: https://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=675
+ 94&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T121500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T142500
+DTSTAMP;VALUE=DATE-TIME:20230524T111500Z
+UID:67606
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
+ ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=021&txtSessionId=67606&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T194000
+DTSTAMP;VALUE=DATE-TIME:20230524T163000Z
+UID:67576
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
+ ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=021&txtSessionId=67576&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T141000
+DTSTAMP;VALUE=DATE-TIME:20230525T110000Z
+UID:67615
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 4\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012749/the-un
+ likely-pilgrimage-of-harold-fry/\n\nBooking URL: https://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=676
+ 15&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T171000
+DTSTAMP;VALUE=DATE-TIME:20230525T140000Z
+UID:67612
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
+ ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=021&txtSessionId=67612&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Unlikely Pilgrimage of Harold Fry
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T194000
+DTSTAMP;VALUE=DATE-TIME:20230525T163000Z
+UID:67583
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
+ ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=021&txtSessionId=67583&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -444,30 +522,6 @@ DESCRIPTION:Duration: 3h 12m (192 min)\n\nScreen 3\n\nhttps://www.pictureh
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rushmore & The French Dispatch
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T185500
-DTSTAMP;VALUE=DATE-TIME:20230604T140000Z
-UID:66964
-DESCRIPTION:Duration: 3h 34m (214 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012923/rushmore-the-french-dispatch/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=021&txtSessionId=66964&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Life Aquatic & The Grand Budapest Hotel
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230611T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230611T191500
-DTSTAMP;VALUE=DATE-TIME:20230611T140000Z
-UID:66965
-DESCRIPTION:Duration: 3h 51m (231 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012924/the-life-aquatic-the-grand-budapest
- -hotel/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visS
- electTickets.aspx?cinemacode=021&txtSessionId=66965&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:André Rieu’s 2023 Maastricht Concert: Love is All Around
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230827T150000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230827T182000
@@ -480,6 +534,18 @@ DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rushmore & The French Dispatch
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T185500
+DTSTAMP;VALUE=DATE-TIME:20230604T140000Z
+UID:66964
+DESCRIPTION:Duration: 3h 34m (214 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012923/rushmore-the-french-dispatch/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=021&txtSessionId=66964&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Royal Tenenbaums & Moonrise Kingdom
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T150000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T185500
@@ -489,6 +555,18 @@ DESCRIPTION:Duration: 3h 32m (212 min)\n\nScreen 3\n\nhttps://www.pictureh
  ouses.com/movie-details/021/HO00012925/the-royal-tenenbaums-moonrise-kingd
  om/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
  tTickets.aspx?cinemacode=021&txtSessionId=66966&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Life Aquatic & The Grand Budapest Hotel
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230611T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230611T191500
+DTSTAMP;VALUE=DATE-TIME:20230611T140000Z
+UID:66965
+DESCRIPTION:Duration: 3h 51m (231 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012924/the-life-aquatic-the-grand-budapest
+ -hotel/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visS
+ electTickets.aspx?cinemacode=021&txtSessionId=66965&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -519,92 +597,695 @@ DESCRIPTION:Duration: 1h 40m (100 min)\n\nScreen 2\n\nreDiscover: Time to
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Lobster
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T192000
-DTSTAMP;VALUE=DATE-TIME:20230521T160000Z
-UID:65831
-DESCRIPTION:Duration: 1h 56m (116 min)\n\nScreen 2\n\nreDiscover: Time to 
- broaden your cinematic horizons: you'll find the best of what's next with 
- Discover's under-the-radar releases\, and return to favourites of yesterda
- y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
- ie-details/021/HO00012715/a24-the-lobster/\n\nBooking URL: https://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSes
- sionId=65831&visLang=1
+SUMMARY:Met Opera Live: Die Zauberflöte (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T214500
+DTSTAMP;VALUE=DATE-TIME:20230603T165500Z
+UID:60250
+DESCRIPTION:Duration: 3h 30m (210 min)\n\nScreen 2\n\nLive via Satellite: 
+ This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
+ icturehouses.com/movie-details/021/HO00011961/met-opera-live-die-zauberflo
+ te-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=021&txtSessionId=60250&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T194000
-DTSTAMP;VALUE=DATE-TIME:20230520T163000Z
-UID:67550
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012929/are-you-there-god-its-me-margaret/\
+SUMMARY:EXHIBITION ON SCREEN: Tokyo Stories
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T181500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T200500
+DTSTAMP;VALUE=DATE-TIME:20230523T171500Z
+UID:61004
+DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00012071/exhibition-on-screen-tokyo-stories/\
  n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=021&txtSessionId=67550&visLang=1
+ kets.aspx?cinemacode=021&txtSessionId=61004&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T204000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T225000
-DTSTAMP;VALUE=DATE-TIME:20230520T194000Z
-UID:67551
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=021&txtSessionId=67551&visLang=1
+SUMMARY:Berliner Philharmoniker LIVE: Summer Concert
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T183000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T204500
+DTSTAMP;VALUE=DATE-TIME:20230616T173000Z
+UID:66445
+DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 2\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nLive via Satellite: This screening will
+  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
+ vie-details/021/HO00012825/berliner-philharmoniker-live-summer-concert/\n\
+ nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=021&txtSessionId=66445&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T131000
-DTSTAMP;VALUE=DATE-TIME:20230521T100000Z
-UID:67558
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=021&txtSessionId=67558&visLang=1
+SUMMARY:Ziggy Stardust: The Global Premiere
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T220000
+DTSTAMP;VALUE=DATE-TIME:20230703T180000Z
+UID:67619
+DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 2\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nLive via Satellite: This screening will
+  be streamed live via a Satellite Feed\n\nQ&A: This screening will be foll
+ owed by a Q&A.\n\nhttps://www.picturehouses.com/movie-details/021/HO000130
+ 94/ziggy-stardust-the-global-premiere/\n\nBooking URL: https://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=67619&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T125000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T150000
-DTSTAMP;VALUE=DATE-TIME:20230521T115000Z
-UID:67533
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=021&txtSessionId=67533&visLang=1
+SUMMARY:Ziggy Stardust: The Global Premiere
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T220000
+DTSTAMP;VALUE=DATE-TIME:20230706T180000Z
+UID:67620
+DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 2\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nLive via Satellite: This screening will
+  be streamed live via a Satellite Feed\n\nQ&A: This screening will be foll
+ owed by a Q&A.\n\nhttps://www.picturehouses.com/movie-details/021/HO000130
+ 94/ziggy-stardust-the-global-premiere/\n\nBooking URL: https://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=67620&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T171000
-DTSTAMP;VALUE=DATE-TIME:20230521T140000Z
-UID:67560
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=021&txtSessionId=67560&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T194000
-DTSTAMP;VALUE=DATE-TIME:20230521T163000Z
-UID:67559
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nSubtitled (Captioned
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T222000
+DTSTAMP;VALUE=DATE-TIME:20230521T180000Z
+UID:67123
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nSubtitled (Captioned
  ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012929/are-yo
- u-there-god-its-me-margaret/\n\nBooking URL: https://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67559&v
- isLang=1
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012826/beau-i
+ s-afraid/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=021&txtSessionId=67123&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T131500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T163500
+DTSTAMP;VALUE=DATE-TIME:20230522T121500Z
+UID:67127
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=021&txtSessionId=67127&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T202000
+DTSTAMP;VALUE=DATE-TIME:20230522T160000Z
+UID:67126
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012826/beau-i
+ s-afraid/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=021&txtSessionId=67126&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T223500
+DTSTAMP;VALUE=DATE-TIME:20230522T181500Z
+UID:67125
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=021&txtSessionId=67125&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T155000
+DTSTAMP;VALUE=DATE-TIME:20230523T113000Z
+UID:67598
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012826/beau-i
+ s-afraid/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=021&txtSessionId=67598&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T202000
+DTSTAMP;VALUE=DATE-TIME:20230523T160000Z
+UID:67588
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=021&txtSessionId=67588&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T192000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T224000
+DTSTAMP;VALUE=DATE-TIME:20230523T182000Z
+UID:67128
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=021&txtSessionId=67128&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T132000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T164000
+DTSTAMP;VALUE=DATE-TIME:20230524T122000Z
+UID:67602
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=021&txtSessionId=67602&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T202000
+DTSTAMP;VALUE=DATE-TIME:20230524T160000Z
+UID:67597
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=021&txtSessionId=67597&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T192000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T224000
+DTSTAMP;VALUE=DATE-TIME:20230524T182000Z
+UID:67129
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=021&txtSessionId=67129&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T132000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T164000
+DTSTAMP;VALUE=DATE-TIME:20230525T122000Z
+UID:67600
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=021&txtSessionId=67600&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T202000
+DTSTAMP;VALUE=DATE-TIME:20230525T160000Z
+UID:67599
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=021&txtSessionId=67599&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T192000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T224000
+DTSTAMP;VALUE=DATE-TIME:20230525T182000Z
+UID:67130
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012826/beau-i
+ s-afraid/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=021&txtSessionId=67130&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230730T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230730T220500
+DTSTAMP;VALUE=DATE-TIME:20230730T181500Z
+UID:66296
+DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012766/sight-sound-top-10-2001-a-space-ody
+ ssey/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
+ ectTickets.aspx?cinemacode=021&txtSessionId=66296&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Sleeping Beauty (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T230000
+DTSTAMP;VALUE=DATE-TIME:20230524T181500Z
+UID:59320
+DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 2\n\nLive via Satellite: 
+ This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
+ icturehouses.com/movie-details/021/HO00011867/roh-live-the-sleeping-beauty
+ -2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=021&txtSessionId=59320&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Broker
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T214500
+DTSTAMP;VALUE=DATE-TIME:20230604T181500Z
+UID:67315
+DESCRIPTION:Duration: 2h 09m (129 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012296/broker/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&tx
+ tSessionId=67315&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Il Trovatore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
+DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
+UID:59322
+DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 2\n\nLive via Satellite: 
+ This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
+ icturehouses.com/movie-details/021/HO00011869/roh-live-il-trovatore-2023/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=021&txtSessionId=59322&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Mulholland Drive
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T222000
+DTSTAMP;VALUE=DATE-TIME:20230528T183000Z
+UID:66294
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012769/sight-sound-top-10-mulholland-drive
+ /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
+ ickets.aspx?cinemacode=021&txtSessionId=66294&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Superman (45th Anniversary)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230612T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230612T221500
+DTSTAMP;VALUE=DATE-TIME:20230612T183000Z
+UID:67314
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012906/superman-45th-anniversary/\n\nBooki
+ ng URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=021&txtSessionId=67314&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wicker Man: The Final Cut + Recorded Content
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T222500
+DTSTAMP;VALUE=DATE-TIME:20230621T183000Z
+UID:67313
+DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012931/the-wicker-man-the-final-cut-record
+ ed-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=021&txtSessionId=67313&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2023: GOOD (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T221500
+DTSTAMP;VALUE=DATE-TIME:20230607T183000Z
+UID:67505
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012457/nt-liv
+ e-2023-good-encore/\n\nBooking URL: https://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67505&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Bourne's Sleeping Beauty
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230628T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230628T214000
+DTSTAMP;VALUE=DATE-TIME:20230628T183000Z
+UID:66801
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012824/matthew-bourne-s-sleeping-beauty/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=66801&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Bourne's Sleeping Beauty
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T151000
+DTSTAMP;VALUE=DATE-TIME:20230702T120000Z
+UID:66802
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012824/matthew-bourne-s-sleeping-beauty/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=66802&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T221500
+DTSTAMP;VALUE=DATE-TIME:20230521T183000Z
+UID:67530
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=67530&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T170500
+DTSTAMP;VALUE=DATE-TIME:20230522T132000Z
+UID:67542
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=67542&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T194500
+DTSTAMP;VALUE=DATE-TIME:20230522T160000Z
+UID:67538
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=67538&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T201000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T225500
+DTSTAMP;VALUE=DATE-TIME:20230522T191000Z
+UID:67561
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012859/guardi
+ ans-of-the-galaxy-vol-3-2d/\n\nBooking URL: https://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67561&vi
+ sLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T115000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T143500
+DTSTAMP;VALUE=DATE-TIME:20230523T105000Z
+UID:67595
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=67595&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T161000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T185500
+DTSTAMP;VALUE=DATE-TIME:20230523T151000Z
+UID:67573
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=67573&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T231500
+DTSTAMP;VALUE=DATE-TIME:20230523T193000Z
+UID:67568
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012859/guardi
+ ans-of-the-galaxy-vol-3-2d/\n\nBooking URL: https://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67568&vi
+ sLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T151500
+DTSTAMP;VALUE=DATE-TIME:20230524T113000Z
+UID:67604
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=67604&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T154500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T183000
+DTSTAMP;VALUE=DATE-TIME:20230524T144500Z
+UID:67580
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012859/guardi
+ ans-of-the-galaxy-vol-3-2d/\n\nBooking URL: https://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67580&vi
+ sLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T203000
+DTSTAMP;VALUE=DATE-TIME:20230524T164500Z
+UID:67575
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=67575&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T171500
+DTSTAMP;VALUE=DATE-TIME:20230525T133000Z
+UID:67609
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=67609&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T203000
+DTSTAMP;VALUE=DATE-TIME:20230525T164500Z
+UID:67587
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=021&txtSessionId=67587&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T194000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T223000
+DTSTAMP;VALUE=DATE-TIME:20230521T184000Z
+UID:67537
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67537&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T155000
+DTSTAMP;VALUE=DATE-TIME:20230522T120000Z
+UID:67564
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67564&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T161000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T190000
+DTSTAMP;VALUE=DATE-TIME:20230522T151000Z
+UID:67540
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67540&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T225000
+DTSTAMP;VALUE=DATE-TIME:20230522T190000Z
+UID:67545
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67545&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T175000
+DTSTAMP;VALUE=DATE-TIME:20230523T140000Z
+UID:67567
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67567&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T225000
+DTSTAMP;VALUE=DATE-TIME:20230523T190000Z
+UID:67570
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67570&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T143500
+DTSTAMP;VALUE=DATE-TIME:20230524T104500Z
+UID:67614
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67614&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T173000
+DTSTAMP;VALUE=DATE-TIME:20230524T134000Z
+UID:67577
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67577&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T225000
+DTSTAMP;VALUE=DATE-TIME:20230524T190000Z
+UID:67574
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67574&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T134500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T163500
+DTSTAMP;VALUE=DATE-TIME:20230525T124500Z
+UID:67581
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67581&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T161500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T190500
+DTSTAMP;VALUE=DATE-TIME:20230525T151500Z
+UID:67584
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67584&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T225000
+DTSTAMP;VALUE=DATE-TIME:20230525T190000Z
+UID:67611
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=67611&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greatest Days - Premiere Event
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T221000
+DTSTAMP;VALUE=DATE-TIME:20230615T184500Z
+UID:67504
+DESCRIPTION:Duration: 2h 22m (142 min)\n\nScreen 2\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nLive via Satellite: This screening will
+  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
+ vie-details/021/HO00013065/greatest-days-premiere-event/\n\nBooking URL: h
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=021&txtSessionId=67504&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Old Man Movie: Lactopalypse!
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T213500
+DTSTAMP;VALUE=DATE-TIME:20230529T184500Z
+UID:66961
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 5\n\nCulture Shock: Dedica
+ ted to bringing you the best in cult and genre films.\n\nhttps://www.pictu
+ rehouses.com/movie-details/021/HO00012913/the-old-man-movie-lactopalypse/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=021&txtSessionId=66961&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roger Waters - This Is Not A Drill - Live From Prague
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T223000
+DTSTAMP;VALUE=DATE-TIME:20230525T184500Z
+UID:66960
+DESCRIPTION:Duration: 2h 45m (165 min)\n\nScreen 2\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nLive via Satellite: This screening will
+  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
+ vie-details/021/HO00012926/roger-waters-this-is-not-a-drill-live-from-prag
+ ue/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=021&txtSessionId=66960&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -819,855 +1500,6 @@ DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nSubtitled (Captioned
  u-there-god-its-me-margaret/\n\nBooking URL: https://ticketing.picturehous
  es.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67601&v
  isLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T174000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T195000
-DTSTAMP;VALUE=DATE-TIME:20230521T164000Z
-UID:67531
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=021&txtSessionId=67531&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T125000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T150000
-DTSTAMP;VALUE=DATE-TIME:20230522T115000Z
-UID:67565
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=021&txtSessionId=67565&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T201000
-DTSTAMP;VALUE=DATE-TIME:20230522T170000Z
-UID:67539
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012749/the-un
- likely-pilgrimage-of-harold-fry/\n\nBooking URL: https://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=675
- 39&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T121500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T142500
-DTSTAMP;VALUE=DATE-TIME:20230523T111500Z
-UID:67594
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012749/the-un
- likely-pilgrimage-of-harold-fry/\n\nBooking URL: https://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=675
- 94&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T121500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T142500
-DTSTAMP;VALUE=DATE-TIME:20230524T111500Z
-UID:67606
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=021&txtSessionId=67606&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T194000
-DTSTAMP;VALUE=DATE-TIME:20230524T163000Z
-UID:67576
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=021&txtSessionId=67576&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T141000
-DTSTAMP;VALUE=DATE-TIME:20230525T110000Z
-UID:67615
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 4\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012749/the-un
- likely-pilgrimage-of-harold-fry/\n\nBooking URL: https://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=676
- 15&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T171000
-DTSTAMP;VALUE=DATE-TIME:20230525T140000Z
-UID:67612
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=021&txtSessionId=67612&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T194000
-DTSTAMP;VALUE=DATE-TIME:20230525T163000Z
-UID:67583
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=021&txtSessionId=67583&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MET OPERA LIVE: DON GIOVANNI (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T213000
-DTSTAMP;VALUE=DATE-TIME:20230520T165500Z
-UID:60248
-DESCRIPTION:Duration: 3h 14m (194 min)\n\nScreen 2\n\nLive via Satellite: 
- This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/021/HO00011959/met-opera-live-don-giovanni-
- 2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=021&txtSessionId=60248&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Die Zauberflöte (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T214500
-DTSTAMP;VALUE=DATE-TIME:20230603T165500Z
-UID:60250
-DESCRIPTION:Duration: 3h 30m (210 min)\n\nScreen 2\n\nLive via Satellite: 
- This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/021/HO00011961/met-opera-live-die-zauberflo
- te-2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=021&txtSessionId=60250&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T202000
-DTSTAMP;VALUE=DATE-TIME:20230520T170000Z
-UID:67528
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67528&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T201000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T223000
-DTSTAMP;VALUE=DATE-TIME:20230521T191000Z
-UID:67536
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67536&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T114500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T140500
-DTSTAMP;VALUE=DATE-TIME:20230522T104500Z
-UID:67566
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67566&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T152000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T174000
-DTSTAMP;VALUE=DATE-TIME:20230522T142000Z
-UID:67544
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67544&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T144000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T170000
-DTSTAMP;VALUE=DATE-TIME:20230523T134000Z
-UID:67591
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67591&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T172000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T194000
-DTSTAMP;VALUE=DATE-TIME:20230523T162000Z
-UID:67590
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67590&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T172000
-DTSTAMP;VALUE=DATE-TIME:20230524T140000Z
-UID:67605
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67605&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T205000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T231000
-DTSTAMP;VALUE=DATE-TIME:20230524T195000Z
-UID:67603
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67603&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T122000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T144000
-DTSTAMP;VALUE=DATE-TIME:20230525T112000Z
-UID:67613
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67613&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T205000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T231000
-DTSTAMP;VALUE=DATE-TIME:20230525T195000Z
-UID:67610
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67610&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:EXHIBITION ON SCREEN: Tokyo Stories
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T181500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T200500
-DTSTAMP;VALUE=DATE-TIME:20230523T171500Z
-UID:61004
-DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00012071/exhibition-on-screen-tokyo-stories/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=021&txtSessionId=61004&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Berliner Philharmoniker LIVE: Summer Concert
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T183000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T204500
-DTSTAMP;VALUE=DATE-TIME:20230616T173000Z
-UID:66445
-DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 2\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nLive via Satellite: This screening will
-  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/021/HO00012825/berliner-philharmoniker-live-summer-concert/\n\
- nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=021&txtSessionId=66445&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ziggy Stardust: The Global Premiere
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T220000
-DTSTAMP;VALUE=DATE-TIME:20230703T180000Z
-UID:67619
-DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 2\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nLive via Satellite: This screening will
-  be streamed live via a Satellite Feed\n\nQ&A: This screening will be foll
- owed by a Q&A.\n\nhttps://www.picturehouses.com/movie-details/021/HO000130
- 94/ziggy-stardust-the-global-premiere/\n\nBooking URL: https://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=67619&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ziggy Stardust: The Global Premiere
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T220000
-DTSTAMP;VALUE=DATE-TIME:20230706T180000Z
-UID:67620
-DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 2\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nLive via Satellite: This screening will
-  be streamed live via a Satellite Feed\n\nQ&A: This screening will be foll
- owed by a Q&A.\n\nhttps://www.picturehouses.com/movie-details/021/HO000130
- 94/ziggy-stardust-the-global-premiere/\n\nBooking URL: https://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=67620&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Sleeping Beauty (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T230000
-DTSTAMP;VALUE=DATE-TIME:20230524T181500Z
-UID:59320
-DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 2\n\nLive via Satellite: 
- This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/021/HO00011867/roh-live-the-sleeping-beauty
- -2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=021&txtSessionId=59320&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Il Trovatore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
-DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
-UID:59322
-DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 2\n\nLive via Satellite: 
- This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/021/HO00011869/roh-live-il-trovatore-2023/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=021&txtSessionId=59322&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Broker
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T214500
-DTSTAMP;VALUE=DATE-TIME:20230604T181500Z
-UID:67315
-DESCRIPTION:Duration: 2h 09m (129 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012296/broker/\n\nBooking URL: https://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&tx
- tSessionId=67315&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230730T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230730T220500
-DTSTAMP;VALUE=DATE-TIME:20230730T181500Z
-UID:66296
-DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012766/sight-sound-top-10-2001-a-space-ody
- ssey/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=021&txtSessionId=66296&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2023: GOOD (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T221500
-DTSTAMP;VALUE=DATE-TIME:20230607T183000Z
-UID:67505
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012457/nt-liv
- e-2023-good-encore/\n\nBooking URL: https://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67505&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T225000
-DTSTAMP;VALUE=DATE-TIME:20230520T183000Z
-UID:67121
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67121&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T155000
-DTSTAMP;VALUE=DATE-TIME:20230521T113000Z
-UID:67557
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67557&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T152000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T184000
-DTSTAMP;VALUE=DATE-TIME:20230521T142000Z
-UID:67124
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67124&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T222000
-DTSTAMP;VALUE=DATE-TIME:20230521T180000Z
-UID:67123
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012826/beau-i
- s-afraid/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=021&txtSessionId=67123&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T131500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T163500
-DTSTAMP;VALUE=DATE-TIME:20230522T121500Z
-UID:67127
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67127&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T202000
-DTSTAMP;VALUE=DATE-TIME:20230522T160000Z
-UID:67126
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012826/beau-i
- s-afraid/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=021&txtSessionId=67126&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T223500
-DTSTAMP;VALUE=DATE-TIME:20230522T181500Z
-UID:67125
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67125&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T155000
-DTSTAMP;VALUE=DATE-TIME:20230523T113000Z
-UID:67598
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012826/beau-i
- s-afraid/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=021&txtSessionId=67598&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T202000
-DTSTAMP;VALUE=DATE-TIME:20230523T160000Z
-UID:67588
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67588&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T192000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T224000
-DTSTAMP;VALUE=DATE-TIME:20230523T182000Z
-UID:67128
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67128&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T132000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T164000
-DTSTAMP;VALUE=DATE-TIME:20230524T122000Z
-UID:67602
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67602&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T202000
-DTSTAMP;VALUE=DATE-TIME:20230524T160000Z
-UID:67597
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67597&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T192000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T224000
-DTSTAMP;VALUE=DATE-TIME:20230524T182000Z
-UID:67129
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67129&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T132000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T164000
-DTSTAMP;VALUE=DATE-TIME:20230525T122000Z
-UID:67600
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67600&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T202000
-DTSTAMP;VALUE=DATE-TIME:20230525T160000Z
-UID:67599
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=67599&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T192000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T224000
-DTSTAMP;VALUE=DATE-TIME:20230525T182000Z
-UID:67130
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012826/beau-i
- s-afraid/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=021&txtSessionId=67130&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Superman (45th Anniversary)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230612T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230612T221500
-DTSTAMP;VALUE=DATE-TIME:20230612T183000Z
-UID:67314
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012906/superman-45th-anniversary/\n\nBooki
- ng URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=021&txtSessionId=67314&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Mulholland Drive
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T222000
-DTSTAMP;VALUE=DATE-TIME:20230528T183000Z
-UID:66294
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012769/sight-sound-top-10-mulholland-drive
- /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=021&txtSessionId=66294&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wicker Man: The Final Cut + Recorded Content
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T222500
-DTSTAMP;VALUE=DATE-TIME:20230621T183000Z
-UID:67313
-DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012931/the-wicker-man-the-final-cut-record
- ed-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
- visSelectTickets.aspx?cinemacode=021&txtSessionId=67313&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230628T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230628T214000
-DTSTAMP;VALUE=DATE-TIME:20230628T183000Z
-UID:66801
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012824/matthew-bourne-s-sleeping-beauty/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=66801&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T151000
-DTSTAMP;VALUE=DATE-TIME:20230702T120000Z
-UID:66802
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012824/matthew-bourne-s-sleeping-beauty/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=66802&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Old Man Movie: Lactopalypse!
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T213500
-DTSTAMP;VALUE=DATE-TIME:20230529T184500Z
-UID:66961
-DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 5\n\nCulture Shock: Dedica
- ted to bringing you the best in cult and genre films.\n\nhttps://www.pictu
- rehouses.com/movie-details/021/HO00012913/the-old-man-movie-lactopalypse/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=021&txtSessionId=66961&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greatest Days - Premiere Event
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T221000
-DTSTAMP;VALUE=DATE-TIME:20230615T184500Z
-UID:67504
-DESCRIPTION:Duration: 2h 22m (142 min)\n\nScreen 2\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nLive via Satellite: This screening will
-  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/021/HO00013065/greatest-days-premiere-event/\n\nBooking URL: h
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=021&txtSessionId=67504&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roger Waters - This Is Not A Drill - Live From Prague
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T223000
-DTSTAMP;VALUE=DATE-TIME:20230525T184500Z
-UID:66960
-DESCRIPTION:Duration: 2h 45m (165 min)\n\nScreen 2\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nLive via Satellite: This screening will
-  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/021/HO00012926/roger-waters-this-is-not-a-drill-live-from-prag
- ue/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=021&txtSessionId=66960&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T225000
-DTSTAMP;VALUE=DATE-TIME:20230520T190000Z
-UID:67529
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67529&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T145000
-DTSTAMP;VALUE=DATE-TIME:20230521T110000Z
-UID:67532
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67532&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T194000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T223000
-DTSTAMP;VALUE=DATE-TIME:20230521T184000Z
-UID:67537
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67537&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T155000
-DTSTAMP;VALUE=DATE-TIME:20230522T120000Z
-UID:67564
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67564&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T161000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T190000
-DTSTAMP;VALUE=DATE-TIME:20230522T151000Z
-UID:67540
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67540&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T225000
-DTSTAMP;VALUE=DATE-TIME:20230522T190000Z
-UID:67545
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67545&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T175000
-DTSTAMP;VALUE=DATE-TIME:20230523T140000Z
-UID:67567
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67567&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T225000
-DTSTAMP;VALUE=DATE-TIME:20230523T190000Z
-UID:67570
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67570&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T114500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T143500
-DTSTAMP;VALUE=DATE-TIME:20230524T104500Z
-UID:67614
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67614&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T144000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T173000
-DTSTAMP;VALUE=DATE-TIME:20230524T134000Z
-UID:67577
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67577&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T225000
-DTSTAMP;VALUE=DATE-TIME:20230524T190000Z
-UID:67574
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67574&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T134500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T163500
-DTSTAMP;VALUE=DATE-TIME:20230525T124500Z
-UID:67581
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67581&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T190500
-DTSTAMP;VALUE=DATE-TIME:20230525T151500Z
-UID:67584
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67584&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T225000
-DTSTAMP;VALUE=DATE-TIME:20230525T190000Z
-UID:67611
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 5\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=67611&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1973,6 +1805,114 @@ DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Return to Seoul
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T201000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T223000
+DTSTAMP;VALUE=DATE-TIME:20230521T191000Z
+UID:67536
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=67536&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Return to Seoul
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T140500
+DTSTAMP;VALUE=DATE-TIME:20230522T104500Z
+UID:67566
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=67566&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Return to Seoul
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T152000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T174000
+DTSTAMP;VALUE=DATE-TIME:20230522T142000Z
+UID:67544
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=67544&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Return to Seoul
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T170000
+DTSTAMP;VALUE=DATE-TIME:20230523T134000Z
+UID:67591
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=67591&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Return to Seoul
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T172000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T194000
+DTSTAMP;VALUE=DATE-TIME:20230523T162000Z
+UID:67590
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=67590&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Return to Seoul
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T172000
+DTSTAMP;VALUE=DATE-TIME:20230524T140000Z
+UID:67605
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=67605&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Return to Seoul
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T205000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T231000
+DTSTAMP;VALUE=DATE-TIME:20230524T195000Z
+UID:67603
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=67603&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Return to Seoul
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T122000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T144000
+DTSTAMP;VALUE=DATE-TIME:20230525T112000Z
+UID:67613
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 5\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=67613&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Return to Seoul
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T205000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T231000
+DTSTAMP;VALUE=DATE-TIME:20230525T195000Z
+UID:67610
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/021/HO00012870/return-to-seoul/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=67610&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Master Gardener
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T201500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T222500
@@ -1988,189 +1928,16 @@ DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 3\n\nDiscover: Discover s
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230520T202000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230520T230500
-DTSTAMP;VALUE=DATE-TIME:20230520T192000Z
-UID:67548
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67548&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T135000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T163500
-DTSTAMP;VALUE=DATE-TIME:20230521T125000Z
-UID:67556
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67556&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T162000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T190500
-DTSTAMP;VALUE=DATE-TIME:20230521T152000Z
-UID:67534
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67534&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T221500
-DTSTAMP;VALUE=DATE-TIME:20230521T183000Z
-UID:67530
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67530&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T142000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T170500
-DTSTAMP;VALUE=DATE-TIME:20230522T132000Z
-UID:67542
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67542&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T194500
-DTSTAMP;VALUE=DATE-TIME:20230522T160000Z
-UID:67538
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67538&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T201000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T225500
-DTSTAMP;VALUE=DATE-TIME:20230522T191000Z
-UID:67561
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012859/guardi
- ans-of-the-galaxy-vol-3-2d/\n\nBooking URL: https://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67561&vi
- sLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T115000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T143500
-DTSTAMP;VALUE=DATE-TIME:20230523T105000Z
-UID:67595
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67595&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T161000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T185500
-DTSTAMP;VALUE=DATE-TIME:20230523T151000Z
-UID:67573
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67573&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T231500
-DTSTAMP;VALUE=DATE-TIME:20230523T193000Z
-UID:67568
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012859/guardi
- ans-of-the-galaxy-vol-3-2d/\n\nBooking URL: https://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67568&vi
- sLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T151500
-DTSTAMP;VALUE=DATE-TIME:20230524T113000Z
-UID:67604
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67604&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T154500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T183000
-DTSTAMP;VALUE=DATE-TIME:20230524T144500Z
-UID:67580
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012859/guardi
- ans-of-the-galaxy-vol-3-2d/\n\nBooking URL: https://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67580&vi
- sLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T203000
-DTSTAMP;VALUE=DATE-TIME:20230524T164500Z
-UID:67575
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67575&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T171500
-DTSTAMP;VALUE=DATE-TIME:20230525T133000Z
-UID:67609
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67609&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T203000
-DTSTAMP;VALUE=DATE-TIME:20230525T164500Z
-UID:67587
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/021/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=67587&visLang=1
+SUMMARY:Kill List
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T222500
+DTSTAMP;VALUE=DATE-TIME:20230522T193000Z
+UID:66614
+DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 5\n\nCulture Shock: Dedica
+ ted to bringing you the best in cult and genre films.\n\nhttps://www.pictu
+ rehouses.com/movie-details/021/HO00003531/kill-list/\n\nBooking URL: https
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 021&txtSessionId=66614&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -2186,19 +1953,6 @@ DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 3\n\nDiscover: Discover st
  tails/021/HO00012911/reality/\n\nBooking URL: https://ticketing.picturehou
  ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=66956&
  visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kill List
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T222500
-DTSTAMP;VALUE=DATE-TIME:20230522T193000Z
-UID:66614
-DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 5\n\nCulture Shock: Dedica
- ted to bringing you the best in cult and genre films.\n\nhttps://www.pictu
- rehouses.com/movie-details/021/HO00003531/kill-list/\n\nBooking URL: https
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 021&txtSessionId=66614&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
