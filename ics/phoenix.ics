@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230521T173401Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230522T153749Z
 NAME:Picture House Oxford - Phoenix
 X-WR-CALNAME:Picture House Oxford - Phoenix
-BEGIN:VEVENT
-SUMMARY:ROH Encore: The Sleeping Beauty (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T154500
-DTSTAMP;VALUE=DATE-TIME:20230529T110000Z
-UID:23887
-DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00011868/roh-encore-the-sleeping-beauty-2023
- /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=014&txtSessionId=23887&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROH Encore: Il Trovatore (2023)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T120000
@@ -26,6 +14,18 @@ DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/014/HO00011870/roh-encore-il-trovatore-2023/\n\nBo
  oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
  aspx?cinemacode=014&txtSessionId=23889&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: The Sleeping Beauty (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T154500
+DTSTAMP;VALUE=DATE-TIME:20230529T110000Z
+UID:23887
+DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00011868/roh-encore-the-sleeping-beauty-2023
+ /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
+ ickets.aspx?cinemacode=014&txtSessionId=23887&visLang=1
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -106,42 +106,6 @@ DESCRIPTION:Duration: 3h 34m (214 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T175000
-DTSTAMP;VALUE=DATE-TIME:20230522T143000Z
-UID:26928
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=014&txtSessionId=26928&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Beau Travail
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230625T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230625T175500
-DTSTAMP;VALUE=DATE-TIME:20230625T150000Z
-UID:26355
-DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/014/HO00012764/sight-sound-top-10-beau-travail/\n\n
- Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
- s.aspx?cinemacode=014&txtSessionId=26355&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T190500
-DTSTAMP;VALUE=DATE-TIME:20230522T151500Z
-UID:26925
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=014&txtSessionId=26925&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Eight Mountains
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T154500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T183500
@@ -175,6 +139,18 @@ DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 2\n\nhttps://www.pictureh
  ouses.com/movie-details/014/HO00012650/the-eight-mountains/\n\nBooking URL
  : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
  macode=014&txtSessionId=26948&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Beau Travail
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230625T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230625T175500
+DTSTAMP;VALUE=DATE-TIME:20230625T150000Z
+UID:26355
+DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/014/HO00012764/sight-sound-top-10-beau-travail/\n\n
+ Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=014&txtSessionId=26355&visLang=1
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -240,15 +216,75 @@ DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Wicker Man: The Final Cut + Recorded Content
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T183000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T212500
-DTSTAMP;VALUE=DATE-TIME:20230621T173000Z
-UID:26845
-DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012931/the-wicker-man-the-final-cut-record
- ed-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
- visSelectTickets.aspx?cinemacode=014&txtSessionId=26845&visLang=1
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T181500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T202500
+DTSTAMP;VALUE=DATE-TIME:20230522T171500Z
+UID:26927
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=014&txtSessionId=26927&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T141500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T162500
+DTSTAMP;VALUE=DATE-TIME:20230523T131500Z
+UID:26931
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=014&txtSessionId=26931&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T164500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T185500
+DTSTAMP;VALUE=DATE-TIME:20230523T154500Z
+UID:26932
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=014&txtSessionId=26932&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T191000
+DTSTAMP;VALUE=DATE-TIME:20230524T160000Z
+UID:26933
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=014&txtSessionId=26933&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T171000
+DTSTAMP;VALUE=DATE-TIME:20230525T140000Z
+UID:26943
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=014&txtSessionId=26943&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T194000
+DTSTAMP;VALUE=DATE-TIME:20230525T163000Z
+UID:26944
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=014&txtSessionId=26944&visLang=1
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -264,6 +300,18 @@ DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nAd and Trailer Free:
  vie-details/014/HO00012825/berliner-philharmoniker-live-summer-concert/\n\
  nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicke
  ts.aspx?cinemacode=014&txtSessionId=26535&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wicker Man: The Final Cut + Recorded Content
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T183000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T212500
+DTSTAMP;VALUE=DATE-TIME:20230621T173000Z
+UID:26845
+DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00012931/the-wicker-man-the-final-cut-record
+ ed-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=014&txtSessionId=26845&visLang=1
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -291,27 +339,29 @@ DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T222000
-DTSTAMP;VALUE=DATE-TIME:20230521T180000Z
-UID:26917
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=014&txtSessionId=26917&visLang=1
+SUMMARY:ROH Live: The Sleeping Beauty (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T230000
+DTSTAMP;VALUE=DATE-TIME:20230524T181500Z
+UID:23886
+DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 1\n\nLive via Satellite: 
+ This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
+ icturehouses.com/movie-details/014/HO00011867/roh-live-the-sleeping-beauty
+ -2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=014&txtSessionId=23886&visLang=1
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T155000
-DTSTAMP;VALUE=DATE-TIME:20230522T113000Z
-UID:26924
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=014&txtSessionId=26924&visLang=1
+SUMMARY:ROH Live: Il Trovatore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
+DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
+UID:23888
+DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 1\n\nLive via Satellite: 
+ This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
+ icturehouses.com/movie-details/014/HO00011869/roh-live-il-trovatore-2023/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=014&txtSessionId=23888&visLang=1
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -400,29 +450,16 @@ DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Il Trovatore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
-DTSTAMP;VALUE=DATE-TIME:20230613T181500Z
-UID:23888
-DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 1\n\nLive via Satellite: 
- This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/014/HO00011869/roh-live-il-trovatore-2023/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=014&txtSessionId=23888&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Sleeping Beauty (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T230000
-DTSTAMP;VALUE=DATE-TIME:20230524T181500Z
-UID:23886
-DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 1\n\nLive via Satellite: 
- This screening will be streamed live via a Satellite Feed\n\nhttps://www.p
- icturehouses.com/movie-details/014/HO00011867/roh-live-the-sleeping-beauty
- -2023/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=014&txtSessionId=23886&visLang=1
+SUMMARY:NT Live 2023: GOOD (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T221500
+DTSTAMP;VALUE=DATE-TIME:20230607T183000Z
+UID:26902
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/014/HO00012457/nt-liv
+ e-2023-good-encore/\n\nBooking URL: https://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=014&txtSessionId=26902&visLang=1
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -441,16 +478,39 @@ DESCRIPTION:Duration: 2h 25m (145 min)\n\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live 2023: GOOD (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T221500
-DTSTAMP;VALUE=DATE-TIME:20230607T183000Z
-UID:26902
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/014/HO00012457/nt-liv
- e-2023-good-encore/\n\nBooking URL: https://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=014&txtSessionId=26902&visLang=1
+SUMMARY:Superman (45th Anniversary)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230612T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230612T224500
+DTSTAMP;VALUE=DATE-TIME:20230612T190000Z
+UID:26786
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00012906/superman-45th-anniversary/\n\nBooki
+ ng URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=014&txtSessionId=26786&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Bourne's Sleeping Beauty
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230628T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230628T221000
+DTSTAMP;VALUE=DATE-TIME:20230628T190000Z
+UID:26677
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00012824/matthew-bourne-s-sleeping-beauty/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=014&txtSessionId=26677&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Bourne's Sleeping Beauty
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T151000
+DTSTAMP;VALUE=DATE-TIME:20230702T120000Z
+UID:26678
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/014/HO00012824/matthew-bourne-s-sleeping-beauty/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=014&txtSessionId=26678&visLang=1
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
@@ -490,138 +550,6 @@ DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230628T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230628T221000
-DTSTAMP;VALUE=DATE-TIME:20230628T190000Z
-UID:26677
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012824/matthew-bourne-s-sleeping-beauty/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=014&txtSessionId=26677&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T151000
-DTSTAMP;VALUE=DATE-TIME:20230702T120000Z
-UID:26678
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012824/matthew-bourne-s-sleeping-beauty/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=014&txtSessionId=26678&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Superman (45th Anniversary)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230612T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230612T224500
-DTSTAMP;VALUE=DATE-TIME:20230612T190000Z
-UID:26786
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012906/superman-45th-anniversary/\n\nBooki
- ng URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=014&txtSessionId=26786&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T200500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T221500
-DTSTAMP;VALUE=DATE-TIME:20230521T190500Z
-UID:26921
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=014&txtSessionId=26921&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T151000
-DTSTAMP;VALUE=DATE-TIME:20230522T120000Z
-UID:26926
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=014&txtSessionId=26926&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T181500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T202500
-DTSTAMP;VALUE=DATE-TIME:20230522T171500Z
-UID:26927
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=014&txtSessionId=26927&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T141500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T162500
-DTSTAMP;VALUE=DATE-TIME:20230523T131500Z
-UID:26931
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=014&txtSessionId=26931&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T164500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T185500
-DTSTAMP;VALUE=DATE-TIME:20230523T154500Z
-UID:26932
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=014&txtSessionId=26932&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230524T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230524T191000
-DTSTAMP;VALUE=DATE-TIME:20230524T160000Z
-UID:26933
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=014&txtSessionId=26933&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T171000
-DTSTAMP;VALUE=DATE-TIME:20230525T140000Z
-UID:26943
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=014&txtSessionId=26943&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T194000
-DTSTAMP;VALUE=DATE-TIME:20230525T163000Z
-UID:26944
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/014/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=014&txtSessionId=26944&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Master Gardener
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230523T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230523T224000
@@ -648,20 +576,6 @@ DESCRIPTION:Duration: 1h 35m (95 min)\n\nScreen 2\n\nCulture Shock: Dedica
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Back To The Future: Part II
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T223000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T002000
-DTSTAMP;VALUE=DATE-TIME:20230526T213000Z
-UID:26143
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 2\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-det
- ails/014/HO00002329/back-to-the-future-part-ii/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=014&t
- xtSessionId=26143&visLang=1
-LOCATION:Picture House Oxford - Phoenix
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Oxford Pride: Adv. Priscilla\, Queen Of The Desert
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230609T223000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230610T001500
@@ -673,6 +587,20 @@ DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen 2\n\nAd and Trailer Free:
  ails/014/HO00013049/oxford-pride-adv-priscilla-queen-of-the-desert/\n\nBoo
  king URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
  spx?cinemacode=014&txtSessionId=26899&visLang=1
+LOCATION:Picture House Oxford - Phoenix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Back To The Future: Part II
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T223000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T002000
+DTSTAMP;VALUE=DATE-TIME:20230526T213000Z
+UID:26143
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 2\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-det
+ ails/014/HO00002329/back-to-the-future-part-ii/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=014&t
+ xtSessionId=26143&visLang=1
 LOCATION:Picture House Oxford - Phoenix
 END:VEVENT
 BEGIN:VEVENT

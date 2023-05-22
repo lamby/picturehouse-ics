@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230521T173317Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230522T153653Z
 NAME:Picture House Brighton - Duke of York's
 X-WR-CALNAME:Picture House Brighton - Duke of York's
 BEGIN:VEVENT
@@ -31,6 +31,30 @@ DESCRIPTION:Duration: 24h 00m (1440 min)\n\nScreen 1\n\nAd and Trailer Fre
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Mulholland Drive
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T155000
+DTSTAMP;VALUE=DATE-TIME:20230527T120000Z
+UID:13968
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/008/HO00012769/sight-sound-top-10-mulholland-drive
+ /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
+ ickets.aspx?cinemacode=008&txtSessionId=13968&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T155000
+DTSTAMP;VALUE=DATE-TIME:20230729T120000Z
+UID:13970
+DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/008/HO00012766/sight-sound-top-10-2001-a-space-ody
+ ssey/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
+ ectTickets.aspx?cinemacode=008&txtSessionId=13970&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fantastic Mr Fox (35mm)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230610T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230610T145000
@@ -53,30 +77,6 @@ DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/008/HO00012764/sight-sound-top-10-beau-travail/\n\n
  Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
  s.aspx?cinemacode=008&txtSessionId=13969&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Mulholland Drive
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T155000
-DTSTAMP;VALUE=DATE-TIME:20230527T120000Z
-UID:13968
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012769/sight-sound-top-10-mulholland-drive
- /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=008&txtSessionId=13968&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T155000
-DTSTAMP;VALUE=DATE-TIME:20230729T120000Z
-UID:13970
-DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012766/sight-sound-top-10-2001-a-space-ody
- ssey/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=008&txtSessionId=13970&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
@@ -211,18 +211,6 @@ DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012857/the-little-mermaid-2023/\n\nBooking
   URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
  cinemacode=008&txtSessionId=14204&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230522T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230522T162000
-DTSTAMP;VALUE=DATE-TIME:20230522T123000Z
-UID:14325
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=008&txtSessionId=14325&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
@@ -440,92 +428,15 @@ DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 1\n\nLive via Satellite:
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outdoor: Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T221000
-DTSTAMP;VALUE=DATE-TIME:20230701T183000Z
-UID:14300
-DESCRIPTION:Duration: 2h 16m (136 min)\n\nOutdoor Venue\n\nSubtitled (Capt
- ioned): Everyone welcome. This screening has subtitles for people with hea
- ring loss.\n\nhttps://www.picturehouses.com/movie-details/008/HO00013055/o
- utdoor-spider-man-across-the-spider-verse/\n\nBooking URL: https://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSes
- sionId=14300&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor: The Rocky Horror Picture Show
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230812T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230812T213000
-DTSTAMP;VALUE=DATE-TIME:20230812T183000Z
-UID:14303
-DESCRIPTION:Duration: 1h 40m (100 min)\n\nOutdoor Venue\n\nOut: Elevating 
- and celebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edg
- e.\n\nhttps://www.picturehouses.com/movie-details/008/HO00011765/outdoor-t
- he-rocky-horror-picture-show/\n\nBooking URL: https://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=14303&
- visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor: Mamma Mia!
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230623T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230623T214000
-DTSTAMP;VALUE=DATE-TIME:20230623T183000Z
-UID:14296
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nOutdoor Venue\n\nhttps://www.pic
- turehouses.com/movie-details/008/HO00013050/outdoor-mamma-mia/\n\nBooking 
- URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=008&txtSessionId=14296&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2023: GOOD (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T221500
-DTSTAMP;VALUE=DATE-TIME:20230608T183000Z
-UID:14318
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/008/HO00012457/nt-liv
- e-2023-good-encore/\n\nBooking URL: https://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=14318&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor: Shaun of the Dead
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T213000
-DTSTAMP;VALUE=DATE-TIME:20230702T183000Z
-UID:14301
-DESCRIPTION:Duration: 1h 39m (99 min)\n\nOutdoor Venue\n\nhttps://www.pict
- urehouses.com/movie-details/008/HO00013056/outdoor-shaun-of-the-dead/\n\nB
+SUMMARY:Outdoor: Top Gun: Maverick
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T220500
+DTSTAMP;VALUE=DATE-TIME:20230630T183000Z
+UID:14299
+DESCRIPTION:Duration: 2h 11m (131 min)\n\nOutdoor Venue\n\nhttps://www.pic
+ turehouses.com/movie-details/008/HO00013054/outdoor-top-gun-maverick/\n\nB
  ooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=008&txtSessionId=14301&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor: The Royal Tenenbaums
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230819T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230819T213500
-DTSTAMP;VALUE=DATE-TIME:20230819T183000Z
-UID:14306
-DESCRIPTION:Duration: 1h 45m (105 min)\n\nOutdoor Venue\n\nhttps://www.pic
- turehouses.com/movie-details/008/HO00013062/outdoor-the-royal-tenenbaums/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=008&txtSessionId=14306&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor: Fantastic Mr Fox (Dog-Friendly Screening)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230818T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230818T212000
-DTSTAMP;VALUE=DATE-TIME:20230818T183000Z
-UID:14305
-DESCRIPTION:Duration: 1h 27m (87 min)\n\nOutdoor Venue\n\nhttps://www.pict
- urehouses.com/movie-details/008/HO00013061/outdoor-fantastic-mr-fox-dog-fr
- iendly-screening/\n\nBooking URL: https://ticketing.picturehouses.com/Tick
- eting/visSelectTickets.aspx?cinemacode=008&txtSessionId=14305&visLang=1
+ .aspx?cinemacode=008&txtSessionId=14299&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
@@ -543,6 +454,19 @@ DESCRIPTION:Duration: 2h 19m (139 min)\n\nOutdoor Venue\n\nOut: Elevating
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NT Live 2023: GOOD (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T221500
+DTSTAMP;VALUE=DATE-TIME:20230608T183000Z
+UID:14318
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/008/HO00012457/nt-liv
+ e-2023-good-encore/\n\nBooking URL: https://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=14318&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Wicker Man: The Final Cut + Recorded Content
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T193000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T222500
@@ -552,6 +476,56 @@ DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/008/HO00012931/the-wicker-man-the-final-cut-record
  ed-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
  visSelectTickets.aspx?cinemacode=008&txtSessionId=14273&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor: The Royal Tenenbaums
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230819T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230819T213500
+DTSTAMP;VALUE=DATE-TIME:20230819T183000Z
+UID:14306
+DESCRIPTION:Duration: 1h 45m (105 min)\n\nOutdoor Venue\n\nhttps://www.pic
+ turehouses.com/movie-details/008/HO00013062/outdoor-the-royal-tenenbaums/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=008&txtSessionId=14306&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor: Mamma Mia!
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230623T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230623T214000
+DTSTAMP;VALUE=DATE-TIME:20230623T183000Z
+UID:14296
+DESCRIPTION:Duration: 1h 48m (108 min)\n\nOutdoor Venue\n\nhttps://www.pic
+ turehouses.com/movie-details/008/HO00013050/outdoor-mamma-mia/\n\nBooking 
+ URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=008&txtSessionId=14296&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor: Fantastic Mr Fox (Dog-Friendly Screening)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230818T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230818T212000
+DTSTAMP;VALUE=DATE-TIME:20230818T183000Z
+UID:14305
+DESCRIPTION:Duration: 1h 27m (87 min)\n\nOutdoor Venue\n\nhttps://www.pict
+ urehouses.com/movie-details/008/HO00013061/outdoor-fantastic-mr-fox-dog-fr
+ iendly-screening/\n\nBooking URL: https://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=008&txtSessionId=14305&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor: The Rocky Horror Picture Show
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230812T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230812T213000
+DTSTAMP;VALUE=DATE-TIME:20230812T183000Z
+UID:14303
+DESCRIPTION:Duration: 1h 40m (100 min)\n\nOutdoor Venue\n\nOut: Elevating 
+ and celebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edg
+ e.\n\nhttps://www.picturehouses.com/movie-details/008/HO00011765/outdoor-t
+ he-rocky-horror-picture-show/\n\nBooking URL: https://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=14303&
+ visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
@@ -565,18 +539,6 @@ DESCRIPTION:Duration: 1h 59m (119 min)\n\nOutdoor Venue\n\nOut: Elevating
  e.\n\nhttps://www.picturehouses.com/movie-details/008/HO00013059/outdoor-p
  ride/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
  ectTickets.aspx?cinemacode=008&txtSessionId=14302&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor: Top Gun: Maverick
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T220500
-DTSTAMP;VALUE=DATE-TIME:20230630T183000Z
-UID:14299
-DESCRIPTION:Duration: 2h 11m (131 min)\n\nOutdoor Venue\n\nhttps://www.pic
- turehouses.com/movie-details/008/HO00013054/outdoor-top-gun-maverick/\n\nB
- ooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=008&txtSessionId=14299&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
@@ -604,6 +566,32 @@ DESCRIPTION:Duration: 2h 04m (124 min)\n\nOutdoor Venue\n\nhttps://www.pic
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outdoor: Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T221000
+DTSTAMP;VALUE=DATE-TIME:20230701T183000Z
+UID:14300
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nOutdoor Venue\n\nSubtitled (Capt
+ ioned): Everyone welcome. This screening has subtitles for people with hea
+ ring loss.\n\nhttps://www.picturehouses.com/movie-details/008/HO00013055/o
+ utdoor-spider-man-across-the-spider-verse/\n\nBooking URL: https://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSes
+ sionId=14300&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor: Shaun of the Dead
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T213000
+DTSTAMP;VALUE=DATE-TIME:20230702T183000Z
+UID:14301
+DESCRIPTION:Duration: 1h 39m (99 min)\n\nOutdoor Venue\n\nhttps://www.pict
+ urehouses.com/movie-details/008/HO00013056/outdoor-shaun-of-the-dead/\n\nB
+ ooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=008&txtSessionId=14301&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Roger Waters - This Is Not A Drill - Live From Prague
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230525T194500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230525T223000
@@ -619,18 +607,27 @@ DESCRIPTION:Duration: 2h 45m (165 min)\n\nScreen 1\n\nAd and Trailer Free:
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Lobster
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230521T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230521T222000
-DTSTAMP;VALUE=DATE-TIME:20230521T190000Z
-UID:13907
-DESCRIPTION:Duration: 1h 56m (116 min)\n\nScreen 1\n\nreDiscover: Time to 
- broaden your cinematic horizons: you'll find the best of what's next with 
- Discover's under-the-radar releases\, and return to favourites of yesterda
- y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
- ie-details/008/HO00012715/a24-the-lobster/\n\nBooking URL: https://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSes
- sionId=13907&visLang=1
+SUMMARY:Matthew Bourne's Sleeping Beauty
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230628T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230628T222500
+DTSTAMP;VALUE=DATE-TIME:20230628T191500Z
+UID:14154
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/008/HO00012824/matthew-bourne-s-sleeping-beauty/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=008&txtSessionId=14154&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Bourne's Sleeping Beauty
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T141000
+DTSTAMP;VALUE=DATE-TIME:20230702T110000Z
+UID:14155
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/008/HO00012824/matthew-bourne-s-sleeping-beauty/\n
+ \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=008&txtSessionId=14155&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
@@ -658,30 +655,6 @@ DESCRIPTION:Duration: 1h 40m (100 min)\n\nScreen 1\n\nreDiscover: Time to
  ie-details/008/HO00012716/a24-the-farewell/\n\nBooking URL: https://ticket
  ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSe
  ssionId=13908&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230628T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230628T222500
-DTSTAMP;VALUE=DATE-TIME:20230628T191500Z
-UID:14154
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012824/matthew-bourne-s-sleeping-beauty/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=008&txtSessionId=14154&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T141000
-DTSTAMP;VALUE=DATE-TIME:20230702T110000Z
-UID:14155
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/008/HO00012824/matthew-bourne-s-sleeping-beauty/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=008&txtSessionId=14155&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 END:VCALENDAR
