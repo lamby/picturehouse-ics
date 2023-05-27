@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230526T120335Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230527T142638Z
 NAME:Picture House London - Clapham
 X-WR-CALNAME:Picture House London - Clapham
 BEGIN:VEVENT
@@ -17,6 +17,18 @@ DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Royal Tenenbaums & Moonrise Kingdom
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T155500
+DTSTAMP;VALUE=DATE-TIME:20230618T110000Z
+UID:56972
+DESCRIPTION:Duration: 3h 32m (212 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012925/the-royal-tenenbaums-moonrise-kingd
+ om/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=020&txtSessionId=56972&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Life Aquatic & The Grand Budapest Hotel
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230611T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230611T161500
@@ -29,15 +41,15 @@ DESCRIPTION:Duration: 3h 51m (231 min)\n\nScreen 4\n\nhttps://www.pictureh
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rushmore & The French Dispatch
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T155500
-DTSTAMP;VALUE=DATE-TIME:20230604T110000Z
-UID:56970
-DESCRIPTION:Duration: 3h 34m (214 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012923/rushmore-the-french-dispatch/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=020&txtSessionId=56970&visLang=1
+SUMMARY:NT Live 2023: Best of Enemies (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T152000
+DTSTAMP;VALUE=DATE-TIME:20230530T110000Z
+UID:54799
+DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012537/nt-live-2023-best-of-enemies-encore
+ /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
+ ickets.aspx?cinemacode=020&txtSessionId=54799&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -53,27 +65,15 @@ DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Royal Tenenbaums & Moonrise Kingdom
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T155500
-DTSTAMP;VALUE=DATE-TIME:20230618T110000Z
-UID:56972
-DESCRIPTION:Duration: 3h 32m (212 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012925/the-royal-tenenbaums-moonrise-kingd
- om/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=020&txtSessionId=56972&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2023: Best of Enemies (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T152000
-DTSTAMP;VALUE=DATE-TIME:20230530T110000Z
-UID:54799
-DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012537/nt-live-2023-best-of-enemies-encore
- /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=020&txtSessionId=54799&visLang=1
+SUMMARY:Rushmore & The French Dispatch
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T155500
+DTSTAMP;VALUE=DATE-TIME:20230604T110000Z
+UID:56970
+DESCRIPTION:Duration: 3h 34m (214 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012923/rushmore-the-french-dispatch/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=020&txtSessionId=56970&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -98,90 +98,6 @@ DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 4\n\nhttps://www.pictureh
  ouses.com/movie-details/020/HO00012769/sight-sound-top-10-mulholland-drive
  /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
  ickets.aspx?cinemacode=020&txtSessionId=56406&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T142000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T165500
-DTSTAMP;VALUE=DATE-TIME:20230526T132000Z
-UID:56661
-DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012857/the-little-mermaid-2023/\n\nBooking
-  URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=020&txtSessionId=56661&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T172000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T195500
-DTSTAMP;VALUE=DATE-TIME:20230526T162000Z
-UID:56659
-DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012857/the-little-mermaid-2023/\n\nBooking
-  URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=020&txtSessionId=56659&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T213500
-DTSTAMP;VALUE=DATE-TIME:20230526T180000Z
-UID:57523
-DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012857/the-little-mermaid-2023/\n\nBooking
-  URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=020&txtSessionId=57523&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T225000
-DTSTAMP;VALUE=DATE-TIME:20230526T191500Z
-UID:56660
-DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012857/the-little-mermaid-2023/\n\nBooking
-  URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=020&txtSessionId=56660&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T140500
-DTSTAMP;VALUE=DATE-TIME:20230527T103000Z
-UID:56665
-DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012857/the-little-mermaid-2023/\n\nBooking
-  URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=020&txtSessionId=56665&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T153500
-DTSTAMP;VALUE=DATE-TIME:20230527T120000Z
-UID:57513
-DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012857/the-little-mermaid-2023/\n\nBooking
-  URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=020&txtSessionId=57513&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T170500
-DTSTAMP;VALUE=DATE-TIME:20230527T133000Z
-UID:56662
-DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012857/the-little-mermaid-2023/\n\nBooking
-  URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=020&txtSessionId=56662&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -533,401 +449,30 @@ DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T164000
-DTSTAMP;VALUE=DATE-TIME:20230526T134500Z
-UID:57588
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57588&visLang=1
+SUMMARY:Broker
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T161500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T184500
+DTSTAMP;VALUE=DATE-TIME:20230604T151500Z
+UID:57298
+DESCRIPTION:Duration: 2h 09m (129 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012296/broker/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&tx
+ tSessionId=57298&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T205000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T224500
-DTSTAMP;VALUE=DATE-TIME:20230526T195000Z
-UID:57589
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57589&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T165500
-DTSTAMP;VALUE=DATE-TIME:20230527T140000Z
-UID:57590
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57590&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T221000
-DTSTAMP;VALUE=DATE-TIME:20230527T191500Z
-UID:57591
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57591&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T132500
-DTSTAMP;VALUE=DATE-TIME:20230528T103000Z
-UID:57604
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57604&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T212500
-DTSTAMP;VALUE=DATE-TIME:20230528T183000Z
-UID:57603
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57603&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T144000
-DTSTAMP;VALUE=DATE-TIME:20230529T114500Z
-UID:57602
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57602&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T165500
-DTSTAMP;VALUE=DATE-TIME:20230529T140000Z
-UID:57601
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57601&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T214000
-DTSTAMP;VALUE=DATE-TIME:20230529T184500Z
-UID:57600
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57600&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T154500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T174000
-DTSTAMP;VALUE=DATE-TIME:20230530T144500Z
-UID:57597
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57597&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T205000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T224500
-DTSTAMP;VALUE=DATE-TIME:20230530T195000Z
-UID:57598
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57598&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T152500
-DTSTAMP;VALUE=DATE-TIME:20230531T123000Z
-UID:57594
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57594&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T154500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T174000
-DTSTAMP;VALUE=DATE-TIME:20230531T144500Z
-UID:57593
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57593&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T222500
-DTSTAMP;VALUE=DATE-TIME:20230531T193000Z
-UID:57592
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57592&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T132500
-DTSTAMP;VALUE=DATE-TIME:20230601T103000Z
-UID:57595
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57595&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypnotic
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T191000
-DTSTAMP;VALUE=DATE-TIME:20230601T161500Z
-UID:57596
-DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
- xtSessionId=57596&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T151500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T172500
-DTSTAMP;VALUE=DATE-TIME:20230526T141500Z
-UID:57522
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57522&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T201000
-DTSTAMP;VALUE=DATE-TIME:20230526T170000Z
-UID:57521
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57521&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T144000
-DTSTAMP;VALUE=DATE-TIME:20230527T113000Z
-UID:57530
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57530&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T192500
-DTSTAMP;VALUE=DATE-TIME:20230527T161500Z
-UID:57528
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57528&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T132000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T153000
-DTSTAMP;VALUE=DATE-TIME:20230528T122000Z
-UID:57610
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57610&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T144000
-DTSTAMP;VALUE=DATE-TIME:20230529T113000Z
-UID:57559
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57559&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T192500
-DTSTAMP;VALUE=DATE-TIME:20230529T161500Z
-UID:57556
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57556&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T131500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T152500
-DTSTAMP;VALUE=DATE-TIME:20230530T121500Z
-UID:57561
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57561&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T201000
-DTSTAMP;VALUE=DATE-TIME:20230530T170000Z
-UID:57564
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57564&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T131500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T152500
-DTSTAMP;VALUE=DATE-TIME:20230531T121500Z
-UID:57577
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57577&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T201000
-DTSTAMP;VALUE=DATE-TIME:20230531T170000Z
-UID:57571
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57571&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T131000
-DTSTAMP;VALUE=DATE-TIME:20230601T100000Z
-UID:57608
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57608&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T134500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T155500
-DTSTAMP;VALUE=DATE-TIME:20230601T124500Z
-UID:57606
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57606&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T182500
-DTSTAMP;VALUE=DATE-TIME:20230601T151500Z
-UID:57584
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=57584&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T154000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T182500
-DTSTAMP;VALUE=DATE-TIME:20230526T144000Z
-UID:57518
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=020&txtSessionId=57518&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T231500
-DTSTAMP;VALUE=DATE-TIME:20230526T193000Z
-UID:57519
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012859/guardians-of-the-galaxy-vol-3-2d/\n
- \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=020&txtSessionId=57519&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T135000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T163500
-DTSTAMP;VALUE=DATE-TIME:20230527T125000Z
-UID:57532
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/020/HO00012859/guardi
- ans-of-the-galaxy-vol-3-2d/\n\nBooking URL: https://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=57532&vi
- sLang=1
+SUMMARY:The Farewell
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T190000
+DTSTAMP;VALUE=DATE-TIME:20230528T160000Z
+UID:55975
+DESCRIPTION:Duration: 1h 40m (100 min)\n\nScreen 4\n\nreDiscover: Time to 
+ broaden your cinematic horizons: you'll find the best of what's next with 
+ Discover's under-the-radar releases\, and return to favourites of yesterda
+ y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
+ ie-details/020/HO00012716/a24-the-farewell/\n\nBooking URL: https://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSe
+ ssionId=55975&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -1113,150 +658,135 @@ DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nSubtitled (Captioned
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Broker
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T184500
-DTSTAMP;VALUE=DATE-TIME:20230604T151500Z
-UID:57298
-DESCRIPTION:Duration: 2h 09m (129 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012296/broker/\n\nBooking URL: https://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&tx
- tSessionId=57298&visLang=1
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T192500
+DTSTAMP;VALUE=DATE-TIME:20230527T161500Z
+UID:57528
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57528&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Farewell
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T190000
-DTSTAMP;VALUE=DATE-TIME:20230528T160000Z
-UID:55975
-DESCRIPTION:Duration: 1h 40m (100 min)\n\nScreen 4\n\nreDiscover: Time to 
- broaden your cinematic horizons: you'll find the best of what's next with 
- Discover's under-the-radar releases\, and return to favourites of yesterda
- y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
- ie-details/020/HO00012716/a24-the-farewell/\n\nBooking URL: https://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSe
- ssionId=55975&visLang=1
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T132000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T153000
+DTSTAMP;VALUE=DATE-TIME:20230528T122000Z
+UID:57610
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57610&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230526T171000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230526T203000
-DTSTAMP;VALUE=DATE-TIME:20230526T161000Z
-UID:57520
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=57520&visLang=1
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T144000
+DTSTAMP;VALUE=DATE-TIME:20230529T113000Z
+UID:57559
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57559&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T230500
-DTSTAMP;VALUE=DATE-TIME:20230527T184500Z
-UID:57527
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=57527&visLang=1
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T192500
+DTSTAMP;VALUE=DATE-TIME:20230529T161500Z
+UID:57556
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57556&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T222000
-DTSTAMP;VALUE=DATE-TIME:20230528T180000Z
-UID:57549
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=57549&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T182000
-DTSTAMP;VALUE=DATE-TIME:20230529T140000Z
-UID:57557
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=57557&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T184000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T220000
-DTSTAMP;VALUE=DATE-TIME:20230529T174000Z
-UID:57554
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=57554&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
+SUMMARY:Are You There God? It’s Me\, Margaret
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T131500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T163500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T152500
 DTSTAMP;VALUE=DATE-TIME:20230530T121500Z
-UID:57568
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=57568&visLang=1
+UID:57561
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57561&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T171000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T203000
-DTSTAMP;VALUE=DATE-TIME:20230530T161000Z
-UID:57563
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=57563&visLang=1
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T201000
+DTSTAMP;VALUE=DATE-TIME:20230530T170000Z
+UID:57564
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57564&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T154500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T190500
-DTSTAMP;VALUE=DATE-TIME:20230531T144500Z
-UID:57570
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=57570&visLang=1
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T131500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T152500
+DTSTAMP;VALUE=DATE-TIME:20230531T121500Z
+UID:57577
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57577&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T225000
-DTSTAMP;VALUE=DATE-TIME:20230531T183000Z
-UID:57573
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=57573&visLang=1
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T201000
+DTSTAMP;VALUE=DATE-TIME:20230531T170000Z
+UID:57571
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57571&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T165000
-DTSTAMP;VALUE=DATE-TIME:20230601T123000Z
-UID:57609
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=57609&visLang=1
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T131000
+DTSTAMP;VALUE=DATE-TIME:20230601T100000Z
+UID:57608
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57608&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T134500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T155500
+DTSTAMP;VALUE=DATE-TIME:20230601T124500Z
+UID:57606
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57606&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T161500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T182500
+DTSTAMP;VALUE=DATE-TIME:20230601T151500Z
+UID:57584
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=57584&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -1282,6 +812,21 @@ DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 4\n\nhttps://www.pictureh
  ouses.com/movie-details/020/HO00013044/mad-about-the-boy-the-noel-coward-s
  tory-recorded-q-a/\n\nBooking URL: https://ticketing.picturehouses.com/Tic
  keting/visSelectTickets.aspx?cinemacode=020&txtSessionId=57605&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Screen: Finite + Director & Panel
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230611T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230611T211000
+DTSTAMP;VALUE=DATE-TIME:20230611T180000Z
+UID:57620
+DESCRIPTION:Duration: 2h 10m (130 min)\n\nScreen 1\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nQ&A: This screening will be followed by
+  a Q&A.\n\nhttps://www.picturehouses.com/movie-details/020/HO00013069/gree
+ n-screen-finite-director-panel/\n\nBooking URL: https://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=5762
+ 0&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -1314,21 +859,6 @@ DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 4\n\nAd and Trailer Free:
  94/ziggy-stardust-the-global-premiere/\n\nBooking URL: https://ticketing.p
  icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
  Id=57508&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Green Screen: Finite + Director & Panel
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230611T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230611T211000
-DTSTAMP;VALUE=DATE-TIME:20230611T180000Z
-UID:57620
-DESCRIPTION:Duration: 2h 10m (130 min)\n\nScreen 1\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nQ&A: This screening will be followed by
-  a Q&A.\n\nhttps://www.picturehouses.com/movie-details/020/HO00013069/gree
- n-screen-finite-director-panel/\n\nBooking URL: https://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=5762
- 0&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -1627,18 +1157,6 @@ DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Superman (45th Anniversary)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230612T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230612T221500
-DTSTAMP;VALUE=DATE-TIME:20230612T183000Z
-UID:57297
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
- ouses.com/movie-details/020/HO00012906/superman-45th-anniversary/\n\nBooki
- ng URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=020&txtSessionId=57297&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Wicker Man: The Final Cut + Recorded Content
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T193000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T222500
@@ -1661,6 +1179,126 @@ DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nSubtitled (Captioned
  loss.\n\nhttps://www.picturehouses.com/movie-details/020/HO00012457/nt-liv
  e-2023-good-encore/\n\nBooking URL: https://ticketing.picturehouses.com/Ti
  cketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=57449&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Superman (45th Anniversary)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230612T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230612T221500
+DTSTAMP;VALUE=DATE-TIME:20230612T183000Z
+UID:57297
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012906/superman-45th-anniversary/\n\nBooki
+ ng URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=020&txtSessionId=57297&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T230500
+DTSTAMP;VALUE=DATE-TIME:20230527T184500Z
+UID:57527
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 4\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=020&txtSessionId=57527&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T222000
+DTSTAMP;VALUE=DATE-TIME:20230528T180000Z
+UID:57549
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=020&txtSessionId=57549&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T182000
+DTSTAMP;VALUE=DATE-TIME:20230529T140000Z
+UID:57557
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=020&txtSessionId=57557&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T184000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T220000
+DTSTAMP;VALUE=DATE-TIME:20230529T174000Z
+UID:57554
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=020&txtSessionId=57554&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T131500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T163500
+DTSTAMP;VALUE=DATE-TIME:20230530T121500Z
+UID:57568
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=020&txtSessionId=57568&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T171000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T203000
+DTSTAMP;VALUE=DATE-TIME:20230530T161000Z
+UID:57563
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=020&txtSessionId=57563&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T154500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T190500
+DTSTAMP;VALUE=DATE-TIME:20230531T144500Z
+UID:57570
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=020&txtSessionId=57570&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T225000
+DTSTAMP;VALUE=DATE-TIME:20230531T183000Z
+UID:57573
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=020&txtSessionId=57573&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T165000
+DTSTAMP;VALUE=DATE-TIME:20230601T123000Z
+UID:57609
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/020/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=020&txtSessionId=57609&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -1700,6 +1338,150 @@ DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 4\n\nhttps://www.pictureh
  ouses.com/movie-details/020/HO00012824/matthew-bourne-s-sleeping-beauty/\n
  \nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTick
  ets.aspx?cinemacode=020&txtSessionId=56788&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230527T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230527T221000
+DTSTAMP;VALUE=DATE-TIME:20230527T191500Z
+UID:57591
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57591&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T132500
+DTSTAMP;VALUE=DATE-TIME:20230528T103000Z
+UID:57604
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57604&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230528T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230528T212500
+DTSTAMP;VALUE=DATE-TIME:20230528T183000Z
+UID:57603
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57603&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T124500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T144000
+DTSTAMP;VALUE=DATE-TIME:20230529T114500Z
+UID:57602
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57602&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T165500
+DTSTAMP;VALUE=DATE-TIME:20230529T140000Z
+UID:57601
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57601&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230529T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230529T214000
+DTSTAMP;VALUE=DATE-TIME:20230529T184500Z
+UID:57600
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57600&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T154500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T174000
+DTSTAMP;VALUE=DATE-TIME:20230530T144500Z
+UID:57597
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57597&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T205000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T224500
+DTSTAMP;VALUE=DATE-TIME:20230530T195000Z
+UID:57598
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57598&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T152500
+DTSTAMP;VALUE=DATE-TIME:20230531T123000Z
+UID:57594
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57594&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T154500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T174000
+DTSTAMP;VALUE=DATE-TIME:20230531T144500Z
+UID:57593
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57593&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T222500
+DTSTAMP;VALUE=DATE-TIME:20230531T193000Z
+UID:57592
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57592&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypnotic
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T191000
+DTSTAMP;VALUE=DATE-TIME:20230601T161500Z
+UID:57596
+DESCRIPTION:Duration: 1h 34m (94 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00013101/hypnotic/\n\nBooking URL: https://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&t
+ xtSessionId=57596&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
