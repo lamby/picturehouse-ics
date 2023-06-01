@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230530T134851Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230601T132335Z
 NAME:Picture House Cambridge - Arts
 X-WR-CALNAME:Picture House Cambridge - Arts
-BEGIN:VEVENT
-SUMMARY:The Unlikely Pilgrimage of Harold Fry
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T111500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T132500
-DTSTAMP;VALUE=DATE-TIME:20230531T101500Z
-UID:46698
-DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012749/the-unlikely-pilgrimage-of-harold-f
- ry/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=002&txtSessionId=46698&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bait
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230606T130000
@@ -28,20 +16,6 @@ DESCRIPTION:Duration: 1h 29m (89 min)\n\nScreen 3\n\nAd and Trailer Free:
  ils/002/HO00009787/bait/\n\nBooking URL: https://ticketing.picturehouses.c
  om/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=45820&visLa
  ng=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Spring
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T152500
-DTSTAMP;VALUE=DATE-TIME:20230613T120000Z
-UID:45824
-DESCRIPTION:Duration: 2h 25m (145 min)\n\nScreen 3\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-det
- ails/002/HO00012814/early-spring/\n\nBooking URL: https://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=45
- 824&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -59,6 +33,62 @@ DESCRIPTION:Duration: 2h 08m (128 min)\n\nScreen 3\n\nAd and Trailer Free:
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Early Spring
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T152500
+DTSTAMP;VALUE=DATE-TIME:20230613T120000Z
+UID:45824
+DESCRIPTION:Duration: 2h 25m (145 min)\n\nScreen 3\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-det
+ ails/002/HO00012814/early-spring/\n\nBooking URL: https://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=45
+ 824&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Vermeer - The Greatest Exhibition
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T143000
+DTSTAMP;VALUE=DATE-TIME:20230602T120000Z
+UID:46721
+DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/002/HO00012070/eos-vermeer-the-greatest-exhibition/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=002&txtSessionId=46721&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Vermeer - The Greatest Exhibition
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230606T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230606T131500
+DTSTAMP;VALUE=DATE-TIME:20230606T104500Z
+UID:46766
+DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/002/HO00012070/eos-vermeer-the-greatest-exhibition/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=002&txtSessionId=46766&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Vermeer - The Greatest Exhibition
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T124000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T141000
+DTSTAMP;VALUE=DATE-TIME:20230608T114000Z
+UID:46756
+DESCRIPTION:Duration: 1h 30m (90 min)\n\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/002/HO00012070/eos-vermeer-the-greatest-exhibition/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=002&txtSessionId=46756&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oklahoma! Starring Hugh Jackman
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T133000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T170500
@@ -71,15 +101,15 @@ DESCRIPTION:Duration: 3h 12m (192 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: The Sleeping Beauty (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T134500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T173000
-DTSTAMP;VALUE=DATE-TIME:20230531T124500Z
-UID:41852
-DESCRIPTION:Duration: 3h 25m (205 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00011868/roh-encore-the-sleeping-beauty-2023
- /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=002&txtSessionId=41852&visLang=1
+SUMMARY:ROH Encore: Il Trovatore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T134500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T174500
+DTSTAMP;VALUE=DATE-TIME:20230620T124500Z
+UID:41854
+DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00011870/roh-encore-il-trovatore-2023/\n\nBo
+ oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=002&txtSessionId=41854&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -97,18 +127,6 @@ DESCRIPTION:Duration: 3h 30m (210 min)\n\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Il Trovatore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T134500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T174500
-DTSTAMP;VALUE=DATE-TIME:20230620T124500Z
-UID:41854
-DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00011870/roh-encore-il-trovatore-2023/\n\nBo
- oking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=002&txtSessionId=41854&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Green Screen: The Nettle Dress + Director & Panel
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230610T140000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230610T155000
@@ -121,6 +139,189 @@ DESCRIPTION:Duration: 1h 48m (108 min)\n\nScreen 2\n\nAd and Trailer Free:
  n-screen-the-nettle-dress-director-panel/\n\nBooking URL: https://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSess
  ionId=46706&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Broker
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T163000
+DTSTAMP;VALUE=DATE-TIME:20230604T130000Z
+UID:46729
+DESCRIPTION:Duration: 2h 09m (129 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012296/broker/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46729&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Should Be Dancing: Top Hat
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T162500
+DTSTAMP;VALUE=DATE-TIME:20230604T132000Z
+UID:46593
+DESCRIPTION:Duration: 1h 43m (103 min)\n\nScreen 3\n\nreDiscover: Time to 
+ broaden your cinematic horizons: you'll find the best of what's next with 
+ Discover's under-the-radar releases\, and return to favourites of yesterda
+ y with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mov
+ ie-details/002/HO00013075/you-should-be-dancing-top-hat/\n\nBooking URL: h
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=002&txtSessionId=46593&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Time
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T162000
+DTSTAMP;VALUE=DATE-TIME:20230601T133000Z
+UID:46677
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
+ txtSessionId=46677&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Time
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T142000
+DTSTAMP;VALUE=DATE-TIME:20230602T113000Z
+UID:46716
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
+ txtSessionId=46716&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Time
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T172000
+DTSTAMP;VALUE=DATE-TIME:20230603T143000Z
+UID:46725
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
+ txtSessionId=46725&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Time
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T195000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T214000
+DTSTAMP;VALUE=DATE-TIME:20230604T185000Z
+UID:46732
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
+ txtSessionId=46732&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Time
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230605T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230605T142000
+DTSTAMP;VALUE=DATE-TIME:20230605T113000Z
+UID:46737
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
+ txtSessionId=46737&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Time
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230606T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230606T142000
+DTSTAMP;VALUE=DATE-TIME:20230606T113000Z
+UID:46745
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
+ txtSessionId=46745&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Time
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T121500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T140500
+DTSTAMP;VALUE=DATE-TIME:20230607T111500Z
+UID:46752
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
+ txtSessionId=46752&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full Time
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T181500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T200500
+DTSTAMP;VALUE=DATE-TIME:20230608T171500Z
+UID:46760
+DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
+ txtSessionId=46760&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad About the Boy — The Noël Coward Story
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T164500
+DTSTAMP;VALUE=DATE-TIME:20230602T135000Z
+UID:46728
+DESCRIPTION:Duration: 1h 31m (91 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00013151/mad-about-the-boy-the-noel-coward-st
+ ory/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=002&txtSessionId=46728&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad About the Boy — The Noël Coward Story
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T145500
+DTSTAMP;VALUE=DATE-TIME:20230603T120000Z
+UID:46727
+DESCRIPTION:Duration: 1h 31m (91 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00013151/mad-about-the-boy-the-noel-coward-st
+ ory/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=002&txtSessionId=46727&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad About the Boy — The Noël Coward Story
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230605T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230605T194000
+DTSTAMP;VALUE=DATE-TIME:20230605T164500Z
+UID:46739
+DESCRIPTION:Duration: 1h 31m (91 min)\n\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00013151/mad-about-the-boy-the-noel-coward-st
+ ory/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=002&txtSessionId=46739&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad About the Boy — The Noël Coward Story
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T142500
+DTSTAMP;VALUE=DATE-TIME:20230607T113000Z
+UID:46755
+DESCRIPTION:Duration: 1h 31m (91 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00013151/mad-about-the-boy-the-noel-coward-st
+ ory/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=002&txtSessionId=46755&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mad About the Boy — The Noël Coward Story
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T142500
+DTSTAMP;VALUE=DATE-TIME:20230608T113000Z
+UID:46763
+DESCRIPTION:Duration: 1h 31m (91 min)\n\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00013151/mad-about-the-boy-the-noel-coward-st
+ ory/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=002&txtSessionId=46763&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -148,66 +349,6 @@ DESCRIPTION:Duration: 3h 51m (231 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Master Gardener
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T152000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T173000
-DTSTAMP;VALUE=DATE-TIME:20230530T142000Z
-UID:46668
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012912/master-gardener/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=002&txtSessionId=46668&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master Gardener
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T221000
-DTSTAMP;VALUE=DATE-TIME:20230530T190000Z
-UID:46667
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012912/master-gardener/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=002&txtSessionId=46667&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master Gardener
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T194000
-DTSTAMP;VALUE=DATE-TIME:20230531T163000Z
-UID:46670
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012912/master-gardener/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=002&txtSessionId=46670&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master Gardener
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T151000
-DTSTAMP;VALUE=DATE-TIME:20230601T120000Z
-UID:46671
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012912/master-gardener/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=002&txtSessionId=46671&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master Gardener
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T204000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T225000
-DTSTAMP;VALUE=DATE-TIME:20230601T194000Z
-UID:46672
-DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012912/master-gardener/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=002&txtSessionId=46672&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rushmore & The French Dispatch
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T153000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T192500
@@ -221,66 +362,6 @@ LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T154000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T175000
-DTSTAMP;VALUE=DATE-TIME:20230530T144000Z
-UID:46678
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=002&txtSessionId=46678&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T195500
-DTSTAMP;VALUE=DATE-TIME:20230530T164500Z
-UID:46679
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=002&txtSessionId=46679&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T151000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T172000
-DTSTAMP;VALUE=DATE-TIME:20230531T141000Z
-UID:46683
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=002&txtSessionId=46683&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T221000
-DTSTAMP;VALUE=DATE-TIME:20230531T190000Z
-UID:46682
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=002&txtSessionId=46682&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T121000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T142000
-DTSTAMP;VALUE=DATE-TIME:20230601T111000Z
-UID:46690
-DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012929/are-you-there-god-its-me-margaret/\
- n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=002&txtSessionId=46690&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Are You There God? It’s Me\, Margaret
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T153000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T174000
 DTSTAMP;VALUE=DATE-TIME:20230601T143000Z
@@ -289,6 +370,42 @@ DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/002/HO00012929/are-you-there-god-its-me-margaret/\
  n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
  kets.aspx?cinemacode=002&txtSessionId=46689&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230605T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230605T141000
+DTSTAMP;VALUE=DATE-TIME:20230605T110000Z
+UID:46740
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=002&txtSessionId=46740&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230606T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230606T165500
+DTSTAMP;VALUE=DATE-TIME:20230606T134500Z
+UID:46765
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=002&txtSessionId=46765&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Are You There God? It’s Me\, Margaret
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T165000
+DTSTAMP;VALUE=DATE-TIME:20230607T134000Z
+UID:46754
+DESCRIPTION:Duration: 1h 46m (106 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012929/are-you-there-god-its-me-margaret/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=002&txtSessionId=46754&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -316,51 +433,99 @@ DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T190500
-DTSTAMP;VALUE=DATE-TIME:20230530T151500Z
-UID:46680
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=002&txtSessionId=46680&visLang=1
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T195000
+DTSTAMP;VALUE=DATE-TIME:20230601T153000Z
+UID:46700
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=002&txtSessionId=46700&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T134000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T163000
-DTSTAMP;VALUE=DATE-TIME:20230531T124000Z
-UID:46684
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=002&txtSessionId=46684&visLang=1
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T230500
+DTSTAMP;VALUE=DATE-TIME:20230602T184500Z
+UID:46714
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=002&txtSessionId=46714&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T223500
-DTSTAMP;VALUE=DATE-TIME:20230531T184500Z
-UID:46685
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=002&txtSessionId=46685&visLang=1
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T152000
+DTSTAMP;VALUE=DATE-TIME:20230603T110000Z
+UID:46723
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=002&txtSessionId=46723&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Eight Mountains
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T162000
-DTSTAMP;VALUE=DATE-TIME:20230601T123000Z
-UID:46687
-DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012650/the-eight-mountains/\n\nBooking URL
- : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=002&txtSessionId=46687&visLang=1
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T164000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T200000
+DTSTAMP;VALUE=DATE-TIME:20230604T154000Z
+UID:46730
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=002&txtSessionId=46730&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230605T164500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230605T200500
+DTSTAMP;VALUE=DATE-TIME:20230605T154500Z
+UID:46735
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=002&txtSessionId=46735&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230606T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230606T230500
+DTSTAMP;VALUE=DATE-TIME:20230606T184500Z
+UID:46743
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=002&txtSessionId=46743&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T230500
+DTSTAMP;VALUE=DATE-TIME:20230607T184500Z
+UID:46750
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=002&txtSessionId=46750&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beau Is Afraid
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T194000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T230000
+DTSTAMP;VALUE=DATE-TIME:20230608T184000Z
+UID:46758
+DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=002&txtSessionId=46758&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -376,15 +541,88 @@ DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 3\n\nhttps://www.pictureh
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Return to Seoul
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T164000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T190000
-DTSTAMP;VALUE=DATE-TIME:20230531T154000Z
-UID:46697
-DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012870/return-to-seoul/\n\nBooking URL: ht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=002&txtSessionId=46697&visLang=1
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T195000
+DTSTAMP;VALUE=DATE-TIME:20230602T160000Z
+UID:46715
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=002&txtSessionId=46715&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T180500
+DTSTAMP;VALUE=DATE-TIME:20230603T141500Z
+UID:46724
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=002&txtSessionId=46724&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230605T195000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230605T224000
+DTSTAMP;VALUE=DATE-TIME:20230605T185000Z
+UID:46736
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=002&txtSessionId=46736&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230606T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230606T195000
+DTSTAMP;VALUE=DATE-TIME:20230606T160000Z
+UID:46744
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=002&txtSessionId=46744&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T174000
+DTSTAMP;VALUE=DATE-TIME:20230607T135000Z
+UID:46751
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=002&txtSessionId=46751&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Eight Mountains
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T180000
+DTSTAMP;VALUE=DATE-TIME:20230608T141000Z
+UID:46759
+DESCRIPTION:Duration: 2h 27m (147 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012650/the-eight-mountains/\n\nBooking URL
+ : https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=002&txtSessionId=46759&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Should Be Dancing: Chicago
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T191500
+DTSTAMP;VALUE=DATE-TIME:20230607T160000Z
+UID:46769
+DESCRIPTION:Duration: 1h 51m (111 min)\n\nScreen 3\n\nCulture Shock: Dedic
+ ated to bringing you the best in cult and genre films.\n\nhttps://www.pict
+ urehouses.com/movie-details/002/HO00013131/you-should-be-dancing-chicago/\
+ n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=002&txtSessionId=46769&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -400,6 +638,91 @@ DESCRIPTION:Duration: 2h 00m (120 min)\n\nScreen 2\n\nAd and Trailer Free:
  n-screen-race-for-the-future-director-panel/\n\nBooking URL: https://ticke
  ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&txtS
  essionId=46707&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T193000
+DTSTAMP;VALUE=DATE-TIME:20230602T164500Z
+UID:46708
+DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012911/reality/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46708&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T181500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T200000
+DTSTAMP;VALUE=DATE-TIME:20230603T171500Z
+UID:46709
+DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012911/reality/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46709&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T201000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T215500
+DTSTAMP;VALUE=DATE-TIME:20230604T191000Z
+UID:46710
+DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 3\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/002/HO00012911/reality
+ /\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectT
+ ickets.aspx?cinemacode=002&txtSessionId=46710&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230605T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230605T220000
+DTSTAMP;VALUE=DATE-TIME:20230605T191500Z
+UID:46711
+DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012911/reality/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46711&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230606T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230606T193000
+DTSTAMP;VALUE=DATE-TIME:20230606T164500Z
+UID:46742
+DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012911/reality/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46742&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T175000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T193500
+DTSTAMP;VALUE=DATE-TIME:20230607T165000Z
+UID:46749
+DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012911/reality/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46749&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T202000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T220500
+DTSTAMP;VALUE=DATE-TIME:20230608T192000Z
+UID:46757
+DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/002/HO00012911/reality/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46757&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -430,20 +753,6 @@ DESCRIPTION:Duration: 3h 30m (210 min)\n\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Odyssey 2023 Selection: Submission Collection
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230614T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230614T191500
-DTSTAMP;VALUE=DATE-TIME:20230614T170000Z
-UID:46640
-DESCRIPTION:Duration: 1h 11m (71 min)\n\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/002/HO00013123/odyssey-2023-selection-submission-collection/\n\nBookin
- g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=002&txtSessionId=46640&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Odyssey 2023 Selection: To The Summit
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T180000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T195000
@@ -470,6 +779,20 @@ DESCRIPTION:Duration: 2h 01m (121 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Odyssey 2023 Selection: Submission Collection
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230614T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230614T191500
+DTSTAMP;VALUE=DATE-TIME:20230614T170000Z
+UID:46640
+DESCRIPTION:Duration: 1h 11m (71 min)\n\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/002/HO00013123/odyssey-2023-selection-submission-collection/\n\nBookin
+ g URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=002&txtSessionId=46640&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Odyssey 2023 Selection: A Light Never Goes Out
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230612T180000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230612T200500
@@ -481,19 +804,6 @@ DESCRIPTION:Duration: 2h 02m (122 min)\n\nScreen 3\n\nAd and Trailer Free:
  ails/002/HO00013121/odyssey-2023-selection-a-light-never-goes-out/\n\nBook
  ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
  px?cinemacode=002&txtSessionId=46638&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T181500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T200000
-DTSTAMP;VALUE=DATE-TIME:20230530T171500Z
-UID:46259
-DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 3\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nhttps://www.picturehouses.com/movie-details/002/HO00012911/real
- ity/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=002&txtSessionId=46259&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -509,18 +819,6 @@ DESCRIPTION:Duration: 2h 15m (135 min)\n\nScreen 2\n\nAd and Trailer Free:
  vie-details/002/HO00012825/berliner-philharmoniker-live-summer-concert/\n\
  nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicke
  ts.aspx?cinemacode=002&txtSessionId=45936&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wicker Man: The Final Cut + Recorded Content
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T215500
-DTSTAMP;VALUE=DATE-TIME:20230621T180000Z
-UID:46420
-DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012931/the-wicker-man-the-final-cut-record
- ed-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
- visSelectTickets.aspx?cinemacode=002&txtSessionId=46420&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -556,6 +854,18 @@ DESCRIPTION:Duration: 3h 00m (180 min)\n\nScreen 1\n\nAd and Trailer Free:
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Wicker Man: The Final Cut + Recorded Content
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T215500
+DTSTAMP;VALUE=DATE-TIME:20230621T180000Z
+UID:46420
+DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012931/the-wicker-man-the-final-cut-record
+ ed-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=002&txtSessionId=46420&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Live: Il Trovatore (2023)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230613T191500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230613T231500
@@ -569,66 +879,18 @@ DESCRIPTION:Duration: 3h 40m (220 min)\n\nScreen 2\n\nLive via Satellite:
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T192000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T224000
-DTSTAMP;VALUE=DATE-TIME:20230530T182000Z
-UID:46681
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=002&txtSessionId=46681&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T114000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T150000
-DTSTAMP;VALUE=DATE-TIME:20230531T104000Z
-UID:46701
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=002&txtSessionId=46701&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T191000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T223000
-DTSTAMP;VALUE=DATE-TIME:20230531T181000Z
-UID:46696
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 3\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=002&txtSessionId=46696&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beau Is Afraid
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T195000
-DTSTAMP;VALUE=DATE-TIME:20230601T153000Z
-UID:46700
-DESCRIPTION:Duration: 2h 58m (178 min)\n\nScreen 2\n\nhttps://www.pictureh
- ouses.com/movie-details/002/HO00012826/beau-is-afraid/\n\nBooking URL: htt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=002&txtSessionId=46700&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2023: GOOD (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T215500
-DTSTAMP;VALUE=DATE-TIME:20230607T183000Z
-UID:46528
-DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nAd and Trailer Free:
+SUMMARY:A Crack in the Mountain + Q&A
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T215500
+DTSTAMP;VALUE=DATE-TIME:20230601T183000Z
+UID:46432
+DESCRIPTION:Duration: 2h 25m (145 min)\n\nScreen 3\n\nAd and Trailer Free:
   No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nSubtitled (Captioned): Everyone welcome
- . This screening has subtitles for people with hearing loss.\n\nhttps://ww
- w.picturehouses.com/movie-details/002/HO00012457/nt-live-2023-good-encore/
- \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
- ckets.aspx?cinemacode=002&txtSessionId=46528&visLang=1
+ recommended to arrive promptly.\n\nQ&A: This screening will be followed by
+  a Q&A.\n\nhttps://www.picturehouses.com/movie-details/002/HO00012982/a-cr
+ ack-in-the-mountain-q-a/\n\nBooking URL: https://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=46432&visLa
+ ng=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -656,18 +918,18 @@ DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 2\n\nhttps://www.pictureh
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Crack in the Mountain + Q&A
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T215500
-DTSTAMP;VALUE=DATE-TIME:20230601T183000Z
-UID:46432
-DESCRIPTION:Duration: 2h 25m (145 min)\n\nScreen 3\n\nAd and Trailer Free:
+SUMMARY:NT Live 2023: GOOD (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230607T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230607T215500
+DTSTAMP;VALUE=DATE-TIME:20230607T183000Z
+UID:46528
+DESCRIPTION:Duration: 2h 23m (143 min)\n\nScreen 3\n\nAd and Trailer Free:
   No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nQ&A: This screening will be followed by
-  a Q&A.\n\nhttps://www.picturehouses.com/movie-details/002/HO00012982/a-cr
- ack-in-the-mountain-q-a/\n\nBooking URL: https://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=46432&visLa
- ng=1
+ recommended to arrive promptly.\n\nSubtitled (Captioned): Everyone welcome
+ . This screening has subtitles for people with hearing loss.\n\nhttps://ww
+ w.picturehouses.com/movie-details/002/HO00012457/nt-live-2023-good-encore/
+ \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=002&txtSessionId=46528&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -694,6 +956,18 @@ DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 2\n\nPreview: A special p
  -across-the-spider-verse/\n\nBooking URL: https://ticketing.picturehouses.
  com/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=46424&visL
  ang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T151000
+DTSTAMP;VALUE=DATE-TIME:20230602T113000Z
+UID:46720
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00013031/spider-man-across-the-spider-verse/
+ \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=002&txtSessionId=46720&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -730,6 +1004,18 @@ DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/002/HO00013031/spider-man-across-the-spider-verse/
  \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
  ckets.aspx?cinemacode=002&txtSessionId=46425&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T111500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T135500
+DTSTAMP;VALUE=DATE-TIME:20230603T101500Z
+UID:46722
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00013031/spider-man-across-the-spider-verse/
+ \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=002&txtSessionId=46722&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -782,6 +1068,18 @@ LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T165000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T193000
+DTSTAMP;VALUE=DATE-TIME:20230604T155000Z
+UID:46767
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00013031/spider-man-across-the-spider-verse/
+ \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=002&txtSessionId=46767&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T194000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T222000
 DTSTAMP;VALUE=DATE-TIME:20230604T184000Z
@@ -792,6 +1090,18 @@ DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 1\n\nSubtitled (Captioned
  -man-across-the-spider-verse/\n\nBooking URL: https://ticketing.picturehou
  ses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=46428&
  visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230605T121500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230605T145500
+DTSTAMP;VALUE=DATE-TIME:20230605T111500Z
+UID:46734
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00013031/spider-man-across-the-spider-verse/
+ \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=002&txtSessionId=46734&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -906,6 +1216,18 @@ LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T121500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T145500
+DTSTAMP;VALUE=DATE-TIME:20230608T111500Z
+UID:46762
+DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00013031/spider-man-across-the-spider-verse/
+ \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=002&txtSessionId=46762&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T143000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T171000
 DTSTAMP;VALUE=DATE-TIME:20230608T133000Z
@@ -938,6 +1260,81 @@ DESCRIPTION:Duration: 2h 16m (136 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/002/HO00013031/spider-man-across-the-spider-verse/
  \n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTi
  ckets.aspx?cinemacode=002&txtSessionId=46431&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T222000
+DTSTAMP;VALUE=DATE-TIME:20230602T190000Z
+UID:46717
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00013139/carmen/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46717&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230603T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230603T223500
+DTSTAMP;VALUE=DATE-TIME:20230603T191500Z
+UID:46726
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00013139/carmen/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46726&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230604T115000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230604T141000
+DTSTAMP;VALUE=DATE-TIME:20230604T105000Z
+UID:46733
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00013139/carmen/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46733&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230605T151000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230605T173000
+DTSTAMP;VALUE=DATE-TIME:20230605T141000Z
+UID:46738
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00013139/carmen/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46738&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T170000
+DTSTAMP;VALUE=DATE-TIME:20230608T134000Z
+UID:46761
+DESCRIPTION:Duration: 1h 57m (117 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00013139/carmen/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&tx
+ tSessionId=46761&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230606T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230606T221500
+DTSTAMP;VALUE=DATE-TIME:20230606T190000Z
+UID:46768
+DESCRIPTION:Duration: 1h 55m (115 min)\n\nScreen 3\n\nDiscover: Discover s
+ tunning cinema. Each week\, the Picturehouse film team champion one must-s
+ ee film.\n\nPreview: A special preview screening of this film. See it befo
+ re anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-d
+ etails/002/HO00012834/war-pony/\n\nBooking URL: https://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&txtSessionId=4676
+ 8&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
@@ -983,54 +1380,6 @@ DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Full Time
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230530T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230530T220500
-DTSTAMP;VALUE=DATE-TIME:20230530T191500Z
-UID:46673
-DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
- txtSessionId=46673&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Full Time
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230531T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230531T193500
-DTSTAMP;VALUE=DATE-TIME:20230531T164500Z
-UID:46674
-DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
- txtSessionId=46674&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Full Time
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T132000
-DTSTAMP;VALUE=DATE-TIME:20230601T103000Z
-UID:46675
-DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
- txtSessionId=46675&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Full Time
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T162000
-DTSTAMP;VALUE=DATE-TIME:20230601T133000Z
-UID:46677
-DESCRIPTION:Duration: 1h 28m (88 min)\n\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/002/HO00012645/full-time/\n\nBooking URL: https://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=002&
- txtSessionId=46677&visLang=1
-LOCATION:Picture House Cambridge - Arts
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - Beau Travail
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230624T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230624T222500
@@ -1040,6 +1389,54 @@ DESCRIPTION:Duration: 1h 32m (92 min)\n\nScreen 2\n\nhttps://www.pictureho
  uses.com/movie-details/002/HO00012764/sight-sound-top-10-beau-travail/\n\n
  Booking URL: https://ticketing.picturehouses.com/Ticketing/visSelectTicket
  s.aspx?cinemacode=002&txtSessionId=45652&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Master Gardener
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230601T204000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230601T225000
+DTSTAMP;VALUE=DATE-TIME:20230601T194000Z
+UID:46672
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012912/master-gardener/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=002&txtSessionId=46672&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Master Gardener
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230602T152000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230602T173000
+DTSTAMP;VALUE=DATE-TIME:20230602T142000Z
+UID:46719
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012912/master-gardener/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=002&txtSessionId=46719&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Master Gardener
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230605T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230605T163000
+DTSTAMP;VALUE=DATE-TIME:20230605T132000Z
+UID:46741
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 3\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012912/master-gardener/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=002&txtSessionId=46741&visLang=1
+LOCATION:Picture House Cambridge - Arts
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Master Gardener
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230608T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230608T192500
+DTSTAMP;VALUE=DATE-TIME:20230608T161500Z
+UID:46764
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 2\n\nhttps://www.pictureh
+ ouses.com/movie-details/002/HO00012912/master-gardener/\n\nBooking URL: ht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=002&txtSessionId=46764&visLang=1
 LOCATION:Picture House Cambridge - Arts
 END:VEVENT
 END:VCALENDAR
