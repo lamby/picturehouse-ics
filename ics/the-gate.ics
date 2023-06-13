@@ -1,9 +1,23 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230612T083631Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230613T050339Z
 NAME:Picture House London - The Gate
 X-WR-CALNAME:Picture House London - The Gate
+BEGIN:VEVENT
+SUMMARY:The Royal Tenenbaums & Moonrise Kingdom
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T153500
+DTSTAMP;VALUE=DATE-TIME:20230617T110000Z
+UID:13642
+DESCRIPTION:Duration: 3h 32m (212 min)\n\nScreen 1\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-det
+ ails/016/HO00012925/the-royal-tenenbaums-moonrise-kingdom/\n\nBooking URL:
+  https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=016&txtSessionId=13642&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230805T120000
@@ -14,18 +28,6 @@ DESCRIPTION:Duration: 2h 29m (149 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/016/HO00012766/sight-sound-top-10-2001-a-space-ody
  ssey/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSel
  ectTickets.aspx?cinemacode=016&txtSessionId=13477&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Royal Tenenbaums & Moonrise Kingdom
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T155500
-DTSTAMP;VALUE=DATE-TIME:20230617T110000Z
-UID:13642
-DESCRIPTION:Duration: 3h 32m (212 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012925/the-royal-tenenbaums-moonrise-kingd
- om/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=016&txtSessionId=13642&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -53,27 +55,27 @@ DESCRIPTION:Duration: 1h 22m (82 min)\n\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230612T151500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230612T173000
-DTSTAMP;VALUE=DATE-TIME:20230612T141500Z
-UID:13808
-DESCRIPTION:Duration: 1h 55m (115 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012834/war-pony/\n\nBooking URL: https://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&
- txtSessionId=13808&visLang=1
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T174500
+DTSTAMP;VALUE=DATE-TIME:20230617T150000Z
+UID:13970
+DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012911/reality/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&tx
+ tSessionId=13970&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230612T201000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230612T222500
-DTSTAMP;VALUE=DATE-TIME:20230612T191000Z
-UID:13821
-DESCRIPTION:Duration: 1h 55m (115 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012834/war-pony/\n\nBooking URL: https://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&
- txtSessionId=13821&visLang=1
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T154500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T173000
+DTSTAMP;VALUE=DATE-TIME:20230622T144500Z
+UID:13979
+DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012911/reality/\n\nBooking URL: https://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&tx
+ tSessionId=13979&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -138,15 +140,58 @@ DESCRIPTION:Duration: 1h 55m (115 min)\n\nScreen 1\n\nhttps://www.pictureh
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230612T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230612T194500
-DTSTAMP;VALUE=DATE-TIME:20230612T170000Z
-UID:13820
-DESCRIPTION:Duration: 1h 23m (83 min)\n\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/016/HO00012911/reality/\n\nBooking URL: https://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&tx
- tSessionId=13820&visLang=1
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T173000
+DTSTAMP;VALUE=DATE-TIME:20230616T141500Z
+UID:13824
+DESCRIPTION:Duration: 1h 55m (115 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/016/HO00012834/war-pony/\n\nBooking URL: https://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&
+ txtSessionId=13824&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T165500
+DTSTAMP;VALUE=DATE-TIME:20230618T134000Z
+UID:13828
+DESCRIPTION:Duration: 1h 55m (115 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012834/war-po
+ ny/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=016&txtSessionId=13828&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T174500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T200000
+DTSTAMP;VALUE=DATE-TIME:20230620T164500Z
+UID:13947
+DESCRIPTION:Duration: 1h 55m (115 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012834/war-po
+ ny/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=016&txtSessionId=13947&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Should Be Dancing: All That Jazz
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T200500
+DTSTAMP;VALUE=DATE-TIME:20230619T170000Z
+UID:13971
+DESCRIPTION:Duration: 2h 03m (123 min)\n\nScreen 1\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nreDiscover: Time to broaden your cinema
+ tic horizons: you'll find the best of what's next with Discover's under-th
+ e-radar releases\, and return to favourites of yesterday with our ReDiscov
+ er retrospectives.\n\nhttps://www.picturehouses.com/movie-details/016/HO00
+ 013077/you-should-be-dancing-all-that-jazz/\n\nBooking URL: https://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtSe
+ ssionId=13971&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -165,6 +210,19 @@ DESCRIPTION:Duration: 2h 02m (122 min)\n\nScreen 1\n\nDiscover: Discover s
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Name Me Lawand
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T194500
+DTSTAMP;VALUE=DATE-TIME:20230621T170000Z
+UID:13962
+DESCRIPTION:Duration: 1h 22m (82 min)\n\nScreen 1\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00013074/name-me
+ -lawand/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=016&txtSessionId=13962&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: Fleabag (Encore 2023)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T182000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T200000
@@ -174,6 +232,68 @@ DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/016/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
  ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
  px?cinemacode=016&txtSessionId=13564&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T194000
+DTSTAMP;VALUE=DATE-TIME:20230616T170000Z
+UID:13823
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=016&txtSessionId=13823&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T204500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T222500
+DTSTAMP;VALUE=DATE-TIME:20230617T194500Z
+UID:13969
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=016&txtSessionId=13969&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T172000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T190000
+DTSTAMP;VALUE=DATE-TIME:20230618T162000Z
+UID:13980
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012865/nt-live
+ -fleabag-encore-2023/\n\nBooking URL: https://ticketing.picturehouses.com/
+ Ticketing/visSelectTickets.aspx?cinemacode=016&txtSessionId=13980&visLang=
+ 1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T154500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T172500
+DTSTAMP;VALUE=DATE-TIME:20230619T144500Z
+UID:13831
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=016&txtSessionId=13831&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T204000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T222000
+DTSTAMP;VALUE=DATE-TIME:20230622T194000Z
+UID:13837
+DESCRIPTION:Duration: 1h 20m (80 min)\n\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/016/HO00012865/nt-live-fleabag-encore-2023/\n\nBook
+ ing URL: https://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=016&txtSessionId=13837&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -227,6 +347,92 @@ DESCRIPTION:Duration: 2h 33m (153 min)\n\nScreen 1\n\nhttps://www.pictureh
  ouses.com/movie-details/016/HO00012931/the-wicker-man-the-final-cut-record
  ed-content/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
  visSelectTickets.aspx?cinemacode=016&txtSessionId=13706&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T222500
+DTSTAMP;VALUE=DATE-TIME:20230616T191500Z
+UID:13958
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/016/HO00013157/pretty-red-dress/\n\nBooking URL: h
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=016&txtSessionId=13958&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T181000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T202000
+DTSTAMP;VALUE=DATE-TIME:20230617T171000Z
+UID:13957
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/016/HO00013157/pretty-red-dress/\n\nBooking URL: h
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=016&txtSessionId=13957&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T194000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T215000
+DTSTAMP;VALUE=DATE-TIME:20230618T184000Z
+UID:13956
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00013157/pretty
+ -red-dress/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=016&txtSessionId=13956&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T224000
+DTSTAMP;VALUE=DATE-TIME:20230619T193000Z
+UID:13952
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/016/HO00013157/pretty-red-dress/\n\nBooking URL: h
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=016&txtSessionId=13952&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T171000
+DTSTAMP;VALUE=DATE-TIME:20230620T140000Z
+UID:13955
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00013157/pretty
+ -red-dress/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=016&txtSessionId=13955&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T152000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T173000
+DTSTAMP;VALUE=DATE-TIME:20230621T142000Z
+UID:13954
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/016/HO00013157/pretty-red-dress/\n\nBooking URL: h
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=016&txtSessionId=13954&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T201000
+DTSTAMP;VALUE=DATE-TIME:20230622T170000Z
+UID:13953
+DESCRIPTION:Duration: 1h 50m (110 min)\n\nScreen 1\n\nhttps://www.pictureh
+ ouses.com/movie-details/016/HO00013157/pretty-red-dress/\n\nBooking URL: h
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=016&txtSessionId=13953&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -296,10 +502,11 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230624T153000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230624T173500
 DTSTAMP;VALUE=DATE-TIME:20230624T143000Z
 UID:13847
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012945/asteroid-city/\n\nBooking URL: http
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =016&txtSessionId=13847&visLang=1
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012945/astero
+ id-city/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=016&txtSessionId=13847&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -332,10 +539,11 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230625T143000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230625T163500
 DTSTAMP;VALUE=DATE-TIME:20230625T133000Z
 UID:13850
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012945/asteroid-city/\n\nBooking URL: http
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =016&txtSessionId=13850&visLang=1
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012945/astero
+ id-city/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=016&txtSessionId=13850&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -392,10 +600,11 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230627T153000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230627T173500
 DTSTAMP;VALUE=DATE-TIME:20230627T143000Z
 UID:13862
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012945/asteroid-city/\n\nBooking URL: http
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =016&txtSessionId=13862&visLang=1
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012945/astero
+ id-city/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=016&txtSessionId=13862&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -404,10 +613,11 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230627T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230627T223500
 DTSTAMP;VALUE=DATE-TIME:20230627T193000Z
 UID:13855
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012945/asteroid-city/\n\nBooking URL: http
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =016&txtSessionId=13855&visLang=1
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012945/astero
+ id-city/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=016&txtSessionId=13855&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -452,10 +662,11 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230629T153000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230629T173500
 DTSTAMP;VALUE=DATE-TIME:20230629T143000Z
 UID:13861
-DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nhttps://www.pictureh
- ouses.com/movie-details/016/HO00012945/asteroid-city/\n\nBooking URL: http
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =016&txtSessionId=13861&visLang=1
+DESCRIPTION:Duration: 1h 44m (104 min)\n\nScreen 1\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00012945/astero
+ id-city/\n\nBooking URL: https://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=016&txtSessionId=13861&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
