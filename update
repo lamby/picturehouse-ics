@@ -194,6 +194,7 @@ class PictureHouseICS:
                     if attr in HIDE_ATTRIBUTES:
                         continue
                     description.append(f"{attr}: {z['description']}")
+                    description.append("")
 
                 if ignore_film:
                     continue
@@ -204,9 +205,9 @@ class PictureHouseICS:
                 booking_url = f"https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode={y['CinemaId']}&txtSessionId={y['SessionId']}&visLang=1"
 
                 description.append(url)
-                description.append(f"Booking URL: {booking_url}")
+                description.append(booking_url)
 
-                event.add("description", "\n\n".join(description))
+                event.add("description", "\n".join(description))
 
                 cal.add_component(event)
 
