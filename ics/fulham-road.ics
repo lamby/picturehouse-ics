@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230615T062406Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230617T065850Z
 NAME:Picture House London - Fulham Road
 X-WR-CALNAME:Picture House London - Fulham Road
+BEGIN:VEVENT
+SUMMARY:Dog-Friendly: Indiana Jones & the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T135500
+DTSTAMP;VALUE=DATE-TIME:20230702T100000Z
+UID:23802
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013187/dog-friendly-indiana-jones-the-dial-of-
+ destiny/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=030&txtSessionId=23802&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dog-Friendly Screening: The Flash
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T110000
@@ -14,6 +26,18 @@ DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 6\nhttps://www.picturehouse
  s.com/movie-details/030/HO00013186/dog-friendly-screening-the-flash/\nhttp
  s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
  =030&txtSessionId=23801&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dog-Friendly: Mission: Impossible - Dead Reckoning
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T140500
+DTSTAMP;VALUE=DATE-TIME:20230716T100000Z
+UID:23804
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013188/dog-friendly-mission-impossible-dead-re
+ ckoning/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=030&txtSessionId=23804&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -29,27 +53,41 @@ DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 6\nhttps://www.picturehouse
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dog-Friendly: Indiana Jones & the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T135500
-DTSTAMP;VALUE=DATE-TIME:20230702T100000Z
-UID:23802
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013187/dog-friendly-indiana-jones-the-dial-of-
- destiny/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=030&txtSessionId=23802&visLang=1
+SUMMARY:Ratatouille
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T134000
+DTSTAMP;VALUE=DATE-TIME:20230708T103000Z
+UID:23628
+DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 5\nStep-Free: This screen h
+ as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
+ ie-details/030/HO00006703/ratatouille/\nhttps://ticketing.picturehouses.co
+ m/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23628&visLan
+ g=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dog-Friendly: Mission: Impossible - Dead Reckoning
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T140500
-DTSTAMP;VALUE=DATE-TIME:20230716T100000Z
-UID:23804
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013188/dog-friendly-mission-impossible-dead-re
- ckoning/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=030&txtSessionId=23804&visLang=1
+SUMMARY:Wall-E
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230624T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230624T133500
+DTSTAMP;VALUE=DATE-TIME:20230624T103000Z
+UID:23626
+DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 5\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00000232/wall-e/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23626&vi
+ sLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T133500
+DTSTAMP;VALUE=DATE-TIME:20230701T103000Z
+UID:23627
+DESCRIPTION:Duration: 1h 42m (102 min)\nScreen 5\nStep-Free: This screen h
+ as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
+ ie-details/030/HO00001610/inside-out/\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23627&visLang
+ =1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -77,92 +115,150 @@ DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\nhttps://www.picturehouses
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ratatouille
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T134000
-DTSTAMP;VALUE=DATE-TIME:20230708T103000Z
-UID:23628
-DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 5\nStep-Free: This screen h
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T141000
+DTSTAMP;VALUE=DATE-TIME:20230617T110000Z
+UID:23906
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23906&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T222500
+DTSTAMP;VALUE=DATE-TIME:20230617T191500Z
+UID:23913
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 5\nStep-Free: This screen h
  as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00006703/ratatouille/\nhttps://ticketing.picturehouses.co
- m/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23628&visLan
- g=1
+ ie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23913&v
+ isLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inside Out
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T133500
-DTSTAMP;VALUE=DATE-TIME:20230701T103000Z
-UID:23627
-DESCRIPTION:Duration: 1h 42m (102 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00001610/inside-out/\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23627&visLang
- =1
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T165500
+DTSTAMP;VALUE=DATE-TIME:20230618T134500Z
+UID:23927
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23927&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wall-E
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230624T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230624T133500
-DTSTAMP;VALUE=DATE-TIME:20230624T103000Z
-UID:23626
-DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 5\nhttps://www.picturehouse
- s.com/movie-details/030/HO00000232/wall-e/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23626&vi
- sLang=1
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T222500
+DTSTAMP;VALUE=DATE-TIME:20230618T191500Z
+UID:23921
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 5\nSubtitled (Captioned): E
+ veryone welcome. This screening has subtitles for people with hearing loss
+ .\n\nStep-Free: This screen has street to screen step-free access.\n\nhttp
+ s://www.picturehouses.com/movie-details/030/HO00013157/pretty-red-dress/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=030&txtSessionId=23921&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greatest Days
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T141500
-DTSTAMP;VALUE=DATE-TIME:20230616T110000Z
-UID:23198
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012946/greatest-days/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23198&visL
- ang=1
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T171000
+DTSTAMP;VALUE=DATE-TIME:20230619T140000Z
+UID:23935
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23935&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greatest Days
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T170000
-DTSTAMP;VALUE=DATE-TIME:20230616T134500Z
-UID:23200
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012946/greatest-days/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23200&visL
- ang=1
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T215500
+DTSTAMP;VALUE=DATE-TIME:20230619T184500Z
+UID:23941
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23941&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greatest Days
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T194500
-DTSTAMP;VALUE=DATE-TIME:20230616T163000Z
-UID:23201
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012946/greatest-days/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=2
- 3201&visLang=1
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T171000
+DTSTAMP;VALUE=DATE-TIME:20230620T140000Z
+UID:23952
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23952&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Greatest Days
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T221500
-DTSTAMP;VALUE=DATE-TIME:20230616T190000Z
-UID:23202
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 4\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012946/greatest-days/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23202&visL
- ang=1
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T222500
+DTSTAMP;VALUE=DATE-TIME:20230620T191500Z
+UID:23946
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23946&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T174000
+DTSTAMP;VALUE=DATE-TIME:20230621T143000Z
+UID:23959
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23959&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T222500
+DTSTAMP;VALUE=DATE-TIME:20230621T191500Z
+UID:23965
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23965&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T171000
+DTSTAMP;VALUE=DATE-TIME:20230622T140000Z
+UID:23981
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23981&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pretty Red Dress
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T222500
+DTSTAMP;VALUE=DATE-TIME:20230622T191500Z
+UID:23975
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23975&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -399,246 +495,116 @@ DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 4\nStep-Free: This screen h
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T121500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T142500
-DTSTAMP;VALUE=DATE-TIME:20230616T111500Z
-UID:23896
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23896&visLang=1
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T141500
+DTSTAMP;VALUE=DATE-TIME:20230618T113000Z
+UID:23930
+DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 5\nStep-Free: This screen ha
+ s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
+ e-details/030/HO00012911/reality/\nhttps://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=030&txtSessionId=23930&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T224000
-DTSTAMP;VALUE=DATE-TIME:20230616T193000Z
-UID:23895
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23895&visLang=1
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T163000
+DTSTAMP;VALUE=DATE-TIME:20230619T134500Z
+UID:23942
+DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 6\nSubtitled (Captioned): Ev
+ eryone welcome. This screening has subtitles for people with hearing loss.
+ \n\nhttps://www.picturehouses.com/movie-details/030/HO00012911/reality/\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=030&txtSessionId=23942&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T141000
-DTSTAMP;VALUE=DATE-TIME:20230617T110000Z
-UID:23906
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23906&visLang=1
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T141500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T160000
+DTSTAMP;VALUE=DATE-TIME:20230620T131500Z
+UID:23945
+DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 5\nStep-Free: This screen ha
+ s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
+ e-details/030/HO00012911/reality/\nhttps://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=030&txtSessionId=23945&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T222500
-DTSTAMP;VALUE=DATE-TIME:20230617T191500Z
-UID:23913
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 5\nStep-Free: This screen h
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T163000
+DTSTAMP;VALUE=DATE-TIME:20230621T134500Z
+UID:23966
+DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 5\nStep-Free: This screen ha
+ s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
+ e-details/030/HO00012911/reality/\nhttps://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=030&txtSessionId=23966&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reality
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T163000
+DTSTAMP;VALUE=DATE-TIME:20230622T134500Z
+UID:23974
+DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 5\nStep-Free: This screen ha
+ s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
+ e-details/030/HO00012911/reality/\nhttps://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=030&txtSessionId=23974&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T124500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T153000
+DTSTAMP;VALUE=DATE-TIME:20230617T114500Z
+UID:23911
+DESCRIPTION:Duration: 2h 23m (143 min)\nScreen 4\nStep-Free: This screen h
  as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23913&v
- isLang=1
+ ie-details/030/HO00012859/guardians-of-the-galaxy-vol-3-2d/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=23911&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T165500
-DTSTAMP;VALUE=DATE-TIME:20230618T134500Z
-UID:23927
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23927&visLang=1
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T171500
+DTSTAMP;VALUE=DATE-TIME:20230618T133000Z
+UID:23923
+DESCRIPTION:Duration: 2h 23m (143 min)\nScreen 5\nStep-Free: This screen h
+ as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
+ ie-details/030/HO00012859/guardians-of-the-galaxy-vol-3-2d/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=23923&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T222500
-DTSTAMP;VALUE=DATE-TIME:20230618T191500Z
-UID:23921
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 5\nSubtitled (Captioned): E
- veryone welcome. This screening has subtitles for people with hearing loss
- .\n\nStep-Free: This screen has street to screen step-free access.\n\nhttp
- s://www.picturehouses.com/movie-details/030/HO00013157/pretty-red-dress/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=030&txtSessionId=23921&visLang=1
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T173000
+DTSTAMP;VALUE=DATE-TIME:20230619T134500Z
+UID:23939
+DESCRIPTION:Duration: 2h 23m (143 min)\nScreen 5\nStep-Free: This screen h
+ as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
+ ie-details/030/HO00012859/guardians-of-the-galaxy-vol-3-2d/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=23939&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T171000
-DTSTAMP;VALUE=DATE-TIME:20230619T140000Z
-UID:23935
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23935&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T215500
-DTSTAMP;VALUE=DATE-TIME:20230619T184500Z
-UID:23941
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23941&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T171000
-DTSTAMP;VALUE=DATE-TIME:20230620T140000Z
-UID:23952
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23952&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T222500
-DTSTAMP;VALUE=DATE-TIME:20230620T191500Z
-UID:23946
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23946&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T174000
-DTSTAMP;VALUE=DATE-TIME:20230621T143000Z
-UID:23959
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23959&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T222500
-DTSTAMP;VALUE=DATE-TIME:20230621T191500Z
-UID:23965
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23965&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T171000
-DTSTAMP;VALUE=DATE-TIME:20230622T140000Z
-UID:23981
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23981&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pretty Red Dress
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T222500
-DTSTAMP;VALUE=DATE-TIME:20230622T191500Z
-UID:23975
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013157/pretty-red-dress/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23975&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T164000
-DTSTAMP;VALUE=DATE-TIME:20230615T130000Z
-UID:23793
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013031/spider-man-across-the-spider-verse/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=030&txtSessionId=23793&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T191000
-DTSTAMP;VALUE=DATE-TIME:20230615T153000Z
-UID:23665
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013031/spider-man-across-the-spider-verse/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=030&txtSessionId=23665&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T224000
-DTSTAMP;VALUE=DATE-TIME:20230615T190000Z
-UID:23664
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013031/spider-man-across-the-spider-verse/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=030&txtSessionId=23664&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T152500
-DTSTAMP;VALUE=DATE-TIME:20230616T114500Z
-UID:23884
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013031/spider-man-across-the-spider-verse/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=030&txtSessionId=23884&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T185500
-DTSTAMP;VALUE=DATE-TIME:20230616T151500Z
-UID:23885
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013031/spider-man-across-the-spider-verse/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=030&txtSessionId=23885&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T221000
-DTSTAMP;VALUE=DATE-TIME:20230616T183000Z
-UID:23886
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013031/spider-man-across-the-spider-verse/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=030&txtSessionId=23886&visLang=1
+SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T161500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T190000
+DTSTAMP;VALUE=DATE-TIME:20230620T151500Z
+UID:23948
+DESCRIPTION:Duration: 2h 23m (143 min)\nScreen 5\nStep-Free: This screen h
+ as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
+ ie-details/030/HO00012859/guardians-of-the-galaxy-vol-3-2d/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=23948&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -810,17 +776,186 @@ DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\nhttps://www.picturehouse
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Message in a Bottle (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240604T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240604T152500
-DTSTAMP;VALUE=DATE-TIME:20240604T130000Z
-UID:24223
-DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 5\nAd and Trailer Free: No a
- dvertisements or trailers will play ahead of this screening. You are recom
- mended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details/
- 030/HO00013119/message-in-a-bottle-encore/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=24223&vi
- sLang=1
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T154500
+DTSTAMP;VALUE=DATE-TIME:20230617T120000Z
+UID:23902
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23902
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T191500
+DTSTAMP;VALUE=DATE-TIME:20230617T153000Z
+UID:23912
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23912
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T223000
+DTSTAMP;VALUE=DATE-TIME:20230617T184500Z
+UID:23908
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23908
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T124500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T153000
+DTSTAMP;VALUE=DATE-TIME:20230618T114500Z
+UID:23917
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23917
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T161500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T190000
+DTSTAMP;VALUE=DATE-TIME:20230618T151500Z
+UID:23922
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23922
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T221500
+DTSTAMP;VALUE=DATE-TIME:20230618T183000Z
+UID:23926
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23926
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T161500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T190000
+DTSTAMP;VALUE=DATE-TIME:20230619T151500Z
+UID:23940
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23940
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T221500
+DTSTAMP;VALUE=DATE-TIME:20230619T183000Z
+UID:23936
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23936
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T194500
+DTSTAMP;VALUE=DATE-TIME:20230620T160000Z
+UID:23947
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23947
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T221500
+DTSTAMP;VALUE=DATE-TIME:20230620T183000Z
+UID:23951
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 5\nStep-Free: This screen h
+ as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
+ ie-details/030/HO00013135/the-flash/\nhttps://ticketing.picturehouses.com/
+ Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23951&visLang=
+ 1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T191500
+DTSTAMP;VALUE=DATE-TIME:20230621T153000Z
+UID:23964
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23964
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T223000
+DTSTAMP;VALUE=DATE-TIME:20230621T184500Z
+UID:23960
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23960
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T191500
+DTSTAMP;VALUE=DATE-TIME:20230622T153000Z
+UID:23976
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23976
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flash
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T223000
+DTSTAMP;VALUE=DATE-TIME:20230622T184500Z
+UID:23980
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23980
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240402T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240402T171500
+DTSTAMP;VALUE=DATE-TIME:20240402T130000Z
+UID:23378
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details
+ /030/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=2
+ 3378&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -1544,6 +1679,18 @@ DESCRIPTION:Duration: 3h 12m (192 min)\nScreen 5\nhttps://www.picturehouse
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Encore: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231010T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231010T174000
+DTSTAMP;VALUE=DATE-TIME:20231010T130000Z
+UID:23368
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013109/roh-encore-l-elisir-d-amore-2023/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =030&txtSessionId=23368&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Encore: Das Rheingold (2023)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230926T140000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230926T164500
@@ -1559,15 +1706,30 @@ DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 5\nAd and Trailer Free: No
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231010T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231010T174000
-DTSTAMP;VALUE=DATE-TIME:20231010T130000Z
-UID:23368
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013109/roh-encore-l-elisir-d-amore-2023/\nhttp
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =030&txtSessionId=23368&visLang=1
+SUMMARY:ROH Encore: Manon (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240213T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240213T173500
+DTSTAMP;VALUE=DATE-TIME:20240213T140000Z
+UID:23376
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nLive via Satellite: This
+  screening will be streamed live via a Satellite Feed\n\nhttps://www.pictu
+ rehouses.com/movie-details/030/HO00013113/roh-encore-manon-2024/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030
+ &txtSessionId=23376&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Message in a Bottle (Encore)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240604T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240604T152500
+DTSTAMP;VALUE=DATE-TIME:20240604T130000Z
+UID:24223
+DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 5\nAd and Trailer Free: No a
+ dvertisements or trailers will play ahead of this screening. You are recom
+ mended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details/
+ 030/HO00013119/message-in-a-bottle-encore/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=24223&vi
+ sLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -1585,20 +1747,6 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\nAd and Trailer Free: No
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: The Nutcracker (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231219T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231219T164500
-DTSTAMP;VALUE=DATE-TIME:20231219T140000Z
-UID:23372
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details
- /030/HO00013111/roh-encore-the-nutcracker-2023/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=233
- 72&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Encore: Rusalka (2024)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240130T140000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240130T174500
@@ -1610,33 +1758,6 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 5\nAd and Trailer Free: No
  /030/HO00013112/roh-encore-rusalka-2024/\nhttps://ticketing.picturehouses.
  com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23374&visL
  ang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Manon (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240213T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240213T173500
-DTSTAMP;VALUE=DATE-TIME:20240213T140000Z
-UID:23376
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nLive via Satellite: This
-  screening will be streamed live via a Satellite Feed\n\nhttps://www.pictu
- rehouses.com/movie-details/030/HO00013113/roh-encore-manon-2024/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030
- &txtSessionId=23376&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240402T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240402T171500
-DTSTAMP;VALUE=DATE-TIME:20240402T130000Z
-UID:23378
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details
- /030/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=2
- 3378&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -1654,20 +1775,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240507T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240507T174500
-DTSTAMP;VALUE=DATE-TIME:20240507T130000Z
-UID:23384
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details
- /030/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23384&visLa
- ng=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Encore: Swan Lake (2024)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240430T140000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240430T172000
@@ -1679,6 +1786,20 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\nAd and Trailer Free: No
  /030/HO00013116/roh-encore-swan-lake-2024/\nhttps://ticketing.picturehouse
  s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23382&vi
  sLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Carmen (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240507T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240507T174500
+DTSTAMP;VALUE=DATE-TIME:20240507T130000Z
+UID:23384
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details
+ /030/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23384&visLa
+ ng=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -1696,52 +1817,131 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chevalier
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T161000
-DTSTAMP;VALUE=DATE-TIME:20230615T130000Z
-UID:23763
-DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013087/chevalier/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23763
- &visLang=1
+SUMMARY:ROH Encore: The Nutcracker (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231219T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231219T164500
+DTSTAMP;VALUE=DATE-TIME:20231219T140000Z
+UID:23372
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details
+ /030/HO00013111/roh-encore-the-nutcracker-2023/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=233
+ 72&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chevalier
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T224000
-DTSTAMP;VALUE=DATE-TIME:20230615T193000Z
-UID:23792
-DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013087/chevalier/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23792
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chevalier
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T144000
-DTSTAMP;VALUE=DATE-TIME:20230616T113000Z
-UID:23983
-DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 4\nStep-Free: This screen h
+SUMMARY:The Little Mermaid (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T170500
+DTSTAMP;VALUE=DATE-TIME:20230617T133000Z
+UID:23904
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 5\nStep-Free: This screen h
  as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00013087/chevalier/\nhttps://ticketing.picturehouses.com/
- Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23983&visLang=
- 1
+ ie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 23904&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chevalier
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T165500
-DTSTAMP;VALUE=DATE-TIME:20230616T134500Z
-UID:23893
-DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013087/chevalier/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23893
- &visLang=1
+SUMMARY:The Little Mermaid (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T215000
+DTSTAMP;VALUE=DATE-TIME:20230617T181500Z
+UID:23907
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 4\nStep-Free: This screen h
+ as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
+ ie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 23907&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T142000
+DTSTAMP;VALUE=DATE-TIME:20230618T104500Z
+UID:23915
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=23915&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T222000
+DTSTAMP;VALUE=DATE-TIME:20230618T184500Z
+UID:23929
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=23929&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T164500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T192000
+DTSTAMP;VALUE=DATE-TIME:20230619T154500Z
+UID:23933
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=23933&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T195000
+DTSTAMP;VALUE=DATE-TIME:20230620T161500Z
+UID:23954
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=23954&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T195000
+DTSTAMP;VALUE=DATE-TIME:20230621T161500Z
+UID:23957
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=23957&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Little Mermaid (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T195000
+DTSTAMP;VALUE=DATE-TIME:20230622T161500Z
+UID:23970
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nSubtitled (Captioned): E
+ veryone welcome. This screening has subtitles for people with hearing loss
+ .\n\nhttps://www.picturehouses.com/movie-details/030/HO00012857/the-little
+ -mermaid-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=030&txtSessionId=23970&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Should Be Dancing: All That Jazz
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T171000
+DTSTAMP;VALUE=DATE-TIME:20230618T134500Z
+UID:23914
+DESCRIPTION:Duration: 2h 03m (123 min)\nScreen 6\nreDiscover: Time to broa
+ den your cinematic horizons: you'll find the best of what's next with Disc
+ over's under-the-radar releases\, and return to favourites of yesterday wi
+ th our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-d
+ etails/030/HO00013077/you-should-be-dancing-all-that-jazz/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSe
+ ssionId=23914&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -1826,594 +2026,6 @@ DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 3\nhttps://www.picturehouse
  s.com/movie-details/030/HO00013087/chevalier/\nhttps://ticketing.pictureho
  uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23978
  &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T161500
-DTSTAMP;VALUE=DATE-TIME:20230615T130000Z
-UID:23693
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23693&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T200000
-DTSTAMP;VALUE=DATE-TIME:20230615T164500Z
-UID:23689
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23689&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T223000
-DTSTAMP;VALUE=DATE-TIME:20230615T191500Z
-UID:23688
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23688&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T171500
-DTSTAMP;VALUE=DATE-TIME:20230616T140000Z
-UID:23887
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23887&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T194500
-DTSTAMP;VALUE=DATE-TIME:20230617T163000Z
-UID:23901
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23901&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T193000
-DTSTAMP;VALUE=DATE-TIME:20230618T161500Z
-UID:23918
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23918&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T194500
-DTSTAMP;VALUE=DATE-TIME:20230619T163000Z
-UID:23932
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23932&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T164500
-DTSTAMP;VALUE=DATE-TIME:20230620T133000Z
-UID:23955
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23955&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T221500
-DTSTAMP;VALUE=DATE-TIME:20230620T190000Z
-UID:23943
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nSubtitled (Captioned): E
- veryone welcome. This screening has subtitles for people with hearing loss
- .\n\nhttps://www.picturehouses.com/movie-details/030/HO00012834/war-pony/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=030&txtSessionId=23943&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T164500
-DTSTAMP;VALUE=DATE-TIME:20230621T133000Z
-UID:23956
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23956&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T170000
-DTSTAMP;VALUE=DATE-TIME:20230622T134500Z
-UID:23971
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23971&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Pony
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T221500
-DTSTAMP;VALUE=DATE-TIME:20230622T190000Z
-UID:23972
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23972&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T154500
-DTSTAMP;VALUE=DATE-TIME:20230615T130000Z
-UID:23764
-DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 5\nStep-Free: This screen ha
- s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00012911/reality/\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=030&txtSessionId=23764&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T193000
-DTSTAMP;VALUE=DATE-TIME:20230615T164500Z
-UID:23791
-DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 3\nhttps://www.picturehouses
- .com/movie-details/030/HO00012911/reality/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23791&vi
- sLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T151500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T170000
-DTSTAMP;VALUE=DATE-TIME:20230616T141500Z
-UID:23891
-DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 6\nhttps://www.picturehouses
- .com/movie-details/030/HO00012911/reality/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23891&vi
- sLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T141500
-DTSTAMP;VALUE=DATE-TIME:20230618T113000Z
-UID:23930
-DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 5\nStep-Free: This screen ha
- s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00012911/reality/\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=030&txtSessionId=23930&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T163000
-DTSTAMP;VALUE=DATE-TIME:20230619T134500Z
-UID:23942
-DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 6\nSubtitled (Captioned): Ev
- eryone welcome. This screening has subtitles for people with hearing loss.
- \n\nhttps://www.picturehouses.com/movie-details/030/HO00012911/reality/\nh
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=030&txtSessionId=23942&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T141500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T160000
-DTSTAMP;VALUE=DATE-TIME:20230620T131500Z
-UID:23945
-DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 5\nStep-Free: This screen ha
- s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00012911/reality/\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=030&txtSessionId=23945&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T163000
-DTSTAMP;VALUE=DATE-TIME:20230621T134500Z
-UID:23966
-DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 5\nStep-Free: This screen ha
- s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00012911/reality/\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=030&txtSessionId=23966&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reality
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T163000
-DTSTAMP;VALUE=DATE-TIME:20230622T134500Z
-UID:23974
-DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 5\nStep-Free: This screen ha
- s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00012911/reality/\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=030&txtSessionId=23974&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T141500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T170000
-DTSTAMP;VALUE=DATE-TIME:20230615T131500Z
-UID:23794
-DESCRIPTION:Duration: 2h 23m (143 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012859/guardians-of-the-galaxy-vol-3-2d/\nhttp
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =030&txtSessionId=23794&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T200000
-DTSTAMP;VALUE=DATE-TIME:20230616T161500Z
-UID:23894
-DESCRIPTION:Duration: 2h 23m (143 min)\nScreen 3\nSubtitled (Captioned): E
- veryone welcome. This screening has subtitles for people with hearing loss
- .\n\nhttps://www.picturehouses.com/movie-details/030/HO00012859/guardians-
- of-the-galaxy-vol-3-2d/\nhttps://ticketing.picturehouses.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=030&txtSessionId=23894&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T153000
-DTSTAMP;VALUE=DATE-TIME:20230617T114500Z
-UID:23911
-DESCRIPTION:Duration: 2h 23m (143 min)\nScreen 4\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012859/guardians-of-the-galaxy-vol-3-2d/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=23911&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T171500
-DTSTAMP;VALUE=DATE-TIME:20230618T133000Z
-UID:23923
-DESCRIPTION:Duration: 2h 23m (143 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012859/guardians-of-the-galaxy-vol-3-2d/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=23923&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T173000
-DTSTAMP;VALUE=DATE-TIME:20230619T134500Z
-UID:23939
-DESCRIPTION:Duration: 2h 23m (143 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012859/guardians-of-the-galaxy-vol-3-2d/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=23939&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guardians of the Galaxy Vol. 3 (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T190000
-DTSTAMP;VALUE=DATE-TIME:20230620T151500Z
-UID:23948
-DESCRIPTION:Duration: 2h 23m (143 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012859/guardians-of-the-galaxy-vol-3-2d/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=23948&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T171500
-DTSTAMP;VALUE=DATE-TIME:20230615T133000Z
-UID:23770
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23770
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T194500
-DTSTAMP;VALUE=DATE-TIME:20230615T160000Z
-UID:23670
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 2\nSubtitled (Captioned): E
- veryone welcome. This screening has subtitles for people with hearing loss
- .\n\nhttps://www.picturehouses.com/movie-details/030/HO00013135/the-flash/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=030&txtSessionId=23670&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T223000
-DTSTAMP;VALUE=DATE-TIME:20230615T184500Z
-UID:23669
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23669
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T154500
-DTSTAMP;VALUE=DATE-TIME:20230616T120000Z
-UID:23882
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23882
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T191500
-DTSTAMP;VALUE=DATE-TIME:20230616T153000Z
-UID:23881
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23881
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T223000
-DTSTAMP;VALUE=DATE-TIME:20230616T184500Z
-UID:23880
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23880
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T154500
-DTSTAMP;VALUE=DATE-TIME:20230617T120000Z
-UID:23902
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23902
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T191500
-DTSTAMP;VALUE=DATE-TIME:20230617T153000Z
-UID:23912
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23912
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T223000
-DTSTAMP;VALUE=DATE-TIME:20230617T184500Z
-UID:23908
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23908
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T153000
-DTSTAMP;VALUE=DATE-TIME:20230618T114500Z
-UID:23917
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23917
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T190000
-DTSTAMP;VALUE=DATE-TIME:20230618T151500Z
-UID:23922
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23922
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T221500
-DTSTAMP;VALUE=DATE-TIME:20230618T183000Z
-UID:23926
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23926
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T190000
-DTSTAMP;VALUE=DATE-TIME:20230619T151500Z
-UID:23940
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23940
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T221500
-DTSTAMP;VALUE=DATE-TIME:20230619T183000Z
-UID:23936
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23936
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T194500
-DTSTAMP;VALUE=DATE-TIME:20230620T160000Z
-UID:23947
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23947
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T221500
-DTSTAMP;VALUE=DATE-TIME:20230620T183000Z
-UID:23951
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00013135/the-flash/\nhttps://ticketing.picturehouses.com/
- Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23951&visLang=
- 1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T191500
-DTSTAMP;VALUE=DATE-TIME:20230621T153000Z
-UID:23964
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23964
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T223000
-DTSTAMP;VALUE=DATE-TIME:20230621T184500Z
-UID:23960
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23960
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T191500
-DTSTAMP;VALUE=DATE-TIME:20230622T153000Z
-UID:23976
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23976
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T223000
-DTSTAMP;VALUE=DATE-TIME:20230622T184500Z
-UID:23980
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013135/the-flash/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23980
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Should Be Dancing: All That Jazz
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T171000
-DTSTAMP;VALUE=DATE-TIME:20230618T134500Z
-UID:23914
-DESCRIPTION:Duration: 2h 03m (123 min)\nScreen 6\nreDiscover: Time to broa
- den your cinematic horizons: you'll find the best of what's next with Disc
- over's under-the-radar releases\, and return to favourites of yesterday wi
- th our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-d
- etails/030/HO00013077/you-should-be-dancing-all-that-jazz/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSe
- ssionId=23914&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Royal Tenenbaums & Moonrise Kingdom
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T185500
-DTSTAMP;VALUE=DATE-TIME:20230617T140000Z
-UID:22522
-DESCRIPTION:Duration: 3h 32m (212 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012925/the-royal-tenenbaums-moonrise-kingdom/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=030&txtSessionId=22522&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -2826,6 +2438,18 @@ DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 2\nhttps://www.picturehouse
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Royal Tenenbaums & Moonrise Kingdom
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T185500
+DTSTAMP;VALUE=DATE-TIME:20230617T140000Z
+UID:22522
+DESCRIPTION:Duration: 3h 32m (212 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012925/the-royal-tenenbaums-moonrise-kingdom/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=030&txtSessionId=22522&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rudolf Nureyev's Don Quixote
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T160000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T183000
@@ -2836,155 +2460,6 @@ DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 5\nStep-Free: This screen h
  ie-details/030/HO00013203/rudolf-nureyev-s-don-quixote/\nhttps://ticketing
  .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessi
  onId=24221&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thelma & Louise (4K Restoration)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T184500
-DTSTAMP;VALUE=DATE-TIME:20230615T151500Z
-UID:23762
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00013129/thelma-louise-4k-restoration/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessi
- onId=23762&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T164500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T192000
-DTSTAMP;VALUE=DATE-TIME:20230615T154500Z
-UID:23686
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 4\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 23686&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T121500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T145000
-DTSTAMP;VALUE=DATE-TIME:20230616T111500Z
-UID:23890
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=23890&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T225000
-DTSTAMP;VALUE=DATE-TIME:20230616T191500Z
-UID:24014
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=24014&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T170500
-DTSTAMP;VALUE=DATE-TIME:20230617T133000Z
-UID:23904
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 23904&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T215000
-DTSTAMP;VALUE=DATE-TIME:20230617T181500Z
-UID:23907
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 4\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 23907&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T114500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T142000
-DTSTAMP;VALUE=DATE-TIME:20230618T104500Z
-UID:23915
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=23915&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T222000
-DTSTAMP;VALUE=DATE-TIME:20230618T184500Z
-UID:23929
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=23929&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T164500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T192000
-DTSTAMP;VALUE=DATE-TIME:20230619T154500Z
-UID:23933
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=23933&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T195000
-DTSTAMP;VALUE=DATE-TIME:20230620T161500Z
-UID:23954
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=23954&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T195000
-DTSTAMP;VALUE=DATE-TIME:20230621T161500Z
-UID:23957
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00012857/the-little-mermaid-2023/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=23957&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Little Mermaid (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T195000
-DTSTAMP;VALUE=DATE-TIME:20230622T161500Z
-UID:23970
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 6\nSubtitled (Captioned): E
- veryone welcome. This screening has subtitles for people with hearing loss
- .\n\nhttps://www.picturehouses.com/movie-details/030/HO00012857/the-little
- -mermaid-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=030&txtSessionId=23970&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -3000,6 +2475,103 @@ DESCRIPTION:Duration: 1h 22m (82 min)\nScreen 5\nhttps://www.picturehouses
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230617T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230617T194500
+DTSTAMP;VALUE=DATE-TIME:20230617T163000Z
+UID:23901
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23901&
+ visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T193000
+DTSTAMP;VALUE=DATE-TIME:20230618T161500Z
+UID:23918
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23918&
+ visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T194500
+DTSTAMP;VALUE=DATE-TIME:20230619T163000Z
+UID:23932
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23932&
+ visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T164500
+DTSTAMP;VALUE=DATE-TIME:20230620T133000Z
+UID:23955
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23955&
+ visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230620T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230620T221500
+DTSTAMP;VALUE=DATE-TIME:20230620T190000Z
+UID:23943
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nSubtitled (Captioned): E
+ veryone welcome. This screening has subtitles for people with hearing loss
+ .\n\nhttps://www.picturehouses.com/movie-details/030/HO00012834/war-pony/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=030&txtSessionId=23943&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T164500
+DTSTAMP;VALUE=DATE-TIME:20230621T133000Z
+UID:23956
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23956&
+ visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T170000
+DTSTAMP;VALUE=DATE-TIME:20230622T134500Z
+UID:23971
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23971&
+ visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Pony
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T221500
+DTSTAMP;VALUE=DATE-TIME:20230622T190000Z
+UID:23972
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00012834/war-pony/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23972&
+ visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Super-8 Years + Recorded Content
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230618T173000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230618T192500
@@ -3009,31 +2581,6 @@ DESCRIPTION:Duration: 1h 34m (94 min)\nScreen 6\nhttps://www.picturehouses
  .com/movie-details/030/HO00013037/the-super-8-years-recorded-content/\nhtt
  ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
  e=030&txtSessionId=23197&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lady Bird
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T195500
-DTSTAMP;VALUE=DATE-TIME:20230712T170000Z
-UID:23572
-DESCRIPTION:Duration: 1h 34m (94 min)\nScreen 5\nStep-Free: This screen ha
- s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00013143/lady-bird/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23572&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Women
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T201500
-DTSTAMP;VALUE=DATE-TIME:20230719T170000Z
-UID:23574
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details
- /030/HO00013142/little-women/\nhttps://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=030&txtSessionId=23574&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -3050,325 +2597,16 @@ DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 5\nStep-Free: This screen ha
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Berliner Philharmoniker LIVE: Summer Concert
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T183000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T204500
-DTSTAMP;VALUE=DATE-TIME:20230616T173000Z
-UID:22027
+SUMMARY:Little Women
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T201500
+DTSTAMP;VALUE=DATE-TIME:20230719T170000Z
+UID:23574
 DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 5\nAd and Trailer Free: No 
  advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nStep-Free: This screen has street to
-  screen step-free access.\n\nhttps://www.picturehouses.com/movie-details/0
- 30/HO00012825/berliner-philharmoniker-live-summer-concert/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSe
- ssionId=22027&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240501T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240501T223000
-DTSTAMP;VALUE=DATE-TIME:20240501T174500Z
-UID:23383
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013040/roh-live-carmen-2024/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23383&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Rusalka (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240124T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240124T223000
-DTSTAMP;VALUE=DATE-TIME:20240124T184500Z
-UID:23373
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23373
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ziggy Stardust: The Global Premiere
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T220000
-DTSTAMP;VALUE=DATE-TIME:20230703T180000Z
-UID:23191
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nQ&A: This screening will be followed
-  by a Q&A.\n\nStep-Free: This screen has street to screen step-free access
- .\n\nhttps://www.picturehouses.com/movie-details/030/HO00013094/ziggy-star
- dust-the-global-premiere/\nhttps://ticketing.picturehouses.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=030&txtSessionId=23191&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ziggy Stardust: The Global Premiere
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T220000
-DTSTAMP;VALUE=DATE-TIME:20230711T180000Z
-UID:23192
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nQ&A: This screening will be followed
-  by a Q&A.\n\nStep-Free: This screen has street to screen step-free access
- .\n\nhttps://www.picturehouses.com/movie-details/030/HO00013094/ziggy-star
- dust-the-global-premiere/\nhttps://ticketing.picturehouses.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=030&txtSessionId=23192&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grateful Dead Meet-Up At The Movies 2023
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T223000
-DTSTAMP;VALUE=DATE-TIME:20230622T180000Z
-UID:23036
-DESCRIPTION:Duration: 3h 10m (190 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00013047/grateful-dead-meet-up-at-the-movies-2023/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 030&txtSessionId=23036&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Nutcracker (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231212T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231212T220000
-DTSTAMP;VALUE=DATE-TIME:20231212T191500Z
-UID:23371
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23371&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: MacMillan Triple (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240409T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240409T223000
-DTSTAMP;VALUE=DATE-TIME:20240409T181500Z
-UID:23379
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessio
- nId=23379&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240326T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240326T223000
-DTSTAMP;VALUE=DATE-TIME:20240326T191500Z
-UID:23377
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessio
- nId=23377&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Manon (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240207T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240207T223000
-DTSTAMP;VALUE=DATE-TIME:20240207T191500Z
-UID:23375
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013025/roh-live-manon-2024/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23375&v
- isLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240611T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240611T223000
-DTSTAMP;VALUE=DATE-TIME:20240611T181500Z
-UID:23389
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23389&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Swan Lake (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240424T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240424T223500
-DTSTAMP;VALUE=DATE-TIME:20240424T181500Z
-UID:23381
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=233
- 81&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Don Quixote (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231107T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231107T223500
-DTSTAMP;VALUE=DATE-TIME:20231107T191500Z
-UID:23369
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=2
- 3369&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231005T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231005T223500
-DTSTAMP;VALUE=DATE-TIME:20231005T181500Z
-UID:23367
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessio
- nId=23367&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Das Rheingold (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230920T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230920T220000
-DTSTAMP;VALUE=DATE-TIME:20230920T181500Z
-UID:23365
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nStep-Free: This screen has street to
-  screen step-free access.\n\nhttps://www.picturehouses.com/movie-details/0
- 30/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23365&vi
- sLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240522T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240522T223000
-DTSTAMP;VALUE=DATE-TIME:20240522T181500Z
-UID:23385
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
- details/030/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessi
- onId=23385&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Message in a Bottle
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T192000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T204500
-DTSTAMP;VALUE=DATE-TIME:20240530T182000Z
-UID:23387
-DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 5\nAd and Trailer Free: No a
- dvertisements or trailers will play ahead of this screening. You are recom
- mended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details/
- 030/HO00013042/message-in-a-bottle/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23387&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hiding Place
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230816T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230816T222500
-DTSTAMP;VALUE=DATE-TIME:20230816T183000Z
-UID:23795
-DESCRIPTION:Duration: 2h 33m (153 min)\nScreen 5\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013182/the-hiding-place/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
- d=23795&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wicker Man: The Final Cut + Recorded Content
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T222500
-DTSTAMP;VALUE=DATE-TIME:20230621T183000Z
-UID:22888
-DESCRIPTION:Duration: 2h 33m (153 min)\nScreen 5\nStep-Free: This screen h
- as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
- ie-details/030/HO00012931/the-wicker-man-the-final-cut-recorded-content/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=030&txtSessionId=22888&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greatest Days - Premiere Event
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T221000
-DTSTAMP;VALUE=DATE-TIME:20230615T184500Z
-UID:23071
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\nAd and Trailer Free: No 
- advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
- streamed live via a Satellite Feed\n\nStep-Free: This screen has street to
-  screen step-free access.\n\nhttps://www.picturehouses.com/movie-details/0
- 30/HO00013065/greatest-days-premiere-event/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23071&v
- isLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230615T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230615T214000
-DTSTAMP;VALUE=DATE-TIME:20230615T190000Z
-UID:22152
-DESCRIPTION:Duration: 1h 20m (80 min)\nScreen 4\nStep-Free: This screen ha
- s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00012865/nt-live-fleabag-encore-2023/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSession
- Id=22152&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230616T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230616T192500
-DTSTAMP;VALUE=DATE-TIME:20230616T164500Z
-UID:23897
-DESCRIPTION:Duration: 1h 20m (80 min)\nScreen 4\nStep-Free: This screen ha
- s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00012865/nt-live-fleabag-encore-2023/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSession
- Id=23897&visLang=1
+ mmended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details
+ /030/HO00013142/little-women/\nhttps://ticketing.picturehouses.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=030&txtSessionId=23574&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -3449,16 +2687,291 @@ DESCRIPTION:Duration: 1h 20m (80 min)\nScreen 5\nStep-Free: This screen ha
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Interstellar
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T225000
-DTSTAMP;VALUE=DATE-TIME:20230712T190000Z
-UID:23573
-DESCRIPTION:Duration: 2h 46m (166 min)\nScreen 6\nAd and Trailer Free: No 
+SUMMARY:Lady Bird
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T195500
+DTSTAMP;VALUE=DATE-TIME:20230712T170000Z
+UID:23572
+DESCRIPTION:Duration: 1h 34m (94 min)\nScreen 5\nStep-Free: This screen ha
+ s street to screen step-free access.\n\nhttps://www.picturehouses.com/movi
+ e-details/030/HO00013143/lady-bird/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23572&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Carmen (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240501T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240501T223000
+DTSTAMP;VALUE=DATE-TIME:20240501T174500Z
+UID:23383
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 5\nAd and Trailer Free: No 
  advertisements or trailers will play ahead of this screening. You are reco
- mmended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details
- /030/HO00013140/interstellar/\nhttps://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=030&txtSessionId=23573&visLang=1
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013040/roh-live-carmen-2024/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23383&
+ visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Rusalka (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240124T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240124T223000
+DTSTAMP;VALUE=DATE-TIME:20240124T184500Z
+UID:23373
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23373
+ &visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grateful Dead Meet-Up At The Movies 2023
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230622T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230622T223000
+DTSTAMP;VALUE=DATE-TIME:20230622T180000Z
+UID:23036
+DESCRIPTION:Duration: 3h 10m (190 min)\nScreen 5\nStep-Free: This screen h
+ as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
+ ie-details/030/HO00013047/grateful-dead-meet-up-at-the-movies-2023/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 030&txtSessionId=23036&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ziggy Stardust: The Global Premiere
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T220000
+DTSTAMP;VALUE=DATE-TIME:20230703T180000Z
+UID:23191
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nQ&A: This screening will be followed
+  by a Q&A.\n\nStep-Free: This screen has street to screen step-free access
+ .\n\nhttps://www.picturehouses.com/movie-details/030/HO00013094/ziggy-star
+ dust-the-global-premiere/\nhttps://ticketing.picturehouses.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=030&txtSessionId=23191&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ziggy Stardust: The Global Premiere
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T220000
+DTSTAMP;VALUE=DATE-TIME:20230711T180000Z
+UID:23192
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nQ&A: This screening will be followed
+  by a Q&A.\n\nStep-Free: This screen has street to screen step-free access
+ .\n\nhttps://www.picturehouses.com/movie-details/030/HO00013094/ziggy-star
+ dust-the-global-premiere/\nhttps://ticketing.picturehouses.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=030&txtSessionId=23192&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240326T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240326T223000
+DTSTAMP;VALUE=DATE-TIME:20240326T191500Z
+UID:23377
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessio
+ nId=23377&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240522T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240522T223000
+DTSTAMP;VALUE=DATE-TIME:20240522T181500Z
+UID:23385
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessi
+ onId=23385&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Manon (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240207T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240207T223000
+DTSTAMP;VALUE=DATE-TIME:20240207T191500Z
+UID:23375
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013025/roh-live-manon-2024/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23375&v
+ isLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Swan Lake (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240424T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240424T223500
+DTSTAMP;VALUE=DATE-TIME:20240424T181500Z
+UID:23381
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=233
+ 81&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: MacMillan Triple (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240409T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240409T223000
+DTSTAMP;VALUE=DATE-TIME:20240409T181500Z
+UID:23379
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessio
+ nId=23379&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240611T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240611T223000
+DTSTAMP;VALUE=DATE-TIME:20240611T181500Z
+UID:23389
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23389&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Nutcracker (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231212T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231212T220000
+DTSTAMP;VALUE=DATE-TIME:20231212T191500Z
+UID:23371
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23371&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Don Quixote (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231107T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231107T223500
+DTSTAMP;VALUE=DATE-TIME:20231107T191500Z
+UID:23369
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=2
+ 3369&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231005T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231005T223500
+DTSTAMP;VALUE=DATE-TIME:20231005T181500Z
+UID:23367
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movie-
+ details/030/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessio
+ nId=23367&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Das Rheingold (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230920T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230920T220000
+DTSTAMP;VALUE=DATE-TIME:20230920T181500Z
+UID:23365
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 5\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nLive via Satellite: This screening will be 
+ streamed live via a Satellite Feed\n\nStep-Free: This screen has street to
+  screen step-free access.\n\nhttps://www.picturehouses.com/movie-details/0
+ 30/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23365&vi
+ sLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Message in a Bottle
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T192000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T204500
+DTSTAMP;VALUE=DATE-TIME:20240530T182000Z
+UID:23387
+DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 5\nAd and Trailer Free: No a
+ dvertisements or trailers will play ahead of this screening. You are recom
+ mended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details/
+ 030/HO00013042/message-in-a-bottle/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23387&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Hiding Place
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230816T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230816T222500
+DTSTAMP;VALUE=DATE-TIME:20230816T183000Z
+UID:23795
+DESCRIPTION:Duration: 2h 33m (153 min)\nScreen 5\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013182/the-hiding-place/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
+ d=23795&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Wicker Man: The Final Cut + Recorded Content
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230621T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230621T222500
+DTSTAMP;VALUE=DATE-TIME:20230621T183000Z
+UID:22888
+DESCRIPTION:Duration: 2h 33m (153 min)\nScreen 5\nStep-Free: This screen h
+ as street to screen step-free access.\n\nhttps://www.picturehouses.com/mov
+ ie-details/030/HO00012931/the-wicker-man-the-final-cut-recorded-content/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=030&txtSessionId=22888&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inception
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T225000
+DTSTAMP;VALUE=DATE-TIME:20230705T190000Z
+UID:23571
+DESCRIPTION:Duration: 2h 28m (148 min)\nScreen 6\nhttps://www.picturehouse
+ s.com/movie-details/030/HO00013138/inception/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23571
+ &visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -3487,29 +3000,16 @@ DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 4\nStep-Free: This screen h
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inception
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T225000
-DTSTAMP;VALUE=DATE-TIME:20230705T190000Z
-UID:23571
-DESCRIPTION:Duration: 2h 28m (148 min)\nScreen 6\nhttps://www.picturehouse
- s.com/movie-details/030/HO00013138/inception/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23571
- &visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:You Should Be Dancing: Climax
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T221500
-DTSTAMP;VALUE=DATE-TIME:20230619T191500Z
-UID:23568
-DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 5\nCulture Shock: Dedicated 
- to bringing you the best in cult and genre films.\n\nStep-Free: This scree
- n has street to screen step-free access.\n\nhttps://www.picturehouses.com/
- movie-details/030/HO00013082/you-should-be-dancing-climax/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSe
- ssionId=23568&visLang=1
+SUMMARY:Interstellar
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T225000
+DTSTAMP;VALUE=DATE-TIME:20230712T190000Z
+UID:23573
+DESCRIPTION:Duration: 2h 46m (166 min)\nScreen 6\nAd and Trailer Free: No 
+ advertisements or trailers will play ahead of this screening. You are reco
+ mmended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-details
+ /030/HO00013140/interstellar/\nhttps://ticketing.picturehouses.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=030&txtSessionId=23573&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -3884,6 +3384,20 @@ DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 3\nhttps://www.picturehouse
  s.com/movie-details/030/HO00012945/asteroid-city/\nhttps://ticketing.pictu
  rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=2
  3601&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You Should Be Dancing: Climax
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230619T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230619T221500
+DTSTAMP;VALUE=DATE-TIME:20230619T191500Z
+UID:23568
+DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 5\nCulture Shock: Dedicated 
+ to bringing you the best in cult and genre films.\n\nStep-Free: This scree
+ n has street to screen step-free access.\n\nhttps://www.picturehouses.com/
+ movie-details/030/HO00013082/you-should-be-dancing-climax/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSe
+ ssionId=23568&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
