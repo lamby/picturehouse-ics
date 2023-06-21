@@ -193,8 +193,8 @@ class PictureHouseICS:
                         break
                     if attr in HIDE_ATTRIBUTES:
                         continue
-                    description.append(f"{attr}: {z['description']}")
                     description.append("")
+                    description.append(f"{attr}: {z['description']}")
 
                 if ignore_film:
                     continue
@@ -204,6 +204,7 @@ class PictureHouseICS:
                 url = f"https://www.picturehouses.com/movie-details/{y['CinemaId']}/{y['ScheduledFilmId']}/{slug}/"
                 booking_url = f"https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode={y['CinemaId']}&txtSessionId={y['SessionId']}&visLang=1"
 
+                description.append("")
                 description.append(url)
                 description.append(booking_url)
 
