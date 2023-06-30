@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230629T150629Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230630T165634Z
 NAME:Picture House London - Stratford
 X-WR-CALNAME:Picture House London - Stratford
+BEGIN:VEVENT
+SUMMARY:Carmen (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240130T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240130T160500
+DTSTAMP;VALUE=DATE-TIME:20240130T120000Z
+UID:48848
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013175/met-opera-encore-carmen-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=48848&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:X: The Life and Times of Malcolm
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231121T120000
@@ -14,80 +26,6 @@ DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013172/met-opera-encore-x-the-life-and-times
  -of-malcolm/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
  ts.aspx?cinemacode=012&txtSessionId=48842&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240514T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240514T153500
-DTSTAMP;VALUE=DATE-TIME:20240514T110000Z
-UID:48856
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013179/met-opera-encore-madama-butterfly-202
- 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=012&txtSessionId=48856&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Rondine (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240423T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240423T151000
-DTSTAMP;VALUE=DATE-TIME:20240423T110000Z
-UID:48854
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013178/met-opera-encore-la-rondine-2024/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=012&txtSessionId=48854&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240402T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240402T151500
-DTSTAMP;VALUE=DATE-TIME:20240402T110000Z
-UID:48661
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/012/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
- =48661&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240326T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240326T155500
-DTSTAMP;VALUE=DATE-TIME:20240326T120000Z
-UID:48852
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013177/met-opera-encore-romeo-et-juliette-20
- 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=012&txtSessionId=48852&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Forza del Destino (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240312T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240312T164500
-DTSTAMP;VALUE=DATE-TIME:20240312T120000Z
-UID:48850
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013176/met-opera-encore-la-forza-del-destino
- -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48850&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nabucco (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240109T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240109T153000
-DTSTAMP;VALUE=DATE-TIME:20240109T120000Z
-UID:48846
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013174/met-opera-encore-nabucco-2024/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 012&txtSessionId=48846&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -103,15 +41,87 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240130T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240130T160500
-DTSTAMP;VALUE=DATE-TIME:20240130T120000Z
-UID:48848
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013175/met-opera-encore-carmen-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=48848&visLang=1
+SUMMARY:Dead Man Walking (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231024T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231024T153500
+DTSTAMP;VALUE=DATE-TIME:20231024T110000Z
+UID:48840
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013171/met-opera-encore-dead-man-walking-202
+ 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=012&txtSessionId=48840&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Rondine (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240423T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240423T151000
+DTSTAMP;VALUE=DATE-TIME:20240423T110000Z
+UID:48854
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013178/met-opera-encore-la-rondine-2024/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=012&txtSessionId=48854&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240514T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240514T153500
+DTSTAMP;VALUE=DATE-TIME:20240514T110000Z
+UID:48856
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013179/met-opera-encore-madama-butterfly-202
+ 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=012&txtSessionId=48856&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240326T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240326T155500
+DTSTAMP;VALUE=DATE-TIME:20240326T120000Z
+UID:48852
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013177/met-opera-encore-romeo-et-juliette-20
+ 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=012&txtSessionId=48852&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nabucco (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240109T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240109T153000
+DTSTAMP;VALUE=DATE-TIME:20240109T120000Z
+UID:48846
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013174/met-opera-encore-nabucco-2024/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 012&txtSessionId=48846&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Bourne's Sleeping Beauty
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T141000
+DTSTAMP;VALUE=DATE-TIME:20230702T110000Z
+UID:48052
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00012824/matthew-bourne-s-sleeping-beauty/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=012&txtSessionId=48052&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Forza del Destino (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240312T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240312T164500
+DTSTAMP;VALUE=DATE-TIME:20240312T120000Z
+UID:48850
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013176/met-opera-encore-la-forza-del-destino
+ -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48850&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -129,63 +139,17 @@ DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dead Man Walking (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231024T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231024T153500
-DTSTAMP;VALUE=DATE-TIME:20231024T110000Z
-UID:48840
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013171/met-opera-encore-dead-man-walking-202
- 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=012&txtSessionId=48840&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Sleeping Beauty
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T141000
-DTSTAMP;VALUE=DATE-TIME:20230702T110000Z
-UID:48052
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00012824/matthew-bourne-s-sleeping-beauty/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=012&txtSessionId=48052&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T165000
-DTSTAMP;VALUE=DATE-TIME:20230729T130000Z
-UID:47730
-DESCRIPTION:Duration: 2h 29m (149 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00012766/sight-sound-top-10-2001-a-space-odyss
- ey/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=012&txtSessionId=47730&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ruby Gillman\, Teenage Kraken
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T141500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T161000
-DTSTAMP;VALUE=DATE-TIME:20230630T131500Z
-UID:49123
-DESCRIPTION:Duration: 1h 31m (91 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013242/ruby-gillman-teenage-kraken/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=49123&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ruby Gillman\, Teenage Kraken
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T174500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T194000
-DTSTAMP;VALUE=DATE-TIME:20230630T164500Z
-UID:49125
-DESCRIPTION:Duration: 1h 31m (91 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013242/ruby-gillman-teenage-kraken/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=49125&visLang=1
+SUMMARY:ROH Encore: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240402T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240402T151500
+DTSTAMP;VALUE=DATE-TIME:20240402T110000Z
+UID:48661
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/012/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
+ =48661&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -334,6 +298,18 @@ DESCRIPTION:Duration: 1h 31m (91 min)\nScreen 3\n\nhttps://www.picturehous
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T140000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T165000
+DTSTAMP;VALUE=DATE-TIME:20230729T130000Z
+UID:47730
+DESCRIPTION:Duration: 2h 29m (149 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00012766/sight-sound-top-10-2001-a-space-odyss
+ ey/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=012&txtSessionId=47730&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:You Should Be Dancing: La La Land
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T143000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T170000
@@ -349,304 +325,149 @@ DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230629T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230629T190000
-DTSTAMP;VALUE=DATE-TIME:20230629T151500Z
-UID:49026
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013135/the-flash/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=490
- 26&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T151500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T183500
+DTSTAMP;VALUE=DATE-TIME:20230721T141500Z
+UID:49217
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9217&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Flash
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230629T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230629T221500
-DTSTAMP;VALUE=DATE-TIME:20230629T183000Z
-UID:49027
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013135/the-flash/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=490
- 27&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T222000
+DTSTAMP;VALUE=DATE-TIME:20230721T180000Z
+UID:49040
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9040&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230629T164500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230629T192500
-DTSTAMP;VALUE=DATE-TIME:20230629T154500Z
-UID:49024
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49024&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T185000
+DTSTAMP;VALUE=DATE-TIME:20230722T143000Z
+UID:49218
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9218&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230629T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230629T222500
-DTSTAMP;VALUE=DATE-TIME:20230629T184500Z
-UID:49033
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49033&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T223500
+DTSTAMP;VALUE=DATE-TIME:20230722T181500Z
+UID:49049
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9049&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T172500
-DTSTAMP;VALUE=DATE-TIME:20230630T134500Z
-UID:49124
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49124&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T131500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T163500
+DTSTAMP;VALUE=DATE-TIME:20230723T121500Z
+UID:49063
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9063&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T191000
-DTSTAMP;VALUE=DATE-TIME:20230630T153000Z
-UID:49122
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49122&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T182000
+DTSTAMP;VALUE=DATE-TIME:20230723T140000Z
+UID:49064
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9064&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T221000
-DTSTAMP;VALUE=DATE-TIME:20230630T183000Z
-UID:49121
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49121&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T220500
+DTSTAMP;VALUE=DATE-TIME:20230723T174500Z
+UID:49050
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9050&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T171000
-DTSTAMP;VALUE=DATE-TIME:20230701T133000Z
-UID:49134
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49134&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230724T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230724T220500
+DTSTAMP;VALUE=DATE-TIME:20230724T174500Z
+UID:49051
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9051&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T194000
-DTSTAMP;VALUE=DATE-TIME:20230701T160000Z
-UID:49132
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49132&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T224000
-DTSTAMP;VALUE=DATE-TIME:20230701T190000Z
-UID:49138
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49138&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T131500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T155500
-DTSTAMP;VALUE=DATE-TIME:20230702T121500Z
-UID:49149
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49149&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T185500
-DTSTAMP;VALUE=DATE-TIME:20230702T151500Z
-UID:49145
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49145&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T215500
-DTSTAMP;VALUE=DATE-TIME:20230702T181500Z
-UID:49153
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49153&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T144500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T172500
-DTSTAMP;VALUE=DATE-TIME:20230703T134500Z
-UID:49163
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nSubtitled (Captioned):
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T180500
+DTSTAMP;VALUE=DATE-TIME:20230725T134500Z
+UID:49067
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nSubtitled (Captioned):
   Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013031/spider-m
- an-across-the-spider-verse/\nhttps://ticketing.picturehouses.com/Ticketing
- /visSelectTickets.aspx?cinemacode=012&txtSessionId=49163&visLang=1
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=012&txtSessionId=49067&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T191000
-DTSTAMP;VALUE=DATE-TIME:20230703T153000Z
-UID:49161
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49161&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T183000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T215000
+DTSTAMP;VALUE=DATE-TIME:20230725T173000Z
+UID:49052
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=012&txtSessionId=49052&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T221000
-DTSTAMP;VALUE=DATE-TIME:20230703T183000Z
-UID:49156
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49156&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230726T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230726T220500
+DTSTAMP;VALUE=DATE-TIME:20230726T174500Z
+UID:49053
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9053&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T145000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T173000
-DTSTAMP;VALUE=DATE-TIME:20230704T135000Z
-UID:49170
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49170&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T185500
-DTSTAMP;VALUE=DATE-TIME:20230704T151500Z
-UID:49172
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49172&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T215500
-DTSTAMP;VALUE=DATE-TIME:20230704T181500Z
-UID:49167
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49167&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T142000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T170000
-DTSTAMP;VALUE=DATE-TIME:20230705T132000Z
-UID:49190
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49190&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T191000
-DTSTAMP;VALUE=DATE-TIME:20230705T153000Z
-UID:49192
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49192&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T221000
-DTSTAMP;VALUE=DATE-TIME:20230705T183000Z
-UID:49186
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49186&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T142000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T170000
-DTSTAMP;VALUE=DATE-TIME:20230706T132000Z
-UID:49196
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49196&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T191000
-DTSTAMP;VALUE=DATE-TIME:20230706T153000Z
-UID:49194
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49194&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T221000
-DTSTAMP;VALUE=DATE-TIME:20230706T183000Z
-UID:49200
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=49200&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230727T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230727T220500
+DTSTAMP;VALUE=DATE-TIME:20230727T174500Z
+UID:49054
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9054&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -680,51 +501,780 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230629T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230629T193500
-DTSTAMP;VALUE=DATE-TIME:20230629T163000Z
-UID:49025
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
- =49025&visLang=1
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T194000
+DTSTAMP;VALUE=DATE-TIME:20230721T163000Z
+UID:49041
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49041&
+ visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230629T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230629T220500
-DTSTAMP;VALUE=DATE-TIME:20230629T190000Z
-UID:49028
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
- =49028&visLang=1
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T201500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T222500
+DTSTAMP;VALUE=DATE-TIME:20230721T191500Z
+UID:49042
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49042&
+ visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T160500
-DTSTAMP;VALUE=DATE-TIME:20230630T130000Z
-UID:49126
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
- =49126&visLang=1
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T141000
+DTSTAMP;VALUE=DATE-TIME:20230722T110000Z
+UID:49062
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49062&
+ visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T164000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T184500
-DTSTAMP;VALUE=DATE-TIME:20230630T154000Z
-UID:49129
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
- =49129&visLang=1
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T165000
+DTSTAMP;VALUE=DATE-TIME:20230722T134000Z
+UID:49061
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49061&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T172000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T193000
+DTSTAMP;VALUE=DATE-TIME:20230722T162000Z
+UID:49043
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49043&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T221000
+DTSTAMP;VALUE=DATE-TIME:20230722T190000Z
+UID:49055
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49055&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T141000
+DTSTAMP;VALUE=DATE-TIME:20230723T110000Z
+UID:49065
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013214/barbie/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=012&txtSessionId=49065&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T165000
+DTSTAMP;VALUE=DATE-TIME:20230723T134000Z
+UID:49066
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013214/barbie/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=012&txtSessionId=49066&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T191000
+DTSTAMP;VALUE=DATE-TIME:20230723T160000Z
+UID:49044
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49044&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T215500
+DTSTAMP;VALUE=DATE-TIME:20230723T184500Z
+UID:49056
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49056&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230724T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230724T192500
+DTSTAMP;VALUE=DATE-TIME:20230724T161500Z
+UID:49045
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49045&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230724T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230724T215500
+DTSTAMP;VALUE=DATE-TIME:20230724T184500Z
+UID:49057
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49057&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T164000
+DTSTAMP;VALUE=DATE-TIME:20230725T133000Z
+UID:49069
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49069&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T171000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T192000
+DTSTAMP;VALUE=DATE-TIME:20230725T161000Z
+UID:49046
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49046&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T215500
+DTSTAMP;VALUE=DATE-TIME:20230725T184500Z
+UID:49058
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49058&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230726T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230726T192500
+DTSTAMP;VALUE=DATE-TIME:20230726T161500Z
+UID:49047
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49047&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230726T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230726T215500
+DTSTAMP;VALUE=DATE-TIME:20230726T184500Z
+UID:49059
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49059&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230727T171500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230727T192500
+DTSTAMP;VALUE=DATE-TIME:20230727T161500Z
+UID:49048
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49048&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230727T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230727T215500
+DTSTAMP;VALUE=DATE-TIME:20230727T184500Z
+UID:49060
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49060&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240511T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240511T211000
+DTSTAMP;VALUE=DATE-TIME:20240511T165500Z
+UID:48855
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
+ xtSessionId=48855&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: La Rondine (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240420T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240420T204500
+DTSTAMP;VALUE=DATE-TIME:20240420T165500Z
+UID:48853
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
+ ionId=48853&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Nabucco (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240106T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240106T210500
+DTSTAMP;VALUE=DATE-TIME:20240106T175500Z
+UID:48845
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
+ Id=48845&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Dead Man Walking (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231021T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231021T211000
+DTSTAMP;VALUE=DATE-TIME:20231021T165500Z
+UID:48839
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013158/met-opera-live-dead-man-walking-2023/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
+ xtSessionId=48839&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Carmen (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240127T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240127T214000
+DTSTAMP;VALUE=DATE-TIME:20240127T175500Z
+UID:48847
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=48847&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231209T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231209T203000
+DTSTAMP;VALUE=DATE-TIME:20231209T175500Z
+UID:48843
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=012&txtSessionId=48843&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231118T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231118T212000
+DTSTAMP;VALUE=DATE-TIME:20231118T175500Z
+UID:48841
+DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=012&txtSessionId=48841&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Rusalka (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240124T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240124T223000
+DTSTAMP;VALUE=DATE-TIME:20240124T184500Z
+UID:48658
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=486
+ 58&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Carmen (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240501T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240501T223000
+DTSTAMP;VALUE=DATE-TIME:20240501T174500Z
+UID:48664
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013040/roh-live-carmen-2024/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4866
+ 4&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T220500
+DTSTAMP;VALUE=DATE-TIME:20230710T180000Z
+UID:48949
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48949&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T220500
+DTSTAMP;VALUE=DATE-TIME:20230711T180000Z
+UID:48950
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48950&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T220500
+DTSTAMP;VALUE=DATE-TIME:20230712T180000Z
+UID:48951
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48951&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T220500
+DTSTAMP;VALUE=DATE-TIME:20230713T180000Z
+UID:48952
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48952&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T220500
+DTSTAMP;VALUE=DATE-TIME:20230714T180000Z
+UID:48953
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48953&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T150500
+DTSTAMP;VALUE=DATE-TIME:20230715T110000Z
+UID:48961
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48961&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T183500
+DTSTAMP;VALUE=DATE-TIME:20230715T143000Z
+UID:48960
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48960&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T220500
+DTSTAMP;VALUE=DATE-TIME:20230715T180000Z
+UID:48954
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48954&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T123000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T153500
+DTSTAMP;VALUE=DATE-TIME:20230716T113000Z
+UID:48962
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013185/mission-
+ impossible-dead-reckoning-part-one/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48962&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T190500
+DTSTAMP;VALUE=DATE-TIME:20230716T150000Z
+UID:48963
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48963&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T220500
+DTSTAMP;VALUE=DATE-TIME:20230716T180000Z
+UID:48955
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48955&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T220500
+DTSTAMP;VALUE=DATE-TIME:20230717T180000Z
+UID:48956
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48956&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T220500
+DTSTAMP;VALUE=DATE-TIME:20230718T180000Z
+UID:48957
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48957&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T220500
+DTSTAMP;VALUE=DATE-TIME:20230719T180000Z
+UID:48958
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013185/mission-
+ impossible-dead-reckoning-part-one/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48958&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mission: Impossible - Dead Reckoning Part One
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T220500
+DTSTAMP;VALUE=DATE-TIME:20230720T180000Z
+UID:48959
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
+ t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48959&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T215500
+DTSTAMP;VALUE=DATE-TIME:20230630T180000Z
+UID:48836
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=48836&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T155500
+DTSTAMP;VALUE=DATE-TIME:20230701T120000Z
+UID:49144
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49144&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T162000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T191500
+DTSTAMP;VALUE=DATE-TIME:20230701T152000Z
+UID:49133
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49133&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T183000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T212500
+DTSTAMP;VALUE=DATE-TIME:20230701T173000Z
+UID:49140
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49140&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T224000
+DTSTAMP;VALUE=DATE-TIME:20230701T184500Z
+UID:48837
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=48837&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T124500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T154000
+DTSTAMP;VALUE=DATE-TIME:20230702T114500Z
+UID:49155
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49155&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T154000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T183500
+DTSTAMP;VALUE=DATE-TIME:20230702T144000Z
+UID:49146
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49146&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T181500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T211000
+DTSTAMP;VALUE=DATE-TIME:20230702T171500Z
+UID:49154
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013128/indiana-
+ jones-and-the-dial-of-destiny/\nhttps://ticketing.picturehouses.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49154&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T215500
+DTSTAMP;VALUE=DATE-TIME:20230702T180000Z
+UID:48838
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=48838&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T182500
+DTSTAMP;VALUE=DATE-TIME:20230703T143000Z
+UID:49162
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49162&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T215500
+DTSTAMP;VALUE=DATE-TIME:20230703T180000Z
+UID:49158
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49158&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T162500
+DTSTAMP;VALUE=DATE-TIME:20230704T123000Z
+UID:49179
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49179&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T182500
+DTSTAMP;VALUE=DATE-TIME:20230704T143000Z
+UID:49171
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49171&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T215500
+DTSTAMP;VALUE=DATE-TIME:20230704T180000Z
+UID:49175
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49175&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T182500
+DTSTAMP;VALUE=DATE-TIME:20230705T143000Z
+UID:49191
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49191&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T215500
+DTSTAMP;VALUE=DATE-TIME:20230705T180000Z
+UID:49184
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49184&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T182500
+DTSTAMP;VALUE=DATE-TIME:20230706T143000Z
+UID:49195
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013128/indiana-
+ jones-and-the-dial-of-destiny/\nhttps://ticketing.picturehouses.com/Ticket
+ ing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49195&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indiana Jones and the Dial of Destiny
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T215500
+DTSTAMP;VALUE=DATE-TIME:20230706T180000Z
+UID:49202
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=49202&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Bourne's Swan Lake
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230913T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230913T213000
+DTSTAMP;VALUE=DATE-TIME:20230913T180000Z
+UID:49072
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013202/matthew-bourne-s-swan-lake/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
+ &txtSessionId=49072&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -981,580 +1531,6 @@ DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T194000
-DTSTAMP;VALUE=DATE-TIME:20230721T163000Z
-UID:49041
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49041&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T221000
-DTSTAMP;VALUE=DATE-TIME:20230721T190000Z
-UID:49042
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49042&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T141000
-DTSTAMP;VALUE=DATE-TIME:20230722T110000Z
-UID:49062
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49062&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T144000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T165000
-DTSTAMP;VALUE=DATE-TIME:20230722T134000Z
-UID:49061
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49061&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T172000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T193000
-DTSTAMP;VALUE=DATE-TIME:20230722T162000Z
-UID:49043
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49043&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T221000
-DTSTAMP;VALUE=DATE-TIME:20230722T190000Z
-UID:49055
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49055&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T141000
-DTSTAMP;VALUE=DATE-TIME:20230723T110000Z
-UID:49065
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013214/barbie/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=012&txtSessionId=49065&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T144000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T165000
-DTSTAMP;VALUE=DATE-TIME:20230723T134000Z
-UID:49066
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013214/barbie/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=012&txtSessionId=49066&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T191000
-DTSTAMP;VALUE=DATE-TIME:20230723T160000Z
-UID:49044
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49044&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T215500
-DTSTAMP;VALUE=DATE-TIME:20230723T184500Z
-UID:49056
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49056&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230724T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230724T192500
-DTSTAMP;VALUE=DATE-TIME:20230724T161500Z
-UID:49045
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49045&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230724T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230724T215500
-DTSTAMP;VALUE=DATE-TIME:20230724T184500Z
-UID:49057
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49057&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T164000
-DTSTAMP;VALUE=DATE-TIME:20230725T133000Z
-UID:49069
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49069&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T171000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T192000
-DTSTAMP;VALUE=DATE-TIME:20230725T161000Z
-UID:49046
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49046&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T215500
-DTSTAMP;VALUE=DATE-TIME:20230725T184500Z
-UID:49058
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49058&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230726T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230726T192500
-DTSTAMP;VALUE=DATE-TIME:20230726T161500Z
-UID:49047
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49047&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230726T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230726T215500
-DTSTAMP;VALUE=DATE-TIME:20230726T184500Z
-UID:49059
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49059&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230727T171500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230727T192500
-DTSTAMP;VALUE=DATE-TIME:20230727T161500Z
-UID:49048
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49048&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230727T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230727T215500
-DTSTAMP;VALUE=DATE-TIME:20230727T184500Z
-UID:49060
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49060&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231209T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231209T203000
-DTSTAMP;VALUE=DATE-TIME:20231209T175500Z
-UID:48843
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=012&txtSessionId=48843&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Nabucco (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240106T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240106T210500
-DTSTAMP;VALUE=DATE-TIME:20240106T175500Z
-UID:48845
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
- Id=48845&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Dead Man Walking (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231021T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231021T211000
-DTSTAMP;VALUE=DATE-TIME:20231021T165500Z
-UID:48839
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013158/met-opera-live-dead-man-walking-2023/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48839&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240127T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240127T214000
-DTSTAMP;VALUE=DATE-TIME:20240127T175500Z
-UID:48847
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=48847&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: La Rondine (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240420T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240420T204500
-DTSTAMP;VALUE=DATE-TIME:20240420T165500Z
-UID:48853
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
- ionId=48853&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240511T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240511T211000
-DTSTAMP;VALUE=DATE-TIME:20240511T165500Z
-UID:48855
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48855&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231118T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231118T212000
-DTSTAMP;VALUE=DATE-TIME:20231118T175500Z
-UID:48841
-DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=012&txtSessionId=48841&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Rusalka (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240124T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240124T223000
-DTSTAMP;VALUE=DATE-TIME:20240124T184500Z
-UID:48658
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=486
- 58&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240501T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240501T223000
-DTSTAMP;VALUE=DATE-TIME:20240501T174500Z
-UID:48664
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013040/roh-live-carmen-2024/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4866
- 4&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T220500
-DTSTAMP;VALUE=DATE-TIME:20230710T180000Z
-UID:48949
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48949&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T220500
-DTSTAMP;VALUE=DATE-TIME:20230711T180000Z
-UID:48950
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48950&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T220500
-DTSTAMP;VALUE=DATE-TIME:20230712T180000Z
-UID:48951
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48951&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T220500
-DTSTAMP;VALUE=DATE-TIME:20230713T180000Z
-UID:48952
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48952&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T220500
-DTSTAMP;VALUE=DATE-TIME:20230714T180000Z
-UID:48953
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48953&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T150500
-DTSTAMP;VALUE=DATE-TIME:20230715T110000Z
-UID:48961
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48961&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T183500
-DTSTAMP;VALUE=DATE-TIME:20230715T143000Z
-UID:48960
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48960&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T220500
-DTSTAMP;VALUE=DATE-TIME:20230715T180000Z
-UID:48954
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48954&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T153500
-DTSTAMP;VALUE=DATE-TIME:20230716T113000Z
-UID:48962
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013185/mission-
- impossible-dead-reckoning-part-one/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48962&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T190500
-DTSTAMP;VALUE=DATE-TIME:20230716T150000Z
-UID:48963
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48963&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T220500
-DTSTAMP;VALUE=DATE-TIME:20230716T180000Z
-UID:48955
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48955&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T220500
-DTSTAMP;VALUE=DATE-TIME:20230717T180000Z
-UID:48956
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48956&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T220500
-DTSTAMP;VALUE=DATE-TIME:20230718T180000Z
-UID:48957
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48957&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T220500
-DTSTAMP;VALUE=DATE-TIME:20230719T180000Z
-UID:48958
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013185/mission-
- impossible-dead-reckoning-part-one/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48958&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T220500
-DTSTAMP;VALUE=DATE-TIME:20230720T180000Z
-UID:48959
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48959&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Swan Lake
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230913T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230913T213000
-DTSTAMP;VALUE=DATE-TIME:20230913T180000Z
-UID:49072
-DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013202/matthew-bourne-s-swan-lake/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=49072&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Das Rheingold (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230920T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230920T220000
-DTSTAMP;VALUE=DATE-TIME:20230920T181500Z
-UID:48653
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
- Id=48653&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: The Winter's Tale (2024)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240522T191500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240522T223000
@@ -1570,18 +1546,18 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: The Nutcracker (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231212T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231212T220000
-DTSTAMP;VALUE=DATE-TIME:20231212T191500Z
-UID:48657
+SUMMARY:ROH Live: Das Rheingold (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230920T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230920T220000
+DTSTAMP;VALUE=DATE-TIME:20230920T181500Z
+UID:48653
 DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
- nId=48657&visLang=1
+ e-details/012/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
+ Id=48653&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1630,6 +1606,21 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: Manon (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240207T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240207T223000
+DTSTAMP;VALUE=DATE-TIME:20240207T191500Z
+UID:48659
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48659
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Live: Andrea Chenier (2024)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240611T191500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240611T223000
@@ -1660,6 +1651,21 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: The Nutcracker (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231212T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231212T220000
+DTSTAMP;VALUE=DATE-TIME:20231212T191500Z
+UID:48657
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
+ nId=48657&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Live: Madama Butterfly (2024)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240326T191500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240326T223000
@@ -1672,263 +1678,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
  e-details/012/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
  ionId=48660&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Manon (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240207T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240207T223000
-DTSTAMP;VALUE=DATE-TIME:20240207T191500Z
-UID:48659
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48659
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230629T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230629T221000
-DTSTAMP;VALUE=DATE-TIME:20230629T181500Z
-UID:48835
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=48835&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T182500
-DTSTAMP;VALUE=DATE-TIME:20230630T143000Z
-UID:49128
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49128&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T215500
-DTSTAMP;VALUE=DATE-TIME:20230630T180000Z
-UID:48836
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=48836&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T155500
-DTSTAMP;VALUE=DATE-TIME:20230701T120000Z
-UID:49144
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49144&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T162000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T191500
-DTSTAMP;VALUE=DATE-TIME:20230701T152000Z
-UID:49133
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49133&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T183000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T212500
-DTSTAMP;VALUE=DATE-TIME:20230701T173000Z
-UID:49140
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49140&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T224000
-DTSTAMP;VALUE=DATE-TIME:20230701T184500Z
-UID:48837
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=48837&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T154000
-DTSTAMP;VALUE=DATE-TIME:20230702T114500Z
-UID:49155
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49155&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T154000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T183500
-DTSTAMP;VALUE=DATE-TIME:20230702T144000Z
-UID:49146
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49146&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T181500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T211000
-DTSTAMP;VALUE=DATE-TIME:20230702T171500Z
-UID:49154
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013128/indiana-
- jones-and-the-dial-of-destiny/\nhttps://ticketing.picturehouses.com/Ticket
- ing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49154&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T215500
-DTSTAMP;VALUE=DATE-TIME:20230702T180000Z
-UID:48838
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=48838&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T182500
-DTSTAMP;VALUE=DATE-TIME:20230703T143000Z
-UID:49162
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49162&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T215500
-DTSTAMP;VALUE=DATE-TIME:20230703T180000Z
-UID:49158
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49158&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T162500
-DTSTAMP;VALUE=DATE-TIME:20230704T123000Z
-UID:49179
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49179&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T182500
-DTSTAMP;VALUE=DATE-TIME:20230704T143000Z
-UID:49171
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49171&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T215500
-DTSTAMP;VALUE=DATE-TIME:20230704T180000Z
-UID:49175
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49175&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T182500
-DTSTAMP;VALUE=DATE-TIME:20230705T143000Z
-UID:49191
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49191&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T215500
-DTSTAMP;VALUE=DATE-TIME:20230705T180000Z
-UID:49184
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49184&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T182500
-DTSTAMP;VALUE=DATE-TIME:20230706T143000Z
-UID:49195
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013128/indiana-
- jones-and-the-dial-of-destiny/\nhttps://ticketing.picturehouses.com/Ticket
- ing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49195&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T215500
-DTSTAMP;VALUE=DATE-TIME:20230706T180000Z
-UID:49202
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=49202&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1946,18 +1695,232 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 2\n\nAd and Trailer Free: No
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Smoking Causes Coughing
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T214000
-DTSTAMP;VALUE=DATE-TIME:20230704T190000Z
-UID:49120
-DESCRIPTION:Duration: 1h 17m (77 min)\nScreen 2\n\nDiscover: Discover stun
- ning cinema. Each week\, the Picturehouse film team champion one must-see 
- film.\n\nPreview: A special preview screening of this film. See it before 
- anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-deta
- ils/012/HO00013103/smoking-causes-coughing/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49120&v
- isLang=1
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230630T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230630T221000
+DTSTAMP;VALUE=DATE-TIME:20230630T183000Z
+UID:49121
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49121&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T143000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T171000
+DTSTAMP;VALUE=DATE-TIME:20230701T133000Z
+UID:49134
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49134&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T194000
+DTSTAMP;VALUE=DATE-TIME:20230701T160000Z
+UID:49132
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49132&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230701T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230701T224000
+DTSTAMP;VALUE=DATE-TIME:20230701T190000Z
+UID:49138
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49138&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T131500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T155500
+DTSTAMP;VALUE=DATE-TIME:20230702T121500Z
+UID:49149
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49149&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T161500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T185500
+DTSTAMP;VALUE=DATE-TIME:20230702T151500Z
+UID:49145
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49145&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230702T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230702T215500
+DTSTAMP;VALUE=DATE-TIME:20230702T181500Z
+UID:49153
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49153&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T144500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T172500
+DTSTAMP;VALUE=DATE-TIME:20230703T134500Z
+UID:49163
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013031/spider-m
+ an-across-the-spider-verse/\nhttps://ticketing.picturehouses.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=012&txtSessionId=49163&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T191000
+DTSTAMP;VALUE=DATE-TIME:20230703T153000Z
+UID:49161
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49161&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230703T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230703T221000
+DTSTAMP;VALUE=DATE-TIME:20230703T183000Z
+UID:49156
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49156&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T173000
+DTSTAMP;VALUE=DATE-TIME:20230704T135000Z
+UID:49170
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49170&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T161500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T185500
+DTSTAMP;VALUE=DATE-TIME:20230704T151500Z
+UID:49172
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49172&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T215500
+DTSTAMP;VALUE=DATE-TIME:20230704T181500Z
+UID:49167
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49167&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T170000
+DTSTAMP;VALUE=DATE-TIME:20230705T132000Z
+UID:49190
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49190&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T191000
+DTSTAMP;VALUE=DATE-TIME:20230705T153000Z
+UID:49192
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49192&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230705T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230705T221000
+DTSTAMP;VALUE=DATE-TIME:20230705T183000Z
+UID:49186
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49186&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T170000
+DTSTAMP;VALUE=DATE-TIME:20230706T132000Z
+UID:49196
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49196&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T191000
+DTSTAMP;VALUE=DATE-TIME:20230706T153000Z
+UID:49194
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49194&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230706T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230706T221000
+DTSTAMP;VALUE=DATE-TIME:20230706T183000Z
+UID:49200
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=012&txtSessionId=49200&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1994,6 +1957,21 @@ DESCRIPTION:Duration: 1h 22m (82 min)\nScreen 2\n\nhttps://www.picturehous
  es.com/movie-details/012/HO00013147/barrel-children-recorded-q-a/\nhttps:/
  /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
  2&txtSessionId=49199&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smoking Causes Coughing
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230704T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230704T214000
+DTSTAMP;VALUE=DATE-TIME:20230704T190000Z
+UID:49120
+DESCRIPTION:Duration: 1h 17m (77 min)\nScreen 2\n\nDiscover: Discover stun
+ ning cinema. Each week\, the Picturehouse film team champion one must-see 
+ film.\n\nPreview: A special preview screening of this film. See it before 
+ anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-deta
+ ils/012/HO00013103/smoking-causes-coughing/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49120&v
+ isLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 END:VCALENDAR
