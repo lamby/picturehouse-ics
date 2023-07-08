@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230707T091009Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230708T184546Z
 NAME:Picture House Brighton - Duke's at Komedia
 X-WR-CALNAME:Picture House Brighton - Duke's at Komedia
-BEGIN:VEVENT
-SUMMARY:Nabucco (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240110T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240110T153000
-DTSTAMP;VALUE=DATE-TIME:20240110T120000Z
-UID:28274
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00013174/met-opera-encore-nabucco-2024/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 019&txtSessionId=28274&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240327T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240327T155500
-DTSTAMP;VALUE=DATE-TIME:20240327T120000Z
-UID:28278
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00013177/met-opera-encore-romeo-et-juliette-20
- 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=019&txtSessionId=28278&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Rondine (2024)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240424T120000
@@ -53,15 +29,15 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231213T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231213T145500
-DTSTAMP;VALUE=DATE-TIME:20231213T120000Z
-UID:28272
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00013173/met-opera-encore-florencia-en-el-amaz
- onas-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=019&txtSessionId=28272&visLang=1
+SUMMARY:Dead Man Walking (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231025T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231025T153500
+DTSTAMP;VALUE=DATE-TIME:20231025T110000Z
+UID:28268
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00013171/met-opera-encore-dead-man-walking-202
+ 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=019&txtSessionId=28268&visLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
@@ -77,15 +53,39 @@ DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dead Man Walking (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231025T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231025T153500
-DTSTAMP;VALUE=DATE-TIME:20231025T110000Z
-UID:28268
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00013171/met-opera-encore-dead-man-walking-202
- 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=019&txtSessionId=28268&visLang=1
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240327T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240327T155500
+DTSTAMP;VALUE=DATE-TIME:20240327T120000Z
+UID:28278
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00013177/met-opera-encore-romeo-et-juliette-20
+ 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=019&txtSessionId=28278&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nabucco (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240110T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240110T153000
+DTSTAMP;VALUE=DATE-TIME:20240110T120000Z
+UID:28274
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00013174/met-opera-encore-nabucco-2024/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 019&txtSessionId=28274&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231213T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231213T145500
+DTSTAMP;VALUE=DATE-TIME:20231213T120000Z
+UID:28272
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00013173/met-opera-encore-florencia-en-el-amaz
+ onas-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=019&txtSessionId=28272&visLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
@@ -163,6 +163,18 @@ LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T221500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T003000
+DTSTAMP;VALUE=DATE-TIME:20230721T211500Z
+UID:28638
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28638&
+ visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T121500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T143000
 DTSTAMP;VALUE=DATE-TIME:20230722T111500Z
@@ -218,6 +230,18 @@ UID:28499
 DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/019/HO00013214/barbie/\nhttps://ticketing.picturehou
  ses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28499&
+ visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T221500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T003000
+DTSTAMP;VALUE=DATE-TIME:20230722T211500Z
+UID:28639
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28639&
  visLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
@@ -304,332 +328,6 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/019/HO00013214/barbie/\nhttps://ticketing.picturehou
  ses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28503&
  visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230707T121500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230707T142000
-DTSTAMP;VALUE=DATE-TIME:20230707T111500Z
-UID:28379
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28379&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230707T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230707T180500
-DTSTAMP;VALUE=DATE-TIME:20230707T150000Z
-UID:28378
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/019/HO00012945/asteroid
- -city/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=019&txtSessionId=28378&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230707T183000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230707T203500
-DTSTAMP;VALUE=DATE-TIME:20230707T173000Z
-UID:28376
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28376&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230707T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230707T220500
-DTSTAMP;VALUE=DATE-TIME:20230707T190000Z
-UID:28375
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28375&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T114500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T135000
-DTSTAMP;VALUE=DATE-TIME:20230708T104500Z
-UID:28401
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28401&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T142000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T162500
-DTSTAMP;VALUE=DATE-TIME:20230708T132000Z
-UID:28400
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28400&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T180500
-DTSTAMP;VALUE=DATE-TIME:20230708T150000Z
-UID:28398
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28398&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T223500
-DTSTAMP;VALUE=DATE-TIME:20230708T193000Z
-UID:28399
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28399&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T121500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T142000
-DTSTAMP;VALUE=DATE-TIME:20230709T111500Z
-UID:28611
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28611&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T145000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T165500
-DTSTAMP;VALUE=DATE-TIME:20230709T135000Z
-UID:28606
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28606&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T180500
-DTSTAMP;VALUE=DATE-TIME:20230709T150000Z
-UID:28607
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28607&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T172000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T192500
-DTSTAMP;VALUE=DATE-TIME:20230709T162000Z
-UID:28614
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/019/HO00012945/asteroid
- -city/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=019&txtSessionId=28614&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T195000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T215500
-DTSTAMP;VALUE=DATE-TIME:20230709T185000Z
-UID:28608
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28608&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T150500
-DTSTAMP;VALUE=DATE-TIME:20230710T120000Z
-UID:28615
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28615&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T173500
-DTSTAMP;VALUE=DATE-TIME:20230710T143000Z
-UID:28616
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28616&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T200500
-DTSTAMP;VALUE=DATE-TIME:20230710T170000Z
-UID:28617
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28617&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T223500
-DTSTAMP;VALUE=DATE-TIME:20230710T193000Z
-UID:28618
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28618&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T150500
-DTSTAMP;VALUE=DATE-TIME:20230711T120000Z
-UID:28622
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28622&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T173500
-DTSTAMP;VALUE=DATE-TIME:20230711T143000Z
-UID:28621
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28621&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T223500
-DTSTAMP;VALUE=DATE-TIME:20230711T193000Z
-UID:28619
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28619&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T150500
-DTSTAMP;VALUE=DATE-TIME:20230712T120000Z
-UID:28623
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28623&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T173500
-DTSTAMP;VALUE=DATE-TIME:20230712T143000Z
-UID:28624
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28624&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T200500
-DTSTAMP;VALUE=DATE-TIME:20230712T170000Z
-UID:28625
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28625&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T223500
-DTSTAMP;VALUE=DATE-TIME:20230712T193000Z
-UID:28626
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28626&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T133500
-DTSTAMP;VALUE=DATE-TIME:20230713T103000Z
-UID:28604
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28604&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T141000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T161500
-DTSTAMP;VALUE=DATE-TIME:20230713T131000Z
-UID:28603
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28603&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T212000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T232500
-DTSTAMP;VALUE=DATE-TIME:20230713T202000Z
-UID:28633
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
- =28633&visLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
@@ -890,6 +588,18 @@ DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 1\n\nSubtitled (Captioned):
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T124500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T152500
+DTSTAMP;VALUE=DATE-TIME:20230709T114500Z
+UID:28612
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=019&txtSessionId=28612&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oppenheimer
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T124500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T160500
@@ -926,54 +636,6 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230707T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230707T152500
-DTSTAMP;VALUE=DATE-TIME:20230707T114500Z
-UID:28630
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=019&txtSessionId=28630&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230707T145000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230707T173000
-DTSTAMP;VALUE=DATE-TIME:20230707T135000Z
-UID:28584
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=019&txtSessionId=28584&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T134000
-DTSTAMP;VALUE=DATE-TIME:20230708T100000Z
-UID:28627
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=019&txtSessionId=28627&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spider-Man: Across the Spider-Verse
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T152500
-DTSTAMP;VALUE=DATE-TIME:20230709T114500Z
-UID:28612
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00013031/spider-man-across-the-spider-verse/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=019&txtSessionId=28612&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Refuge Charity Screening: Legally Blonde
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T143000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T163000
@@ -983,18 +645,6 @@ DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 1\n\nhttps://www.picturehous
  es.com/movie-details/019/HO00012932/refuge-charity-screening-legally-blond
  e/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
  nemacode=019&txtSessionId=28169&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lady Bird
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T164500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T184000
-DTSTAMP;VALUE=DATE-TIME:20230708T154500Z
-UID:28374
-DESCRIPTION:Duration: 1h 34m (94 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/019/HO00013143/lady-bird/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=2837
- 4&visLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
@@ -1067,21 +717,6 @@ DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231118T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231118T212000
-DTSTAMP;VALUE=DATE-TIME:20231118T175500Z
-UID:28269
-DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/019/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=019&txtSessionId=28269&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: Dead Man Walking (2023)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231021T175500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231021T211000
@@ -1097,18 +732,18 @@ DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231209T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231209T203000
-DTSTAMP;VALUE=DATE-TIME:20231209T175500Z
-UID:28271
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nAd and Trailer Free: N
+SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231118T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231118T212000
+DTSTAMP;VALUE=DATE-TIME:20231118T175500Z
+UID:28269
+DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/019/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=019&txtSessionId=28271&visLang=1
+ e-details/019/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=019&txtSessionId=28269&visLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
@@ -1127,39 +762,18 @@ DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shabu
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230707T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230707T194000
-DTSTAMP;VALUE=DATE-TIME:20230707T170000Z
-UID:28629
-DESCRIPTION:Duration: 1h 16m (76 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/019/HO00013191/shabu/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28629&vi
- sLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shabu
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T154000
-DTSTAMP;VALUE=DATE-TIME:20230708T130000Z
-UID:28628
-DESCRIPTION:Duration: 1h 16m (76 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/019/HO00013191/shabu/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28628&vi
- sLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shabu
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T183000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T201000
-DTSTAMP;VALUE=DATE-TIME:20230709T173000Z
-UID:28631
-DESCRIPTION:Duration: 1h 16m (76 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/019/HO00013191/shabu/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28631&vi
- sLang=1
+SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231209T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231209T203000
+DTSTAMP;VALUE=DATE-TIME:20231209T175500Z
+UID:28271
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/019/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=019&txtSessionId=28271&visLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
@@ -1176,42 +790,14 @@ DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 2\n\nDiscover: Discover stun
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Interstellar
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T222500
-DTSTAMP;VALUE=DATE-TIME:20230708T181500Z
-UID:28373
-DESCRIPTION:Duration: 2h 46m (166 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00013140/interstellar/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=
- 28373&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FilmPride: Sensuality & Positivity
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230802T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230802T213000
-DTSTAMP;VALUE=DATE-TIME:20230802T183000Z
-UID:28636
-DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/019/HO00013264/filmpride-sensuality-positivity/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=
- 28636&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FilmPride: Myths & Mystery
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230803T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230803T213000
-DTSTAMP;VALUE=DATE-TIME:20230803T183000Z
-UID:28637
-DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/019/HO00013265/filmpride-myths-mystery/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28637&vi
+SUMMARY:Shabu
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T183000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T201000
+DTSTAMP;VALUE=DATE-TIME:20230709T173000Z
+UID:28631
+DESCRIPTION:Duration: 1h 16m (76 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/019/HO00013191/shabu/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28631&vi
  sLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
@@ -1230,6 +816,34 @@ DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FilmPride: Myths & Mystery
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230803T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230803T213000
+DTSTAMP;VALUE=DATE-TIME:20230803T183000Z
+UID:28637
+DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/019/HO00013265/filmpride-myths-mystery/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28637&vi
+ sLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FilmPride: Sensuality & Positivity
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230802T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230802T213000
+DTSTAMP;VALUE=DATE-TIME:20230802T183000Z
+UID:28636
+DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/019/HO00013264/filmpride-sensuality-positivity/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=
+ 28636&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Hiding Place
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230816T194500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230816T224000
@@ -1239,18 +853,6 @@ DESCRIPTION:Duration: 2h 33m (153 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/019/HO00013182/the-hiding-place/\nhttps://ticketing.
  picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessio
  nId=28321&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dunkirk
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T221000
-DTSTAMP;VALUE=DATE-TIME:20230715T190000Z
-UID:28383
-DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/019/HO00013141/dunkirk/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28383
- &visLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
@@ -1266,6 +868,30 @@ DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dunkirk
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T221000
+DTSTAMP;VALUE=DATE-TIME:20230715T190000Z
+UID:28383
+DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00013141/dunkirk/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId=28383
+ &visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smoking Causes Coughing
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T221000
+DTSTAMP;VALUE=DATE-TIME:20230709T193000Z
+UID:28613
+DESCRIPTION:Duration: 1h 17m (77 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/019/HO00013103/smoking-causes-coughing/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txt
+ SessionId=28613&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T232500
@@ -1275,6 +901,247 @@ DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/019/HO00013128/indiana-jones-and-the-dial-of-destiny
  /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
  emacode=019&txtSessionId=28632&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T223500
+DTSTAMP;VALUE=DATE-TIME:20230708T193000Z
+UID:28399
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28399&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T121500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T142000
+DTSTAMP;VALUE=DATE-TIME:20230709T111500Z
+UID:28611
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28611&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T145000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T165500
+DTSTAMP;VALUE=DATE-TIME:20230709T135000Z
+UID:28606
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28606&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T160000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T180500
+DTSTAMP;VALUE=DATE-TIME:20230709T150000Z
+UID:28607
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28607&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T172000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T192500
+DTSTAMP;VALUE=DATE-TIME:20230709T162000Z
+UID:28614
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/019/HO00012945/asteroid
+ -city/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=019&txtSessionId=28614&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T195000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T215500
+DTSTAMP;VALUE=DATE-TIME:20230709T185000Z
+UID:28608
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28608&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T150500
+DTSTAMP;VALUE=DATE-TIME:20230710T120000Z
+UID:28615
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28615&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T173500
+DTSTAMP;VALUE=DATE-TIME:20230710T143000Z
+UID:28616
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28616&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T200500
+DTSTAMP;VALUE=DATE-TIME:20230710T170000Z
+UID:28617
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28617&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230710T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230710T223500
+DTSTAMP;VALUE=DATE-TIME:20230710T193000Z
+UID:28618
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28618&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T150500
+DTSTAMP;VALUE=DATE-TIME:20230711T120000Z
+UID:28622
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28622&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T173500
+DTSTAMP;VALUE=DATE-TIME:20230711T143000Z
+UID:28621
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28621&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T223500
+DTSTAMP;VALUE=DATE-TIME:20230711T193000Z
+UID:28619
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28619&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T150500
+DTSTAMP;VALUE=DATE-TIME:20230712T120000Z
+UID:28623
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28623&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T153000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T173500
+DTSTAMP;VALUE=DATE-TIME:20230712T143000Z
+UID:28624
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28624&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T180000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T200500
+DTSTAMP;VALUE=DATE-TIME:20230712T170000Z
+UID:28625
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28625&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T223500
+DTSTAMP;VALUE=DATE-TIME:20230712T193000Z
+UID:28626
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28626&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T133500
+DTSTAMP;VALUE=DATE-TIME:20230713T103000Z
+UID:28604
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28604&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T141000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T161500
+DTSTAMP;VALUE=DATE-TIME:20230713T131000Z
+UID:28603
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28603&visLang=1
+LOCATION:Picture House Brighton - Duke's at Komedia
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T212000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T232500
+DTSTAMP;VALUE=DATE-TIME:20230713T202000Z
+UID:28633
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/019/HO00012945/asteroid-city/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txtSessionId
+ =28633&visLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 BEGIN:VEVENT
@@ -1299,42 +1166,6 @@ DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 1\n\nhttps://www.picturehous
  es.com/movie-details/019/HO00013190/the-tunnel-to-summer-the-exit-of-goodb
  yes/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
  cinemacode=019&txtSessionId=28403&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smoking Causes Coughing
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230707T210000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230707T224000
-DTSTAMP;VALUE=DATE-TIME:20230707T200000Z
-UID:28585
-DESCRIPTION:Duration: 1h 17m (77 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/019/HO00013103/smoking-causes-coughing/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txt
- SessionId=28585&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smoking Causes Coughing
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230708T183000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230708T201000
-DTSTAMP;VALUE=DATE-TIME:20230708T173000Z
-UID:28586
-DESCRIPTION:Duration: 1h 17m (77 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/019/HO00013103/smoking-causes-coughing/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txt
- SessionId=28586&visLang=1
-LOCATION:Picture House Brighton - Duke's at Komedia
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smoking Causes Coughing
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230709T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230709T221000
-DTSTAMP;VALUE=DATE-TIME:20230709T193000Z
-UID:28613
-DESCRIPTION:Duration: 1h 17m (77 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/019/HO00013103/smoking-causes-coughing/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=019&txt
- SessionId=28613&visLang=1
 LOCATION:Picture House Brighton - Duke's at Komedia
 END:VEVENT
 END:VCALENDAR
