@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230711T071247Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230712T063020Z
 NAME:Picture House York - City Screen
 X-WR-CALNAME:Picture House York - City Screen
+BEGIN:VEVENT
+SUMMARY:Dog-Friendly Screening: Barbie
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T104000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T125500
+DTSTAMP;VALUE=DATE-TIME:20230722T094000Z
+UID:13536
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00013237/dog-friendly-screening-barbie/\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=018&txtSessionId=13536&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T104000
@@ -355,31 +367,6 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen Three\n\nhttps://www.pictur
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dog-Friendly Screening: Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T104000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T125500
-DTSTAMP;VALUE=DATE-TIME:20230722T094000Z
-UID:13536
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00013237/dog-friendly-screening-barbie/\nh
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=018&txtSessionId=13536&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Super Mario Bros. Movie (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T125500
-DTSTAMP;VALUE=DATE-TIME:20230722T100000Z
-UID:13103
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen Two\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00012697/the-sup
- er-mario-bros-movie-2d/\nhttps://ticketing.picturehouses.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=018&txtSessionId=13103&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UP!
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T130000
@@ -389,42 +376,6 @@ DESCRIPTION:Duration: 1h 36m (96 min)\nScreen Three\n\nhttps://www.picture
  houses.com/movie-details/018/HO00006655/up/\nhttps://ticketing.picturehous
  es.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=13635&v
  isLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T142500
-DTSTAMP;VALUE=DATE-TIME:20230711T103000Z
-UID:13539
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00013128/indiana-jones-and-the-dial-of-des
- tiny/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=018&txtSessionId=13539&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T144000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T173500
-DTSTAMP;VALUE=DATE-TIME:20230711T134000Z
-UID:13504
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013128/indiana-jones-and-the-dial-of-desti
- ny/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=018&txtSessionId=13504&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T222500
-DTSTAMP;VALUE=DATE-TIME:20230711T183000Z
-UID:13505
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00013128/indiana-jones-and-the-dial-of-des
- tiny/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=018&txtSessionId=13505&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -502,9 +453,9 @@ LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T134000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T163500
-DTSTAMP;VALUE=DATE-TIME:20230714T124000Z
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T162500
+DTSTAMP;VALUE=DATE-TIME:20230714T123000Z
 UID:13573
 DESCRIPTION:Duration: 2h 34m (154 min)\nScreen Three\n\nhttps://www.pictur
  ehouses.com/movie-details/018/HO00013128/indiana-jones-and-the-dial-of-des
@@ -728,6 +679,309 @@ DESCRIPTION:Duration: 2h 34m (154 min)\nScreen Two\n\nhttps://www.pictureh
  ouses.com/movie-details/018/HO00013128/indiana-jones-and-the-dial-of-desti
  ny/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
  inemacode=018&txtSessionId=13648&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Super Mario Bros. Movie (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T110000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T125500
+DTSTAMP;VALUE=DATE-TIME:20230722T100000Z
+UID:13103
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen Two\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00012697/the-sup
+ er-mario-bros-movie-2d/\nhttps://ticketing.picturehouses.com/Ticketing/vis
+ SelectTickets.aspx?cinemacode=018&txtSessionId=13103&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T134500
+DTSTAMP;VALUE=DATE-TIME:20230712T104000Z
+UID:13514
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=13514&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T141000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T161500
+DTSTAMP;VALUE=DATE-TIME:20230712T131000Z
+UID:13515
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=13515&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T164000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T184500
+DTSTAMP;VALUE=DATE-TIME:20230712T154000Z
+UID:13546
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=13546&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T114000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T134500
+DTSTAMP;VALUE=DATE-TIME:20230713T104000Z
+UID:13522
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13522&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T162500
+DTSTAMP;VALUE=DATE-TIME:20230713T132000Z
+UID:13520
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13520&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T190500
+DTSTAMP;VALUE=DATE-TIME:20230713T160000Z
+UID:13519
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13519&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T194000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T214500
+DTSTAMP;VALUE=DATE-TIME:20230713T184000Z
+UID:13518
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13518&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T111000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T131500
+DTSTAMP;VALUE=DATE-TIME:20230714T101000Z
+UID:13578
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13578&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T220500
+DTSTAMP;VALUE=DATE-TIME:20230714T190000Z
+UID:13577
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13577&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T153500
+DTSTAMP;VALUE=DATE-TIME:20230715T123000Z
+UID:13592
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nSubtitled (Caption
+ ed): Everyone welcome. This screening has subtitles for people with hearin
+ g loss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00012945/aste
+ roid-city/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=018&txtSessionId=13592&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T182000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T202500
+DTSTAMP;VALUE=DATE-TIME:20230715T172000Z
+UID:13591
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=13591&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T205000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T225500
+DTSTAMP;VALUE=DATE-TIME:20230715T195000Z
+UID:13590
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=13590&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T142000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T162500
+DTSTAMP;VALUE=DATE-TIME:20230716T132000Z
+UID:13597
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13597&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T111000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T131500
+DTSTAMP;VALUE=DATE-TIME:20230717T101000Z
+UID:13607
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13607&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T134500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T155000
+DTSTAMP;VALUE=DATE-TIME:20230717T124500Z
+UID:13601
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13601&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T194500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T215000
+DTSTAMP;VALUE=DATE-TIME:20230717T184500Z
+UID:13605
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13605&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T114500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T135000
+DTSTAMP;VALUE=DATE-TIME:20230718T104500Z
+UID:13619
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=13619&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T220500
+DTSTAMP;VALUE=DATE-TIME:20230718T190000Z
+UID:13565
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=13565&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T130000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T150500
+DTSTAMP;VALUE=DATE-TIME:20230719T120000Z
+UID:13623
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=13623&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T144000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T164500
+DTSTAMP;VALUE=DATE-TIME:20230719T134000Z
+UID:13627
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13627&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T171000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T191500
+DTSTAMP;VALUE=DATE-TIME:20230719T161000Z
+UID:13626
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13626&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T150000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T170500
+DTSTAMP;VALUE=DATE-TIME:20230720T140000Z
+UID:13655
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13655&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T173000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T193500
+DTSTAMP;VALUE=DATE-TIME:20230720T163000Z
+UID:13654
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nSubtitled (Caption
+ ed): Everyone welcome. This screening has subtitles for people with hearin
+ g loss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00012945/aste
+ roid-city/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=018&txtSessionId=13654&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Asteroid City
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T220500
+DTSTAMP;VALUE=DATE-TIME:20230720T190000Z
+UID:13651
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13651&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1093,15 +1347,17 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen One\n\nhttps://www.pictureh
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dead Man Walking (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231025T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231025T153500
-DTSTAMP;VALUE=DATE-TIME:20231025T110000Z
-UID:13157
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013171/met-opera-encore-dead-man-walking-2
- 023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=018&txtSessionId=13157&visLang=1
+SUMMARY:ROH Encore: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240402T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240402T151500
+DTSTAMP;VALUE=DATE-TIME:20240402T110000Z
+UID:12857
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-d
+ etails/018/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=12857&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1116,6 +1372,133 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen Three\n\nAd and Trailer Free
  tails/018/HO00013119/message-in-a-bottle-encore/\nhttps://ticketing.pictur
  ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=13
  230&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240327T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240327T155500
+DTSTAMP;VALUE=DATE-TIME:20240327T120000Z
+UID:13169
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00013177/met-opera-encore-romeo-et-juliette-
+ 2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=018&txtSessionId=13169&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Forza del Destino (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240313T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240313T164500
+DTSTAMP;VALUE=DATE-TIME:20240313T120000Z
+UID:13167
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00013176/met-opera-encore-la-forza-del-desti
+ no-2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=018&txtSessionId=13167&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Manon (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240213T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240213T153500
+DTSTAMP;VALUE=DATE-TIME:20240213T120000Z
+UID:12855
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nLive via Satellite
+ : This screening will be streamed live via a Satellite Feed\n\nhttps://www
+ .picturehouses.com/movie-details/018/HO00013113/roh-encore-manon-2024/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=018&txtSessionId=12855&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead Man Walking (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231025T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231025T153500
+DTSTAMP;VALUE=DATE-TIME:20231025T110000Z
+UID:13157
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00013171/met-opera-encore-dead-man-walking-2
+ 023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=018&txtSessionId=13157&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Don Quixote (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231114T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231114T152000
+DTSTAMP;VALUE=DATE-TIME:20231114T120000Z
+UID:12849
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-d
+ etails/018/HO00013110/roh-encore-don-quixote-2023/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=
+ 12849&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Macmillan Triple (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240416T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240416T151500
+DTSTAMP;VALUE=DATE-TIME:20240416T110000Z
+UID:12859
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-d
+ etails/018/HO00013115/roh-encore-macmillan-triple-2024/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=12859&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240131T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240131T160500
+DTSTAMP;VALUE=DATE-TIME:20240131T120000Z
+UID:13165
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00013175/met-opera-encore-carmen-2024/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =018&txtSessionId=13165&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X: The Life and Times of Malcolm
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231122T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231122T154500
+DTSTAMP;VALUE=DATE-TIME:20231122T120000Z
+UID:13159
+DESCRIPTION:Duration: 3h 22m (202 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00013172/met-opera-encore-x-the-life-and-tim
+ es-of-malcolm/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=018&txtSessionId=13159&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Carmen (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240507T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240507T154500
+DTSTAMP;VALUE=DATE-TIME:20240507T110000Z
+UID:12863
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-d
+ etails/018/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=12863
+ &visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Rondine (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240424T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240424T151000
+DTSTAMP;VALUE=DATE-TIME:20240424T110000Z
+UID:13171
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00013178/met-opera-encore-la-rondine-2024/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=018&txtSessionId=13171&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1145,43 +1528,17 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Two\n\nhttps://www.pictureh
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240507T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240507T154500
-DTSTAMP;VALUE=DATE-TIME:20240507T110000Z
-UID:12863
+SUMMARY:ROH Encore: Rusalka (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240130T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240130T154500
+DTSTAMP;VALUE=DATE-TIME:20240130T120000Z
+UID:12853
 DESCRIPTION:Duration: 3h 45m (225 min)\nScreen Three\n\nAd and Trailer Fre
  e: No advertisements or trailers will play ahead of this screening. You ar
  e recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-d
- etails/018/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=12863
- &visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Don Quixote (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231114T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231114T152000
-DTSTAMP;VALUE=DATE-TIME:20231114T120000Z
-UID:12849
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-d
- etails/018/HO00013110/roh-encore-don-quixote-2023/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=
- 12849&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:X: The Life and Times of Malcolm
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231122T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231122T154500
-DTSTAMP;VALUE=DATE-TIME:20231122T120000Z
-UID:13159
-DESCRIPTION:Duration: 3h 22m (202 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013172/met-opera-encore-x-the-life-and-tim
- es-of-malcolm/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=018&txtSessionId=13159&visLang=1
+ etails/018/HO00013112/roh-encore-rusalka-2024/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=1285
+ 3&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1194,32 +1551,6 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen Two\n\nhttps://www.pictureh
  ouses.com/movie-details/018/HO00013173/met-opera-encore-florencia-en-el-am
  azonas-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
  ts.aspx?cinemacode=018&txtSessionId=13161&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: The Nutcracker (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231219T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231219T144500
-DTSTAMP;VALUE=DATE-TIME:20231219T120000Z
-UID:12851
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-d
- etails/018/HO00013111/roh-encore-the-nutcracker-2023/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=12851&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nabucco (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240110T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240110T153000
-DTSTAMP;VALUE=DATE-TIME:20240110T120000Z
-UID:13163
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013174/met-opera-encore-nabucco-2024/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=018&txtSessionId=13163&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1237,118 +1568,29 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen Three\n\nAd and Trailer Fre
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Rondine (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240424T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240424T151000
-DTSTAMP;VALUE=DATE-TIME:20240424T110000Z
-UID:13171
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013178/met-opera-encore-la-rondine-2024/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=018&txtSessionId=13171&visLang=1
+SUMMARY:Nabucco (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240110T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240110T153000
+DTSTAMP;VALUE=DATE-TIME:20240110T120000Z
+UID:13163
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00013174/met-opera-encore-nabucco-2024/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=018&txtSessionId=13163&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Rusalka (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240130T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240130T154500
-DTSTAMP;VALUE=DATE-TIME:20240130T120000Z
-UID:12853
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen Three\n\nAd and Trailer Fre
+SUMMARY:ROH Encore: The Nutcracker (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231219T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231219T144500
+DTSTAMP;VALUE=DATE-TIME:20231219T120000Z
+UID:12851
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen Three\n\nAd and Trailer Fre
  e: No advertisements or trailers will play ahead of this screening. You ar
  e recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-d
- etails/018/HO00013112/roh-encore-rusalka-2024/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=1285
- 3&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231010T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231010T154000
-DTSTAMP;VALUE=DATE-TIME:20231010T110000Z
-UID:12847
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00013109/roh-encore-l-elisir-d-amore-2023/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=018&txtSessionId=12847&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Macmillan Triple (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240416T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240416T151500
-DTSTAMP;VALUE=DATE-TIME:20240416T110000Z
-UID:12859
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-d
- etails/018/HO00013115/roh-encore-macmillan-triple-2024/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=12859&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Manon (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240213T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240213T153500
-DTSTAMP;VALUE=DATE-TIME:20240213T120000Z
-UID:12855
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nLive via Satellite
- : This screening will be streamed live via a Satellite Feed\n\nhttps://www
- .picturehouses.com/movie-details/018/HO00013113/roh-encore-manon-2024/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=018&txtSessionId=12855&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Forza del Destino (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240313T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240313T164500
-DTSTAMP;VALUE=DATE-TIME:20240313T120000Z
-UID:13167
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013176/met-opera-encore-la-forza-del-desti
- no-2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=018&txtSessionId=13167&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240327T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240327T155500
-DTSTAMP;VALUE=DATE-TIME:20240327T120000Z
-UID:13169
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013177/met-opera-encore-romeo-et-juliette-
- 2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=018&txtSessionId=13169&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240402T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240402T151500
-DTSTAMP;VALUE=DATE-TIME:20240402T110000Z
-UID:12857
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-d
- etails/018/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=12857&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240131T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240131T160500
-DTSTAMP;VALUE=DATE-TIME:20240131T120000Z
-UID:13165
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013175/met-opera-encore-carmen-2024/\nhttp
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =018&txtSessionId=13165&visLang=1
+ etails/018/HO00013111/roh-encore-the-nutcracker-2023/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=12851&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1380,39 +1622,15 @@ DESCRIPTION:Duration: 2h 45m (165 min)\nScreen Three\n\nAd and Trailer Fre
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T150500
-DTSTAMP;VALUE=DATE-TIME:20230711T110000Z
-UID:13250
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013185/mission-impossible-dead-reckoning-p
- art-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=018&txtSessionId=13250&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T183500
-DTSTAMP;VALUE=DATE-TIME:20230711T143000Z
-UID:13251
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013185/mission-impossible-dead-reckoning-p
- art-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=018&txtSessionId=13251&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T220500
-DTSTAMP;VALUE=DATE-TIME:20230711T180000Z
-UID:13252
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013185/mission-impossible-dead-reckoning-p
- art-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=018&txtSessionId=13252&visLang=1
+SUMMARY:ROH Encore: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231010T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231010T154000
+DTSTAMP;VALUE=DATE-TIME:20231010T110000Z
+UID:12847
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00013109/roh-encore-l-elisir-d-amore-2023/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=018&txtSessionId=12847&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1665,10 +1883,12 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T193000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T223500
 DTSTAMP;VALUE=DATE-TIME:20230718T183000Z
 UID:13034
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013185/mission-impossible-dead-reckoning-p
- art-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=018&txtSessionId=13034&visLang=1
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen One\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00013185/missio
+ n-impossible-dead-reckoning-part-one/\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=13034&visLang
+ =1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1703,12 +1923,10 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T123000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T153500
 DTSTAMP;VALUE=DATE-TIME:20230720T113000Z
 UID:13038
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen One\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00013185/missio
- n-impossible-dead-reckoning-part-one/\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=13038&visLang
- =1
+DESCRIPTION:Duration: 2h 43m (163 min)\nScreen One\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00013185/mission-impossible-dead-reckoning-p
+ art-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=018&txtSessionId=13038&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1736,357 +1954,6 @@ DESCRIPTION:Duration: 2h 43m (163 min)\nScreen One\n\nhttps://www.pictureh
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T122000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T142500
-DTSTAMP;VALUE=DATE-TIME:20230711T112000Z
-UID:13506
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=13506&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T145000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T165500
-DTSTAMP;VALUE=DATE-TIME:20230711T135000Z
-UID:13540
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13540&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T171000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T191500
-DTSTAMP;VALUE=DATE-TIME:20230711T161000Z
-UID:13503
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13503&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T201000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T221500
-DTSTAMP;VALUE=DATE-TIME:20230711T191000Z
-UID:13508
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00012945/astero
- id-city/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=018&txtSessionId=13508&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T114000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T134500
-DTSTAMP;VALUE=DATE-TIME:20230712T104000Z
-UID:13514
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=13514&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T141000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T161500
-DTSTAMP;VALUE=DATE-TIME:20230712T131000Z
-UID:13515
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=13515&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230712T164000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230712T184500
-DTSTAMP;VALUE=DATE-TIME:20230712T154000Z
-UID:13546
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=13546&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T114000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T134500
-DTSTAMP;VALUE=DATE-TIME:20230713T104000Z
-UID:13522
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13522&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T142000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T162500
-DTSTAMP;VALUE=DATE-TIME:20230713T132000Z
-UID:13520
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13520&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T190500
-DTSTAMP;VALUE=DATE-TIME:20230713T160000Z
-UID:13519
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13519&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230713T194000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230713T214500
-DTSTAMP;VALUE=DATE-TIME:20230713T184000Z
-UID:13518
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13518&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T111000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T131500
-DTSTAMP;VALUE=DATE-TIME:20230714T101000Z
-UID:13578
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13578&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T220500
-DTSTAMP;VALUE=DATE-TIME:20230714T190000Z
-UID:13577
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13577&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T153500
-DTSTAMP;VALUE=DATE-TIME:20230715T123000Z
-UID:13592
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nSubtitled (Caption
- ed): Everyone welcome. This screening has subtitles for people with hearin
- g loss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00012945/aste
- roid-city/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=018&txtSessionId=13592&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T182000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T202500
-DTSTAMP;VALUE=DATE-TIME:20230715T172000Z
-UID:13591
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=13591&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230715T205000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230715T225500
-DTSTAMP;VALUE=DATE-TIME:20230715T195000Z
-UID:13590
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=13590&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T142000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T162500
-DTSTAMP;VALUE=DATE-TIME:20230716T132000Z
-UID:13597
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13597&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T111000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T131500
-DTSTAMP;VALUE=DATE-TIME:20230717T101000Z
-UID:13607
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13607&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T134500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T155000
-DTSTAMP;VALUE=DATE-TIME:20230717T124500Z
-UID:13601
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13601&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T194500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T215000
-DTSTAMP;VALUE=DATE-TIME:20230717T184500Z
-UID:13605
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13605&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T114500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T135000
-DTSTAMP;VALUE=DATE-TIME:20230718T104500Z
-UID:13619
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=13619&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T220500
-DTSTAMP;VALUE=DATE-TIME:20230718T190000Z
-UID:13565
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=13565&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T150500
-DTSTAMP;VALUE=DATE-TIME:20230719T120000Z
-UID:13623
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=13623&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T144000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T164500
-DTSTAMP;VALUE=DATE-TIME:20230719T134000Z
-UID:13627
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13627&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T171000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T191500
-DTSTAMP;VALUE=DATE-TIME:20230719T161000Z
-UID:13626
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13626&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T170500
-DTSTAMP;VALUE=DATE-TIME:20230720T140000Z
-UID:13655
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13655&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T193500
-DTSTAMP;VALUE=DATE-TIME:20230720T163000Z
-UID:13654
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nSubtitled (Caption
- ed): Everyone welcome. This screening has subtitles for people with hearin
- g loss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00012945/aste
- roid-city/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=018&txtSessionId=13654&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T220500
-DTSTAMP;VALUE=DATE-TIME:20230720T190000Z
-UID:13651
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012945/asteroid-city/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13651&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oklahoma! Starring Hugh Jackman
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T170500
-DTSTAMP;VALUE=DATE-TIME:20230716T123000Z
-UID:12636
-DESCRIPTION:Duration: 3h 12m (192 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013016/oklahoma-starring-hugh-jackman/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=018&txtSessionId=12636&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Debutante: Rye Lane
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230820T133000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230820T151500
@@ -2102,6 +1969,18 @@ DESCRIPTION:Duration: 1h 22m (82 min)\nScreen Two\n\nreDiscover: Time to b
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oklahoma! Starring Hugh Jackman
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T133000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T170500
+DTSTAMP;VALUE=DATE-TIME:20230716T123000Z
+UID:12636
+DESCRIPTION:Duration: 3h 12m (192 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00013016/oklahoma-starring-hugh-jackman/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=018&txtSessionId=12636&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:André Rieu’s 2023 Maastricht Concert: Love is All Around
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230827T150000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230827T182000
@@ -2111,21 +1990,6 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen Three\n\nhttps://www.pictur
  ehouses.com/movie-details/018/HO00012919/andre-rieus-2023-maastricht-conce
  rt-love-is-all-around/\nhttps://ticketing.picturehouses.com/Ticketing/visS
  electTickets.aspx?cinemacode=018&txtSessionId=12172&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Debutante: Blue Jean
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230806T163000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230806T183000
-DTSTAMP;VALUE=DATE-TIME:20230806T153000Z
-UID:13556
-DESCRIPTION:Duration: 1h 37m (97 min)\nScreen Two\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/018/HO00013253/debutante-blue-jean/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=13556
- &visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2141,6 +2005,21 @@ DESCRIPTION:Duration: 2h 01m (121 min)\nScreen Two\n\nreDiscover: Time to
  ie-details/018/HO00013231/yorgosbord-the-killing-of-a-sacred-deer/\nhttps:
  //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
  18&txtSessionId=13553&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Debutante: Blue Jean
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230806T163000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230806T183000
+DTSTAMP;VALUE=DATE-TIME:20230806T153000Z
+UID:13556
+DESCRIPTION:Duration: 1h 37m (97 min)\nScreen Two\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/018/HO00013253/debutante-blue-jean/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=13556
+ &visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2258,6 +2137,21 @@ DESCRIPTION:Duration: 3h 31m (211 min)\nScreen Two\n\nAd and Trailer Free:
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Met Opera Live: La Forza del Destino (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240309T170000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240309T212500
+DTSTAMP;VALUE=DATE-TIME:20240309T170000Z
+UID:13166
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen Two\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nLive via Satellite: This screening will
+  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
+ vie-details/018/HO00013166/met-opera-live-la-forza-del-destino-2024/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =018&txtSessionId=13166&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:YÖRGOSBORD: The Favourite
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230730T170000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230730T192000
@@ -2288,21 +2182,6 @@ DESCRIPTION:Duration: 1h 42m (102 min)\nScreen Two\n\nreDiscover: Time to
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: La Forza del Destino (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240309T170000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240309T212500
-DTSTAMP;VALUE=DATE-TIME:20240309T170000Z
-UID:13166
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen Two\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nLive via Satellite: This screening will
-  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/018/HO00013166/met-opera-live-la-forza-del-destino-2024/\nhttp
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =018&txtSessionId=13166&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Little Women
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T172000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T195500
@@ -2330,33 +2209,18 @@ DESCRIPTION:Duration: 1h 43m (103 min)\nScreen Two\n\nDiscover: Discover s
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240127T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240127T214000
-DTSTAMP;VALUE=DATE-TIME:20240127T175500Z
-UID:13164
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen Two\n\nAd and Trailer Free:
+SUMMARY:Met Opera Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240511T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240511T211000
+DTSTAMP;VALUE=DATE-TIME:20240511T165500Z
+UID:13172
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Two\n\nAd and Trailer Free:
   No advertisements or trailers will play ahead of this screening. You are 
  recommended to arrive promptly.\n\nLive via Satellite: This screening will
   be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/018/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessio
- nId=13164&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Nabucco (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240106T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240106T210500
-DTSTAMP;VALUE=DATE-TIME:20240106T175500Z
-UID:13162
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen Two\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nLive via Satellite: This screening will
-  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/018/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=13162&visLang=1
+ vie-details/018/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018
+ &txtSessionId=13172&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2375,33 +2239,18 @@ DESCRIPTION:Duration: 3h 14m (194 min)\nScreen Two\n\nAd and Trailer Free:
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240511T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240511T211000
-DTSTAMP;VALUE=DATE-TIME:20240511T165500Z
-UID:13172
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Two\n\nAd and Trailer Free:
+SUMMARY:Met Opera Live: La Rondine (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240420T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240420T204500
+DTSTAMP;VALUE=DATE-TIME:20240420T165500Z
+UID:13170
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen Two\n\nAd and Trailer Free:
   No advertisements or trailers will play ahead of this screening. You are 
  recommended to arrive promptly.\n\nLive via Satellite: This screening will
   be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/018/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018
- &txtSessionId=13172&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231209T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231209T203000
-DTSTAMP;VALUE=DATE-TIME:20231209T175500Z
-UID:13160
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen Two\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nLive via Satellite: This screening will
-  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/018/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=018&txtSessionId=13160&visLang=1
+ vie-details/018/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSe
+ ssionId=13170&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2420,46 +2269,48 @@ DESCRIPTION:Duration: 3h 22m (202 min)\nScreen Two\n\nAd and Trailer Free:
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: La Rondine (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240420T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240420T204500
-DTSTAMP;VALUE=DATE-TIME:20240420T165500Z
-UID:13170
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen Two\n\nAd and Trailer Free:
+SUMMARY:Met Opera Live: Carmen (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240127T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240127T214000
+DTSTAMP;VALUE=DATE-TIME:20240127T175500Z
+UID:13164
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen Two\n\nAd and Trailer Free:
   No advertisements or trailers will play ahead of this screening. You are 
  recommended to arrive promptly.\n\nLive via Satellite: This screening will
   be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/018/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSe
- ssionId=13170&visLang=1
+ vie-details/018/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessio
+ nId=13164&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:My Imaginary Country
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230711T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230711T194500
-DTSTAMP;VALUE=DATE-TIME:20230711T170000Z
-UID:13501
-DESCRIPTION:Duration: 1h 23m (83 min)\nScreen Two\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nhttps://www.picturehouses.com/movie-details/018/HO00013233/my-i
- maginary-country/\nhttps://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=018&txtSessionId=13501&visLang=1
+SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231209T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231209T203000
+DTSTAMP;VALUE=DATE-TIME:20231209T175500Z
+UID:13160
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen Two\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nLive via Satellite: This screening will
+  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
+ vie-details/018/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=018&txtSessionId=13160&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Rusalka (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240124T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240124T223000
-DTSTAMP;VALUE=DATE-TIME:20240124T184500Z
-UID:12852
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
- ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
- movie-details/018/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId
- =12852&visLang=1
+SUMMARY:Met Opera Live: Nabucco (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240106T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240106T210500
+DTSTAMP;VALUE=DATE-TIME:20240106T175500Z
+UID:13162
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen Two\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nLive via Satellite: This screening will
+  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
+ vie-details/018/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=13162&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2475,6 +2326,21 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen One\n\nAd and Trailer Free:
  vie-details/018/HO00013040/roh-live-carmen-2024/\nhttps://ticketing.pictur
  ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=12
  862&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Rusalka (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240124T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240124T223000
+DTSTAMP;VALUE=DATE-TIME:20240124T184500Z
+UID:12852
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
+ ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
+ movie-details/018/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId
+ =12852&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2494,21 +2360,6 @@ DESCRIPTION:Duration: 2h 27m (147 min)\nScreen Three\n\nAd and Trailer Fre
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Swan Lake (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240424T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240424T223500
-DTSTAMP;VALUE=DATE-TIME:20240424T181500Z
-UID:12860
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen One\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nLive via Satellite: This screening will
-  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/018/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId
- =12860&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: The Winter's Tale (2024)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240522T191500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240522T223000
@@ -2521,6 +2372,51 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
  movie-details/018/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://tic
  keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&tx
  tSessionId=12864&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240611T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240611T223000
+DTSTAMP;VALUE=DATE-TIME:20240611T181500Z
+UID:12868
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
+ ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
+ movie-details/018/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSe
+ ssionId=12868&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Nutcracker (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231212T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231212T220000
+DTSTAMP;VALUE=DATE-TIME:20231212T191500Z
+UID:12850
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen One\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nLive via Satellite: This screening will
+  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
+ vie-details/018/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSess
+ ionId=12850&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231005T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231005T223500
+DTSTAMP;VALUE=DATE-TIME:20231005T181500Z
+UID:12846
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
+ ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
+ movie-details/018/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txt
+ SessionId=12846&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2539,18 +2435,18 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen Three\n\nAd and Trailer Fre
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231005T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231005T223500
-DTSTAMP;VALUE=DATE-TIME:20231005T181500Z
-UID:12846
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
- ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
- movie-details/018/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txt
- SessionId=12846&visLang=1
+SUMMARY:ROH Live: Swan Lake (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240424T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240424T223500
+DTSTAMP;VALUE=DATE-TIME:20240424T181500Z
+UID:12860
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen One\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nLive via Satellite: This screening will
+  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
+ vie-details/018/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId
+ =12860&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2599,21 +2495,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen One\n\nAd and Trailer Free:
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: The Nutcracker (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231212T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231212T220000
-DTSTAMP;VALUE=DATE-TIME:20231212T191500Z
-UID:12850
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen One\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nLive via Satellite: This screening will
-  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mo
- vie-details/018/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSess
- ionId=12850&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: Manon (2024)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240207T191500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240207T223000
@@ -2626,21 +2507,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
  movie-details/018/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictu
  rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=1
  2854&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240611T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240611T223000
-DTSTAMP;VALUE=DATE-TIME:20240611T181500Z
-UID:12868
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
- ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
- movie-details/018/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSe
- ssionId=12868&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2658,16 +2524,27 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen Three\n\nAd and Trailer Free
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outdoor: The Super Mario Bros. Movie (2D)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T212500
-DTSTAMP;VALUE=DATE-TIME:20230714T183000Z
-UID:12664
-DESCRIPTION:Duration: 1h 32m (92 min)\nOutdoor Venue\n\nSubtitled (Caption
- ed): Everyone welcome. This screening has subtitles for people with hearin
- g loss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00013053/outd
- oor-the-super-mario-bros-movie-2d/\nhttps://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=12664&visLang=1
+SUMMARY:Reinventing Elvis: The '68 Comeback
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230803T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230803T215000
+DTSTAMP;VALUE=DATE-TIME:20230803T183000Z
+UID:13563
+DESCRIPTION:Duration: 2h 00m (120 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00013276/reinventing-elvis-the-68-comeback/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=018&txtSessionId=13563&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor: Jaws
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T215500
+DTSTAMP;VALUE=DATE-TIME:20230716T183000Z
+UID:12666
+DESCRIPTION:Duration: 2h 04m (124 min)\nOutdoor Venue\n\nhttps://www.pictu
+ rehouses.com/movie-details/018/HO00013052/outdoor-jaws/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=12666&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2695,15 +2572,16 @@ DESCRIPTION:Duration: 2h 07m (127 min)\nScreen Two\n\nhttps://www.pictureh
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Reinventing Elvis: The '68 Comeback
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230803T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230803T215000
-DTSTAMP;VALUE=DATE-TIME:20230803T183000Z
-UID:13563
-DESCRIPTION:Duration: 2h 00m (120 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00013276/reinventing-elvis-the-68-comeback/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=018&txtSessionId=13563&visLang=1
+SUMMARY:Outdoor: The Super Mario Bros. Movie (2D)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230714T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230714T212500
+DTSTAMP;VALUE=DATE-TIME:20230714T183000Z
+UID:12664
+DESCRIPTION:Duration: 1h 32m (92 min)\nOutdoor Venue\n\nSubtitled (Caption
+ ed): Everyone welcome. This screening has subtitles for people with hearin
+ g loss.\n\nhttps://www.picturehouses.com/movie-details/018/HO00013053/outd
+ oor-the-super-mario-bros-movie-2d/\nhttps://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=12664&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2719,15 +2597,15 @@ DESCRIPTION:Duration: 1h 48m (108 min)\nOutdoor Venue\n\nhttps://www.pictu
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outdoor: Jaws
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230716T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230716T215500
-DTSTAMP;VALUE=DATE-TIME:20230716T183000Z
-UID:12666
-DESCRIPTION:Duration: 2h 04m (124 min)\nOutdoor Venue\n\nhttps://www.pictu
- rehouses.com/movie-details/018/HO00013052/outdoor-jaws/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=12666&visLang=1
+SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T200000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T225000
+DTSTAMP;VALUE=DATE-TIME:20230729T190000Z
+UID:11662
+DESCRIPTION:Duration: 2h 29m (149 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00012766/sight-sound-top-10-2001-a-space-o
+ dyssey/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=018&txtSessionId=11662&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2742,18 +2620,6 @@ DESCRIPTION:Duration: 2h 30m (150 min)\nScreen Three\n\nAd and Trailer Fre
  etails/018/HO00012995/evolution-of-horror-don-t-look-now-panel/\nhttps://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&
  txtSessionId=12530&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T225000
-DTSTAMP;VALUE=DATE-TIME:20230729T190000Z
-UID:11662
-DESCRIPTION:Duration: 2h 29m (149 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00012766/sight-sound-top-10-2001-a-space-o
- dyssey/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=018&txtSessionId=11662&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
