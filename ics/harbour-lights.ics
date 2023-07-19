@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230717T071047Z
+LAST-MODIFIED;VALUE=DATE-TIME:20230719T072835Z
 NAME:Picture House Southampton - Harbour Lights
 X-WR-CALNAME:Picture House Southampton - Harbour Lights
+BEGIN:VEVENT
+SUMMARY:Smoking Causes Coughing
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T152000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T170000
+DTSTAMP;VALUE=DATE-TIME:20230720T142000Z
+UID:25033
+DESCRIPTION:Duration: 1h 17m (77 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/017/HO00013103/smoking-causes-coughing/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txt
+ SessionId=25033&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dog-Friendly Screening: Barbie
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230806T110000
@@ -14,21 +26,6 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/017/HO00013237/dog-friendly-screening-barbie/\nhttps
  ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
  017&txtSessionId=24913&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:YÖRGOSBORD: The Favourite
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230730T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230730T135000
-DTSTAMP;VALUE=DATE-TIME:20230730T103000Z
-UID:24974
-DESCRIPTION:Duration: 1h 59m (119 min)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/017/HO00013232/yorgosbord-the-favourite/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=2
- 4974&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -219,10 +216,11 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230726T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230726T152000
 DTSTAMP;VALUE=DATE-TIME:20230726T110000Z
 UID:24840
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=2
- 4840&visLang=1
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/017/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=017&txtSessionId=24840&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -301,15 +299,18 @@ DESCRIPTION:Duration: 2h 01m (121 min)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230805T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230805T145000
-DTSTAMP;VALUE=DATE-TIME:20230805T110000Z
-UID:23847
-DESCRIPTION:Duration: 2h 29m (149 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00012766/sight-sound-top-10-2001-a-space-odyss
- ey/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=017&txtSessionId=23847&visLang=1
+SUMMARY:YÖRGOSBORD: The Favourite
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230730T113000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230730T135000
+DTSTAMP;VALUE=DATE-TIME:20230730T103000Z
+UID:24974
+DESCRIPTION:Duration: 1h 59m (119 min)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/017/HO00013232/yorgosbord-the-favourite/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=2
+ 4974&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -616,54 +617,6 @@ LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T150500
-DTSTAMP;VALUE=DATE-TIME:20230717T120000Z
-UID:25004
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId
- =25004&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T200500
-DTSTAMP;VALUE=DATE-TIME:20230717T170000Z
-UID:25005
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId
- =25005&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T130500
-DTSTAMP;VALUE=DATE-TIME:20230718T100000Z
-UID:25021
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId
- =25021&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T180000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T200500
-DTSTAMP;VALUE=DATE-TIME:20230718T170000Z
-UID:25019
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId
- =25019&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Asteroid City
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T140500
 DTSTAMP;VALUE=DATE-TIME:20230719T110000Z
@@ -693,7 +646,7 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T124500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T145000
 DTSTAMP;VALUE=DATE-TIME:20230720T114500Z
 UID:25032
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/017/HO00012945/asteroid-city/\nhttps://ticketing.pic
  turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId
  =25032&visLang=1
@@ -712,51 +665,53 @@ DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T162500
-DTSTAMP;VALUE=DATE-TIME:20230717T123000Z
-UID:25003
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=017&txtSessionId=25003&visLang=1
+SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230805T120000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230805T145000
+DTSTAMP;VALUE=DATE-TIME:20230805T110000Z
+UID:23847
+DESCRIPTION:Duration: 2h 29m (149 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/017/HO00012766/sight-sound-top-10-2001-a-space-odyss
+ ey/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=017&txtSessionId=23847&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T171000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T200500
-DTSTAMP;VALUE=DATE-TIME:20230717T161000Z
-UID:25001
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=017&txtSessionId=25001&visLang=1
+SUMMARY:Squaring the Circle (the story of hipgnosis)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230719T125000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230719T145500
+DTSTAMP;VALUE=DATE-TIME:20230719T115000Z
+UID:25026
+DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/017/HO00013236/squaring-the-circle-the-story-of-hipg
+ nosis/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=017&txtSessionId=25026&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T185500
-DTSTAMP;VALUE=DATE-TIME:20230718T150000Z
-UID:25017
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=017&txtSessionId=25017&visLang=1
+SUMMARY:Squaring the Circle (the story of hipgnosis)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T174000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T194500
+DTSTAMP;VALUE=DATE-TIME:20230720T164000Z
+UID:25034
+DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/017/HO00013236/squaring-the-circle-the-story-of-hipg
+ nosis/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=017&txtSessionId=25034&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Indiana Jones and the Dial of Destiny
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T222500
-DTSTAMP;VALUE=DATE-TIME:20230718T183000Z
-UID:25018
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00013128/indiana-jones-and-the-dial-of-destiny
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=017&txtSessionId=25018&visLang=1
+SUMMARY:Squaring the Circle (the story of hipgnosis)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T154500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T175000
+DTSTAMP;VALUE=DATE-TIME:20230725T144500Z
+UID:24854
+DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 2\n\nDiscover: Discover stu
+ nning cinema. Each week\, the Picturehouse film team champion one must-see
+  film.\n\nhttps://www.picturehouses.com/movie-details/017/HO00013236/squar
+ ing-the-circle-the-story-of-hipgnosis/\nhttps://ticketing.picturehouses.co
+ m/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=24854&visLan
+ g=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -789,7 +744,7 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T135500
 DTSTAMP;VALUE=DATE-TIME:20230720T100000Z
 UID:25030
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/017/HO00013128/indiana-jones-and-the-dial-of-destiny
  /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
  emacode=017&txtSessionId=25030&visLang=1
@@ -801,7 +756,7 @@ DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T143000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T172500
 DTSTAMP;VALUE=DATE-TIME:20230720T133000Z
 UID:25028
-DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 1\n\nhttps://www.picturehou
+DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/017/HO00013128/indiana-jones-and-the-dial-of-destiny
  /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
  emacode=017&txtSessionId=25028&visLang=1
@@ -863,33 +818,6 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Squaring the Circle (the story of hipgnosis)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T173000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T193500
-DTSTAMP;VALUE=DATE-TIME:20230720T163000Z
-UID:25034
-DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00013236/squaring-the-circle-the-story-of-hipg
- nosis/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=017&txtSessionId=25034&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231209T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231209T203000
-DTSTAMP;VALUE=DATE-TIME:20231209T175500Z
-UID:24649
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=017&txtSessionId=24649&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231118T175500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231118T212000
@@ -902,6 +830,21 @@ DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
  e-details/017/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
  \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
  macode=017&txtSessionId=24648&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240511T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240511T211000
+DTSTAMP;VALUE=DATE-TIME:20240511T165500Z
+UID:24655
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/017/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&t
+ xtSessionId=24655&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -935,18 +878,18 @@ DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240127T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240127T214000
-DTSTAMP;VALUE=DATE-TIME:20240127T175500Z
-UID:24651
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nAd and Trailer Free: N
+SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231209T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231209T203000
+DTSTAMP;VALUE=DATE-TIME:20231209T175500Z
+UID:24649
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
- d=24651&visLang=1
+ e-details/017/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=017&txtSessionId=24649&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -965,18 +908,18 @@ DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240511T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240511T211000
-DTSTAMP;VALUE=DATE-TIME:20240511T165500Z
-UID:24655
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+SUMMARY:Met Opera Live: Carmen (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240127T175500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240127T214000
+DTSTAMP;VALUE=DATE-TIME:20240127T175500Z
+UID:24651
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&t
- xtSessionId=24655&visLang=1
+ e-details/017/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
+ d=24651&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1016,21 +959,6 @@ DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Rusalka (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240124T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240124T223000
-DTSTAMP;VALUE=DATE-TIME:20240124T184500Z
-UID:24459
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=244
- 59&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: Carmen (2024)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240501T184500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240501T223000
@@ -1046,16 +974,18 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Metallica: M72 World Tour Live from Arlington\, TX #2
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230821T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230821T220500
-DTSTAMP;VALUE=DATE-TIME:20230821T180000Z
-UID:24537
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nLive via Satellite: Th
- is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
- turehouses.com/movie-details/017/HO00013153/metallica-m72-world-tour-live-
- from-arlington-tx-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=017&txtSessionId=24537&visLang=1
+SUMMARY:ROH Live: Rusalka (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240124T184500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240124T223000
+DTSTAMP;VALUE=DATE-TIME:20240124T184500Z
+UID:24459
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/017/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=244
+ 59&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1072,18 +1002,16 @@ DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nLive via Satellite: Th
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240611T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240611T223000
-DTSTAMP;VALUE=DATE-TIME:20240611T181500Z
-UID:24467
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessio
- nId=24467&visLang=1
+SUMMARY:Metallica: M72 World Tour Live from Arlington\, TX #2
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230821T190000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230821T220500
+DTSTAMP;VALUE=DATE-TIME:20230821T180000Z
+UID:24537
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nLive via Satellite: Th
+ is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
+ turehouses.com/movie-details/017/HO00013153/metallica-m72-world-tour-live-
+ from-arlington-tx-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSel
+ ectTickets.aspx?cinemacode=017&txtSessionId=24537&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1099,6 +1027,21 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
  e-details/017/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
  rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=2
  4463&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Don Quixote (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231107T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231107T223500
+DTSTAMP;VALUE=DATE-TIME:20231107T191500Z
+UID:24457
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/017/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId
+ =24457&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1147,21 +1090,6 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Manon (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240207T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240207T223000
-DTSTAMP;VALUE=DATE-TIME:20240207T191500Z
-UID:24460
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=24460
- &visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: Madama Butterfly (2024)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240326T191500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240326T223000
@@ -1177,33 +1105,33 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Das Rheingold (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230920T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230920T220000
-DTSTAMP;VALUE=DATE-TIME:20230920T181500Z
-UID:24455
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
+SUMMARY:ROH Live: Manon (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240207T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240207T223000
+DTSTAMP;VALUE=DATE-TIME:20240207T191500Z
+UID:24460
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSession
- Id=24455&visLang=1
+ e-details/017/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=24460
+ &visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Don Quixote (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231107T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231107T223500
-DTSTAMP;VALUE=DATE-TIME:20231107T191500Z
-UID:24457
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+SUMMARY:ROH Live: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240611T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240611T223000
+DTSTAMP;VALUE=DATE-TIME:20240611T181500Z
+UID:24467
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId
- =24457&visLang=1
+ e-details/017/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessio
+ nId=24467&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1222,6 +1150,21 @@ DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: Das Rheingold (2023)
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230920T191500
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230920T220000
+DTSTAMP;VALUE=DATE-TIME:20230920T181500Z
+UID:24455
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/017/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSession
+ Id=24455&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Message in a Bottle
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T192000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T204500
@@ -1233,6 +1176,30 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 1\n\nAd and Trailer Free: No
  s/017/HO00013042/message-in-a-bottle/\nhttps://ticketing.picturehouses.com
  /Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=24466&visLang
  =1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly on the Lake
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230907T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230907T220000
+DTSTAMP;VALUE=DATE-TIME:20230907T183000Z
+UID:25063
+DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/017/HO00013306/madama-butterfly-on-the-lake/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 17&txtSessionId=25063&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Turandot - Arena Di Verona
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230817T193000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230817T221000
+DTSTAMP;VALUE=DATE-TIME:20230817T183000Z
+UID:25062
+DESCRIPTION:Duration: 2h 19m (139 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/017/HO00013305/turandot-arena-di-verona/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&t
+ xtSessionId=25062&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1284,32 +1251,6 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paris Memories
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T223500
-DTSTAMP;VALUE=DATE-TIME:20230718T193000Z
-UID:24972
-DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 2\n\nDiscover: Discover stu
- nning cinema. Each week\, the Picturehouse film team champion one must-see
-  film.\n\nPreview: A special preview screening of this film. See it before
-  anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-det
- ails/017/HO00013234/paris-memories/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=24972&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harbour Highlights: Police Story
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T222500
-DTSTAMP;VALUE=DATE-TIME:20230720T193000Z
-UID:24851
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/017/HO00013224/harbour-highlights-police-story/\nhttp
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =017&txtSessionId=24851&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Debutante: Blue Jean
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230810T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230810T223000
@@ -1340,6 +1281,30 @@ DESCRIPTION:Duration: 1h 42m (102 min)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Harbour Highlights: Little Shop of Horrors
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230921T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230921T223500
+DTSTAMP;VALUE=DATE-TIME:20230921T193000Z
+UID:25061
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/017/HO00013299/harbour-highlights-little-shop-of-hor
+ rors/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=017&txtSessionId=25061&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harbour Highlights: Police Story
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230720T203000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230720T222500
+DTSTAMP;VALUE=DATE-TIME:20230720T193000Z
+UID:24851
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/017/HO00013224/harbour-highlights-police-story/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =017&txtSessionId=24851&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Debutante: Rye Lane
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230824T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230824T221500
@@ -1355,21 +1320,6 @@ DESCRIPTION:Duration: 1h 22m (82 min)\nScreen 2\n\nreDiscover: Time to bro
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:YÖRGOSBORD: Dogtooth
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T222500
-DTSTAMP;VALUE=DATE-TIME:20230717T193000Z
-UID:24973
-DESCRIPTION:Duration: 1h 34m (94 min)\nScreen 2\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/017/HO00013229/yorgosbord-dogtooth/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=24973&v
- isLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dress Up Screening: Barbie
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230721T203000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230721T224500
@@ -1379,42 +1329,6 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/017/HO00013230/dress-up-screening-barbie/\nhttps://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&
  txtSessionId=24853&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost in the Stars
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230717T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230717T225500
-DTSTAMP;VALUE=DATE-TIME:20230717T193000Z
-UID:25058
-DESCRIPTION:Duration: 2h 01m (121 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00013288/lost-in-the-stars/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessi
- onId=25058&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost in the Stars
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230718T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230718T145500
-DTSTAMP;VALUE=DATE-TIME:20230718T113000Z
-UID:25057
-DESCRIPTION:Duration: 2h 01m (121 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00013288/lost-in-the-stars/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessi
- onId=25057&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harbour Highlights: Little Shop of Horrors
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230921T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230921T223500
-DTSTAMP;VALUE=DATE-TIME:20230921T193000Z
-UID:25061
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00013299/harbour-highlights-little-shop-of-hor
- rors/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=017&txtSessionId=25061&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 END:VCALENDAR
