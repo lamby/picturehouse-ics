@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED;VALUE=DATE-TIME:20230722T073047Z
+LAST-MODIFIED:20230723T080325Z
 NAME:Picture House Brighton - Duke of York's
 X-WR-CALNAME:Picture House Brighton - Duke of York's
 BEGIN:VEVENT
 SUMMARY:Dog-Friendly Screening: Barbie
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230730T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230730T121500
-DTSTAMP;VALUE=DATE-TIME:20230730T090000Z
+DTSTART;TZID=Europe/London:20230730T100000
+DTEND;TZID=Europe/London:20230730T121500
+DTSTAMP:20230730T090000Z
 UID:14674
 DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013237/dog-friendly-screening-barbie/\nhttps
@@ -17,24 +17,10 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: The Nutcracker (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231215T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231215T134500
-DTSTAMP;VALUE=DATE-TIME:20231215T110000Z
-UID:14386
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/008/HO00013111/roh-encore-the-nutcracker-2023/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=1
- 4386&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Encore: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240329T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240329T141500
-DTSTAMP;VALUE=DATE-TIME:20240329T110000Z
+DTSTART;TZID=Europe/London:20240329T110000
+DTEND;TZID=Europe/London:20240329T141500
+DTSTAMP:20240329T110000Z
 UID:14392
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -46,21 +32,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T111000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T143000
-DTSTAMP;VALUE=DATE-TIME:20230722T101000Z
-UID:14748
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/008/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=1
- 4748&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230724T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230724T142000
-DTSTAMP;VALUE=DATE-TIME:20230724T100000Z
+DTSTART;TZID=Europe/London:20230724T110000
+DTEND;TZID=Europe/London:20230724T142000
+DTSTAMP:20230724T100000Z
 UID:14659
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013205/oppenheimer/\nhttps://ticketing.pictu
@@ -70,9 +44,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T142000
-DTSTAMP;VALUE=DATE-TIME:20230725T100000Z
+DTSTART;TZID=Europe/London:20230725T110000
+DTEND;TZID=Europe/London:20230725T142000
+DTSTAMP:20230725T100000Z
 UID:14657
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nSubtitled (Captioned):
   Everyone welcome. This screening has subtitles for people with hearing lo
@@ -83,9 +57,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230727T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230727T142000
-DTSTAMP;VALUE=DATE-TIME:20230727T100000Z
+DTSTART;TZID=Europe/London:20230727T110000
+DTEND;TZID=Europe/London:20230727T142000
+DTSTAMP:20230727T100000Z
 UID:14658
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013205/oppenheimer/\nhttps://ticketing.pictu
@@ -94,10 +68,24 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Encore: The Nutcracker (2023)
+DTSTART;TZID=Europe/London:20231215T110000
+DTEND;TZID=Europe/London:20231215T134500
+DTSTAMP:20231215T110000Z
+UID:14386
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/008/HO00013111/roh-encore-the-nutcracker-2023/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=1
+ 4386&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:YÖRGOSBORD: The Killing Of A Sacred Deer
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T142500
-DTSTAMP;VALUE=DATE-TIME:20230723T110000Z
+DTSTART;TZID=Europe/London:20230723T120000
+DTEND;TZID=Europe/London:20230723T142500
+DTSTAMP:20230723T110000Z
 UID:14682
 DESCRIPTION:Duration: 2h 01m (121 min)\nScreen 1\n\nreDiscover: Time to br
  oaden your cinematic horizons: you'll find the best of what's next with Di
@@ -110,9 +98,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:YÖRGOSBORD: The Favourite
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230730T124000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230730T150000
-DTSTAMP;VALUE=DATE-TIME:20230730T114000Z
+DTSTART;TZID=Europe/London:20230730T124000
+DTEND;TZID=Europe/London:20230730T150000
+DTSTAMP:20230730T114000Z
 UID:14681
 DESCRIPTION:Duration: 1h 59m (119 min)\nScreen 1\n\nreDiscover: Time to br
  oaden your cinematic horizons: you'll find the best of what's next with Di
@@ -124,25 +112,10 @@ DESCRIPTION:Duration: 1h 59m (119 min)\nScreen 1\n\nreDiscover: Time to br
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Debutante: Blue Jean
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230806T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230806T144500
-DTSTAMP;VALUE=DATE-TIME:20230806T114500Z
-UID:14719
-DESCRIPTION:Duration: 1h 37m (97 min)\nScreen 1\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/008/HO00013253/debutante-blue-jean/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=14719&v
- isLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Debutante: Aftersun
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230813T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230813T145000
-DTSTAMP;VALUE=DATE-TIME:20230813T114500Z
+DTSTART;TZID=Europe/London:20230813T124500
+DTEND;TZID=Europe/London:20230813T145000
+DTSTAMP:20230813T114500Z
 UID:14725
 DESCRIPTION:Duration: 1h 42m (102 min)\nScreen 1\n\nreDiscover: Time to br
  oaden your cinematic horizons: you'll find the best of what's next with Di
@@ -155,9 +128,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Debutante: Rye Lane
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230820T124500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230820T143000
-DTSTAMP;VALUE=DATE-TIME:20230820T114500Z
+DTSTART;TZID=Europe/London:20230820T124500
+DTEND;TZID=Europe/London:20230820T143000
+DTSTAMP:20230820T114500Z
 UID:14726
 DESCRIPTION:Duration: 1h 22m (82 min)\nScreen 1\n\nreDiscover: Time to bro
  aden your cinematic horizons: you'll find the best of what's next with Dis
@@ -169,90 +142,25 @@ DESCRIPTION:Duration: 1h 22m (82 min)\nScreen 1\n\nreDiscover: Time to bro
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231010T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231010T164000
-DTSTAMP;VALUE=DATE-TIME:20231010T120000Z
-UID:14382
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/008/HO00013109/roh-encore-l-elisir-d-amore-2023/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=008&txtSessionId=14382&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Das Rheingold (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230926T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230926T154500
-DTSTAMP;VALUE=DATE-TIME:20230926T120000Z
-UID:14380
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/008/HO00013108/roh-encore-das-rheingold-2023/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=14
- 380&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Macmillan Triple (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240416T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240416T161500
-DTSTAMP;VALUE=DATE-TIME:20240416T120000Z
-UID:14394
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/008/HO00013115/roh-encore-macmillan-triple-2024/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId
- =14394&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Don Quixote (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231114T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231114T162000
-DTSTAMP;VALUE=DATE-TIME:20231114T130000Z
-UID:14384
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/008/HO00013110/roh-encore-don-quixote-2023/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=1438
- 4&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T155000
-DTSTAMP;VALUE=DATE-TIME:20230729T120000Z
-UID:13970
-DESCRIPTION:Duration: 2h 29m (149 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/008/HO00012766/sight-sound-top-10-2001-a-space-odyss
- ey/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=008&txtSessionId=13970&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240507T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240507T164500
-DTSTAMP;VALUE=DATE-TIME:20240507T120000Z
-UID:14398
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/008/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=14398&vis
- Lang=1
+SUMMARY:Debutante: Blue Jean
+DTSTART;TZID=Europe/London:20230806T124500
+DTEND;TZID=Europe/London:20230806T144500
+DTSTAMP:20230806T114500Z
+UID:14719
+DESCRIPTION:Duration: 1h 37m (97 min)\nScreen 1\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
+ details/008/HO00013253/debutante-blue-jean/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=14719&v
+ isLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240515T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240515T163500
-DTSTAMP;VALUE=DATE-TIME:20240515T120000Z
+DTSTART;TZID=Europe/London:20240515T130000
+DTEND;TZID=Europe/London:20240515T163500
+DTSTAMP:20240515T120000Z
 UID:14553
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013179/met-opera-encore-madama-butterfly-202
@@ -261,10 +169,23 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Encore: Manon (2024)
+DTSTART;TZID=Europe/London:20240213T130000
+DTEND;TZID=Europe/London:20240213T163500
+DTSTAMP:20240213T130000Z
+UID:14390
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nLive via Satellite: Th
+ is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
+ turehouses.com/movie-details/008/HO00013113/roh-encore-manon-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 08&txtSessionId=14390&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Encore: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240528T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240528T161500
-DTSTAMP;VALUE=DATE-TIME:20240528T120000Z
+DTSTART;TZID=Europe/London:20240528T130000
+DTEND;TZID=Europe/London:20240528T161500
+DTSTAMP:20240528T120000Z
 UID:14400
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -275,23 +196,22 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Manon (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240213T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240213T163500
-DTSTAMP;VALUE=DATE-TIME:20240213T130000Z
-UID:14390
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nLive via Satellite: Th
- is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
- turehouses.com/movie-details/008/HO00013113/roh-encore-manon-2024/\nhttps:
+SUMMARY:Carmen (2024)
+DTSTART;TZID=Europe/London:20240131T130000
+DTEND;TZID=Europe/London:20240131T170500
+DTSTAMP:20240131T130000Z
+UID:14555
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/008/HO00013175/met-opera-encore-carmen-2024/\nhttps:
  //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 08&txtSessionId=14390&visLang=1
+ 08&txtSessionId=14555&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Message in a Bottle (Encore)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240604T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240604T142500
-DTSTAMP;VALUE=DATE-TIME:20240604T120000Z
+DTSTART;TZID=Europe/London:20240604T130000
+DTEND;TZID=Europe/London:20240604T142500
+DTSTAMP:20240604T120000Z
 UID:14402
 DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 1\n\nAd and Trailer Free: No
   advertisements or trailers will play ahead of this screening. You are rec
@@ -302,22 +222,90 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 1\n\nAd and Trailer Free: No
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240131T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240131T170500
-DTSTAMP;VALUE=DATE-TIME:20240131T130000Z
-UID:14555
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/008/HO00013175/met-opera-encore-carmen-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 08&txtSessionId=14555&visLang=1
+SUMMARY:ROH Encore: Carmen (2024)
+DTSTART;TZID=Europe/London:20240507T130000
+DTEND;TZID=Europe/London:20240507T164500
+DTSTAMP:20240507T120000Z
+UID:14398
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/008/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=14398&vis
+ Lang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Macmillan Triple (2024)
+DTSTART;TZID=Europe/London:20240416T130000
+DTEND;TZID=Europe/London:20240416T161500
+DTSTAMP:20240416T120000Z
+UID:14394
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/008/HO00013115/roh-encore-macmillan-triple-2024/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId
+ =14394&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
+DTSTART;TZID=Europe/London:20230729T130000
+DTEND;TZID=Europe/London:20230729T155000
+DTSTAMP:20230729T120000Z
+UID:13970
+DESCRIPTION:Duration: 2h 29m (149 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/008/HO00012766/sight-sound-top-10-2001-a-space-odyss
+ ey/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=008&txtSessionId=13970&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London:20231010T130000
+DTEND;TZID=Europe/London:20231010T164000
+DTSTAMP:20231010T120000Z
+UID:14382
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/008/HO00013109/roh-encore-l-elisir-d-amore-2023/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=008&txtSessionId=14382&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Das Rheingold (2023)
+DTSTART;TZID=Europe/London:20230926T130000
+DTEND;TZID=Europe/London:20230926T154500
+DTSTAMP:20230926T120000Z
+UID:14380
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/008/HO00013108/roh-encore-das-rheingold-2023/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=14
+ 380&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Don Quixote (2023)
+DTSTART;TZID=Europe/London:20231114T130000
+DTEND;TZID=Europe/London:20231114T162000
+DTSTAMP:20231114T130000Z
+UID:14384
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/008/HO00013110/roh-encore-don-quixote-2023/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=1438
+ 4&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bambi
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230819T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230819T150000
-DTSTAMP;VALUE=DATE-TIME:20230819T123000Z
+DTSTART;TZID=Europe/London:20230819T133000
+DTEND;TZID=Europe/London:20230819T150000
+DTSTAMP:20230819T123000Z
 UID:14756
 DESCRIPTION:Duration: 1h 10m (70 min)\nScreen 1\n\nhttps://www.picturehous
  es.com/movie-details/008/HO00013267/bambi/\nhttps://ticketing.picturehouse
@@ -327,9 +315,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cinderella (1950)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230826T134500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230826T152000
-DTSTAMP;VALUE=DATE-TIME:20230826T124500Z
+DTSTART;TZID=Europe/London:20230826T134500
+DTEND;TZID=Europe/London:20230826T152000
+DTSTAMP:20230826T124500Z
 UID:14761
 DESCRIPTION:Duration: 1h 14m (74 min)\nScreen 1\n\nhttps://www.picturehous
  es.com/movie-details/008/HO00013268/cinderella-1950/\nhttps://ticketing.pi
@@ -339,33 +327,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T182000
-DTSTAMP;VALUE=DATE-TIME:20230722T140000Z
-UID:14672
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessio
- nId=14672&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230722T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230722T225000
-DTSTAMP;VALUE=DATE-TIME:20230722T183000Z
-UID:14673
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessio
- nId=14673&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T182000
-DTSTAMP;VALUE=DATE-TIME:20230723T140000Z
+DTSTART;TZID=Europe/London:20230723T150000
+DTEND;TZID=Europe/London:20230723T182000
+DTSTAMP:20230723T140000Z
 UID:14662
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
@@ -375,9 +339,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230723T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230723T223500
-DTSTAMP;VALUE=DATE-TIME:20230723T181500Z
+DTSTART;TZID=Europe/London:20230723T191500
+DTEND;TZID=Europe/London:20230723T223500
+DTSTAMP:20230723T181500Z
 UID:14663
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
@@ -387,9 +351,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230724T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230724T182000
-DTSTAMP;VALUE=DATE-TIME:20230724T140000Z
+DTSTART;TZID=Europe/London:20230724T150000
+DTEND;TZID=Europe/London:20230724T182000
+DTSTAMP:20230724T140000Z
 UID:14664
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
@@ -399,9 +363,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230724T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230724T223500
-DTSTAMP;VALUE=DATE-TIME:20230724T181500Z
+DTSTART;TZID=Europe/London:20230724T191500
+DTEND;TZID=Europe/London:20230724T223500
+DTSTAMP:20230724T181500Z
 UID:14665
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
@@ -411,9 +375,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T182000
-DTSTAMP;VALUE=DATE-TIME:20230725T140000Z
+DTSTART;TZID=Europe/London:20230725T150000
+DTEND;TZID=Europe/London:20230725T182000
+DTSTAMP:20230725T140000Z
 UID:14666
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
@@ -423,9 +387,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230725T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230725T223500
-DTSTAMP;VALUE=DATE-TIME:20230725T181500Z
+DTSTART;TZID=Europe/London:20230725T191500
+DTEND;TZID=Europe/London:20230725T223500
+DTSTAMP:20230725T181500Z
 UID:14667
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
@@ -435,9 +399,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230726T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230726T182000
-DTSTAMP;VALUE=DATE-TIME:20230726T140000Z
+DTSTART;TZID=Europe/London:20230726T150000
+DTEND;TZID=Europe/London:20230726T182000
+DTSTAMP:20230726T140000Z
 UID:14668
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
@@ -447,9 +411,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230726T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230726T223500
-DTSTAMP;VALUE=DATE-TIME:20230726T181500Z
+DTSTART;TZID=Europe/London:20230726T191500
+DTEND;TZID=Europe/London:20230726T223500
+DTSTAMP:20230726T181500Z
 UID:14669
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
@@ -459,9 +423,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230727T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230727T182000
-DTSTAMP;VALUE=DATE-TIME:20230727T140000Z
+DTSTART;TZID=Europe/London:20230727T150000
+DTEND;TZID=Europe/London:20230727T182000
+DTSTAMP:20230727T140000Z
 UID:14670
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
@@ -471,9 +435,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230727T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230727T223500
-DTSTAMP;VALUE=DATE-TIME:20230727T181500Z
+DTSTART;TZID=Europe/London:20230727T191500
+DTEND;TZID=Europe/London:20230727T223500
+DTSTAMP:20230727T181500Z
 UID:14671
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
@@ -483,9 +447,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230728T160000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230728T192000
-DTSTAMP;VALUE=DATE-TIME:20230728T150000Z
+DTSTART;TZID=Europe/London:20230728T160000
+DTEND;TZID=Europe/London:20230728T192000
+DTSTAMP:20230728T150000Z
 UID:14679
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\n35mm: Playing from a 3
  5mm print\n\nhttps://www.picturehouses.com/movie-details/008/HO00013222/op
@@ -495,9 +459,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230728T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230728T232000
-DTSTAMP;VALUE=DATE-TIME:20230728T190000Z
+DTSTART;TZID=Europe/London:20230728T200000
+DTEND;TZID=Europe/London:20230728T232000
+DTSTAMP:20230728T190000Z
 UID:14680
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\n35mm: Playing from a 3
  5mm print\n\nhttps://www.picturehouses.com/movie-details/008/HO00013222/op
@@ -507,9 +471,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T161500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T193500
-DTSTAMP;VALUE=DATE-TIME:20230729T151500Z
+DTSTART;TZID=Europe/London:20230729T161500
+DTEND;TZID=Europe/London:20230729T193500
+DTSTAMP:20230729T151500Z
 UID:14678
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\n35mm: Playing from a 3
  5mm print\n\nhttps://www.picturehouses.com/movie-details/008/HO00013222/op
@@ -519,9 +483,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230729T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230729T233500
-DTSTAMP;VALUE=DATE-TIME:20230729T191500Z
+DTSTART;TZID=Europe/London:20230729T201500
+DTEND;TZID=Europe/London:20230729T233500
+DTSTAMP:20230729T191500Z
 UID:14677
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\n35mm: Playing from a 3
  5mm print\n\nhttps://www.picturehouses.com/movie-details/008/HO00013222/op
@@ -531,9 +495,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230730T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230730T185000
-DTSTAMP;VALUE=DATE-TIME:20230730T143000Z
+DTSTART;TZID=Europe/London:20230730T153000
+DTEND;TZID=Europe/London:20230730T185000
+DTSTAMP:20230730T143000Z
 UID:14675
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\n35mm: Playing from a 3
  5mm print\n\nhttps://www.picturehouses.com/movie-details/008/HO00013222/op
@@ -543,9 +507,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230730T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230730T225000
-DTSTAMP;VALUE=DATE-TIME:20230730T183000Z
+DTSTART;TZID=Europe/London:20230730T193000
+DTEND;TZID=Europe/London:20230730T225000
+DTSTAMP:20230730T183000Z
 UID:14676
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\n35mm: Playing from a 3
  5mm print\n\nhttps://www.picturehouses.com/movie-details/008/HO00013222/op
@@ -555,9 +519,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Back to the Future Trilogy (35mm)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230924T153000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230924T214500
-DTSTAMP;VALUE=DATE-TIME:20230924T143000Z
+DTSTART;TZID=Europe/London:20230924T153000
+DTEND;TZID=Europe/London:20230924T214500
+DTSTAMP:20230924T143000Z
 UID:14585
 DESCRIPTION:Duration: 6h 12m (372 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -569,9 +533,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Met Opera Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240511T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240511T211000
-DTSTAMP;VALUE=DATE-TIME:20240511T165500Z
+DTSTART;TZID=Europe/London:20240511T175500
+DTEND;TZID=Europe/London:20240511T211000
+DTSTAMP:20240511T165500Z
 UID:14552
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -584,9 +548,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Met Opera Live: Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240127T175500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240127T214000
-DTSTAMP;VALUE=DATE-TIME:20240127T175500Z
+DTSTART;TZID=Europe/London:20240127T175500
+DTEND;TZID=Europe/London:20240127T214000
+DTSTAMP:20240127T175500Z
 UID:14551
 DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -598,25 +562,10 @@ DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Rusalka (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240124T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240124T223000
-DTSTAMP;VALUE=DATE-TIME:20240124T184500Z
-UID:14387
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/008/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=143
- 87&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: Carmen (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240501T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240501T223000
-DTSTAMP;VALUE=DATE-TIME:20240501T174500Z
+DTSTART;TZID=Europe/London:20240501T184500
+DTEND;TZID=Europe/London:20240501T223000
+DTSTAMP:20240501T174500Z
 UID:14397
 DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -628,40 +577,25 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Swan Lake (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240424T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240424T223500
-DTSTAMP;VALUE=DATE-TIME:20240424T181500Z
-UID:14395
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+SUMMARY:ROH Live: Rusalka (2024)
+DTSTART;TZID=Europe/London:20240124T184500
+DTEND;TZID=Europe/London:20240124T223000
+DTSTAMP:20240124T184500Z
+UID:14387
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/008/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=1
- 4395&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Nutcracker (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231212T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231212T220000
-DTSTAMP;VALUE=DATE-TIME:20231212T191500Z
-UID:14385
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/008/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessio
- nId=14385&visLang=1
+ e-details/008/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=143
+ 87&visLang=1
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROH Live: Don Quixote (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231107T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231107T223500
-DTSTAMP;VALUE=DATE-TIME:20231107T191500Z
+DTSTART;TZID=Europe/London:20231107T191500
+DTEND;TZID=Europe/London:20231107T223500
+DTSTAMP:20231107T191500Z
 UID:14383
 DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -673,85 +607,10 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20231005T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20231005T223500
-DTSTAMP;VALUE=DATE-TIME:20231005T181500Z
-UID:14381
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/008/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSess
- ionId=14381&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240326T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240326T223000
-DTSTAMP;VALUE=DATE-TIME:20240326T191500Z
-UID:14391
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/008/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSess
- ionId=14391&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Das Rheingold (2023)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230920T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230920T220000
-DTSTAMP;VALUE=DATE-TIME:20230920T181500Z
-UID:14379
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/008/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSession
- Id=14379&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240522T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240522T223000
-DTSTAMP;VALUE=DATE-TIME:20240522T181500Z
-UID:14399
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/008/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSes
- sionId=14399&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240611T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240611T223000
-DTSTAMP;VALUE=DATE-TIME:20240611T181500Z
-UID:14403
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/008/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessio
- nId=14403&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: MacMillan Triple (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240409T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240409T223000
-DTSTAMP;VALUE=DATE-TIME:20240409T181500Z
+DTSTART;TZID=Europe/London:20240409T191500
+DTEND;TZID=Europe/London:20240409T223000
+DTSTAMP:20240409T181500Z
 UID:14393
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -763,10 +622,70 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: The Nutcracker (2023)
+DTSTART;TZID=Europe/London:20231212T191500
+DTEND;TZID=Europe/London:20231212T220000
+DTSTAMP:20231212T191500Z
+UID:14385
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/008/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessio
+ nId=14385&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240522T191500
+DTEND;TZID=Europe/London:20240522T223000
+DTSTAMP:20240522T181500Z
+UID:14399
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/008/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSes
+ sionId=14399&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Das Rheingold (2023)
+DTSTART;TZID=Europe/London:20230920T191500
+DTEND;TZID=Europe/London:20230920T220000
+DTSTAMP:20230920T181500Z
+UID:14379
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/008/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSession
+ Id=14379&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240424T191500
+DTEND;TZID=Europe/London:20240424T223500
+DTSTAMP:20240424T181500Z
+UID:14395
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/008/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessionId=1
+ 4395&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Live: Manon (2024)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240207T191500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240207T223000
-DTSTAMP;VALUE=DATE-TIME:20240207T191500Z
+DTSTART;TZID=Europe/London:20240207T191500
+DTEND;TZID=Europe/London:20240207T223000
+DTSTAMP:20240207T191500Z
 UID:14389
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -778,10 +697,55 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London:20231005T191500
+DTEND;TZID=Europe/London:20231005T223500
+DTSTAMP:20231005T181500Z
+UID:14381
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/008/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSess
+ ionId=14381&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London:20240611T191500
+DTEND;TZID=Europe/London:20240611T223000
+DTSTAMP:20240611T181500Z
+UID:14403
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/008/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSessio
+ nId=14403&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240326T191500
+DTEND;TZID=Europe/London:20240326T223000
+DTSTAMP:20240326T191500Z
+UID:14391
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/008/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=008&txtSess
+ ionId=14391&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Message in a Bottle
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20240530T192000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20240530T204500
-DTSTAMP;VALUE=DATE-TIME:20240530T182000Z
+DTSTART;TZID=Europe/London:20240530T192000
+DTEND;TZID=Europe/London:20240530T204500
+DTSTAMP:20240530T182000Z
 UID:14401
 DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 1\n\nAd and Trailer Free: No
   advertisements or trailers will play ahead of this screening. You are rec
@@ -792,36 +756,10 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 1\n\nAd and Trailer Free: No
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outdoor: Pride
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230811T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230811T215000
-DTSTAMP;VALUE=DATE-TIME:20230811T183000Z
-UID:14302
-DESCRIPTION:Duration: 1h 59m (119 min)\nOutdoor Venue\n\nOut: Elevating an
- d celebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.
- \n\nhttps://www.picturehouses.com/movie-details/008/HO00013059/outdoor-pri
- de/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=008&txtSessionId=14302&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor: The Rocky Horror Picture Show
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230812T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230812T213000
-DTSTAMP;VALUE=DATE-TIME:20230812T183000Z
-UID:14303
-DESCRIPTION:Duration: 1h 40m (100 min)\nOutdoor Venue\n\nOut: Elevating an
- d celebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.
- \n\nhttps://www.picturehouses.com/movie-details/008/HO00011765/outdoor-the
- -rocky-horror-picture-show/\nhttps://ticketing.picturehouses.com/Ticketing
- /visSelectTickets.aspx?cinemacode=008&txtSessionId=14303&visLang=1
-LOCATION:Picture House Brighton - Duke of York's
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Outdoor: The Royal Tenenbaums
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230819T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230819T213500
-DTSTAMP;VALUE=DATE-TIME:20230819T183000Z
+DTSTART;TZID=Europe/London:20230819T193000
+DTEND;TZID=Europe/London:20230819T213500
+DTSTAMP:20230819T183000Z
 UID:14306
 DESCRIPTION:Duration: 1h 45m (105 min)\nOutdoor Venue\n\nhttps://www.pictu
  rehouses.com/movie-details/008/HO00013062/outdoor-the-royal-tenenbaums/\nh
@@ -831,9 +769,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Outdoor: Everything Everywhere All at Once
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230813T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230813T221000
-DTSTAMP;VALUE=DATE-TIME:20230813T183000Z
+DTSTART;TZID=Europe/London:20230813T193000
+DTEND;TZID=Europe/London:20230813T221000
+DTSTAMP:20230813T183000Z
 UID:14304
 DESCRIPTION:Duration: 2h 19m (139 min)\nOutdoor Venue\n\nOut: Elevating an
  d celebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.
@@ -843,10 +781,23 @@ DESCRIPTION:Duration: 2h 19m (139 min)\nOutdoor Venue\n\nOut: Elevating an
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outdoor: Pride
+DTSTART;TZID=Europe/London:20230811T193000
+DTEND;TZID=Europe/London:20230811T215000
+DTSTAMP:20230811T183000Z
+UID:14302
+DESCRIPTION:Duration: 1h 59m (119 min)\nOutdoor Venue\n\nOut: Elevating an
+ d celebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.
+ \n\nhttps://www.picturehouses.com/movie-details/008/HO00013059/outdoor-pri
+ de/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=008&txtSessionId=14302&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Outdoor: Fantastic Mr Fox (Dog-Friendly Screening)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230818T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230818T212000
-DTSTAMP;VALUE=DATE-TIME:20230818T183000Z
+DTSTART;TZID=Europe/London:20230818T193000
+DTEND;TZID=Europe/London:20230818T212000
+DTSTAMP:20230818T183000Z
 UID:14305
 DESCRIPTION:Duration: 1h 27m (87 min)\nOutdoor Venue\n\nhttps://www.pictur
  ehouses.com/movie-details/008/HO00013061/outdoor-fantastic-mr-fox-dog-frie
@@ -855,10 +806,23 @@ DESCRIPTION:Duration: 1h 27m (87 min)\nOutdoor Venue\n\nhttps://www.pictur
 LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Outdoor: The Rocky Horror Picture Show
+DTSTART;TZID=Europe/London:20230812T193000
+DTEND;TZID=Europe/London:20230812T213000
+DTSTAMP:20230812T183000Z
+UID:14303
+DESCRIPTION:Duration: 1h 40m (100 min)\nOutdoor Venue\n\nOut: Elevating an
+ d celebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.
+ \n\nhttps://www.picturehouses.com/movie-details/008/HO00011765/outdoor-the
+ -rocky-horror-picture-show/\nhttps://ticketing.picturehouses.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=008&txtSessionId=14303&visLang=1
+LOCATION:Picture House Brighton - Duke of York's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Outdoor: Asteroid City
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230820T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230820T213500
-DTSTAMP;VALUE=DATE-TIME:20230820T183000Z
+DTSTART;TZID=Europe/London:20230820T193000
+DTEND;TZID=Europe/London:20230820T213500
+DTSTAMP:20230820T183000Z
 UID:14307
 DESCRIPTION:Duration: 1h 45m (105 min)\nOutdoor Venue\n\nhttps://www.pictu
  rehouses.com/movie-details/008/HO00013063/outdoor-asteroid-city/\nhttps://
@@ -868,9 +832,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:On Our Doorstep +Q&A with Thomas Laurance & others
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230807T200000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230807T220500
-DTSTAMP;VALUE=DATE-TIME:20230807T190000Z
+DTSTART;TZID=Europe/London:20230807T200000
+DTEND;TZID=Europe/London:20230807T220500
+DTSTAMP:20230807T190000Z
 UID:14749
 DESCRIPTION:Duration: 2h 02m (122 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -883,9 +847,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:48 Hour Film Project Brighton Showcase
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230731T201500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230731T230500
-DTSTAMP;VALUE=DATE-TIME:20230731T191500Z
+DTSTART;TZID=Europe/London:20230731T201500
+DTEND;TZID=Europe/London:20230731T230500
+DTSTAMP:20230731T191500Z
 UID:13996
 DESCRIPTION:Duration: 2h 30m (150 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/008/HO00012656/48-hour-film-project-brighton-showcas
@@ -895,9 +859,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mutt + Panel
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230825T203000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230825T223000
-DTSTAMP;VALUE=DATE-TIME:20230825T193000Z
+DTSTART;TZID=Europe/London:20230825T203000
+DTEND;TZID=Europe/London:20230825T223000
+DTSTAMP:20230825T193000Z
 UID:14734
 DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -910,9 +874,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Soul Rebels
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230818T210000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230818T224500
-DTSTAMP;VALUE=DATE-TIME:20230818T200000Z
+DTSTART;TZID=Europe/London:20230818T210000
+DTEND;TZID=Europe/London:20230818T224500
+DTSTAMP:20230818T200000Z
 UID:14744
 DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
@@ -924,9 +888,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:But I'm a Cheerleader
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230811T213000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230811T230000
-DTSTAMP;VALUE=DATE-TIME:20230811T203000Z
+DTSTART;TZID=Europe/London:20230811T213000
+DTEND;TZID=Europe/London:20230811T230000
+DTSTAMP:20230811T203000Z
 UID:14733
 DESCRIPTION:Duration: 1h 29m (89 min)\nScreen 1\n\nAd and Trailer Free: No
   advertisements or trailers will play ahead of this screening. You are rec
@@ -938,9 +902,9 @@ LOCATION:Picture House Brighton - Duke of York's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke's After Dark: Heathers
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230826T230000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230827T004500
-DTSTAMP;VALUE=DATE-TIME:20230826T220000Z
+DTSTART;TZID=Europe/London:20230826T230000
+DTEND;TZID=Europe/London:20230827T004500
+DTSTAMP:20230826T220000Z
 UID:14737
 DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
