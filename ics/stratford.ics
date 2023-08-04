@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230803T072051Z
+LAST-MODIFIED:20230804T074720Z
 NAME:Picture House London - Stratford
 X-WR-CALNAME:Picture House London - Stratford
+BEGIN:VEVENT
+SUMMARY:La Rondine (2024)
+DTSTART;TZID=Europe/London:20240423T120000
+DTEND;TZID=Europe/London:20240423T151000
+DTSTAMP:20240423T110000Z
+UID:48854
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013178/met-opera-encore-la-rondine-2024/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=012&txtSessionId=48854&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROH Encore: Madama Butterfly (2024)
 DTSTART;TZID=Europe/London:20240402T120000
@@ -19,27 +31,15 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Rondine (2024)
-DTSTART;TZID=Europe/London:20240423T120000
-DTEND;TZID=Europe/London:20240423T151000
-DTSTAMP:20240423T110000Z
-UID:48854
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013178/met-opera-encore-la-rondine-2024/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=012&txtSessionId=48854&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:X: The Life and Times of Malcolm
-DTSTART;TZID=Europe/London:20231121T120000
-DTEND;TZID=Europe/London:20231121T154500
-DTSTAMP:20231121T120000Z
-UID:48842
-DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013172/met-opera-encore-x-the-life-and-times
- -of-malcolm/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=012&txtSessionId=48842&visLang=1
+SUMMARY:La Forza del Destino (2024)
+DTSTART;TZID=Europe/London:20240312T120000
+DTEND;TZID=Europe/London:20240312T164500
+DTSTAMP:20240312T120000Z
+UID:48850
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013176/met-opera-encore-la-forza-del-destino
+ -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=48850&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -55,30 +55,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London:20240326T120000
-DTEND;TZID=Europe/London:20240326T155500
-DTSTAMP:20240326T120000Z
-UID:48852
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013177/met-opera-encore-romeo-et-juliette-20
- 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=012&txtSessionId=48852&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Forza del Destino (2024)
-DTSTART;TZID=Europe/London:20240312T120000
-DTEND;TZID=Europe/London:20240312T164500
-DTSTAMP:20240312T120000Z
-UID:48850
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013176/met-opera-encore-la-forza-del-destino
- -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=48850&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carmen (2024)
 DTSTART;TZID=Europe/London:20240130T120000
 DTEND;TZID=Europe/London:20240130T160500
@@ -88,18 +64,6 @@ DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013175/met-opera-encore-carmen-2024/\nhttps:
  //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
  12&txtSessionId=48848&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London:20231212T120000
-DTEND;TZID=Europe/London:20231212T145500
-DTSTAMP:20231212T120000Z
-UID:48844
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013173/met-opera-encore-florencia-en-el-amaz
- onas-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=012&txtSessionId=48844&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -115,30 +79,27 @@ DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Debutante: Blue Jean
-DTSTART;TZID=Europe/London:20230806T120000
-DTEND;TZID=Europe/London:20230806T140000
-DTSTAMP:20230806T110000Z
-UID:49292
-DESCRIPTION:Duration: 1h 37m (97 min)\nScreen 2\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/012/HO00013253/debutante-blue-jean/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49292&v
- isLang=1
+SUMMARY:Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London:20231212T120000
+DTEND;TZID=Europe/London:20231212T145500
+DTSTAMP:20231212T120000Z
+UID:48844
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013173/met-opera-encore-florencia-en-el-amaz
+ onas-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=012&txtSessionId=48844&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dead Man Walking (2023)
-DTSTART;TZID=Europe/London:20231024T120000
-DTEND;TZID=Europe/London:20231024T153500
-DTSTAMP:20231024T110000Z
-UID:48840
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013171/met-opera-encore-dead-man-walking-202
- 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=012&txtSessionId=48840&visLang=1
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London:20240326T120000
+DTEND;TZID=Europe/London:20240326T155500
+DTSTAMP:20240326T120000Z
+UID:48852
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013177/met-opera-encore-romeo-et-juliette-20
+ 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=012&txtSessionId=48852&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -156,75 +117,42 @@ DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230803T134500
-DTEND;TZID=Europe/London:20230803T160000
-DTSTAMP:20230803T124500Z
-UID:49507
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49507&
- visLang=1
+SUMMARY:X: The Life and Times of Malcolm
+DTSTART;TZID=Europe/London:20231121T120000
+DTEND;TZID=Europe/London:20231121T154500
+DTSTAMP:20231121T120000Z
+UID:48842
+DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013172/met-opera-encore-x-the-life-and-times
+ -of-malcolm/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=012&txtSessionId=48842&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230803T144500
-DTEND;TZID=Europe/London:20230803T170000
-DTSTAMP:20230803T134500Z
-UID:49512
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49512&
- visLang=1
+SUMMARY:Dead Man Walking (2023)
+DTSTART;TZID=Europe/London:20231024T120000
+DTEND;TZID=Europe/London:20231024T153500
+DTSTAMP:20231024T110000Z
+UID:48840
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013171/met-opera-encore-dead-man-walking-202
+ 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=012&txtSessionId=48840&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230803T163000
-DTEND;TZID=Europe/London:20230803T184500
-DTSTAMP:20230803T153000Z
-UID:49509
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49509&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230803T173000
-DTEND;TZID=Europe/London:20230803T194500
-DTSTAMP:20230803T163000Z
-UID:49504
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49504&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230803T191500
-DTEND;TZID=Europe/London:20230803T213000
-DTSTAMP:20230803T181500Z
-UID:49508
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49508&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230803T201500
-DTEND;TZID=Europe/London:20230803T223000
-DTSTAMP:20230803T191500Z
-UID:49506
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49506&
- visLang=1
+SUMMARY:Debutante: Blue Jean
+DTSTART;TZID=Europe/London:20230806T120000
+DTEND;TZID=Europe/London:20230806T140000
+DTSTAMP:20230806T110000Z
+UID:49292
+DESCRIPTION:Duration: 1h 37m (97 min)\nScreen 2\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
+ details/012/HO00013253/debutante-blue-jean/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49292&v
+ isLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -698,212 +626,6 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230803T141500
-DTEND;TZID=Europe/London:20230803T173500
-DTSTAMP:20230803T131500Z
-UID:49503
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9503&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230803T180000
-DTEND;TZID=Europe/London:20230803T212000
-DTSTAMP:20230803T170000Z
-UID:49510
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9510&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230803T190000
-DTEND;TZID=Europe/London:20230803T222000
-DTSTAMP:20230803T180000Z
-UID:49505
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9505&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230804T151500
-DTEND;TZID=Europe/London:20230804T183500
-DTSTAMP:20230804T141500Z
-UID:49519
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9519&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230804T190000
-DTEND;TZID=Europe/London:20230804T222000
-DTSTAMP:20230804T180000Z
-UID:49516
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9516&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230805T152000
-DTEND;TZID=Europe/London:20230805T184000
-DTSTAMP:20230805T142000Z
-UID:49551
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9551&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230805T191500
-DTEND;TZID=Europe/London:20230805T223500
-DTSTAMP:20230805T181500Z
-UID:49575
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9575&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230806T151500
-DTEND;TZID=Europe/London:20230806T183500
-DTSTAMP:20230806T141500Z
-UID:49552
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9552&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230806T190000
-DTEND;TZID=Europe/London:20230806T222000
-DTSTAMP:20230806T180000Z
-UID:49576
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013205/oppenhei
- mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=012&txtSessionId=49576&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230807T151500
-DTEND;TZID=Europe/London:20230807T183500
-DTSTAMP:20230807T141500Z
-UID:49553
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9553&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230807T190000
-DTEND;TZID=Europe/London:20230807T222000
-DTSTAMP:20230807T180000Z
-UID:49577
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9577&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230808T151500
-DTEND;TZID=Europe/London:20230808T183500
-DTSTAMP:20230808T141500Z
-UID:49554
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9554&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230808T190000
-DTEND;TZID=Europe/London:20230808T222000
-DTSTAMP:20230808T180000Z
-UID:49578
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9578&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230809T151500
-DTEND;TZID=Europe/London:20230809T183500
-DTSTAMP:20230809T141500Z
-UID:49555
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013205/oppenhei
- mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=012&txtSessionId=49555&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230809T190000
-DTEND;TZID=Europe/London:20230809T222000
-DTSTAMP:20230809T180000Z
-UID:49579
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9579&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230810T151500
-DTEND;TZID=Europe/London:20230810T183500
-DTSTAMP:20230810T141500Z
-UID:49556
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9556&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230810T190000
-DTEND;TZID=Europe/London:20230810T222000
-DTSTAMP:20230810T180000Z
-UID:49580
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9580&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
 DTSTART;TZID=Europe/London:20230804T143000
 DTEND;TZID=Europe/London:20230804T163000
@@ -1206,16 +928,173 @@ DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 2\n\nhttps://www.picturehous
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elemental
-DTSTART;TZID=Europe/London:20230803T162000
-DTEND;TZID=Europe/London:20230803T183000
-DTSTAMP:20230803T152000Z
-UID:49513
-DESCRIPTION:Duration: 1h 49m (109 min)\nScreen 3\n\nSubtitled (Captioned):
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230804T151500
+DTEND;TZID=Europe/London:20230804T183500
+DTSTAMP:20230804T141500Z
+UID:49519
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9519&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230804T190000
+DTEND;TZID=Europe/London:20230804T222000
+DTSTAMP:20230804T180000Z
+UID:49516
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9516&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230805T152000
+DTEND;TZID=Europe/London:20230805T184000
+DTSTAMP:20230805T142000Z
+UID:49551
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9551&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230805T191500
+DTEND;TZID=Europe/London:20230805T223500
+DTSTAMP:20230805T181500Z
+UID:49575
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9575&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230806T151500
+DTEND;TZID=Europe/London:20230806T183500
+DTSTAMP:20230806T141500Z
+UID:49552
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9552&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230806T190000
+DTEND;TZID=Europe/London:20230806T222000
+DTSTAMP:20230806T180000Z
+UID:49576
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nSubtitled (Captioned):
   Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013136/elementa
- l/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=012&txtSessionId=49513&visLang=1
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=012&txtSessionId=49576&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230807T151500
+DTEND;TZID=Europe/London:20230807T183500
+DTSTAMP:20230807T141500Z
+UID:49553
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9553&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230807T190000
+DTEND;TZID=Europe/London:20230807T222000
+DTSTAMP:20230807T180000Z
+UID:49577
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9577&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230808T151500
+DTEND;TZID=Europe/London:20230808T183500
+DTSTAMP:20230808T141500Z
+UID:49554
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9554&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230808T190000
+DTEND;TZID=Europe/London:20230808T222000
+DTSTAMP:20230808T180000Z
+UID:49578
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9578&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230809T151500
+DTEND;TZID=Europe/London:20230809T183500
+DTSTAMP:20230809T141500Z
+UID:49555
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=012&txtSessionId=49555&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230809T190000
+DTEND;TZID=Europe/London:20230809T222000
+DTSTAMP:20230809T180000Z
+UID:49579
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9579&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230810T151500
+DTEND;TZID=Europe/London:20230810T183500
+DTSTAMP:20230810T141500Z
+UID:49556
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9556&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230810T190000
+DTEND;TZID=Europe/London:20230810T222000
+DTSTAMP:20230810T180000Z
+UID:49580
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 9580&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1234,21 +1113,6 @@ DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Debutante: Aftersun
-DTSTART;TZID=Europe/London:20230813T170000
-DTEND;TZID=Europe/London:20230813T190500
-DTSTAMP:20230813T160000Z
-UID:49293
-DESCRIPTION:Duration: 1h 42m (102 min)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/012/HO00013262/debutante-aftersun/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49293&v
- isLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: La Forza del Destino (2024)
 DTSTART;TZID=Europe/London:20240309T170000
 DTEND;TZID=Europe/London:20240309T212500
@@ -1261,6 +1125,21 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nAd and Trailer Free: N
  e-details/012/HO00013166/met-opera-live-la-forza-del-destino-2024/\nhttps:
  //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
  12&txtSessionId=48849&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Debutante: Aftersun
+DTSTART;TZID=Europe/London:20230813T170000
+DTEND;TZID=Europe/London:20230813T190500
+DTSTAMP:20230813T160000Z
+UID:49293
+DESCRIPTION:Duration: 1h 42m (102 min)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/012/HO00013262/debutante-aftersun/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49293&v
+ isLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1290,51 +1169,6 @@ DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 1\n\nDiscover: Discover stun
  nnel-to-summer-the-exit-of-goodbyes/\nhttps://ticketing.picturehouses.com/
  Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49610&visLang=
  1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240511T175500
-DTEND;TZID=Europe/London:20240511T211000
-DTSTAMP:20240511T165500Z
-UID:48855
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48855&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: La Rondine (2024)
-DTSTART;TZID=Europe/London:20240420T175500
-DTEND;TZID=Europe/London:20240420T204500
-DTSTAMP:20240420T165500Z
-UID:48853
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
- ionId=48853&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
-DTSTART;TZID=Europe/London:20231118T175500
-DTEND;TZID=Europe/London:20231118T212000
-DTSTAMP:20231118T175500Z
-UID:48841
-DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=012&txtSessionId=48841&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1368,6 +1202,21 @@ DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Met Opera Live: Dead Man Walking (2023)
+DTSTART;TZID=Europe/London:20231021T175500
+DTEND;TZID=Europe/London:20231021T211000
+DTSTAMP:20231021T165500Z
+UID:48839
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013158/met-opera-live-dead-man-walking-2023/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
+ xtSessionId=48839&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Met Opera Live: Nabucco (2024)
 DTSTART;TZID=Europe/London:20240106T175500
 DTEND;TZID=Europe/London:20240106T210500
@@ -1383,18 +1232,48 @@ DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Dead Man Walking (2023)
-DTSTART;TZID=Europe/London:20231021T175500
-DTEND;TZID=Europe/London:20231021T211000
-DTSTAMP:20231021T165500Z
-UID:48839
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
+SUMMARY:Met Opera Live: La Rondine (2024)
+DTSTART;TZID=Europe/London:20240420T175500
+DTEND;TZID=Europe/London:20240420T204500
+DTSTAMP:20240420T165500Z
+UID:48853
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013158/met-opera-live-dead-man-walking-2023/\nhttps://ti
+ e-details/012/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
+ ionId=48853&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240511T175500
+DTEND;TZID=Europe/London:20240511T211000
+DTSTAMP:20240511T165500Z
+UID:48855
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
  cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48839&visLang=1
+ xtSessionId=48855&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
+DTSTART;TZID=Europe/London:20231118T175500
+DTEND;TZID=Europe/London:20231118T212000
+DTSTAMP:20231118T175500Z
+UID:48841
+DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=012&txtSessionId=48841&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1464,78 +1343,33 @@ DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Swan Lake (2024)
-DTSTART;TZID=Europe/London:20240424T191500
-DTEND;TZID=Europe/London:20240424T223500
-DTSTAMP:20240424T181500Z
-UID:48663
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 8663&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Manon (2024)
-DTSTART;TZID=Europe/London:20240207T191500
-DTEND;TZID=Europe/London:20240207T223000
-DTSTAMP:20240207T191500Z
-UID:48659
+SUMMARY:ROH Live: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240522T191500
+DTEND;TZID=Europe/London:20240522T223000
+DTSTAMP:20240522T181500Z
+UID:48665
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48659
- &visLang=1
+ e-details/012/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
+ sionId=48665&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London:20231005T191500
-DTEND;TZID=Europe/London:20231005T223500
-DTSTAMP:20231005T181500Z
-UID:48655
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
- ionId=48655&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: MacMillan Triple (2024)
-DTSTART;TZID=Europe/London:20240409T191500
-DTEND;TZID=Europe/London:20240409T223000
-DTSTAMP:20240409T181500Z
-UID:48662
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
- ionId=48662&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Das Rheingold (2023)
-DTSTART;TZID=Europe/London:20230920T191500
-DTEND;TZID=Europe/London:20230920T220000
-DTSTAMP:20230920T181500Z
-UID:48653
+SUMMARY:ROH Live: The Nutcracker (2023)
+DTSTART;TZID=Europe/London:20231212T191500
+DTEND;TZID=Europe/London:20231212T220000
+DTSTAMP:20231212T191500Z
+UID:48657
 DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
- Id=48653&visLang=1
+ e-details/012/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
+ nId=48657&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1554,18 +1388,33 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London:20240522T191500
-DTEND;TZID=Europe/London:20240522T223000
-DTSTAMP:20240522T181500Z
-UID:48665
+SUMMARY:ROH Live: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240424T191500
+DTEND;TZID=Europe/London:20240424T223500
+DTSTAMP:20240424T181500Z
+UID:48663
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
+ 8663&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: MacMillan Triple (2024)
+DTSTART;TZID=Europe/London:20240409T191500
+DTEND;TZID=Europe/London:20240409T223000
+DTSTAMP:20240409T181500Z
+UID:48662
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
- sionId=48665&visLang=1
+ e-details/012/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
+ ionId=48662&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1584,18 +1433,48 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: The Nutcracker (2023)
-DTSTART;TZID=Europe/London:20231212T191500
-DTEND;TZID=Europe/London:20231212T220000
-DTSTAMP:20231212T191500Z
-UID:48657
+SUMMARY:ROH Live: Das Rheingold (2023)
+DTSTART;TZID=Europe/London:20230920T191500
+DTEND;TZID=Europe/London:20230920T220000
+DTSTAMP:20230920T181500Z
+UID:48653
 DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
- nId=48657&visLang=1
+ e-details/012/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
+ Id=48653&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London:20231005T191500
+DTEND;TZID=Europe/London:20231005T223500
+DTSTAMP:20231005T181500Z
+UID:48655
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
+ ionId=48655&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Manon (2024)
+DTSTART;TZID=Europe/London:20240207T191500
+DTEND;TZID=Europe/London:20240207T223000
+DTSTAMP:20240207T191500Z
+UID:48659
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48659
+ &visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1625,6 +1504,20 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 2\n\nAd and Trailer Free: No
  s/012/HO00013042/message-in-a-bottle/\nhttps://ticketing.picturehouses.com
  /Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=48666&visLang
  =1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=Europe/London:20230905T193000
+DTEND;TZID=Europe/London:20230905T214000
+DTSTAMP:20230905T183000Z
+UID:49617
+DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 1\n\nDiscover: Discover stu
+ nning cinema. Each week\, the Picturehouse film team champion one must-see
+  film.\n\nPreview: A special preview screening of this film. See it before
+  anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-det
+ ails/012/HO00013106/past-lives/\nhttps://ticketing.picturehouses.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=012&txtSessionId=49617&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 END:VCALENDAR
