@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230804T074658Z
+LAST-MODIFIED:20230805T074549Z
 NAME:Picture House Exeter
 X-WR-CALNAME:Picture House Exeter
+BEGIN:VEVENT
+SUMMARY:Snow White and the Seven Dwarfs
+DTSTART;TZID=Europe/London:20230809T110000
+DTEND;TZID=Europe/London:20230809T125000
+DTSTAMP:20230809T100000Z
+UID:28006
+DESCRIPTION:Duration: 1h 27m (87 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/007/HO00013266/snow-white-and-the-seven-dwarfs/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =007&txtSessionId=28006&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Encanto
 DTSTART;TZID=Europe/London:20230830T110000
@@ -29,44 +41,6 @@ DESCRIPTION:Duration: 1h 49m (109 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Snow White and the Seven Dwarfs
-DTSTART;TZID=Europe/London:20230809T110000
-DTEND;TZID=Europe/London:20230809T125000
-DTSTAMP:20230809T100000Z
-UID:28006
-DESCRIPTION:Duration: 1h 27m (87 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/007/HO00013266/snow-white-and-the-seven-dwarfs/\nhttp
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =007&txtSessionId=28006&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nabucco (2024)
-DTSTART;TZID=Europe/London:20240110T120000
-DTEND;TZID=Europe/London:20240110T153000
-DTSTAMP:20240110T120000Z
-UID:27571
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013174/met-opera-encore-nabucco-2024/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 007&txtSessionId=27571&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: The Nutcracker (2023)
-DTSTART;TZID=Europe/London:20231219T120000
-DTEND;TZID=Europe/London:20231219T144500
-DTSTAMP:20231219T120000Z
-UID:27318
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/007/HO00013111/roh-encore-the-nutcracker-2023/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=2
- 7318&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Encore: Rusalka (2024)
 DTSTART;TZID=Europe/London:20240130T120000
 DTEND;TZID=Europe/London:20240130T154500
@@ -78,149 +52,6 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
  ls/007/HO00013112/roh-encore-rusalka-2024/\nhttps://ticketing.picturehouse
  s.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27320&vi
  sLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Macmillan Triple (2024)
-DTSTART;TZID=Europe/London:20240416T120000
-DTEND;TZID=Europe/London:20240416T151500
-DTSTAMP:20240416T110000Z
-UID:27326
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/007/HO00013115/roh-encore-macmillan-triple-2024/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId
- =27326&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carmen (2024)
-DTSTART;TZID=Europe/London:20240131T120000
-DTEND;TZID=Europe/London:20240131T160500
-DTSTAMP:20240131T120000Z
-UID:27573
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013175/met-opera-encore-carmen-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 07&txtSessionId=27573&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Manon (2024)
-DTSTART;TZID=Europe/London:20240213T120000
-DTEND;TZID=Europe/London:20240213T153500
-DTSTAMP:20240213T120000Z
-UID:27322
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nLive via Satellite: Th
- is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
- turehouses.com/movie-details/007/HO00013113/roh-encore-manon-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 07&txtSessionId=27322&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Forza del Destino (2024)
-DTSTART;TZID=Europe/London:20240312T120000
-DTEND;TZID=Europe/London:20240312T164500
-DTSTAMP:20240312T120000Z
-UID:27575
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013176/met-opera-encore-la-forza-del-destino
- -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=007&txtSessionId=27575&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London:20240327T120000
-DTEND;TZID=Europe/London:20240327T155500
-DTSTAMP:20240327T120000Z
-UID:27577
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013177/met-opera-encore-romeo-et-juliette-20
- 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=007&txtSessionId=27577&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240402T120000
-DTEND;TZID=Europe/London:20240402T151500
-DTSTAMP:20240402T110000Z
-UID:27324
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/007/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId
- =27324&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Rondine (2024)
-DTSTART;TZID=Europe/London:20240424T120000
-DTEND;TZID=Europe/London:20240424T151000
-DTSTAMP:20240424T110000Z
-UID:27579
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013178/met-opera-encore-la-rondine-2024/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=007&txtSessionId=27579&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Swan Lake (2024)
-DTSTART;TZID=Europe/London:20240430T120000
-DTEND;TZID=Europe/London:20240430T152000
-DTSTAMP:20240430T110000Z
-UID:27328
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/007/HO00013116/roh-encore-swan-lake-2024/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27328&
- visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Carmen (2024)
-DTSTART;TZID=Europe/London:20240507T120000
-DTEND;TZID=Europe/London:20240507T154500
-DTSTAMP:20240507T110000Z
-UID:27330
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/007/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27330&vis
- Lang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240515T120000
-DTEND;TZID=Europe/London:20240515T153500
-DTSTAMP:20240515T110000Z
-UID:27581
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013179/met-opera-encore-madama-butterfly-202
- 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=007&txtSessionId=27581&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London:20240528T120000
-DTEND;TZID=Europe/London:20240528T151500
-DTSTAMP:20240528T110000Z
-UID:27332
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/007/HO00013118/roh-encore-the-winter-s-tale-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionI
- d=27332&visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -250,6 +81,175 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Encore: The Nutcracker (2023)
+DTSTART;TZID=Europe/London:20231219T120000
+DTEND;TZID=Europe/London:20231219T144500
+DTSTAMP:20231219T120000Z
+UID:27318
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/007/HO00013111/roh-encore-the-nutcracker-2023/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=2
+ 7318&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nabucco (2024)
+DTSTART;TZID=Europe/London:20240110T120000
+DTEND;TZID=Europe/London:20240110T153000
+DTSTAMP:20240110T120000Z
+UID:27571
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00013174/met-opera-encore-nabucco-2024/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 007&txtSessionId=27571&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240430T120000
+DTEND;TZID=Europe/London:20240430T152000
+DTSTAMP:20240430T110000Z
+UID:27328
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/007/HO00013116/roh-encore-swan-lake-2024/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27328&
+ visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen (2024)
+DTSTART;TZID=Europe/London:20240131T120000
+DTEND;TZID=Europe/London:20240131T160500
+DTSTAMP:20240131T120000Z
+UID:27573
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00013175/met-opera-encore-carmen-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 07&txtSessionId=27573&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240528T120000
+DTEND;TZID=Europe/London:20240528T151500
+DTSTAMP:20240528T110000Z
+UID:27332
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/007/HO00013118/roh-encore-the-winter-s-tale-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionI
+ d=27332&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240402T120000
+DTEND;TZID=Europe/London:20240402T151500
+DTSTAMP:20240402T110000Z
+UID:27324
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/007/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId
+ =27324&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240515T120000
+DTEND;TZID=Europe/London:20240515T153500
+DTSTAMP:20240515T110000Z
+UID:27581
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00013179/met-opera-encore-madama-butterfly-202
+ 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=007&txtSessionId=27581&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Carmen (2024)
+DTSTART;TZID=Europe/London:20240507T120000
+DTEND;TZID=Europe/London:20240507T154500
+DTSTAMP:20240507T110000Z
+UID:27330
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/007/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27330&vis
+ Lang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Macmillan Triple (2024)
+DTSTART;TZID=Europe/London:20240416T120000
+DTEND;TZID=Europe/London:20240416T151500
+DTSTAMP:20240416T110000Z
+UID:27326
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/007/HO00013115/roh-encore-macmillan-triple-2024/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId
+ =27326&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Rondine (2024)
+DTSTART;TZID=Europe/London:20240424T120000
+DTEND;TZID=Europe/London:20240424T151000
+DTSTAMP:20240424T110000Z
+UID:27579
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00013178/met-opera-encore-la-rondine-2024/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=007&txtSessionId=27579&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Forza del Destino (2024)
+DTSTART;TZID=Europe/London:20240312T120000
+DTEND;TZID=Europe/London:20240312T164500
+DTSTAMP:20240312T120000Z
+UID:27575
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00013176/met-opera-encore-la-forza-del-destino
+ -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=007&txtSessionId=27575&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London:20240327T120000
+DTEND;TZID=Europe/London:20240327T155500
+DTSTAMP:20240327T120000Z
+UID:27577
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00013177/met-opera-encore-romeo-et-juliette-20
+ 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=007&txtSessionId=27577&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Manon (2024)
+DTSTART;TZID=Europe/London:20240213T120000
+DTEND;TZID=Europe/London:20240213T153500
+DTSTAMP:20240213T120000Z
+UID:27322
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nLive via Satellite: Th
+ is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
+ turehouses.com/movie-details/007/HO00013113/roh-encore-manon-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 07&txtSessionId=27322&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Encore: Andrea Chenier (2024)
 DTSTART;TZID=Europe/London:20240618T120000
 DTEND;TZID=Europe/London:20240618T151500
@@ -276,18 +276,6 @@ DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dead Man Walking (2023)
-DTSTART;TZID=Europe/London:20231025T120000
-DTEND;TZID=Europe/London:20231025T153500
-DTSTAMP:20231025T110000Z
-UID:27565
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013171/met-opera-encore-dead-man-walking-202
- 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=007&txtSessionId=27565&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Encore: Don Quixote (2023)
 DTSTART;TZID=Europe/London:20231114T120000
 DTEND;TZID=Europe/London:20231114T152000
@@ -299,6 +287,18 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
  ls/007/HO00013110/roh-encore-don-quixote-2023/\nhttps://ticketing.pictureh
  ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=2731
  6&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead Man Walking (2023)
+DTSTART;TZID=Europe/London:20231025T120000
+DTEND;TZID=Europe/London:20231025T153500
+DTSTAMP:20231025T110000Z
+UID:27565
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00013171/met-opera-encore-dead-man-walking-202
+ 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=007&txtSessionId=27565&visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -325,42 +325,6 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/007/HO00013109/roh-encore-l-elisir-d-amore-2023/\nht
  tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
  de=007&txtSessionId=27314&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230804T124500
-DTEND;TZID=Europe/London:20230804T150000
-DTSTAMP:20230804T114500Z
-UID:27985
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27985&
- visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230804T172000
-DTEND;TZID=Europe/London:20230804T193500
-DTSTAMP:20230804T162000Z
-UID:27969
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27969&
- visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230804T200000
-DTEND;TZID=Europe/London:20230804T221500
-DTSTAMP:20230804T190000Z
-UID:27970
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27970&
- visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -594,42 +558,6 @@ LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230804T133000
-DTEND;TZID=Europe/London:20230804T165000
-DTSTAMP:20230804T123000Z
-UID:27986
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=2
- 7986&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230804T152000
-DTEND;TZID=Europe/London:20230804T184000
-DTSTAMP:20230804T142000Z
-UID:27984
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=2
- 7984&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230804T190000
-DTEND;TZID=Europe/London:20230804T222000
-DTSTAMP:20230804T180000Z
-UID:27968
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=2
- 7968&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
 DTSTART;TZID=Europe/London:20230805T134000
 DTEND;TZID=Europe/London:20230805T170000
 DTSTAMP:20230805T124000Z
@@ -798,6 +726,21 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Debutante: Blue Jean
+DTSTART;TZID=Europe/London:20230806T150000
+DTEND;TZID=Europe/London:20230806T170000
+DTSTAMP:20230806T140000Z
+UID:27857
+DESCRIPTION:Duration: 1h 37m (97 min)\nScreen 2\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
+ details/007/HO00013253/debutante-blue-jean/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27857&v
+ isLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Debutante: Aftersun
 DTSTART;TZID=Europe/London:20230813T150000
 DTEND;TZID=Europe/London:20230813T170500
@@ -825,21 +768,6 @@ DESCRIPTION:Duration: 1h 22m (82 min)\nScreen 2\n\nreDiscover: Time to bro
  details/007/HO00013260/debutante-rye-lane/\nhttps://ticketing.picturehouse
  s.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27859&vi
  sLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Debutante: Blue Jean
-DTSTART;TZID=Europe/London:20230806T150000
-DTEND;TZID=Europe/London:20230806T170000
-DTSTAMP:20230806T140000Z
-UID:27857
-DESCRIPTION:Duration: 1h 37m (97 min)\nScreen 2\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/007/HO00013253/debutante-blue-jean/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=27857&v
- isLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -873,51 +801,6 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London:20231209T175500
-DTEND;TZID=Europe/London:20231209T203000
-DTSTAMP:20231209T175500Z
-UID:27568
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=007&txtSessionId=27568&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Carmen (2024)
-DTSTART;TZID=Europe/London:20240127T175500
-DTEND;TZID=Europe/London:20240127T214000
-DTSTAMP:20240127T175500Z
-UID:27572
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionI
- d=27572&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Dead Man Walking (2023)
-DTSTART;TZID=Europe/London:20231021T175500
-DTEND;TZID=Europe/London:20231021T211000
-DTSTAMP:20231021T165500Z
-UID:27564
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013158/met-opera-live-dead-man-walking-2023/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&t
- xtSessionId=27564&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: Madama Butterfly (2024)
 DTSTART;TZID=Europe/London:20240511T175500
 DTEND;TZID=Europe/London:20240511T211000
@@ -930,21 +813,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  e-details/007/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
  cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&t
  xtSessionId=27580&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Nabucco (2024)
-DTSTART;TZID=Europe/London:20240106T175500
-DTEND;TZID=Europe/London:20240106T210500
-DTSTAMP:20240106T175500Z
-UID:27570
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSession
- Id=27570&visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -963,6 +831,21 @@ DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London:20231209T175500
+DTEND;TZID=Europe/London:20231209T203000
+DTSTAMP:20231209T175500Z
+UID:27568
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=007&txtSessionId=27568&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
 DTSTART;TZID=Europe/London:20231118T175500
 DTEND;TZID=Europe/London:20231118T212000
@@ -975,6 +858,65 @@ DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 1\n\nAd and Trailer Free: N
  e-details/007/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
  \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
  macode=007&txtSessionId=27566&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Dead Man Walking (2023)
+DTSTART;TZID=Europe/London:20231021T175500
+DTEND;TZID=Europe/London:20231021T211000
+DTSTAMP:20231021T165500Z
+UID:27564
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00013158/met-opera-live-dead-man-walking-2023/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&t
+ xtSessionId=27564&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Carmen (2024)
+DTSTART;TZID=Europe/London:20240127T175500
+DTEND;TZID=Europe/London:20240127T214000
+DTSTAMP:20240127T175500Z
+UID:27572
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionI
+ d=27572&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Nabucco (2024)
+DTSTART;TZID=Europe/London:20240106T175500
+DTEND;TZID=Europe/London:20240106T210500
+DTSTAMP:20240106T175500Z
+UID:27570
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSession
+ Id=27570&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Tunnel to Summer\, the Exit of Goodbyes
+DTSTART;TZID=Europe/London:20230808T180000
+DTEND;TZID=Europe/London:20230808T194500
+DTSTAMP:20230808T170000Z
+UID:28005
+DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 2\n\nDiscover: Discover stun
+ ning cinema. Each week\, the Picturehouse film team champion one must-see 
+ film.\n\nhttps://www.picturehouses.com/movie-details/007/HO00013190/the-tu
+ nnel-to-summer-the-exit-of-goodbyes/\nhttps://ticketing.picturehouses.com/
+ Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=28005&visLang=
+ 1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1016,20 +958,6 @@ DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Tunnel to Summer\, the Exit of Goodbyes
-DTSTART;TZID=Europe/London:20230808T180000
-DTEND;TZID=Europe/London:20230808T194500
-DTSTAMP:20230808T170000Z
-UID:28005
-DESCRIPTION:Duration: 1h 23m (83 min)\nScreen 2\n\nDiscover: Discover stun
- ning cinema. Each week\, the Picturehouse film team champion one must-see 
- film.\n\nhttps://www.picturehouses.com/movie-details/007/HO00013190/the-tu
- nnel-to-summer-the-exit-of-goodbyes/\nhttps://ticketing.picturehouses.com/
- Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=28005&visLang=
- 1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NT Live: Fleabag (Encore 2023)
 DTSTART;TZID=Europe/London:20230823T181500
 DTEND;TZID=Europe/London:20230823T195500
@@ -1040,21 +968,6 @@ DESCRIPTION:Duration: 1h 20m (80 min)\nScreen 2\n\nSubtitled (Captioned):
  s.\n\nhttps://www.picturehouses.com/movie-details/007/HO00012865/nt-live-f
  leabag-encore-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
  ctTickets.aspx?cinemacode=007&txtSessionId=27961&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Rusalka (2024)
-DTSTART;TZID=Europe/London:20240124T184500
-DTEND;TZID=Europe/London:20240124T223000
-DTSTAMP:20240124T184500Z
-UID:27319
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=273
- 19&visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1073,6 +986,21 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: Rusalka (2024)
+DTSTART;TZID=Europe/London:20240124T184500
+DTEND;TZID=Europe/London:20240124T223000
+DTSTAMP:20240124T184500Z
+UID:27319
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=273
+ 19&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - 2001: A Space Odyssey
 DTSTART;TZID=Europe/London:20230809T190000
 DTEND;TZID=Europe/London:20230809T215000
@@ -1082,21 +1010,6 @@ DESCRIPTION:Duration: 2h 29m (149 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/007/HO00012766/sight-sound-top-10-2001-a-space-odyss
  ey/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
  inemacode=007&txtSessionId=26588&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London:20231005T191500
-DTEND;TZID=Europe/London:20231005T223500
-DTSTAMP:20231005T181500Z
-UID:27313
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSess
- ionId=27313&visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1115,6 +1028,36 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: MacMillan Triple (2024)
+DTSTART;TZID=Europe/London:20240409T191500
+DTEND;TZID=Europe/London:20240409T223000
+DTSTAMP:20240409T181500Z
+UID:27325
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSess
+ ionId=27325&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London:20231005T191500
+DTEND;TZID=Europe/London:20231005T223500
+DTSTAMP:20231005T181500Z
+UID:27313
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSess
+ ionId=27313&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Live: Madama Butterfly (2024)
 DTSTART;TZID=Europe/London:20240326T191500
 DTEND;TZID=Europe/London:20240326T223000
@@ -1127,51 +1070,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  e-details/007/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSess
  ionId=27323&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Swan Lake (2024)
-DTSTART;TZID=Europe/London:20240424T191500
-DTEND;TZID=Europe/London:20240424T223500
-DTSTAMP:20240424T181500Z
-UID:27327
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=2
- 7327&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London:20240522T191500
-DTEND;TZID=Europe/London:20240522T223000
-DTSTAMP:20240522T181500Z
-UID:27331
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSes
- sionId=27331&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Don Quixote (2023)
-DTSTART;TZID=Europe/London:20231107T191500
-DTEND;TZID=Europe/London:20231107T223500
-DTSTAMP:20231107T191500Z
-UID:27315
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId
- =27315&visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1190,18 +1088,18 @@ DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: MacMillan Triple (2024)
-DTSTART;TZID=Europe/London:20240409T191500
-DTEND;TZID=Europe/London:20240409T223000
-DTSTAMP:20240409T181500Z
-UID:27325
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+SUMMARY:ROH Live: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240424T191500
+DTEND;TZID=Europe/London:20240424T223500
+DTSTAMP:20240424T181500Z
+UID:27327
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSess
- ionId=27325&visLang=1
+ e-details/007/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=2
+ 7327&visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1217,6 +1115,36 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  e-details/007/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
  picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessio
  nId=27335&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Don Quixote (2023)
+DTSTART;TZID=Europe/London:20231107T191500
+DTEND;TZID=Europe/London:20231107T223500
+DTSTAMP:20231107T191500Z
+UID:27315
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId
+ =27315&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240522T191500
+DTEND;TZID=Europe/London:20240522T223000
+DTSTAMP:20240522T181500Z
+UID:27331
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSes
+ sionId=27331&visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1243,56 +1171,6 @@ DESCRIPTION:Duration: 2h 33m (153 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/007/HO00013182/the-hiding-place/\nhttps://ticketing.
  picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessio
  nId=27531&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bruce Lee: Fist of Fury (Re-release)
-DTSTART;TZID=Europe/London:20230814T200000
-DTEND;TZID=Europe/London:20230814T221000
-DTSTAMP:20230814T190000Z
-UID:27977
-DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 2\n\nCulture Shock: Dedicat
- ed to bringing you the best in cult and genre films.\n\nhttps://www.pictur
- ehouses.com/movie-details/007/HO00013322/bruce-lee-fist-of-fury-re-release
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=007&txtSessionId=27977&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Swan Lake
-DTSTART;TZID=Europe/London:20230913T200000
-DTEND;TZID=Europe/London:20230913T223000
-DTSTAMP:20230913T190000Z
-UID:27755
-DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00013202/matthew-bourne-s-swan-lake/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007
- &txtSessionId=27755&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bruce Lee: Enter the Dragon (50th Anniversary)
-DTSTART;TZID=Europe/London:20230821T200000
-DTEND;TZID=Europe/London:20230821T220000
-DTSTAMP:20230821T190000Z
-UID:27978
-DESCRIPTION:Duration: 1h 39m (99 min)\nScreen 2\n\nCulture Shock: Dedicate
- d to bringing you the best in cult and genre films.\n\nhttps://www.picture
- houses.com/movie-details/007/HO00013324/bruce-lee-enter-the-dragon-50th-an
- niversary/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=007&txtSessionId=27978&visLang=1
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - In the Mood For Love
-DTSTART;TZID=Europe/London:20230830T200000
-DTEND;TZID=Europe/London:20230830T220000
-DTSTAMP:20230830T190000Z
-UID:27974
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/007/HO00013348/sight-sound-top-10-in-the-mood-for-lov
- e/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=007&txtSessionId=27974&visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1331,6 +1209,56 @@ DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/007/HO00013125/predator/\nhttps://ticketing.pictureh
  ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=2781
  7&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matthew Bourne's Swan Lake
+DTSTART;TZID=Europe/London:20230913T200000
+DTEND;TZID=Europe/London:20230913T223000
+DTSTAMP:20230913T190000Z
+UID:27755
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00013202/matthew-bourne-s-swan-lake/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007
+ &txtSessionId=27755&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - In the Mood For Love
+DTSTART;TZID=Europe/London:20230830T200000
+DTEND;TZID=Europe/London:20230830T220000
+DTSTAMP:20230830T190000Z
+UID:27974
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/007/HO00013348/sight-sound-top-10-in-the-mood-for-lov
+ e/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=007&txtSessionId=27974&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bruce Lee: Enter the Dragon (50th Anniversary)
+DTSTART;TZID=Europe/London:20230821T200000
+DTEND;TZID=Europe/London:20230821T220000
+DTSTAMP:20230821T190000Z
+UID:27978
+DESCRIPTION:Duration: 1h 39m (99 min)\nScreen 2\n\nCulture Shock: Dedicate
+ d to bringing you the best in cult and genre films.\n\nhttps://www.picture
+ houses.com/movie-details/007/HO00013324/bruce-lee-enter-the-dragon-50th-an
+ niversary/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=007&txtSessionId=27978&visLang=1
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bruce Lee: Fist of Fury (Re-release)
+DTSTART;TZID=Europe/London:20230814T200000
+DTEND;TZID=Europe/London:20230814T221000
+DTSTAMP:20230814T190000Z
+UID:27977
+DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 2\n\nCulture Shock: Dedicat
+ ed to bringing you the best in cult and genre films.\n\nhttps://www.pictur
+ ehouses.com/movie-details/007/HO00013322/bruce-lee-fist-of-fury-re-release
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=007&txtSessionId=27977&visLang=1
 LOCATION:Picture House Exeter
 END:VEVENT
 END:VCALENDAR
