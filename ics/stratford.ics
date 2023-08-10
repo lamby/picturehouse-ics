@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230809T073501Z
+LAST-MODIFIED:20230810T073215Z
 NAME:Picture House London - Stratford
 X-WR-CALNAME:Picture House London - Stratford
+BEGIN:VEVENT
+SUMMARY:Carmen (2024)
+DTSTART;TZID=Europe/London:20240130T120000
+DTEND;TZID=Europe/London:20240130T160500
+DTSTAMP:20240130T120000Z
+UID:48848
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013175/met-opera-encore-carmen-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=48848&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Florencia En El Amazonas (2023)
 DTSTART;TZID=Europe/London:20231212T120000
@@ -41,27 +53,15 @@ DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Carmen (2024)
-DTSTART;TZID=Europe/London:20240130T120000
-DTEND;TZID=Europe/London:20240130T160500
-DTSTAMP:20240130T120000Z
-UID:48848
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013175/met-opera-encore-carmen-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=48848&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:X: The Life and Times of Malcolm
-DTSTART;TZID=Europe/London:20231121T120000
-DTEND;TZID=Europe/London:20231121T154500
-DTSTAMP:20231121T120000Z
-UID:48842
-DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013172/met-opera-encore-x-the-life-and-times
- -of-malcolm/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=012&txtSessionId=48842&visLang=1
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London:20240326T120000
+DTEND;TZID=Europe/London:20240326T155500
+DTSTAMP:20240326T120000Z
+UID:48852
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013177/met-opera-encore-romeo-et-juliette-20
+ 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=012&txtSessionId=48852&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -77,27 +77,15 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London:20240326T120000
-DTEND;TZID=Europe/London:20240326T155500
-DTSTAMP:20240326T120000Z
-UID:48852
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013177/met-opera-encore-romeo-et-juliette-20
- 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=012&txtSessionId=48852&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Rondine (2024)
-DTSTART;TZID=Europe/London:20240423T120000
-DTEND;TZID=Europe/London:20240423T151000
-DTSTAMP:20240423T110000Z
-UID:48854
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013178/met-opera-encore-la-rondine-2024/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=012&txtSessionId=48854&visLang=1
+SUMMARY:X: The Life and Times of Malcolm
+DTSTART;TZID=Europe/London:20231121T120000
+DTEND;TZID=Europe/London:20231121T154500
+DTSTAMP:20231121T120000Z
+UID:48842
+DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013172/met-opera-encore-x-the-life-and-times
+ -of-malcolm/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=012&txtSessionId=48842&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -112,6 +100,18 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
  ls/012/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing.pic
  turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
  =48661&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Rondine (2024)
+DTSTART;TZID=Europe/London:20240423T120000
+DTEND;TZID=Europe/London:20240423T151000
+DTSTAMP:20240423T110000Z
+UID:48854
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013178/met-opera-encore-la-rondine-2024/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=012&txtSessionId=48854&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -141,63 +141,293 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230809T143000
-DTEND;TZID=Europe/London:20230809T164500
-DTSTAMP:20230809T133000Z
-UID:49549
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49549&
- visLang=1
+SUMMARY:Scorsese/De Niro: Raging Bull
+DTSTART;TZID=Europe/London:20230910T123000
+DTEND;TZID=Europe/London:20230910T150000
+DTSTAMP:20230910T113000Z
+UID:49715
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/012/HO00013333/scorsese-de-niro-raging-bull/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
+ Id=49715&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230809T163000
-DTEND;TZID=Europe/London:20230809T184500
-DTSTAMP:20230809T153000Z
-UID:49561
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49561&
- visLang=1
+SUMMARY:Scorsese/De Niro: Goodfellas
+DTSTART;TZID=Europe/London:20230903T123000
+DTEND;TZID=Europe/London:20230903T152000
+DTSTAMP:20230903T113000Z
+UID:49714
+DESCRIPTION:Duration: 2h 26m (146 min)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/012/HO00013332/scorsese-de-niro-goodfellas/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=49714&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230809T171500
-DTEND;TZID=Europe/London:20230809T193000
-DTSTAMP:20230809T161500Z
-UID:49573
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49573&
- visLang=1
+SUMMARY:Scorsese/De Niro: The King of Comedy
+DTSTART;TZID=Europe/London:20230916T123000
+DTEND;TZID=Europe/London:20230916T144000
+DTSTAMP:20230916T113000Z
+UID:49716
+DESCRIPTION:Duration: 1h 49m (109 min)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/012/HO00013334/scorsese-de-niro-the-king-of-comedy/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txt
+ SessionId=49716&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230809T191500
-DTEND;TZID=Europe/London:20230809T213000
-DTSTAMP:20230809T181500Z
-UID:49585
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49585&
- visLang=1
+SUMMARY:Scorsese/De Niro: Taxi Driver
+DTSTART;TZID=Europe/London:20230827T123000
+DTEND;TZID=Europe/London:20230827T144500
+DTSTAMP:20230827T113000Z
+UID:49713
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/012/HO00013331/scorsese-de-niro-taxi-driver/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
+ Id=49713&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230809T200000
-DTEND;TZID=Europe/London:20230809T221500
-DTSTAMP:20230809T190000Z
-UID:49597
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49597&
- visLang=1
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230810T143000
+DTEND;TZID=Europe/London:20230810T163000
+DTSTAMP:20230810T133000Z
+UID:49544
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49544&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230810T170000
+DTEND;TZID=Europe/London:20230810T190000
+DTSTAMP:20230810T160000Z
+UID:49568
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49568&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230810T193000
+DTEND;TZID=Europe/London:20230810T213000
+DTSTAMP:20230810T183000Z
+UID:49592
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013316/teenage-
+ mutant-ninja-turtles-mutant-mayhem/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49592&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230811T141500
+DTEND;TZID=Europe/London:20230811T161500
+DTSTAMP:20230811T131500Z
+UID:49629
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49629&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230811T164500
+DTEND;TZID=Europe/London:20230811T184500
+DTSTAMP:20230811T154500Z
+UID:49630
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49630&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230812T123000
+DTEND;TZID=Europe/London:20230812T143000
+DTSTAMP:20230812T113000Z
+UID:49645
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49645&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230812T150000
+DTEND;TZID=Europe/London:20230812T170000
+DTSTAMP:20230812T140000Z
+UID:49643
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49643&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230812T173000
+DTEND;TZID=Europe/London:20230812T193000
+DTSTAMP:20230812T163000Z
+UID:49642
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49642&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230813T121500
+DTEND;TZID=Europe/London:20230813T141500
+DTSTAMP:20230813T111500Z
+UID:49652
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49652&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230813T144500
+DTEND;TZID=Europe/London:20230813T164500
+DTSTAMP:20230813T134500Z
+UID:49654
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49654&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230813T171500
+DTEND;TZID=Europe/London:20230813T191500
+DTSTAMP:20230813T161500Z
+UID:49655
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49655&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230814T141500
+DTEND;TZID=Europe/London:20230814T161500
+DTSTAMP:20230814T131500Z
+UID:49666
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49666&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230814T164500
+DTEND;TZID=Europe/London:20230814T184500
+DTSTAMP:20230814T154500Z
+UID:49665
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49665&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230815T141500
+DTEND;TZID=Europe/London:20230815T161500
+DTSTAMP:20230815T131500Z
+UID:49678
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013316/teenage-
+ mutant-ninja-turtles-mutant-mayhem/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49678&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230815T164500
+DTEND;TZID=Europe/London:20230815T184500
+DTSTAMP:20230815T154500Z
+UID:49679
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49679&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230816T141500
+DTEND;TZID=Europe/London:20230816T161500
+DTSTAMP:20230816T131500Z
+UID:49693
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49693&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230816T164500
+DTEND;TZID=Europe/London:20230816T184500
+DTSTAMP:20230816T154500Z
+UID:49694
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49694&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230817T133000
+DTEND;TZID=Europe/London:20230817T153000
+DTSTAMP:20230817T123000Z
+UID:49703
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49703&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230817T160000
+DTEND;TZID=Europe/London:20230817T180000
+DTSTAMP:20230817T150000Z
+UID:49704
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=49704&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -550,284 +780,6 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230809T143000
-DTEND;TZID=Europe/London:20230809T163000
-DTSTAMP:20230809T133000Z
-UID:49543
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49543&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230809T170000
-DTEND;TZID=Europe/London:20230809T190000
-DTSTAMP:20230809T160000Z
-UID:49567
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49567&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230809T193000
-DTEND;TZID=Europe/London:20230809T213000
-DTSTAMP:20230809T183000Z
-UID:49591
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49591&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230810T143000
-DTEND;TZID=Europe/London:20230810T163000
-DTSTAMP:20230810T133000Z
-UID:49544
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49544&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230810T170000
-DTEND;TZID=Europe/London:20230810T190000
-DTSTAMP:20230810T160000Z
-UID:49568
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49568&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230810T193000
-DTEND;TZID=Europe/London:20230810T213000
-DTSTAMP:20230810T183000Z
-UID:49592
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013316/teenage-
- mutant-ninja-turtles-mutant-mayhem/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49592&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230811T141500
-DTEND;TZID=Europe/London:20230811T161500
-DTSTAMP:20230811T131500Z
-UID:49629
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49629&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230811T164500
-DTEND;TZID=Europe/London:20230811T184500
-DTSTAMP:20230811T154500Z
-UID:49630
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49630&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230812T123000
-DTEND;TZID=Europe/London:20230812T143000
-DTSTAMP:20230812T113000Z
-UID:49645
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49645&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230812T150000
-DTEND;TZID=Europe/London:20230812T170000
-DTSTAMP:20230812T140000Z
-UID:49643
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49643&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230812T173000
-DTEND;TZID=Europe/London:20230812T193000
-DTSTAMP:20230812T163000Z
-UID:49642
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49642&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230813T121500
-DTEND;TZID=Europe/London:20230813T141500
-DTSTAMP:20230813T111500Z
-UID:49652
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49652&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230813T144500
-DTEND;TZID=Europe/London:20230813T164500
-DTSTAMP:20230813T134500Z
-UID:49654
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49654&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230813T171500
-DTEND;TZID=Europe/London:20230813T191500
-DTSTAMP:20230813T161500Z
-UID:49655
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49655&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230814T141500
-DTEND;TZID=Europe/London:20230814T161500
-DTSTAMP:20230814T131500Z
-UID:49666
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49666&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230814T164500
-DTEND;TZID=Europe/London:20230814T184500
-DTSTAMP:20230814T154500Z
-UID:49665
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49665&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230815T141500
-DTEND;TZID=Europe/London:20230815T161500
-DTSTAMP:20230815T131500Z
-UID:49678
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013316/teenage-
- mutant-ninja-turtles-mutant-mayhem/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49678&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230815T164500
-DTEND;TZID=Europe/London:20230815T184500
-DTSTAMP:20230815T154500Z
-UID:49679
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49679&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230816T141500
-DTEND;TZID=Europe/London:20230816T161500
-DTSTAMP:20230816T131500Z
-UID:49693
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49693&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230816T164500
-DTEND;TZID=Europe/London:20230816T184500
-DTSTAMP:20230816T154500Z
-UID:49694
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49694&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230817T133000
-DTEND;TZID=Europe/London:20230817T153000
-DTSTAMP:20230817T123000Z
-UID:49703
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49703&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230817T160000
-DTEND;TZID=Europe/London:20230817T180000
-DTSTAMP:20230817T150000Z
-UID:49704
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=49704&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - In the Mood For Love
-DTSTART;TZID=Europe/London:20230828T150000
-DTEND;TZID=Europe/London:20230828T170000
-DTSTAMP:20230828T140000Z
-UID:49605
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013348/sight-sound-top-10-in-the-mood-for-lov
- e/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=012&txtSessionId=49605&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Puffin Rock and the New Friends
 DTSTART;TZID=Europe/London:20230811T150000
 DTEND;TZID=Europe/London:20230811T163500
@@ -936,6 +888,18 @@ DESCRIPTION:Duration: 1h 15m (75 min)\nScreen 2\n\nhttps://www.picturehous
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - In the Mood For Love
+DTSTART;TZID=Europe/London:20230828T150000
+DTEND;TZID=Europe/London:20230828T170000
+DTSTAMP:20230828T140000Z
+UID:49605
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013348/sight-sound-top-10-in-the-mood-for-lov
+ e/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=012&txtSessionId=49605&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Roald Dahl’s Matilda the Musical
 DTSTART;TZID=Europe/London:20230811T151500
 DTEND;TZID=Europe/London:20230811T173500
@@ -1017,31 +981,6 @@ DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00012257/roald-dahls-matilda-the-musical/\nhtt
  ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
  e=012&txtSessionId=49700&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230809T151500
-DTEND;TZID=Europe/London:20230809T183500
-DTSTAMP:20230809T141500Z
-UID:49555
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013205/oppenhei
- mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=012&txtSessionId=49555&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230809T190000
-DTEND;TZID=Europe/London:20230809T222000
-DTSTAMP:20230809T180000Z
-UID:49579
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=4
- 9579&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1253,21 +1192,6 @@ DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Debutante: Aftersun
-DTSTART;TZID=Europe/London:20230813T170000
-DTEND;TZID=Europe/London:20230813T190500
-DTSTAMP:20230813T160000Z
-UID:49293
-DESCRIPTION:Duration: 1h 42m (102 min)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/012/HO00013262/debutante-aftersun/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49293&v
- isLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Debutante: Rye Lane
 DTSTART;TZID=Europe/London:20230820T170000
 DTEND;TZID=Europe/London:20230820T184500
@@ -1283,6 +1207,21 @@ DESCRIPTION:Duration: 1h 22m (82 min)\nScreen 1\n\nreDiscover: Time to bro
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Debutante: Aftersun
+DTSTART;TZID=Europe/London:20230813T170000
+DTEND;TZID=Europe/London:20230813T190500
+DTSTAMP:20230813T160000Z
+UID:49293
+DESCRIPTION:Duration: 1h 42m (102 min)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/012/HO00013262/debutante-aftersun/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=49293&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Met Opera Live: La Forza del Destino (2024)
 DTSTART;TZID=Europe/London:20240309T170000
 DTEND;TZID=Europe/London:20240309T212500
@@ -1295,6 +1234,66 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nAd and Trailer Free: N
  e-details/012/HO00013166/met-opera-live-la-forza-del-destino-2024/\nhttps:
  //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
  12&txtSessionId=48849&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240511T175500
+DTEND;TZID=Europe/London:20240511T211000
+DTSTAMP:20240511T165500Z
+UID:48855
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
+ xtSessionId=48855&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: La Rondine (2024)
+DTSTART;TZID=Europe/London:20240420T175500
+DTEND;TZID=Europe/London:20240420T204500
+DTSTAMP:20240420T165500Z
+UID:48853
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
+ ionId=48853&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
+DTSTART;TZID=Europe/London:20231118T175500
+DTEND;TZID=Europe/London:20231118T212000
+DTSTAMP:20231118T175500Z
+UID:48841
+DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=012&txtSessionId=48841&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Carmen (2024)
+DTSTART;TZID=Europe/London:20240127T175500
+DTEND;TZID=Europe/London:20240127T214000
+DTSTAMP:20240127T175500Z
+UID:48847
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=48847&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1328,36 +1327,6 @@ DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240511T175500
-DTEND;TZID=Europe/London:20240511T211000
-DTSTAMP:20240511T165500Z
-UID:48855
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&t
- xtSessionId=48855&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Carmen (2024)
-DTSTART;TZID=Europe/London:20240127T175500
-DTEND;TZID=Europe/London:20240127T214000
-DTSTAMP:20240127T175500Z
-UID:48847
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=48847&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
 DTSTART;TZID=Europe/London:20231209T175500
 DTEND;TZID=Europe/London:20231209T203000
@@ -1373,33 +1342,27 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: La Rondine (2024)
-DTSTART;TZID=Europe/London:20240420T175500
-DTEND;TZID=Europe/London:20240420T204500
-DTSTAMP:20240420T165500Z
-UID:48853
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
- ionId=48853&visLang=1
+SUMMARY: Klimt and the Kiss
+DTSTART;TZID=Europe/London:20231030T180000
+DTEND;TZID=Europe/London:20231030T195000
+DTSTAMP:20231030T180000Z
+UID:49379
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013246/eos-klimt-and-the-kiss/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtS
+ essionId=49379&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
-DTSTART;TZID=Europe/London:20231118T175500
-DTEND;TZID=Europe/London:20231118T212000
-DTSTAMP:20231118T175500Z
-UID:48841
-DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=012&txtSessionId=48841&visLang=1
+SUMMARY: Klimt and the Kiss
+DTSTART;TZID=Europe/London:20231102T120000
+DTEND;TZID=Europe/London:20231102T135000
+DTSTAMP:20231102T120000Z
+UID:49380
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013246/eos-klimt-and-the-kiss/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtS
+ essionId=49380&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1487,27 +1450,18 @@ DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Klimt and the Kiss
-DTSTART;TZID=Europe/London:20231030T180000
-DTEND;TZID=Europe/London:20231030T195000
-DTSTAMP:20231030T180000Z
-UID:49379
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013246/eos-klimt-and-the-kiss/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtS
- essionId=49379&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Klimt and the Kiss
-DTSTART;TZID=Europe/London:20231102T120000
-DTEND;TZID=Europe/London:20231102T135000
-DTSTAMP:20231102T120000Z
-UID:49380
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013246/eos-klimt-and-the-kiss/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtS
- essionId=49380&visLang=1
+SUMMARY:ROH Live: Rusalka (2024)
+DTSTART;TZID=Europe/London:20240124T184500
+DTEND;TZID=Europe/London:20240124T223000
+DTSTAMP:20240124T184500Z
+UID:48658
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=486
+ 58&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1526,18 +1480,27 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Rusalka (2024)
-DTSTART;TZID=Europe/London:20240124T184500
-DTEND;TZID=Europe/London:20240124T223000
-DTSTAMP:20240124T184500Z
-UID:48658
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=486
- 58&visLang=1
+SUMMARY:A Little Life
+DTSTART;TZID=Europe/London:20230928T190000
+DTEND;TZID=Europe/London:20230928T230000
+DTSTAMP:20230928T180000Z
+UID:49708
+DESCRIPTION:Duration: 3h 40m (220 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013256/a-little-life/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
+ =49708&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Little Life
+DTSTART;TZID=Europe/London:20231001T123000
+DTEND;TZID=Europe/London:20231001T163000
+DTSTAMP:20231001T113000Z
+UID:49709
+DESCRIPTION:Duration: 3h 40m (220 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013256/a-little-life/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
+ =49709&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1550,21 +1513,6 @@ DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013202/matthew-bourne-s-swan-lake/\nhttps://
  ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
  &txtSessionId=49072&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Don Quixote (2023)
-DTSTART;TZID=Europe/London:20231107T191500
-DTEND;TZID=Europe/London:20231107T223500
-DTSTAMP:20231107T191500Z
-UID:48656
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
- =48656&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1583,48 +1531,18 @@ DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London:20240522T191500
-DTEND;TZID=Europe/London:20240522T223000
-DTSTAMP:20240522T181500Z
-UID:48665
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+SUMMARY:ROH Live: Don Quixote (2023)
+DTSTART;TZID=Europe/London:20231107T191500
+DTEND;TZID=Europe/London:20231107T223500
+DTSTAMP:20231107T191500Z
+UID:48656
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
- sionId=48665&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London:20240611T191500
-DTEND;TZID=Europe/London:20240611T223000
-DTSTAMP:20240611T181500Z
-UID:48667
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
- nId=48667&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240326T191500
-DTEND;TZID=Europe/London:20240326T223000
-DTSTAMP:20240326T191500Z
-UID:48660
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
- ionId=48660&visLang=1
+ e-details/012/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId
+ =48656&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1640,6 +1558,21 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
  e-details/012/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
  ionId=48655&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240522T191500
+DTEND;TZID=Europe/London:20240522T223000
+DTSTAMP:20240522T181500Z
+UID:48665
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
+ sionId=48665&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1673,6 +1606,21 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: MacMillan Triple (2024)
+DTSTART;TZID=Europe/London:20240409T191500
+DTEND;TZID=Europe/London:20240409T223000
+DTSTAMP:20240409T181500Z
+UID:48662
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
+ ionId=48662&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Live: Das Rheingold (2023)
 DTSTART;TZID=Europe/London:20230920T191500
 DTEND;TZID=Europe/London:20230920T220000
@@ -1688,18 +1636,33 @@ DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: MacMillan Triple (2024)
-DTSTART;TZID=Europe/London:20240409T191500
-DTEND;TZID=Europe/London:20240409T223000
-DTSTAMP:20240409T181500Z
-UID:48662
+SUMMARY:ROH Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240326T191500
+DTEND;TZID=Europe/London:20240326T223000
+DTSTAMP:20240326T191500Z
+UID:48660
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
+ e-details/012/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
- ionId=48662&visLang=1
+ ionId=48660&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London:20240611T191500
+DTEND;TZID=Europe/London:20240611T223000
+DTSTAMP:20240611T181500Z
+UID:48667
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
+ nId=48667&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1748,10 +1711,11 @@ DTSTART;TZID=Europe/London:20230815T194500
 DTEND;TZID=Europe/London:20230815T215500
 DTSTAMP:20230815T184500Z
 UID:49683
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013290/debutante-pretty-red-dress/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=49683&visLang=1
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 4\n\nDiscover: Discover stu
+ nning cinema. Each week\, the Picturehouse film team champion one must-see
+  film.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013290/debut
+ ante-pretty-red-dress/\nhttps://ticketing.picturehouses.com/Ticketing/visS
+ electTickets.aspx?cinemacode=012&txtSessionId=49683&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
