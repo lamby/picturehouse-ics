@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230818T152809Z
+LAST-MODIFIED:20230821T133823Z
 NAME:Picture House Henley-on-Thames - Regal
 X-WR-CALNAME:Picture House Henley-on-Thames - Regal
 BEGIN:VEVENT
@@ -17,6 +17,20 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Message in a Bottle (Encore)
+DTSTART;TZID=Europe/London:20240603T140000
+DTEND;TZID=Europe/London:20240603T152500
+DTSTAMP:20240603T130000Z
+UID:40789
+DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 1\n\nAd and Trailer Free: No
+  advertisements or trailers will play ahead of this screening. You are rec
+ ommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detail
+ s/011/HO00013119/message-in-a-bottle-encore/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=40789&
+ visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Roméo et Juliette (2024)
 DTSTART;TZID=Europe/London:20240327T140000
 DTEND;TZID=Europe/London:20240327T175500
@@ -29,17 +43,15 @@ DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London:20240527T140000
-DTEND;TZID=Europe/London:20240527T171500
-DTSTAMP:20240527T130000Z
-UID:40787
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/011/HO00013118/roh-encore-the-winter-s-tale-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionI
- d=40787&visLang=1
+SUMMARY:Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London:20231213T140000
+DTEND;TZID=Europe/London:20231213T165500
+DTSTAMP:20231213T140000Z
+UID:41019
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013173/met-opera-encore-florencia-en-el-amaz
+ onas-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=011&txtSessionId=41019&visLang=1
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
@@ -83,20 +95,6 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Message in a Bottle (Encore)
-DTSTART;TZID=Europe/London:20240603T140000
-DTEND;TZID=Europe/London:20240603T152500
-DTSTAMP:20240603T130000Z
-UID:40789
-DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 1\n\nAd and Trailer Free: No
-  advertisements or trailers will play ahead of this screening. You are rec
- ommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detail
- s/011/HO00013119/message-in-a-bottle-encore/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=40789&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carmen (2024)
 DTSTART;TZID=Europe/London:20240131T140000
 DTEND;TZID=Europe/London:20240131T180500
@@ -109,15 +107,31 @@ DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240515T140000
-DTEND;TZID=Europe/London:20240515T173500
-DTSTAMP:20240515T130000Z
-UID:41031
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013179/met-opera-encore-madama-butterfly-202
- 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=011&txtSessionId=41031&visLang=1
+SUMMARY:ROH Encore: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240527T140000
+DTEND;TZID=Europe/London:20240527T171500
+DTSTAMP:20240527T130000Z
+UID:40787
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/011/HO00013118/roh-encore-the-winter-s-tale-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionI
+ d=40787&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Carmen (2024)
+DTSTART;TZID=Europe/London:20240506T140000
+DTEND;TZID=Europe/London:20240506T174500
+DTSTAMP:20240506T130000Z
+UID:40785
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/011/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=40785&vis
+ Lang=1
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
@@ -148,20 +162,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Carmen (2024)
-DTSTART;TZID=Europe/London:20240506T140000
-DTEND;TZID=Europe/London:20240506T174500
-DTSTAMP:20240506T130000Z
-UID:40785
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/011/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=40785&vis
- Lang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La Forza del Destino (2024)
 DTSTART;TZID=Europe/London:20240313T140000
 DTEND;TZID=Europe/London:20240313T184500
@@ -171,44 +171,6 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/011/HO00013176/met-opera-encore-la-forza-del-destino
  -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
  x?cinemacode=011&txtSessionId=41025&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Swan Lake (2024)
-DTSTART;TZID=Europe/London:20240429T140000
-DTEND;TZID=Europe/London:20240429T172000
-DTSTAMP:20240429T130000Z
-UID:40783
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/011/HO00013116/roh-encore-swan-lake-2024/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=40783&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Rondine (2024)
-DTSTART;TZID=Europe/London:20240423T140000
-DTEND;TZID=Europe/London:20240423T171000
-DTSTAMP:20240423T130000Z
-UID:41029
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013178/met-opera-encore-la-rondine-2024/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=011&txtSessionId=41029&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London:20231213T140000
-DTEND;TZID=Europe/London:20231213T165500
-DTSTAMP:20231213T140000Z
-UID:41019
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013173/met-opera-encore-florencia-en-el-amaz
- onas-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=011&txtSessionId=41019&visLang=1
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
@@ -226,6 +188,44 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Rondine (2024)
+DTSTART;TZID=Europe/London:20240423T140000
+DTEND;TZID=Europe/London:20240423T171000
+DTSTAMP:20240423T130000Z
+UID:41029
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013178/met-opera-encore-la-rondine-2024/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=011&txtSessionId=41029&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240429T140000
+DTEND;TZID=Europe/London:20240429T172000
+DTSTAMP:20240429T130000Z
+UID:40783
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/011/HO00013116/roh-encore-swan-lake-2024/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=40783&
+ visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240515T140000
+DTEND;TZID=Europe/London:20240515T173500
+DTSTAMP:20240515T130000Z
+UID:41031
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013179/met-opera-encore-madama-butterfly-202
+ 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=011&txtSessionId=41031&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Encore: Andrea Chenier (2024)
 DTSTART;TZID=Europe/London:20240617T140000
 DTEND;TZID=Europe/London:20240617T171500
@@ -240,15 +240,15 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dead Man Walking (2023)
-DTSTART;TZID=Europe/London:20231025T140000
-DTEND;TZID=Europe/London:20231025T173500
-DTSTAMP:20231025T130000Z
-UID:41015
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013171/met-opera-encore-dead-man-walking-202
- 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=011&txtSessionId=41015&visLang=1
+SUMMARY:ROH Encore: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London:20231009T140000
+DTEND;TZID=Europe/London:20231009T174000
+DTSTAMP:20231009T130000Z
+UID:40769
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013109/roh-encore-l-elisir-d-amore-2023/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=011&txtSessionId=40769&visLang=1
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
@@ -278,18 +278,6 @@ DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London:20231009T140000
-DTEND;TZID=Europe/London:20231009T174000
-DTSTAMP:20231009T130000Z
-UID:40769
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013109/roh-encore-l-elisir-d-amore-2023/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=011&txtSessionId=40769&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Encore: Don Quixote (2023)
 DTSTART;TZID=Europe/London:20231113T140000
 DTEND;TZID=Europe/London:20231113T172000
@@ -304,311 +292,15 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London:20240323T165500
-DTEND;TZID=Europe/London:20240323T203000
-DTSTAMP:20240323T165500Z
-UID:41026
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013167/met-opera-live-romeo-et-juliette-2024/\nhttps://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&
- txtSessionId=41026&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230818T170000
-DTEND;TZID=Europe/London:20230818T190000
-DTSTAMP:20230818T160000Z
-UID:41840
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41840&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230819T141000
-DTEND;TZID=Europe/London:20230819T161000
-DTSTAMP:20230819T131000Z
-UID:41853
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41853&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230819T170000
-DTEND;TZID=Europe/London:20230819T190000
-DTSTAMP:20230819T160000Z
-UID:41848
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41848&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230820T133000
-DTEND;TZID=Europe/London:20230820T153000
-DTSTAMP:20230820T123000Z
-UID:41859
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41859&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230820T161000
-DTEND;TZID=Europe/London:20230820T181000
-DTSTAMP:20230820T151000Z
-UID:41864
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41864&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230821T141500
-DTEND;TZID=Europe/London:20230821T161500
-DTSTAMP:20230821T131500Z
-UID:41874
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/011/HO00013316/teenage-
- mutant-ninja-turtles-mutant-mayhem/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41874&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230821T170000
-DTEND;TZID=Europe/London:20230821T190000
-DTSTAMP:20230821T160000Z
-UID:41875
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41875&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230822T143000
-DTEND;TZID=Europe/London:20230822T163000
-DTSTAMP:20230822T133000Z
-UID:41888
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41888&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230822T170000
-DTEND;TZID=Europe/London:20230822T190000
-DTSTAMP:20230822T160000Z
-UID:41887
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41887&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230823T151500
-DTEND;TZID=Europe/London:20230823T171500
-DTSTAMP:20230823T141500Z
-UID:41900
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41900&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230824T144000
-DTEND;TZID=Europe/London:20230824T164000
-DTSTAMP:20230824T134000Z
-UID:41890
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41890&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230824T171500
-DTEND;TZID=Europe/London:20230824T191500
-DTSTAMP:20230824T161500Z
-UID:41891
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41891&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: La Forza del Destino (2024)
-DTSTART;TZID=Europe/London:20240309T170000
-DTEND;TZID=Europe/London:20240309T212500
-DTSTAMP:20240309T170000Z
-UID:41024
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013166/met-opera-live-la-forza-del-destino-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 11&txtSessionId=41024&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230818T173000
-DTEND;TZID=Europe/London:20230818T194500
-DTSTAMP:20230818T163000Z
-UID:41836
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41836&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230818T201500
-DTEND;TZID=Europe/London:20230818T223000
-DTSTAMP:20230818T191500Z
-UID:41837
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41837&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230819T111500
-DTEND;TZID=Europe/London:20230819T133000
-DTSTAMP:20230819T101500Z
-UID:41856
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41856&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230819T144000
-DTEND;TZID=Europe/London:20230819T165500
-DTSTAMP:20230819T134000Z
-UID:41849
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41849&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230819T173000
-DTEND;TZID=Europe/London:20230819T194500
-DTSTAMP:20230819T163000Z
-UID:41850
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41850&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230819T202000
-DTEND;TZID=Europe/London:20230819T223500
-DTSTAMP:20230819T192000Z
-UID:41847
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41847&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230820T111500
-DTEND;TZID=Europe/London:20230820T133000
-DTSTAMP:20230820T101500Z
-UID:41866
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/011/HO00013214/barbie/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=011&txtSessionId=41866&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230820T140000
-DTEND;TZID=Europe/London:20230820T161500
-DTSTAMP:20230820T130000Z
-UID:41863
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41863&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230820T164500
-DTEND;TZID=Europe/London:20230820T190000
-DTSTAMP:20230820T154500Z
-UID:41862
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41862&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230820T193000
-DTEND;TZID=Europe/London:20230820T214500
-DTSTAMP:20230820T183000Z
-UID:41865
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41865&
- visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230821T120000
-DTEND;TZID=Europe/London:20230821T141500
-DTSTAMP:20230821T110000Z
-UID:41873
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=41873&
- visLang=1
+SUMMARY:Dead Man Walking (2023)
+DTSTART;TZID=Europe/London:20231025T140000
+DTEND;TZID=Europe/London:20231025T173500
+DTSTAMP:20231025T130000Z
+UID:41015
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013171/met-opera-encore-dead-man-walking-202
+ 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=011&txtSessionId=41015&visLang=1
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
@@ -792,450 +484,6 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240511T175500
-DTEND;TZID=Europe/London:20240511T211000
-DTSTAMP:20240511T165500Z
-UID:41030
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&t
- xtSessionId=41030&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: La Rondine (2024)
-DTSTART;TZID=Europe/London:20240420T175500
-DTEND;TZID=Europe/London:20240420T204500
-DTSTAMP:20240420T165500Z
-UID:41028
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSess
- ionId=41028&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Dead Man Walking (2023)
-DTSTART;TZID=Europe/London:20231021T175500
-DTEND;TZID=Europe/London:20231021T211000
-DTSTAMP:20231021T165500Z
-UID:41014
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013158/met-opera-live-dead-man-walking-2023/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&t
- xtSessionId=41014&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London:20231209T175500
-DTEND;TZID=Europe/London:20231209T203000
-DTSTAMP:20231209T175500Z
-UID:41018
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=011&txtSessionId=41018&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Carmen (2024)
-DTSTART;TZID=Europe/London:20240127T175500
-DTEND;TZID=Europe/London:20240127T214000
-DTSTAMP:20240127T175500Z
-UID:41022
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionI
- d=41022&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Nabucco (2024)
-DTSTART;TZID=Europe/London:20240106T175500
-DTEND;TZID=Europe/London:20240106T210500
-DTSTAMP:20240106T175500Z
-UID:41020
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSession
- Id=41020&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
-DTSTART;TZID=Europe/London:20231118T175500
-DTEND;TZID=Europe/London:20231118T212000
-DTSTAMP:20231118T175500Z
-UID:41016
-DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=011&txtSessionId=41016&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Fleabag (Encore 2023)
-DTSTART;TZID=Europe/London:20230823T180000
-DTEND;TZID=Europe/London:20230823T194000
-DTSTAMP:20230823T170000Z
-UID:41591
-DESCRIPTION:Duration: 1h 20m (80 min)\nScreen 3\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/011/HO00012865/nt-live-f
- leabag-encore-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=011&txtSessionId=41591&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Klimt and the Kiss
-DTSTART;TZID=Europe/London:20231030T180000
-DTEND;TZID=Europe/London:20231030T195000
-DTSTAMP:20231030T180000Z
-UID:41569
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/011/HO00013246/eos-klimt-and-the-kiss/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtS
- essionId=41569&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Klimt and the Kiss
-DTSTART;TZID=Europe/London:20231108T140000
-DTEND;TZID=Europe/London:20231108T155000
-DTSTAMP:20231108T140000Z
-UID:41570
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/011/HO00013246/eos-klimt-and-the-kiss/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtS
- essionId=41570&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Carmen (2024)
-DTSTART;TZID=Europe/London:20240501T184500
-DTEND;TZID=Europe/London:20240501T223000
-DTSTAMP:20240501T174500Z
-UID:40784
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013040/roh-live-carmen-2024/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4078
- 4&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Rusalka (2024)
-DTSTART;TZID=Europe/London:20240124T184500
-DTEND;TZID=Europe/London:20240124T223000
-DTSTAMP:20240124T184500Z
-UID:40774
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=407
- 74&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Little Life
-DTSTART;TZID=Europe/London:20230928T190000
-DTEND;TZID=Europe/London:20230928T224000
-DTSTAMP:20230928T180000Z
-UID:41834
-DESCRIPTION:Duration: 3h 40m (220 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/011/HO00013256/a-little-life/\nhttps://ticketing.picturehouses.com/Tick
- eting/visSelectTickets.aspx?cinemacode=011&txtSessionId=41834&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Little Life
-DTSTART;TZID=Europe/London:20231004T190000
-DTEND;TZID=Europe/London:20231004T224000
-DTSTAMP:20231004T180000Z
-UID:41835
-DESCRIPTION:Duration: 3h 40m (220 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/011/HO00013256/a-little-life/\nhttps://ticketing.picturehouses.com/Tick
- eting/visSelectTickets.aspx?cinemacode=011&txtSessionId=41835&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London:20240522T191500
-DTEND;TZID=Europe/London:20240522T223000
-DTSTAMP:20240522T181500Z
-UID:40786
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSes
- sionId=40786&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London:20240611T191500
-DTEND;TZID=Europe/London:20240611T223000
-DTSTAMP:20240611T181500Z
-UID:40790
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessio
- nId=40790&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Swan Lake (2024)
-DTSTART;TZID=Europe/London:20240424T191500
-DTEND;TZID=Europe/London:20240424T223500
-DTSTAMP:20240424T181500Z
-UID:40782
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4
- 0782&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Das Rheingold (2023)
-DTSTART;TZID=Europe/London:20230920T191500
-DTEND;TZID=Europe/London:20230920T220000
-DTSTAMP:20230920T181500Z
-UID:40766
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSession
- Id=40766&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: MacMillan Triple (2024)
-DTSTART;TZID=Europe/London:20240409T191500
-DTEND;TZID=Europe/London:20240409T223000
-DTSTAMP:20240409T181500Z
-UID:40780
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSess
- ionId=40780&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Manon (2024)
-DTSTART;TZID=Europe/London:20240207T191500
-DTEND;TZID=Europe/London:20240207T223000
-DTSTAMP:20240207T191500Z
-UID:40776
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=40776
- &visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240326T191500
-DTEND;TZID=Europe/London:20240326T223000
-DTSTAMP:20240326T191500Z
-UID:40778
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSess
- ionId=40778&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Don Quixote (2023)
-DTSTART;TZID=Europe/London:20231107T191500
-DTEND;TZID=Europe/London:20231107T223500
-DTSTAMP:20231107T191500Z
-UID:40770
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId
- =40770&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Nutcracker (2023)
-DTSTART;TZID=Europe/London:20231212T191500
-DTEND;TZID=Europe/London:20231212T220000
-DTSTAMP:20231212T191500Z
-UID:40772
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessio
- nId=40772&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London:20231005T191500
-DTEND;TZID=Europe/London:20231005T223500
-DTSTAMP:20231005T181500Z
-UID:40768
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/011/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSess
- ionId=40768&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230818T191500
-DTEND;TZID=Europe/London:20230818T223500
-DTSTAMP:20230818T181500Z
-UID:41842
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4
- 1842&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230819T113000
-DTEND;TZID=Europe/London:20230819T145000
-DTSTAMP:20230819T103000Z
-UID:41855
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4
- 1855&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230819T153000
-DTEND;TZID=Europe/London:20230819T185000
-DTSTAMP:20230819T143000Z
-UID:41854
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4
- 1854&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230819T192000
-DTEND;TZID=Europe/London:20230819T224000
-DTSTAMP:20230819T182000Z
-UID:41851
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4
- 1851&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230820T110000
-DTEND;TZID=Europe/London:20230820T142000
-DTSTAMP:20230820T100000Z
-UID:41857
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4
- 1857&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230820T144500
-DTEND;TZID=Europe/London:20230820T180500
-DTSTAMP:20230820T134500Z
-UID:41858
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4
- 1858&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230820T183000
-DTEND;TZID=Europe/London:20230820T215000
-DTSTAMP:20230820T173000Z
-UID:41861
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4
- 1861&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230821T114500
-DTEND;TZID=Europe/London:20230821T150500
-DTSTAMP:20230821T104500Z
-UID:41871
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4
- 1871&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Oppenheimer
 DTSTART;TZID=Europe/London:20230821T153000
 DTEND;TZID=Europe/London:20230821T185000
@@ -1369,6 +617,471 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Met Opera Live: Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London:20240323T165500
+DTEND;TZID=Europe/London:20240323T203000
+DTSTAMP:20240323T165500Z
+UID:41026
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013167/met-opera-live-romeo-et-juliette-2024/\nhttps://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&
+ txtSessionId=41026&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: La Forza del Destino (2024)
+DTSTART;TZID=Europe/London:20240309T170000
+DTEND;TZID=Europe/London:20240309T212500
+DTSTAMP:20240309T170000Z
+UID:41024
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013166/met-opera-live-la-forza-del-destino-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 11&txtSessionId=41024&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230821T170000
+DTEND;TZID=Europe/London:20230821T190000
+DTSTAMP:20230821T160000Z
+UID:41875
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=011&txtSessionId=41875&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230822T143000
+DTEND;TZID=Europe/London:20230822T163000
+DTSTAMP:20230822T133000Z
+UID:41888
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=011&txtSessionId=41888&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230822T170000
+DTEND;TZID=Europe/London:20230822T190000
+DTSTAMP:20230822T160000Z
+UID:41887
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=011&txtSessionId=41887&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230823T151500
+DTEND;TZID=Europe/London:20230823T171500
+DTSTAMP:20230823T141500Z
+UID:41900
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=011&txtSessionId=41900&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230824T144000
+DTEND;TZID=Europe/London:20230824T164000
+DTSTAMP:20230824T134000Z
+UID:41890
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=011&txtSessionId=41890&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230824T171500
+DTEND;TZID=Europe/London:20230824T191500
+DTSTAMP:20230824T161500Z
+UID:41891
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=011&txtSessionId=41891&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Carmen (2024)
+DTSTART;TZID=Europe/London:20240127T175500
+DTEND;TZID=Europe/London:20240127T214000
+DTSTAMP:20240127T175500Z
+UID:41022
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionI
+ d=41022&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Dead Man Walking (2023)
+DTSTART;TZID=Europe/London:20231021T175500
+DTEND;TZID=Europe/London:20231021T211000
+DTSTAMP:20231021T165500Z
+UID:41014
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013158/met-opera-live-dead-man-walking-2023/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&t
+ xtSessionId=41014&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: La Rondine (2024)
+DTSTART;TZID=Europe/London:20240420T175500
+DTEND;TZID=Europe/London:20240420T204500
+DTSTAMP:20240420T165500Z
+UID:41028
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSess
+ ionId=41028&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Nabucco (2024)
+DTSTART;TZID=Europe/London:20240106T175500
+DTEND;TZID=Europe/London:20240106T210500
+DTSTAMP:20240106T175500Z
+UID:41020
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSession
+ Id=41020&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: X: The Life and Times of Malcolm X
+DTSTART;TZID=Europe/London:20231118T175500
+DTEND;TZID=Europe/London:20231118T212000
+DTSTAMP:20231118T175500Z
+UID:41016
+DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013159/met-opera-live-x-the-life-and-times-of-malcolm-x/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=011&txtSessionId=41016&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240511T175500
+DTEND;TZID=Europe/London:20240511T211000
+DTSTAMP:20240511T165500Z
+UID:41030
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&t
+ xtSessionId=41030&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London:20231209T175500
+DTEND;TZID=Europe/London:20231209T203000
+DTSTAMP:20231209T175500Z
+UID:41018
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=011&txtSessionId=41018&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scorsese/De Niro: The Irishman
+DTSTART;TZID=Europe/London:20230924T180000
+DTEND;TZID=Europe/London:20230924T215000
+DTSTAMP:20230924T170000Z
+UID:42000
+DESCRIPTION:Duration: 3h 29m (209 min)\nScreen 3\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/011/HO00013427/scorsese-de-niro-the-irishman/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessio
+ nId=42000&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Klimt and the Kiss
+DTSTART;TZID=Europe/London:20231030T180000
+DTEND;TZID=Europe/London:20231030T195000
+DTSTAMP:20231030T180000Z
+UID:41569
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/011/HO00013246/eos-klimt-and-the-kiss/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtS
+ essionId=41569&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Klimt and the Kiss
+DTSTART;TZID=Europe/London:20231108T140000
+DTEND;TZID=Europe/London:20231108T155000
+DTSTAMP:20231108T140000Z
+UID:41570
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/011/HO00013246/eos-klimt-and-the-kiss/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtS
+ essionId=41570&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Fleabag (Encore 2023)
+DTSTART;TZID=Europe/London:20230823T180000
+DTEND;TZID=Europe/London:20230823T194000
+DTSTAMP:20230823T170000Z
+UID:41591
+DESCRIPTION:Duration: 1h 20m (80 min)\nScreen 3\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/011/HO00012865/nt-live-f
+ leabag-encore-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=011&txtSessionId=41591&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Carmen (2024)
+DTSTART;TZID=Europe/London:20240501T184500
+DTEND;TZID=Europe/London:20240501T223000
+DTSTAMP:20240501T174500Z
+UID:40784
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013040/roh-live-carmen-2024/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4078
+ 4&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Rusalka (2024)
+DTSTART;TZID=Europe/London:20240124T184500
+DTEND;TZID=Europe/London:20240124T223000
+DTSTAMP:20240124T184500Z
+UID:40774
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=407
+ 74&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Little Life
+DTSTART;TZID=Europe/London:20230928T190000
+DTEND;TZID=Europe/London:20230928T224000
+DTSTAMP:20230928T180000Z
+UID:41834
+DESCRIPTION:Duration: 3h 40m (220 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/011/HO00013256/a-little-life/\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=011&txtSessionId=41834&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Little Life
+DTSTART;TZID=Europe/London:20231004T190000
+DTEND;TZID=Europe/London:20231004T224000
+DTSTAMP:20231004T180000Z
+UID:41835
+DESCRIPTION:Duration: 3h 40m (220 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/011/HO00013256/a-little-life/\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=011&txtSessionId=41835&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London:20240611T191500
+DTEND;TZID=Europe/London:20240611T223000
+DTSTAMP:20240611T181500Z
+UID:40790
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessio
+ nId=40790&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240424T191500
+DTEND;TZID=Europe/London:20240424T223500
+DTSTAMP:20240424T181500Z
+UID:40782
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=4
+ 0782&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Das Rheingold (2023)
+DTSTART;TZID=Europe/London:20230920T191500
+DTEND;TZID=Europe/London:20230920T220000
+DTSTAMP:20230920T181500Z
+UID:40766
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSession
+ Id=40766&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: MacMillan Triple (2024)
+DTSTART;TZID=Europe/London:20240409T191500
+DTEND;TZID=Europe/London:20240409T223000
+DTSTAMP:20240409T181500Z
+UID:40780
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSess
+ ionId=40780&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240522T191500
+DTEND;TZID=Europe/London:20240522T223000
+DTSTAMP:20240522T181500Z
+UID:40786
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSes
+ sionId=40786&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Nutcracker (2023)
+DTSTART;TZID=Europe/London:20231212T191500
+DTEND;TZID=Europe/London:20231212T220000
+DTSTAMP:20231212T191500Z
+UID:40772
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessio
+ nId=40772&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Manon (2024)
+DTSTART;TZID=Europe/London:20240207T191500
+DTEND;TZID=Europe/London:20240207T223000
+DTSTAMP:20240207T191500Z
+UID:40776
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=40776
+ &visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London:20231005T191500
+DTEND;TZID=Europe/London:20231005T223500
+DTSTAMP:20231005T181500Z
+UID:40768
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013021/roh-live-l-elisir-d-amore-2023/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSess
+ ionId=40768&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Don Quixote (2023)
+DTSTART;TZID=Europe/London:20231107T191500
+DTEND;TZID=Europe/London:20231107T223500
+DTSTAMP:20231107T191500Z
+UID:40770
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId
+ =40770&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240326T191500
+DTEND;TZID=Europe/London:20240326T223000
+DTSTAMP:20240326T191500Z
+UID:40778
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/011/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSess
+ ionId=40778&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Message in a Bottle
 DTSTART;TZID=Europe/London:20240530T192000
 DTEND;TZID=Europe/London:20240530T204500
@@ -1409,54 +1122,6 @@ DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Madama Butterfly on the Lake
-DTSTART;TZID=Europe/London:20230907T193000
-DTEND;TZID=Europe/London:20230907T220000
-DTSTAMP:20230907T183000Z
-UID:41588
-DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013306/madama-butterfly-on-the-lake/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 11&txtSessionId=41588&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London:20230818T193000
-DTEND;TZID=Europe/London:20230818T223500
-DTSTAMP:20230818T183000Z
-UID:41841
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41841&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London:20230819T194000
-DTEND;TZID=Europe/London:20230819T224500
-DTSTAMP:20230819T184000Z
-UID:41852
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41852&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London:20230820T184500
-DTEND;TZID=Europe/London:20230820T215000
-DTSTAMP:20230820T174500Z
-UID:41860
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=011&txtSessionId=41860&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mission: Impossible - Dead Reckoning Part One
 DTSTART;TZID=Europe/London:20230821T193000
 DTEND;TZID=Europe/London:20230821T223500
@@ -1478,6 +1143,60 @@ DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 3\n\nhttps://www.picturehou
  ses.com/movie-details/011/HO00013185/mission-impossible-dead-reckoning-par
  t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
  x?cinemacode=011&txtSessionId=41878&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly on the Lake
+DTSTART;TZID=Europe/London:20230907T193000
+DTEND;TZID=Europe/London:20230907T220000
+DTSTAMP:20230907T183000Z
+UID:41588
+DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013306/madama-butterfly-on-the-lake/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 11&txtSessionId=41588&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scorsese/De Niro: Casino
+DTSTART;TZID=Europe/London:20231003T194000
+DTEND;TZID=Europe/London:20231003T230000
+DTSTAMP:20231003T184000Z
+UID:42001
+DESCRIPTION:Duration: 2h 58m (178 min)\nScreen 3\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/011/HO00013428/scorsese-de-niro-casino/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId=42
+ 001&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=Europe/London:20230905T200000
+DTEND;TZID=Europe/London:20230905T221000
+DTSTAMP:20230905T190000Z
+UID:41750
+DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 2\n\nDiscover: Discover stu
+ nning cinema. Each week\, the Picturehouse film team champion one must-see
+  film.\n\nPreview: A special preview screening of this film. See it before
+  anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-det
+ ails/011/HO00013106/past-lives/\nhttps://ticketing.picturehouses.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=011&txtSessionId=41750&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230824T200000
+DTEND;TZID=Europe/London:20230824T214500
+DTSTAMP:20230824T190000Z
+UID:41911
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nDiscover: Discover stun
+ ning cinema. Each week\, the Picturehouse film team champion one must-see 
+ film.\n\nhttps://www.picturehouses.com/movie-details/011/HO00012765/scrapp
+ er/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=011&txtSessionId=41911&visLang=1
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
@@ -1508,33 +1227,6 @@ DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230824T200000
-DTEND;TZID=Europe/London:20230824T214500
-DTSTAMP:20230824T190000Z
-UID:41911
-DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nDiscover: Discover stun
- ning cinema. Each week\, the Picturehouse film team champion one must-see 
- film.\n\nhttps://www.picturehouses.com/movie-details/011/HO00012765/scrapp
- er/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=011&txtSessionId=41911&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=Europe/London:20230905T200000
-DTEND;TZID=Europe/London:20230905T221000
-DTSTAMP:20230905T190000Z
-UID:41750
-DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 2\n\nDiscover: Discover stu
- nning cinema. Each week\, the Picturehouse film team champion one must-see
-  film.\n\nPreview: A special preview screening of this film. See it before
-  anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-det
- ails/011/HO00013106/past-lives/\nhttps://ticketing.picturehouses.com/Ticke
- ting/visSelectTickets.aspx?cinemacode=011&txtSessionId=41750&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - Tokyo Story
 DTSTART;TZID=Europe/London:20230927T200000
 DTEND;TZID=Europe/London:20230927T224000
@@ -1547,18 +1239,18 @@ DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scorsese/De Niro: Raging Bull
-DTSTART;TZID=Europe/London:20230914T201500
-DTEND;TZID=Europe/London:20230914T224500
-DTSTAMP:20230914T191500Z
-UID:41829
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 3\n\nreDiscover: Time to br
+SUMMARY:Scorsese/De Niro: Cape Fear
+DTSTART;TZID=Europe/London:20231011T201500
+DTEND;TZID=Europe/London:20231011T224500
+DTSTAMP:20231011T191500Z
+UID:42003
+DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 3\n\nreDiscover: Time to br
  oaden your cinematic horizons: you'll find the best of what's next with Di
  scover's under-the-radar releases\, and return to favourites of yesterday 
  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/011/HO00013333/scorsese-de-niro-raging-bull/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSession
- Id=41829&visLang=1
+ -details/011/HO00013429/scorsese-de-niro-cape-fear/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSessionId
+ =42003&visLang=1
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
@@ -1574,27 +1266,18 @@ DESCRIPTION:Duration: 1h 22m (82 min)\nScreen 3\n\nhttps://www.picturehous
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Vertigo
-DTSTART;TZID=Europe/London:20231129T203000
-DTEND;TZID=Europe/London:20231129T225500
-DTSTAMP:20231129T203000Z
-UID:41833
-DESCRIPTION:Duration: 2h 02m (122 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/011/HO00013351/sight-sound-top-10-vertigo/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011
- &txtSessionId=41833&visLang=1
-LOCATION:Picture House Henley-on-Thames - Regal
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - In the Mood For Love
-DTSTART;TZID=Europe/London:20230830T203000
-DTEND;TZID=Europe/London:20230830T223000
-DTSTAMP:20230830T193000Z
-UID:41672
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/011/HO00013348/sight-sound-top-10-in-the-mood-for-lov
- e/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=011&txtSessionId=41672&visLang=1
+SUMMARY:Scorsese/De Niro: Raging Bull
+DTSTART;TZID=Europe/London:20230914T201500
+DTEND;TZID=Europe/London:20230914T224500
+DTSTAMP:20230914T191500Z
+UID:41829
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 3\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/011/HO00013333/scorsese-de-niro-raging-bull/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txtSession
+ Id=41829&visLang=1
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
@@ -1628,6 +1311,18 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 3\n\nreDiscover: Time to br
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Vertigo
+DTSTART;TZID=Europe/London:20231129T203000
+DTEND;TZID=Europe/London:20231129T225500
+DTSTAMP:20231129T203000Z
+UID:41833
+DESCRIPTION:Duration: 2h 02m (122 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/011/HO00013351/sight-sound-top-10-vertigo/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011
+ &txtSessionId=41833&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Scorsese/De Niro: The King of Comedy
 DTSTART;TZID=Europe/London:20230921T203000
 DTEND;TZID=Europe/London:20230921T224000
@@ -1640,6 +1335,18 @@ DESCRIPTION:Duration: 1h 49m (109 min)\nScreen 3\n\nreDiscover: Time to br
  -details/011/HO00013334/scorsese-de-niro-the-king-of-comedy/\nhttps://tick
  eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=011&txt
  SessionId=41830&visLang=1
+LOCATION:Picture House Henley-on-Thames - Regal
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - In the Mood For Love
+DTSTART;TZID=Europe/London:20230830T203000
+DTEND;TZID=Europe/London:20230830T223000
+DTSTAMP:20230830T193000Z
+UID:41672
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/011/HO00013348/sight-sound-top-10-in-the-mood-for-lov
+ e/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=011&txtSessionId=41672&visLang=1
 LOCATION:Picture House Henley-on-Thames - Regal
 END:VEVENT
 BEGIN:VEVENT
