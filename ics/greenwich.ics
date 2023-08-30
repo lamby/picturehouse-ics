@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230829T151923Z
+LAST-MODIFIED:20230830T145341Z
 NAME:Picture House London - Greenwich
 X-WR-CALNAME:Picture House London - Greenwich
-BEGIN:VEVENT
-SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
-DTSTART;TZID=Europe/London:20230902T100000
-DTEND;TZID=Europe/London:20230902T120000
-DTSTAMP:20230902T090000Z
-UID:70144
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013316/teenage-mutant-ninja-turtles-mutant-m
- ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=021&txtSessionId=70144&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elemental
 DTSTART;TZID=Europe/London:20230902T100000
@@ -41,6 +29,30 @@ DESCRIPTION:Duration: 1h 17m (77 min)\nScreen 2\n\nhttps://www.picturehous
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Peter Pan (1953)
+DTSTART;TZID=Europe/London:20230903T103000
+DTEND;TZID=Europe/London:20230903T121000
+DTSTAMP:20230903T093000Z
+UID:70263
+DESCRIPTION:Duration: 1h 17m (77 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013269/peter-pan-1953/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
+ =70263&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Pan (1953)
+DTSTART;TZID=Europe/London:20230907T120000
+DTEND;TZID=Europe/London:20230907T134000
+DTSTAMP:20230907T110000Z
+UID:70278
+DESCRIPTION:Duration: 1h 17m (77 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013269/peter-pan-1953/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
+ =70278&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Super Mario Bros. Movie (2D)
 DTSTART;TZID=Europe/London:20230902T104500
 DTEND;TZID=Europe/London:20230902T124000
@@ -50,18 +62,6 @@ DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
  es.com/movie-details/021/HO00012697/the-super-mario-bros-movie-2d/\nhttps:
  //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
  21&txtSessionId=70123&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dog-Friendly Screening: Scrapper
-DTSTART;TZID=Europe/London:20230903T110000
-DTEND;TZID=Europe/London:20230903T124500
-DTSTAMP:20230903T100000Z
-UID:70121
-DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013344/dog-friendly-screening-scrapper/\nhttp
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =021&txtSessionId=70121&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -78,15 +78,27 @@ DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nSubtitled (Captioned):
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mission: Impossible - Dead Reckoning Part One
-DTSTART;TZID=Europe/London:20230830T111500
-DTEND;TZID=Europe/London:20230830T142000
-DTSTAMP:20230830T101500Z
-UID:70033
-DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013185/mission-impossible-dead-reckoning-par
- t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=021&txtSessionId=70033&visLang=1
+SUMMARY:Spider-Man: Across the Spider-Verse
+DTSTART;TZID=Europe/London:20230906T121500
+DTEND;TZID=Europe/London:20230906T145500
+DTSTAMP:20230906T111500Z
+UID:70274
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013031/spider-man-across-the-spider-verse/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=021&txtSessionId=70274&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dog-Friendly Screening: Scrapper
+DTSTART;TZID=Europe/London:20230903T110000
+DTEND;TZID=Europe/London:20230903T124500
+DTSTAMP:20230903T100000Z
+UID:70121
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013344/dog-friendly-screening-scrapper/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =021&txtSessionId=70121&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -114,196 +126,52 @@ DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 5\n\nhttps://www.picturehou
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Andre Rieu's White Christmas
-DTSTART;TZID=Europe/London:20231202T120000
-DTEND;TZID=Europe/London:20231202T152000
-DTSTAMP:20231202T120000Z
-UID:70137
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013458/andre-rieu-s-white-christmas/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 21&txtSessionId=70137&visLang=1
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230901T115000
+DTEND;TZID=Europe/London:20230901T135000
+DTSTAMP:20230901T105000Z
+UID:70242
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=021&txtSessionId=70242&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Das Rheingold (2023)
-DTSTART;TZID=Europe/London:20230926T120000
-DTEND;TZID=Europe/London:20230926T144500
-DTSTAMP:20230926T110000Z
-UID:67745
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/021/HO00013108/roh-encore-das-rheingold-2023/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67
- 745&visLang=1
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230902T100000
+DTEND;TZID=Europe/London:20230902T120000
+DTSTAMP:20230902T090000Z
+UID:70144
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=021&txtSessionId=70144&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London:20240327T120000
-DTEND;TZID=Europe/London:20240327T155500
-DTSTAMP:20240327T120000Z
-UID:68247
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013177/met-opera-encore-romeo-et-juliette-20
- 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=021&txtSessionId=68247&visLang=1
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230904T115000
+DTEND;TZID=Europe/London:20230904T135000
+DTSTAMP:20230904T105000Z
+UID:70268
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013316/teenage-
+ mutant-ninja-turtles-mutant-mayhem/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70268&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Manon (2024)
-DTSTART;TZID=Europe/London:20240213T120000
-DTEND;TZID=Europe/London:20240213T153500
-DTSTAMP:20240213T120000Z
-UID:67755
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nLive via Satellite: Th
- is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
- turehouses.com/movie-details/021/HO00013113/roh-encore-manon-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 21&txtSessionId=67755&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London:20240528T120000
-DTEND;TZID=Europe/London:20240528T151500
-DTSTAMP:20240528T110000Z
-UID:67765
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/021/HO00013118/roh-encore-the-winter-s-tale-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionI
- d=67765&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:X: The Life and Times of Malcolm
-DTSTART;TZID=Europe/London:20231122T120000
-DTEND;TZID=Europe/London:20231122T154500
-DTSTAMP:20231122T120000Z
-UID:68237
-DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013172/met-opera-encore-x-the-life-and-times
- -of-malcolm/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=021&txtSessionId=68237&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Message in a Bottle (Encore)
-DTSTART;TZID=Europe/London:20240604T120000
-DTEND;TZID=Europe/London:20240604T132500
-DTSTAMP:20240604T110000Z
-UID:67767
-DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 2\n\nAd and Trailer Free: No
-  advertisements or trailers will play ahead of this screening. You are rec
- ommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detail
- s/021/HO00013119/message-in-a-bottle-encore/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67767&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London:20231213T120000
-DTEND;TZID=Europe/London:20231213T145500
-DTSTAMP:20231213T120000Z
-UID:68239
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013173/met-opera-encore-florencia-en-el-amaz
- onas-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=021&txtSessionId=68239&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: The Nutcracker (2023)
-DTSTART;TZID=Europe/London:20231219T120000
-DTEND;TZID=Europe/London:20231219T144500
-DTSTAMP:20231219T120000Z
-UID:67751
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/021/HO00013111/roh-encore-the-nutcracker-2023/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=6
- 7751&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Forza del Destino (2024)
-DTSTART;TZID=Europe/London:20240313T120000
-DTEND;TZID=Europe/London:20240313T164500
-DTSTAMP:20240313T120000Z
-UID:68245
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013176/met-opera-encore-la-forza-del-destino
- -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=021&txtSessionId=68245&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dead Man Walking (2023)
-DTSTART;TZID=Europe/London:20231025T120000
-DTEND;TZID=Europe/London:20231025T153500
-DTSTAMP:20231025T110000Z
-UID:68235
-DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013171/met-opera-encore-dead-man-walking-202
- 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=021&txtSessionId=68235&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carmen (2024)
-DTSTART;TZID=Europe/London:20240131T120000
-DTEND;TZID=Europe/London:20240131T160500
-DTSTAMP:20240131T120000Z
-UID:68243
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013175/met-opera-encore-carmen-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 21&txtSessionId=68243&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nabucco (2024)
-DTSTART;TZID=Europe/London:20240110T120000
-DTEND;TZID=Europe/London:20240110T153000
-DTSTAMP:20240110T120000Z
-UID:68241
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013174/met-opera-encore-nabucco-2024/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 021&txtSessionId=68241&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240402T120000
-DTEND;TZID=Europe/London:20240402T151500
-DTSTAMP:20240402T110000Z
-UID:67757
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/021/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
- =67757&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Rusalka (2024)
-DTSTART;TZID=Europe/London:20240130T120000
-DTEND;TZID=Europe/London:20240130T154500
-DTSTAMP:20240130T120000Z
-UID:67753
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/021/HO00013112/roh-encore-rusalka-2024/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67753&vi
- sLang=1
+SUMMARY:Teenage Mutant Ninja Turtles: Mutant Mayhem
+DTSTART;TZID=Europe/London:20230905T133000
+DTEND;TZID=Europe/London:20230905T153000
+DTSTAMP:20230905T123000Z
+UID:70271
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013316/teenage-mutant-ninja-turtles-mutant-m
+ ayhem/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=021&txtSessionId=70271&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -321,6 +189,84 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Encore: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240528T120000
+DTEND;TZID=Europe/London:20240528T151500
+DTSTAMP:20240528T110000Z
+UID:67765
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/021/HO00013118/roh-encore-the-winter-s-tale-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionI
+ d=67765&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dead Man Walking (2023)
+DTSTART;TZID=Europe/London:20231025T120000
+DTEND;TZID=Europe/London:20231025T153500
+DTSTAMP:20231025T110000Z
+UID:68235
+DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013171/met-opera-encore-dead-man-walking-202
+ 3/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=021&txtSessionId=68235&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andre Rieu's White Christmas
+DTSTART;TZID=Europe/London:20231202T120000
+DTEND;TZID=Europe/London:20231202T152000
+DTSTAMP:20231202T120000Z
+UID:70137
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013458/andre-rieu-s-white-christmas/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 21&txtSessionId=70137&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: The Nutcracker (2023)
+DTSTART;TZID=Europe/London:20231219T120000
+DTEND;TZID=Europe/London:20231219T144500
+DTSTAMP:20231219T120000Z
+UID:67751
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/021/HO00013111/roh-encore-the-nutcracker-2023/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=6
+ 7751&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nabucco (2024)
+DTSTART;TZID=Europe/London:20240110T120000
+DTEND;TZID=Europe/London:20240110T153000
+DTSTAMP:20240110T120000Z
+UID:68241
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013174/met-opera-encore-nabucco-2024/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 021&txtSessionId=68241&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Das Rheingold (2023)
+DTSTART;TZID=Europe/London:20230926T120000
+DTEND;TZID=Europe/London:20230926T144500
+DTSTAMP:20230926T110000Z
+UID:67745
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/021/HO00013108/roh-encore-das-rheingold-2023/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67
+ 745&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La Rondine (2024)
 DTSTART;TZID=Europe/London:20240424T120000
 DTEND;TZID=Europe/London:20240424T151000
@@ -330,6 +276,131 @@ DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/021/HO00013178/met-opera-encore-la-rondine-2024/\nht
  tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
  de=021&txtSessionId=68249&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Rusalka (2024)
+DTSTART;TZID=Europe/London:20240130T120000
+DTEND;TZID=Europe/London:20240130T154500
+DTSTAMP:20240130T120000Z
+UID:67753
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/021/HO00013112/roh-encore-rusalka-2024/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67753&vi
+ sLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen (2024)
+DTSTART;TZID=Europe/London:20240131T120000
+DTEND;TZID=Europe/London:20240131T160500
+DTSTAMP:20240131T120000Z
+UID:68243
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013175/met-opera-encore-carmen-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 21&txtSessionId=68243&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London:20231213T120000
+DTEND;TZID=Europe/London:20231213T145500
+DTSTAMP:20231213T120000Z
+UID:68239
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013173/met-opera-encore-florencia-en-el-amaz
+ onas-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=021&txtSessionId=68239&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Manon (2024)
+DTSTART;TZID=Europe/London:20240213T120000
+DTEND;TZID=Europe/London:20240213T153500
+DTSTAMP:20240213T120000Z
+UID:67755
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nLive via Satellite: Th
+ is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
+ turehouses.com/movie-details/021/HO00013113/roh-encore-manon-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 21&txtSessionId=67755&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:X: The Life and Times of Malcolm
+DTSTART;TZID=Europe/London:20231122T120000
+DTEND;TZID=Europe/London:20231122T154500
+DTSTAMP:20231122T120000Z
+UID:68237
+DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013172/met-opera-encore-x-the-life-and-times
+ -of-malcolm/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=021&txtSessionId=68237&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: L'Elisir D'Amore (2023)
+DTSTART;TZID=Europe/London:20231010T120000
+DTEND;TZID=Europe/London:20231010T154000
+DTSTAMP:20231010T110000Z
+UID:67747
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013109/roh-encore-l-elisir-d-amore-2023/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=67747&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Forza del Destino (2024)
+DTSTART;TZID=Europe/London:20240313T120000
+DTEND;TZID=Europe/London:20240313T164500
+DTSTAMP:20240313T120000Z
+UID:68245
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013176/met-opera-encore-la-forza-del-destino
+ -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=021&txtSessionId=68245&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London:20240327T120000
+DTEND;TZID=Europe/London:20240327T155500
+DTSTAMP:20240327T120000Z
+UID:68247
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013177/met-opera-encore-romeo-et-juliette-20
+ 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=021&txtSessionId=68247&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240402T120000
+DTEND;TZID=Europe/London:20240402T151500
+DTSTAMP:20240402T110000Z
+UID:67757
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/021/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
+ =67757&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240515T120000
+DTEND;TZID=Europe/London:20240515T153500
+DTSTAMP:20240515T110000Z
+UID:68251
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013179/met-opera-encore-madama-butterfly-202
+ 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=021&txtSessionId=68251&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -347,27 +418,101 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: L'Elisir D'Amore (2023)
-DTSTART;TZID=Europe/London:20231010T120000
-DTEND;TZID=Europe/London:20231010T154000
-DTSTAMP:20231010T110000Z
-UID:67747
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013109/roh-encore-l-elisir-d-amore-2023/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=67747&visLang=1
+SUMMARY:Message in a Bottle (Encore)
+DTSTART;TZID=Europe/London:20240604T120000
+DTEND;TZID=Europe/London:20240604T132500
+DTSTAMP:20240604T110000Z
+UID:67767
+DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 2\n\nAd and Trailer Free: No
+  advertisements or trailers will play ahead of this screening. You are rec
+ ommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detail
+ s/021/HO00013119/message-in-a-bottle-encore/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=67767&
+ visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240515T120000
-DTEND;TZID=Europe/London:20240515T153500
-DTSTAMP:20240515T110000Z
-UID:68251
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013179/met-opera-encore-madama-butterfly-202
- 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=021&txtSessionId=68251&visLang=1
+SUMMARY:Jurassic Park (30th Anniversary)
+DTSTART;TZID=Europe/London:20230901T125000
+DTEND;TZID=Europe/London:20230901T152000
+DTSTAMP:20230901T115000Z
+UID:70243
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013335/jurassic-park-30th-anniversary/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =021&txtSessionId=70243&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jurassic Park (30th Anniversary)
+DTSTART;TZID=Europe/London:20230902T181500
+DTEND;TZID=Europe/London:20230902T204500
+DTSTAMP:20230902T171500Z
+UID:70129
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013335/jurassic-park-30th-anniversary/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =021&txtSessionId=70129&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jurassic Park (30th Anniversary)
+DTSTART;TZID=Europe/London:20230903T123000
+DTEND;TZID=Europe/London:20230903T150000
+DTSTAMP:20230903T113000Z
+UID:70282
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013335/jurassic-park-30th-anniversary/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =021&txtSessionId=70282&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jurassic Park (30th Anniversary)
+DTSTART;TZID=Europe/London:20230904T123500
+DTEND;TZID=Europe/London:20230904T150500
+DTSTAMP:20230904T113500Z
+UID:70283
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013335/jurassic-park-30th-anniversary/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =021&txtSessionId=70283&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jurassic Park (30th Anniversary)
+DTSTART;TZID=Europe/London:20230905T123000
+DTEND;TZID=Europe/London:20230905T150000
+DTSTAMP:20230905T113000Z
+UID:70286
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013335/jurassic-park-30th-anniversary/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =021&txtSessionId=70286&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jurassic Park (30th Anniversary)
+DTSTART;TZID=Europe/London:20230906T134500
+DTEND;TZID=Europe/London:20230906T161500
+DTSTAMP:20230906T124500Z
+UID:70288
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013335/jurassic-park-30th-anniversary/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =021&txtSessionId=70288&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jurassic Park (30th Anniversary)
+DTSTART;TZID=Europe/London:20230907T150000
+DTEND;TZID=Europe/London:20230907T173000
+DTSTAMP:20230907T140000Z
+UID:70289
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013335/jurassic-park-30th-anniversary/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =021&txtSessionId=70289&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -392,6 +537,90 @@ DESCRIPTION:Duration: 1h 20m (80 min)\nScreen 2\n\nhttps://www.picturehous
  es.com/movie-details/021/HO00012865/nt-live-fleabag-encore-2023/\nhttps://
  ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021
  &txtSessionId=70131&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maigret
+DTSTART;TZID=Europe/London:20230901T134000
+DTEND;TZID=Europe/London:20230901T153000
+DTSTAMP:20230901T124000Z
+UID:70280
+DESCRIPTION:Duration: 1h 29m (89 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013364/maigret/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70280&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maigret
+DTSTART;TZID=Europe/London:20230901T180000
+DTEND;TZID=Europe/London:20230901T195000
+DTSTAMP:20230901T170000Z
+UID:70279
+DESCRIPTION:Duration: 1h 29m (89 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013364/maigret/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70279&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maigret
+DTSTART;TZID=Europe/London:20230903T120000
+DTEND;TZID=Europe/London:20230903T135000
+DTSTAMP:20230903T110000Z
+UID:70281
+DESCRIPTION:Duration: 1h 29m (89 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013364/maigret/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70281&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maigret
+DTSTART;TZID=Europe/London:20230904T130000
+DTEND;TZID=Europe/London:20230904T145000
+DTSTAMP:20230904T120000Z
+UID:70284
+DESCRIPTION:Duration: 1h 29m (89 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013364/maigret/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70284&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maigret
+DTSTART;TZID=Europe/London:20230905T161000
+DTEND;TZID=Europe/London:20230905T180000
+DTSTAMP:20230905T151000Z
+UID:70285
+DESCRIPTION:Duration: 1h 29m (89 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013364/maigret/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70285&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maigret
+DTSTART;TZID=Europe/London:20230906T164500
+DTEND;TZID=Europe/London:20230906T183500
+DTSTAMP:20230906T154500Z
+UID:70287
+DESCRIPTION:Duration: 1h 29m (89 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013364/maigret/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70287&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maigret
+DTSTART;TZID=Europe/London:20230907T182000
+DTEND;TZID=Europe/London:20230907T201000
+DTSTAMP:20230907T172000Z
+UID:70292
+DESCRIPTION:Duration: 1h 29m (89 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013364/maigret/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70292&
+ visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -433,55 +662,6 @@ DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 2\n\nhttps://www.picturehous
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Joy Ride
-DTSTART;TZID=Europe/London:20230830T150000
-DTEND;TZID=Europe/London:20230830T165500
-DTSTAMP:20230830T140000Z
-UID:70039
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013235/joy-ride/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70039
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joy Ride
-DTSTART;TZID=Europe/London:20230830T172000
-DTEND;TZID=Europe/London:20230830T191500
-DTSTAMP:20230830T162000Z
-UID:70047
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013235/joy-ride/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=70047&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joy Ride
-DTSTART;TZID=Europe/London:20230831T201500
-DTEND;TZID=Europe/London:20230831T221000
-DTSTAMP:20230831T191500Z
-UID:70068
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013235/joy-ride/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70068
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joy Ride
-DTSTART;TZID=Europe/London:20230902T204500
-DTEND;TZID=Europe/London:20230902T224000
-DTSTAMP:20230902T194500Z
-UID:70107
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013235/joy-ride/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70107
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Scorsese/De Niro: The Irishman
 DTSTART;TZID=Europe/London:20230924T150000
 DTEND;TZID=Europe/London:20230924T185000
@@ -512,18 +692,233 @@ DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scorsese/De Niro: The King of Comedy
-DTSTART;TZID=Europe/London:20230917T160000
-DTEND;TZID=Europe/London:20230917T181000
-DTSTAMP:20230917T150000Z
-UID:69675
-DESCRIPTION:Duration: 1h 49m (109 min)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/021/HO00013334/scorsese-de-niro-the-king-of-comedy/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txt
- SessionId=69675&visLang=1
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230901T160000
+DTEND;TZID=Europe/London:20230901T175500
+DTSTAMP:20230901T150000Z
+UID:70148
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70148
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230901T181500
+DTEND;TZID=Europe/London:20230901T201000
+DTSTAMP:20230901T171500Z
+UID:70147
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70147
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230901T203000
+DTEND;TZID=Europe/London:20230901T222500
+DTSTAMP:20230901T193000Z
+UID:70140
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70140
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230902T211500
+DTEND;TZID=Europe/London:20230902T231000
+DTSTAMP:20230902T201500Z
+UID:70135
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70135
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230903T150000
+DTEND;TZID=Europe/London:20230903T165500
+DTSTAMP:20230903T140000Z
+UID:70264
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70264
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230903T172000
+DTEND;TZID=Europe/London:20230903T191500
+DTSTAMP:20230903T162000Z
+UID:70239
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013105/passages/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=70239&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230903T194000
+DTEND;TZID=Europe/London:20230903T213500
+DTSTAMP:20230903T184000Z
+UID:70234
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70234
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230904T153000
+DTEND;TZID=Europe/London:20230904T172500
+DTSTAMP:20230904T143000Z
+UID:70163
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70163
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230904T174500
+DTEND;TZID=Europe/London:20230904T194000
+DTSTAMP:20230904T164500Z
+UID:70174
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70174
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230904T200000
+DTEND;TZID=Europe/London:20230904T215500
+DTSTAMP:20230904T190000Z
+UID:70170
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70170
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230905T154500
+DTEND;TZID=Europe/London:20230905T174000
+DTSTAMP:20230905T144500Z
+UID:70248
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70248
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230905T180000
+DTEND;TZID=Europe/London:20230905T195500
+DTSTAMP:20230905T170000Z
+UID:70254
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70254
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230905T201500
+DTEND;TZID=Europe/London:20230905T221000
+DTSTAMP:20230905T191500Z
+UID:70256
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70256
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230906T153000
+DTEND;TZID=Europe/London:20230906T172500
+DTSTAMP:20230906T143000Z
+UID:70205
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013105/passages/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=70205&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230906T175000
+DTEND;TZID=Europe/London:20230906T194500
+DTSTAMP:20230906T165000Z
+UID:70201
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70201
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230906T201000
+DTEND;TZID=Europe/London:20230906T220500
+DTSTAMP:20230906T191000Z
+UID:70208
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70208
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230907T131500
+DTEND;TZID=Europe/London:20230907T151000
+DTSTAMP:20230907T121500Z
+UID:70277
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70277
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230907T180000
+DTEND;TZID=Europe/London:20230907T195500
+DTSTAMP:20230907T170000Z
+UID:70219
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70219
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230907T203000
+DTEND;TZID=Europe/London:20230907T222500
+DTSTAMP:20230907T193000Z
+UID:70226
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70226
+ &visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -557,621 +952,18 @@ DESCRIPTION:Duration: 2h 26m (146 min)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230829T163000
-DTEND;TZID=Europe/London:20230829T195000
-DTSTAMP:20230829T153000Z
-UID:70016
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0016&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230829T190000
-DTEND;TZID=Europe/London:20230829T222000
-DTSTAMP:20230829T180000Z
-UID:70081
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0081&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230830T114000
-DTEND;TZID=Europe/London:20230830T150000
-DTSTAMP:20230830T104000Z
-UID:70044
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0044&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230830T152000
-DTEND;TZID=Europe/London:20230830T184000
-DTSTAMP:20230830T142000Z
-UID:70037
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0037&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230830T190000
-DTEND;TZID=Europe/London:20230830T222000
-DTSTAMP:20230830T180000Z
-UID:70049
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0049&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230831T114000
-DTEND;TZID=Europe/London:20230831T150000
-DTSTAMP:20230831T104000Z
-UID:70065
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0065&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230831T152000
-DTEND;TZID=Europe/London:20230831T184000
-DTSTAMP:20230831T142000Z
-UID:70058
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0058&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230831T190000
-DTEND;TZID=Europe/London:20230831T222000
-DTSTAMP:20230831T180000Z
-UID:70070
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013205/oppenhei
- mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=021&txtSessionId=70070&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230902T123000
-DTEND;TZID=Europe/London:20230902T155000
-DTSTAMP:20230902T113000Z
-UID:70130
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013205/oppenhei
- mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=021&txtSessionId=70130&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230902T153000
-DTEND;TZID=Europe/London:20230902T185000
-DTSTAMP:20230902T143000Z
-UID:70122
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0122&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230902T171500
-DTEND;TZID=Europe/London:20230902T203500
-DTSTAMP:20230902T161500Z
-UID:70113
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0113&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230902T193000
-DTEND;TZID=Europe/London:20230902T225000
-DTSTAMP:20230902T183000Z
-UID:70114
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013205/oppenhei
- mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=021&txtSessionId=70114&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230829T164500
-DTEND;TZID=Europe/London:20230829T184000
-DTSTAMP:20230829T154500Z
-UID:70030
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0030&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230829T201000
-DTEND;TZID=Europe/London:20230829T220500
-DTSTAMP:20230829T191000Z
-UID:70027
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0027&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230830T113000
-DTEND;TZID=Europe/London:20230830T132500
-DTSTAMP:20230830T103000Z
-UID:70034
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0034&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230830T132000
-DTEND;TZID=Europe/London:20230830T151500
-DTSTAMP:20230830T122000Z
-UID:70041
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0041&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230830T154000
-DTEND;TZID=Europe/London:20230830T173500
-DTSTAMP:20230830T144000Z
-UID:70036
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0036&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230830T175000
-DTEND;TZID=Europe/London:20230830T194500
-DTSTAMP:20230830T165000Z
-UID:70051
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0051&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230830T200000
-DTEND;TZID=Europe/London:20230830T215500
-DTSTAMP:20230830T190000Z
-UID:70048
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0048&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230831T130000
-DTEND;TZID=Europe/London:20230831T145500
-DTSTAMP:20230831T120000Z
-UID:70062
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0062&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230831T151000
-DTEND;TZID=Europe/London:20230831T170500
-DTSTAMP:20230831T141000Z
-UID:70057
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 1\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013286/theater-c
- amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=021&txtSessionId=70057&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230831T175000
-DTEND;TZID=Europe/London:20230831T194500
-DTSTAMP:20230831T165000Z
-UID:70072
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0072&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230831T200000
-DTEND;TZID=Europe/London:20230831T215500
-DTSTAMP:20230831T190000Z
-UID:70069
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0069&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230902T123000
-DTEND;TZID=Europe/London:20230902T142500
-DTSTAMP:20230902T113000Z
-UID:70119
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013286/theater-c
- amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=021&txtSessionId=70119&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230902T160000
-DTEND;TZID=Europe/London:20230902T175500
-DTSTAMP:20230902T150000Z
-UID:70109
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013286/theater-c
- amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=021&txtSessionId=70109&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London:20240323T165500
-DTEND;TZID=Europe/London:20240323T203000
-DTSTAMP:20240323T165500Z
-UID:68246
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00013167/met-opera-live-romeo-et-juliette-2024/\nhttps://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&
- txtSessionId=68246&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: La Forza del Destino (2024)
-DTSTART;TZID=Europe/London:20240309T170000
-DTEND;TZID=Europe/London:20240309T212500
-DTSTAMP:20240309T170000Z
-UID:68244
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00013166/met-opera-live-la-forza-del-destino-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 21&txtSessionId=68244&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230829T172000
-DTEND;TZID=Europe/London:20230829T193500
-DTSTAMP:20230829T162000Z
-UID:70031
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=021&txtSessionId=70031&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230829T200000
-DTEND;TZID=Europe/London:20230829T221500
-DTSTAMP:20230829T190000Z
-UID:70025
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70025&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230830T123000
-DTEND;TZID=Europe/London:20230830T144500
-DTSTAMP:20230830T113000Z
-UID:70042
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70042&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230830T150000
-DTEND;TZID=Europe/London:20230830T171500
-DTSTAMP:20230830T140000Z
-UID:70038
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70038&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230830T174000
-DTEND;TZID=Europe/London:20230830T195500
-DTSTAMP:20230830T164000Z
-UID:70052
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70052&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230830T202000
-DTEND;TZID=Europe/London:20230830T223500
-DTSTAMP:20230830T192000Z
-UID:70046
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70046&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230831T133000
-DTEND;TZID=Europe/London:20230831T154500
-DTSTAMP:20230831T123000Z
-UID:70063
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70063&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230831T151500
-DTEND;TZID=Europe/London:20230831T173000
-DTSTAMP:20230831T141500Z
-UID:70059
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70059&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230831T174000
-DTEND;TZID=Europe/London:20230831T195500
-DTSTAMP:20230831T164000Z
-UID:70073
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70073&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230831T202000
-DTEND;TZID=Europe/London:20230831T223500
-DTSTAMP:20230831T192000Z
-UID:70067
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=021&txtSessionId=70067&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230902T121000
-DTEND;TZID=Europe/London:20230902T142500
-DTSTAMP:20230902T111000Z
-UID:70116
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=021&txtSessionId=70116&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230902T144000
-DTEND;TZID=Europe/London:20230902T165500
-DTSTAMP:20230902T134000Z
-UID:70115
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70115&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230902T161000
-DTEND;TZID=Europe/London:20230902T182500
-DTSTAMP:20230902T151000Z
-UID:70104
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70104&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230902T184000
-DTEND;TZID=Europe/London:20230902T205500
-DTSTAMP:20230902T174000Z
-UID:70125
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=021&txtSessionId=70125&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230902T211000
-DTEND;TZID=Europe/London:20230902T232500
-DTSTAMP:20230902T201000Z
-UID:70126
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70126&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Innocent
-DTSTART;TZID=Europe/London:20230829T174000
-DTEND;TZID=Europe/London:20230829T193500
-DTSTAMP:20230829T164000Z
-UID:70083
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013304/the-innocent/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0083&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Innocent
-DTSTART;TZID=Europe/London:20230830T194500
-DTEND;TZID=Europe/London:20230830T214000
-DTSTAMP:20230830T184500Z
-UID:70084
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013304/the-innocent/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0084&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Innocent
-DTSTART;TZID=Europe/London:20230831T150000
-DTEND;TZID=Europe/London:20230831T165500
-DTSTAMP:20230831T140000Z
-UID:70086
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013304/the-innocent/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0086&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Innocent
-DTSTART;TZID=Europe/London:20230831T174000
-DTEND;TZID=Europe/London:20230831T193500
-DTSTAMP:20230831T164000Z
-UID:70085
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013304/the-innocent/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0085&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Innocent
-DTSTART;TZID=Europe/London:20230902T144000
-DTEND;TZID=Europe/London:20230902T163500
-DTSTAMP:20230902T134000Z
-UID:70146
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013304/the-innocent/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 0146&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230829T175000
-DTEND;TZID=Europe/London:20230829T193500
-DTSTAMP:20230829T165000Z
-UID:70029
-DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70029
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230829T200000
-DTEND;TZID=Europe/London:20230829T214500
-DTSTAMP:20230829T190000Z
-UID:70024
-DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012765/scrapper/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=70024&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230830T140000
-DTEND;TZID=Europe/London:20230830T154500
-DTSTAMP:20230830T130000Z
-UID:70040
-DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 4\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012765/scrapper/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=021&txtSessionId=70040&visLang=1
+SUMMARY:Scorsese/De Niro: The King of Comedy
+DTSTART;TZID=Europe/London:20230917T160000
+DTEND;TZID=Europe/London:20230917T181000
+DTSTAMP:20230917T150000Z
+UID:69675
+DESCRIPTION:Duration: 1h 49m (109 min)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/021/HO00013334/scorsese-de-niro-the-king-of-comedy/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txt
+ SessionId=69675&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1273,6 +1065,55 @@ LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230901T142000
+DTEND;TZID=Europe/London:20230901T160500
+DTSTAMP:20230901T132000Z
+UID:70156
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70156
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230901T162000
+DTEND;TZID=Europe/London:20230901T180500
+DTSTAMP:20230901T152000Z
+UID:70141
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70141
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230901T183000
+DTEND;TZID=Europe/London:20230901T201500
+DTSTAMP:20230901T173000Z
+UID:70151
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70151
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230901T204000
+DTEND;TZID=Europe/London:20230901T222500
+DTSTAMP:20230901T194000Z
+UID:70150
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012765/scrapper/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=70150&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
 DTSTART;TZID=Europe/London:20230902T140000
 DTEND;TZID=Europe/London:20230902T154500
 DTSTAMP:20230902T130000Z
@@ -1293,6 +1134,980 @@ DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 2\n\nhttps://www.picturehous
  es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
  uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70106
  &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230903T153000
+DTEND;TZID=Europe/London:20230903T171500
+DTSTAMP:20230903T143000Z
+UID:70267
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70267
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230903T181000
+DTEND;TZID=Europe/London:20230903T195500
+DTSTAMP:20230903T171000Z
+UID:70230
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012765/scrapper/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=70230&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230903T201000
+DTEND;TZID=Europe/London:20230903T215500
+DTSTAMP:20230903T191000Z
+UID:70236
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70236
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230904T142000
+DTEND;TZID=Europe/London:20230904T160500
+DTSTAMP:20230904T132000Z
+UID:70167
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70167
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230904T162000
+DTEND;TZID=Europe/London:20230904T180500
+DTSTAMP:20230904T152000Z
+UID:70164
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70164
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230904T183000
+DTEND;TZID=Europe/London:20230904T201500
+DTSTAMP:20230904T173000Z
+UID:70160
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70160
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230904T204000
+DTEND;TZID=Europe/London:20230904T222500
+DTSTAMP:20230904T194000Z
+UID:70172
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012765/scrapper/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=70172&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230905T123000
+DTEND;TZID=Europe/London:20230905T141500
+DTSTAMP:20230905T113000Z
+UID:70270
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 1\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012765/scrapper/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=70270&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230905T141000
+DTEND;TZID=Europe/London:20230905T155500
+DTSTAMP:20230905T131000Z
+UID:70244
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70244
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230905T154500
+DTEND;TZID=Europe/London:20230905T173000
+DTSTAMP:20230905T144500Z
+UID:70247
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70247
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230905T183000
+DTEND;TZID=Europe/London:20230905T201500
+DTSTAMP:20230905T173000Z
+UID:70251
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70251
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230905T204000
+DTEND;TZID=Europe/London:20230905T222500
+DTSTAMP:20230905T194000Z
+UID:70259
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70259
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230906T133000
+DTEND;TZID=Europe/London:20230906T151500
+DTSTAMP:20230906T123000Z
+UID:70195
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70195
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230906T153000
+DTEND;TZID=Europe/London:20230906T171500
+DTSTAMP:20230906T143000Z
+UID:70206
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70206
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230906T182000
+DTEND;TZID=Europe/London:20230906T200500
+DTSTAMP:20230906T172000Z
+UID:70202
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 2\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00012765/scrapper/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=70202&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230906T202000
+DTEND;TZID=Europe/London:20230906T220500
+DTSTAMP:20230906T192000Z
+UID:70198
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70198
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230907T124500
+DTEND;TZID=Europe/London:20230907T143000
+DTSTAMP:20230907T114500Z
+UID:70294
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70294
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230907T153000
+DTEND;TZID=Europe/London:20230907T171500
+DTSTAMP:20230907T143000Z
+UID:70213
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70213
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Scrapper
+DTSTART;TZID=Europe/London:20230907T170000
+DTEND;TZID=Europe/London:20230907T184500
+DTSTAMP:20230907T160000Z
+UID:70224
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00012765/scrapper/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70224
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London:20240323T165500
+DTEND;TZID=Europe/London:20240323T203000
+DTSTAMP:20240323T165500Z
+UID:68246
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00013167/met-opera-live-romeo-et-juliette-2024/\nhttps://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&
+ txtSessionId=68246&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: La Forza del Destino (2024)
+DTSTART;TZID=Europe/London:20240309T170000
+DTEND;TZID=Europe/London:20240309T212500
+DTSTAMP:20240309T170000Z
+UID:68244
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00013166/met-opera-live-la-forza-del-destino-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 21&txtSessionId=68244&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joy Ride
+DTSTART;TZID=Europe/London:20230830T172000
+DTEND;TZID=Europe/London:20230830T191500
+DTSTAMP:20230830T162000Z
+UID:70047
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013235/joy-ride/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=021&txtSessionId=70047&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joy Ride
+DTSTART;TZID=Europe/London:20230831T201500
+DTEND;TZID=Europe/London:20230831T221000
+DTSTAMP:20230831T191500Z
+UID:70068
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013235/joy-ride/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70068
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joy Ride
+DTSTART;TZID=Europe/London:20230902T204500
+DTEND;TZID=Europe/London:20230902T224000
+DTSTAMP:20230902T194500Z
+UID:70107
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013235/joy-ride/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70107
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230830T174000
+DTEND;TZID=Europe/London:20230830T195500
+DTSTAMP:20230830T164000Z
+UID:70052
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70052&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230830T202000
+DTEND;TZID=Europe/London:20230830T223500
+DTSTAMP:20230830T192000Z
+UID:70046
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70046&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230831T133000
+DTEND;TZID=Europe/London:20230831T154500
+DTSTAMP:20230831T123000Z
+UID:70063
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70063&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230831T151500
+DTEND;TZID=Europe/London:20230831T173000
+DTSTAMP:20230831T141500Z
+UID:70059
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70059&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230831T174000
+DTEND;TZID=Europe/London:20230831T195500
+DTSTAMP:20230831T164000Z
+UID:70073
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70073&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230831T202000
+DTEND;TZID=Europe/London:20230831T223500
+DTSTAMP:20230831T192000Z
+UID:70067
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=021&txtSessionId=70067&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230901T123000
+DTEND;TZID=Europe/London:20230901T144500
+DTSTAMP:20230901T113000Z
+UID:70138
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70138&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230901T150000
+DTEND;TZID=Europe/London:20230901T171500
+DTSTAMP:20230901T140000Z
+UID:70152
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70152&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230901T174000
+DTEND;TZID=Europe/London:20230901T195500
+DTSTAMP:20230901T164000Z
+UID:70153
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70153&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230901T202000
+DTEND;TZID=Europe/London:20230901T223500
+DTSTAMP:20230901T192000Z
+UID:70154
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70154&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230902T121000
+DTEND;TZID=Europe/London:20230902T142500
+DTSTAMP:20230902T111000Z
+UID:70116
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=021&txtSessionId=70116&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230902T144000
+DTEND;TZID=Europe/London:20230902T165500
+DTSTAMP:20230902T134000Z
+UID:70115
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70115&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230902T161000
+DTEND;TZID=Europe/London:20230902T182500
+DTSTAMP:20230902T151000Z
+UID:70104
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70104&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230902T184000
+DTEND;TZID=Europe/London:20230902T205500
+DTSTAMP:20230902T174000Z
+UID:70125
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=021&txtSessionId=70125&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230902T211000
+DTEND;TZID=Europe/London:20230902T232500
+DTSTAMP:20230902T201000Z
+UID:70126
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70126&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230903T133000
+DTEND;TZID=Europe/London:20230903T154500
+DTSTAMP:20230903T123000Z
+UID:70261
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70261&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230903T161000
+DTEND;TZID=Europe/London:20230903T182500
+DTSTAMP:20230903T151000Z
+UID:70231
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=021&txtSessionId=70231&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230903T193000
+DTEND;TZID=Europe/London:20230903T214500
+DTSTAMP:20230903T183000Z
+UID:70235
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70235&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230904T123000
+DTEND;TZID=Europe/London:20230904T144500
+DTSTAMP:20230904T113000Z
+UID:70168
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70168&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230904T150000
+DTEND;TZID=Europe/London:20230904T171500
+DTSTAMP:20230904T140000Z
+UID:70166
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70166&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230904T174000
+DTEND;TZID=Europe/London:20230904T195500
+DTSTAMP:20230904T164000Z
+UID:70161
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70161&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230904T202000
+DTEND;TZID=Europe/London:20230904T223500
+DTSTAMP:20230904T192000Z
+UID:70171
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=021&txtSessionId=70171&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230905T131000
+DTEND;TZID=Europe/London:20230905T152500
+DTSTAMP:20230905T121000Z
+UID:70258
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70258&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230905T162000
+DTEND;TZID=Europe/London:20230905T183500
+DTSTAMP:20230905T152000Z
+UID:70245
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70245&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230905T175000
+DTEND;TZID=Europe/London:20230905T200500
+DTSTAMP:20230905T165000Z
+UID:70250
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=021&txtSessionId=70250&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230905T202000
+DTEND;TZID=Europe/London:20230905T223500
+DTSTAMP:20230905T192000Z
+UID:70255
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70255&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230906T130000
+DTEND;TZID=Europe/London:20230906T151500
+DTSTAMP:20230906T120000Z
+UID:70196
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013214/barbie/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=021&txtSessionId=70196&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230906T154500
+DTEND;TZID=Europe/London:20230906T180000
+DTSTAMP:20230906T144500Z
+UID:70194
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70194&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230906T174000
+DTEND;TZID=Europe/London:20230906T195500
+DTSTAMP:20230906T164000Z
+UID:70203
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70203&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230906T202000
+DTEND;TZID=Europe/London:20230906T223500
+DTSTAMP:20230906T192000Z
+UID:70209
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70209&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230907T120000
+DTEND;TZID=Europe/London:20230907T141500
+DTSTAMP:20230907T110000Z
+UID:70212
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70212&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230907T174000
+DTEND;TZID=Europe/London:20230907T195500
+DTSTAMP:20230907T164000Z
+UID:70227
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70227&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barbie
+DTSTART;TZID=Europe/London:20230907T202000
+DTEND;TZID=Europe/London:20230907T223500
+DTSTAMP:20230907T192000Z
+UID:70221
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013214/barbie/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70221&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230830T175000
+DTEND;TZID=Europe/London:20230830T194500
+DTSTAMP:20230830T165000Z
+UID:70051
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0051&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230830T200000
+DTEND;TZID=Europe/London:20230830T215500
+DTSTAMP:20230830T190000Z
+UID:70048
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0048&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230831T130000
+DTEND;TZID=Europe/London:20230831T145500
+DTSTAMP:20230831T120000Z
+UID:70062
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0062&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230831T151000
+DTEND;TZID=Europe/London:20230831T170500
+DTSTAMP:20230831T141000Z
+UID:70057
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 1\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013286/theater-c
+ amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=70057&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230831T175000
+DTEND;TZID=Europe/London:20230831T194500
+DTSTAMP:20230831T165000Z
+UID:70072
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0072&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230831T200000
+DTEND;TZID=Europe/London:20230831T215500
+DTSTAMP:20230831T190000Z
+UID:70069
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0069&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230901T154000
+DTEND;TZID=Europe/London:20230901T173500
+DTSTAMP:20230901T144000Z
+UID:70159
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0159&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230901T202000
+DTEND;TZID=Europe/London:20230901T221500
+DTSTAMP:20230901T192000Z
+UID:70157
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0157&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230902T123000
+DTEND;TZID=Europe/London:20230902T142500
+DTSTAMP:20230902T113000Z
+UID:70119
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0119&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230902T160000
+DTEND;TZID=Europe/London:20230902T175500
+DTSTAMP:20230902T150000Z
+UID:70109
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013286/theater-c
+ amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=70109&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230903T124500
+DTEND;TZID=Europe/London:20230903T144000
+DTSTAMP:20230903T114500Z
+UID:70265
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0265&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230903T174000
+DTEND;TZID=Europe/London:20230903T193500
+DTSTAMP:20230903T164000Z
+UID:70232
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0232&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230903T195000
+DTEND;TZID=Europe/London:20230903T214500
+DTSTAMP:20230903T185000Z
+UID:70237
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013286/theater-c
+ amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=70237&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230904T154000
+DTEND;TZID=Europe/London:20230904T173500
+DTSTAMP:20230904T144000Z
+UID:70175
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0175&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230904T180000
+DTEND;TZID=Europe/London:20230904T195500
+DTSTAMP:20230904T170000Z
+UID:70162
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0162&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230905T120000
+DTEND;TZID=Europe/London:20230905T135500
+DTSTAMP:20230905T110000Z
+UID:70253
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013286/theater-c
+ amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=70253&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230905T180000
+DTEND;TZID=Europe/London:20230905T195500
+DTSTAMP:20230905T170000Z
+UID:70249
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0249&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230906T154000
+DTEND;TZID=Europe/London:20230906T173500
+DTSTAMP:20230906T144000Z
+UID:70210
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0210&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230906T180000
+DTEND;TZID=Europe/London:20230906T195500
+DTSTAMP:20230906T170000Z
+UID:70199
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013286/theater-c
+ amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=70199&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230907T140000
+DTEND;TZID=Europe/London:20230907T155500
+DTSTAMP:20230907T130000Z
+UID:70229
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0229&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230907T161000
+DTEND;TZID=Europe/London:20230907T180500
+DTSTAMP:20230907T151000Z
+UID:70228
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0228&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Carmen (2024)
+DTSTART;TZID=Europe/London:20240127T175500
+DTEND;TZID=Europe/London:20240127T214000
+DTSTAMP:20240127T175500Z
+UID:68242
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionI
+ d=68242&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1341,21 +2156,6 @@ DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Carmen (2024)
-DTSTART;TZID=Europe/London:20240127T175500
-DTEND;TZID=Europe/London:20240127T214000
-DTSTAMP:20240127T175500Z
-UID:68242
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionI
- d=68242&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: Nabucco (2024)
 DTSTART;TZID=Europe/London:20240106T175500
 DTEND;TZID=Europe/London:20240106T210500
@@ -1371,21 +2171,6 @@ DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London:20231209T175500
-DTEND;TZID=Europe/London:20231209T203000
-DTSTAMP:20231209T175500Z
-UID:68238
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=68238&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: Dead Man Walking (2023)
 DTSTART;TZID=Europe/London:20231021T175500
 DTEND;TZID=Europe/London:20231021T211000
@@ -1398,6 +2183,21 @@ DESCRIPTION:Duration: 3h 14m (194 min)\nScreen 2\n\nAd and Trailer Free: N
  e-details/021/HO00013158/met-opera-live-dead-man-walking-2023/\nhttps://ti
  cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&t
  xtSessionId=68234&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
+DTSTART;TZID=Europe/London:20231209T175500
+DTEND;TZID=Europe/London:20231209T203000
+DTSTAMP:20231209T175500Z
+UID:68238
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=68238&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1422,18 +2222,6 @@ DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
  es.com/movie-details/021/HO00013246/eos-klimt-and-the-kiss/\nhttps://ticke
  ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
  essionId=69008&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jurassic Park (30th Anniversary)
-DTSTART;TZID=Europe/London:20230902T181500
-DTEND;TZID=Europe/London:20230902T204500
-DTSTAMP:20230902T171500Z
-UID:70129
-DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013335/jurassic-park-30th-anniversary/\nhttp
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =021&txtSessionId=70129&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1464,6 +2252,18 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
  e-details/021/HO00013040/roh-live-carmen-2024/\nhttps://ticketing.pictureh
  ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=6776
  2&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly on the Lake
+DTSTART;TZID=Europe/London:20230907T190000
+DTEND;TZID=Europe/London:20230907T213000
+DTSTAMP:20230907T180000Z
+UID:69106
+DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013306/madama-butterfly-on-the-lake/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 21&txtSessionId=69106&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1506,45 +2306,284 @@ DESCRIPTION:Duration: 2h 58m (178 min)\nScreen 4\n\nreDiscover: Time to br
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Madama Butterfly on the Lake
-DTSTART;TZID=Europe/London:20230907T190000
-DTEND;TZID=Europe/London:20230907T213000
-DTSTAMP:20230907T180000Z
-UID:69106
-DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013306/madama-butterfly-on-the-lake/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 21&txtSessionId=69106&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230830T190000
+DTEND;TZID=Europe/London:20230830T222000
+DTSTAMP:20230830T180000Z
+UID:70049
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0049&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Swan Lake (2024)
-DTSTART;TZID=Europe/London:20240424T191500
-DTEND;TZID=Europe/London:20240424T223500
-DTSTAMP:20240424T181500Z
-UID:67760
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=6
- 7760&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230831T114000
+DTEND;TZID=Europe/London:20230831T150000
+DTSTAMP:20230831T104000Z
+UID:70065
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0065&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Das Rheingold (2023)
-DTSTART;TZID=Europe/London:20230920T191500
-DTEND;TZID=Europe/London:20230920T220000
-DTSTAMP:20230920T181500Z
-UID:67744
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=67744&visLang=1
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230831T152000
+DTEND;TZID=Europe/London:20230831T184000
+DTSTAMP:20230831T142000Z
+UID:70058
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0058&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230831T190000
+DTEND;TZID=Europe/London:20230831T222000
+DTSTAMP:20230831T180000Z
+UID:70070
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=70070&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230901T114500
+DTEND;TZID=Europe/London:20230901T150500
+DTSTAMP:20230901T104500Z
+UID:70155
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0155&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230901T153000
+DTEND;TZID=Europe/London:20230901T185000
+DTSTAMP:20230901T143000Z
+UID:70139
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0139&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230901T191500
+DTEND;TZID=Europe/London:20230901T223500
+DTSTAMP:20230901T181500Z
+UID:70149
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0149&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230902T123000
+DTEND;TZID=Europe/London:20230902T155000
+DTSTAMP:20230902T113000Z
+UID:70130
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=70130&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230902T153000
+DTEND;TZID=Europe/London:20230902T185000
+DTSTAMP:20230902T143000Z
+UID:70122
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0122&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230902T171500
+DTEND;TZID=Europe/London:20230902T203500
+DTSTAMP:20230902T161500Z
+UID:70113
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0113&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230902T193000
+DTEND;TZID=Europe/London:20230902T225000
+DTSTAMP:20230902T183000Z
+UID:70114
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=70114&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230903T121500
+DTEND;TZID=Europe/London:20230903T153500
+DTSTAMP:20230903T111500Z
+UID:70266
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0266&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230903T143000
+DTEND;TZID=Europe/London:20230903T175000
+DTSTAMP:20230903T133000Z
+UID:70233
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0233&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230903T184500
+DTEND;TZID=Europe/London:20230903T220500
+DTSTAMP:20230903T174500Z
+UID:70238
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=70238&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230904T114500
+DTEND;TZID=Europe/London:20230904T150500
+DTSTAMP:20230904T104500Z
+UID:70169
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0169&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230904T153000
+DTEND;TZID=Europe/London:20230904T185000
+DTSTAMP:20230904T143000Z
+UID:70165
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0165&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230904T191500
+DTEND;TZID=Europe/London:20230904T223500
+DTSTAMP:20230904T181500Z
+UID:70173
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0173&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230905T143000
+DTEND;TZID=Europe/London:20230905T175000
+DTSTAMP:20230905T133000Z
+UID:70257
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=70257&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230905T190000
+DTEND;TZID=Europe/London:20230905T222000
+DTSTAMP:20230905T180000Z
+UID:70246
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0246&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230906T114500
+DTEND;TZID=Europe/London:20230906T150500
+DTSTAMP:20230906T104500Z
+UID:70197
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0197&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230906T190000
+DTEND;TZID=Europe/London:20230906T222000
+DTSTAMP:20230906T180000Z
+UID:70207
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0207&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230907T130000
+DTEND;TZID=Europe/London:20230907T162000
+DTSTAMP:20230907T120000Z
+UID:70215
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0215&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230907T191500
+DTEND;TZID=Europe/London:20230907T223500
+DTSTAMP:20230907T181500Z
+UID:70218
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0218&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1563,6 +2602,21 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: Don Quixote (2023)
+DTSTART;TZID=Europe/London:20231107T191500
+DTEND;TZID=Europe/London:20231107T223500
+DTSTAMP:20231107T191500Z
+UID:67748
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
+ =67748&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Live: L'Elisir D'Amore (2023)
 DTSTART;TZID=Europe/London:20231005T191500
 DTEND;TZID=Europe/London:20231005T223500
@@ -1578,6 +2632,21 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240424T191500
+DTEND;TZID=Europe/London:20240424T223500
+DTSTAMP:20240424T181500Z
+UID:67760
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=6
+ 7760&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Live: MacMillan Triple (2024)
 DTSTART;TZID=Europe/London:20240409T191500
 DTEND;TZID=Europe/London:20240409T223000
@@ -1590,6 +2659,36 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
  e-details/021/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
  ionId=67758&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Das Rheingold (2023)
+DTSTART;TZID=Europe/London:20230920T191500
+DTEND;TZID=Europe/London:20230920T220000
+DTSTAMP:20230920T181500Z
+UID:67744
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00013020/roh-live-das-rheingold-2023/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=67744&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: The Nutcracker (2023)
+DTSTART;TZID=Europe/London:20231212T191500
+DTEND;TZID=Europe/London:20231212T220000
+DTSTAMP:20231212T191500Z
+UID:67750
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
+ nId=67750&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1623,36 +2722,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Don Quixote (2023)
-DTSTART;TZID=Europe/London:20231107T191500
-DTEND;TZID=Europe/London:20231107T223500
-DTSTAMP:20231107T191500Z
-UID:67748
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00013022/roh-live-don-quixote-2023/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
- =67748&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: The Nutcracker (2023)
-DTSTART;TZID=Europe/London:20231212T191500
-DTEND;TZID=Europe/London:20231212T220000
-DTSTAMP:20231212T191500Z
-UID:67750
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
- nId=67750&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: Manon (2024)
 DTSTART;TZID=Europe/London:20240207T191500
 DTEND;TZID=Europe/London:20240207T223000
@@ -1682,18 +2751,6 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 2\n\nAd and Trailer Free: No
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Matthew Bourne's Swan Lake
-DTSTART;TZID=Europe/London:20230913T193000
-DTEND;TZID=Europe/London:20230913T220000
-DTSTAMP:20230913T183000Z
-UID:68559
-DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00013202/matthew-bourne-s-swan-lake/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021
- &txtSessionId=68559&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - Tokyo Story
 DTSTART;TZID=Europe/London:20230924T193000
 DTEND;TZID=Europe/London:20230924T221000
@@ -1706,16 +2763,63 @@ DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 4\n\nhttps://www.picturehou
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The French Connection
-DTSTART;TZID=Europe/London:20230911T200000
-DTEND;TZID=Europe/London:20230911T220500
-DTSTAMP:20230911T190000Z
-UID:69921
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 4\n\nCulture Shock: Dedicat
- ed to bringing you the best in cult and genre films.\n\nhttps://www.pictur
- ehouses.com/movie-details/021/HO00013403/the-french-connection/\nhttps://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&
- txtSessionId=69921&visLang=1
+SUMMARY:Matthew Bourne's Swan Lake
+DTSTART;TZID=Europe/London:20230913T193000
+DTEND;TZID=Europe/London:20230913T220000
+DTSTAMP:20230913T183000Z
+UID:68559
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013202/matthew-bourne-s-swan-lake/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021
+ &txtSessionId=68559&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Innocent
+DTSTART;TZID=Europe/London:20230830T194500
+DTEND;TZID=Europe/London:20230830T214000
+DTSTAMP:20230830T184500Z
+UID:70084
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013304/the-innocent/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0084&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Innocent
+DTSTART;TZID=Europe/London:20230831T150000
+DTEND;TZID=Europe/London:20230831T165500
+DTSTAMP:20230831T140000Z
+UID:70086
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013304/the-innocent/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0086&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Innocent
+DTSTART;TZID=Europe/London:20230831T174000
+DTEND;TZID=Europe/London:20230831T193500
+DTSTAMP:20230831T164000Z
+UID:70085
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013304/the-innocent/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0085&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Innocent
+DTSTART;TZID=Europe/London:20230902T144000
+DTEND;TZID=Europe/London:20230902T163500
+DTSTAMP:20230902T134000Z
+UID:70146
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/021/HO00013304/the-innocent/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 0146&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1744,6 +2848,19 @@ DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 4\n\nCulture Shock: Dedicat
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The French Connection
+DTSTART;TZID=Europe/London:20230911T200000
+DTEND;TZID=Europe/London:20230911T220500
+DTSTAMP:20230911T190000Z
+UID:69921
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 4\n\nCulture Shock: Dedicat
+ ed to bringing you the best in cult and genre films.\n\nhttps://www.pictur
+ ehouses.com/movie-details/021/HO00013403/the-french-connection/\nhttps://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&
+ txtSessionId=69921&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Strange Way of Life + Recorded Q&A
 DTSTART;TZID=Europe/London:20230925T200000
 DTEND;TZID=Europe/London:20230925T214500
@@ -1769,32 +2886,6 @@ DESCRIPTION:Duration: 1h 42m (102 min)\nScreen 4\n\nCulture Shock: Dedicat
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230829T201500
-DTEND;TZID=Europe/London:20230829T221000
-DTSTAMP:20230829T191500Z
-UID:70080
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 2\n\nDiscover: Discover stun
- ning cinema. Each week\, the Picturehouse film team champion one must-see 
- film.\n\nPreview: A special preview screening of this film. See it before 
- anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-deta
- ils/021/HO00013105/passages/\nhttps://ticketing.picturehouses.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=021&txtSessionId=70080&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230902T211500
-DTEND;TZID=Europe/London:20230902T231000
-DTSTAMP:20230902T201500Z
-UID:70135
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/021/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70135
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Past Lives
 DTSTART;TZID=Europe/London:20230905T203000
 DTEND;TZID=Europe/London:20230905T224000
@@ -1806,6 +2897,55 @@ DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 2\n\nDiscover: Discover stu
   anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-det
  ails/021/HO00013106/past-lives/\nhttps://ticketing.picturehouses.com/Ticke
  ting/visSelectTickets.aspx?cinemacode=021&txtSessionId=69522&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=Europe/London:20230907T143000
+DTEND;TZID=Europe/London:20230907T164000
+DTSTAMP:20230907T133000Z
+UID:70291
+DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013106/past-lives/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70
+ 291&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=Europe/London:20230907T164500
+DTEND;TZID=Europe/London:20230907T185500
+DTSTAMP:20230907T154500Z
+UID:70293
+DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013106/past-lives/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70
+ 293&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Past Lives
+DTSTART;TZID=Europe/London:20230907T201500
+DTEND;TZID=Europe/London:20230907T222500
+DTSTAMP:20230907T191500Z
+UID:70290
+DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00013106/past-lives/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=70
+ 290&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday the 13th
+DTSTART;TZID=Europe/London:20231013T203000
+DTEND;TZID=Europe/London:20231013T222500
+DTSTAMP:20231013T193000Z
+UID:70296
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 4\n\nCulture Shock: Dedicate
+ d to bringing you the best in cult and genre films.\n\nhttps://www.picture
+ houses.com/movie-details/021/HO00013391/friday-the-13th/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=70296&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 END:VCALENDAR
