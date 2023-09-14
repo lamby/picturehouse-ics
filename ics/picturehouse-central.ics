@@ -1,33 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20230913T145104Z
+LAST-MODIFIED:20230914T145226Z
 NAME:Picture House London - Picturehouse Central
 X-WR-CALNAME:Picture House London - Picturehouse Central
-BEGIN:VEVENT
-SUMMARY:A Life on the Farm
-DTSTART;TZID=Europe/London:20230914T120000
-DTEND;TZID=Europe/London:20230914T133500
-DTSTAMP:20230914T110000Z
-UID:89752
-DESCRIPTION:Duration: 1h 15m (75 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013501/a-life-on-the-farm/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessi
- onId=89752&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Life on the Farm
-DTSTART;TZID=Europe/London:20230914T211000
-DTEND;TZID=Europe/London:20230914T224500
-DTSTAMP:20230914T201000Z
-UID:89761
-DESCRIPTION:Duration: 1h 15m (75 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013501/a-life-on-the-farm/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessi
- onId=89761&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tokyo Story
 DTSTART;TZID=Europe/London:20230916T122000
@@ -65,27 +41,15 @@ DESCRIPTION:Duration: 1h 18m (78 min)\nScreen 6\n\nhttps://www.picturehous
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Toy Story
-DTSTART;TZID=Europe/London:20231001T123000
-DTEND;TZID=Europe/London:20231001T141000
-DTSTAMP:20231001T113000Z
-UID:88793
-DESCRIPTION:Duration: 1h 18m (78 min)\nScreen 6\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013273/toy-story/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8879
- 3&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beauty and the Beast (1992)
-DTSTART;TZID=Europe/London:20230924T123000
-DTEND;TZID=Europe/London:20230924T142000
-DTSTAMP:20230924T113000Z
-UID:88792
-DESCRIPTION:Duration: 1h 28m (88 min)\nScreen 6\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013272/beauty-and-the-beast-1992/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&t
- xtSessionId=88792&visLang=1
+SUMMARY:Frozen
+DTSTART;TZID=Europe/London:20231015T123000
+DTEND;TZID=Europe/London:20231015T144000
+DTSTAMP:20231015T113000Z
+UID:88795
+DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013275/frozen/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=88795&
+ visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -101,15 +65,27 @@ DESCRIPTION:Duration: 1h 59m (119 min)\nScreen 7\n\nhttps://www.picturehou
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Frozen
-DTSTART;TZID=Europe/London:20231015T123000
-DTEND;TZID=Europe/London:20231015T144000
-DTSTAMP:20231015T113000Z
-UID:88795
-DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013275/frozen/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=88795&
- visLang=1
+SUMMARY:Beauty and the Beast (1992)
+DTSTART;TZID=Europe/London:20230924T123000
+DTEND;TZID=Europe/London:20230924T142000
+DTSTAMP:20230924T113000Z
+UID:88792
+DESCRIPTION:Duration: 1h 28m (88 min)\nScreen 6\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013272/beauty-and-the-beast-1992/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&t
+ xtSessionId=88792&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toy Story
+DTSTART;TZID=Europe/London:20231001T123000
+DTEND;TZID=Europe/London:20231001T141000
+DTSTAMP:20231001T113000Z
+UID:88793
+DESCRIPTION:Duration: 1h 18m (78 min)\nScreen 6\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013273/toy-story/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8879
+ 3&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -464,51 +440,15 @@ DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 1\n\nDolby Atmos: Audio tha
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Talk to Me
-DTSTART;TZID=Europe/London:20230914T133000
-DTEND;TZID=Europe/London:20230914T152500
-DTSTAMP:20230914T123000Z
-UID:89713
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013104/talk-to-me/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=897
- 13&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Talk to Me
-DTSTART;TZID=Europe/London:20230916T213000
-DTEND;TZID=Europe/London:20230916T232500
-DTSTAMP:20230916T203000Z
-UID:89819
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013104/talk-to-me/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=898
- 19&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Talk to Me
-DTSTART;TZID=Europe/London:20230919T211500
-DTEND;TZID=Europe/London:20230919T231000
-DTSTAMP:20230919T201500Z
-UID:89881
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013104/talk-to-me/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=898
- 81&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LAFF 2023: Here Out West
-DTSTART;TZID=Europe/London:20230924T140000
-DTEND;TZID=Europe/London:20230924T160500
-DTSTAMP:20230924T130000Z
-UID:89943
-DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013541/laff-2023-here-out-west/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&tx
- tSessionId=89943&visLang=1
+SUMMARY:LAFF 2023: John Farnham Finding The Voice
+DTSTART;TZID=Europe/London:20230923T140000
+DTEND;TZID=Europe/London:20230923T160000
+DTSTAMP:20230923T130000Z
+UID:89940
+DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013548/laff-2023-john-farnham-finding-the-voi
+ ce/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=022&txtSessionId=89940&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -524,15 +464,15 @@ DESCRIPTION:Duration: 2h 02m (122 min)\nScreen 4\n\nhttps://www.picturehou
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAFF 2023: John Farnham Finding The Voice
-DTSTART;TZID=Europe/London:20230923T140000
-DTEND;TZID=Europe/London:20230923T160000
-DTSTAMP:20230923T130000Z
-UID:89940
-DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013548/laff-2023-john-farnham-finding-the-voi
- ce/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=022&txtSessionId=89940&visLang=1
+SUMMARY:LAFF 2023: Here Out West
+DTSTART;TZID=Europe/London:20230924T140000
+DTEND;TZID=Europe/London:20230924T160500
+DTSTAMP:20230924T130000Z
+UID:89943
+DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013541/laff-2023-here-out-west/\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&tx
+ tSessionId=89943&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -863,18 +803,6 @@ DESCRIPTION:Duration: 3h 26m (206 min)\nKIA Screen 2\n\nhttps://www.pictur
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sight & Sound Top 10 - Tokyo Story
-DTSTART;TZID=Europe/London:20230924T143000
-DTEND;TZID=Europe/London:20230924T171000
-DTSTAMP:20230924T133000Z
-UID:88799
-DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 7\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013349/sight-sound-top-10-tokyo-story/\nhttp
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =022&txtSessionId=88799&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CARLOS: The Santana Journey Global Premiere
 DTSTART;TZID=Europe/London:20230923T143000
 DTEND;TZID=Europe/London:20230923T163000
@@ -896,6 +824,18 @@ DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 6\n\nhttps://www.picturehous
  es.com/movie-details/022/HO00013424/carlos-the-santana-journey-global-prem
  iere/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
  ?cinemacode=022&txtSessionId=89321&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sight & Sound Top 10 - Tokyo Story
+DTSTART;TZID=Europe/London:20230924T143000
+DTEND;TZID=Europe/London:20230924T171000
+DTSTAMP:20230924T133000Z
+UID:88799
+DESCRIPTION:Duration: 2h 16m (136 min)\nScreen 7\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013349/sight-sound-top-10-tokyo-story/\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =022&txtSessionId=88799&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -932,30 +872,6 @@ DESCRIPTION:Duration: 2h 43m (163 min)\nScreen 5\n\nhttps://www.picturehou
  ses.com/movie-details/022/HO00013185/mission-impossible-dead-reckoning-par
  t-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
  x?cinemacode=022&txtSessionId=89939&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris Memories
-DTSTART;TZID=Europe/London:20230913T155000
-DTEND;TZID=Europe/London:20230913T175500
-DTSTAMP:20230913T145000Z
-UID:89701
-DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 7\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013234/paris-memories/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionI
- d=89701&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paris Memories
-DTSTART;TZID=Europe/London:20230913T183000
-DTEND;TZID=Europe/London:20230913T203500
-DTSTAMP:20230913T173000Z
-UID:89700
-DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 7\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013234/paris-memories/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionI
- d=89700&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,51 +923,568 @@ DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230913T163000
-DTEND;TZID=Europe/London:20230913T181500
-DTSTAMP:20230913T153000Z
-UID:89672
-DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00012765/scrapper/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89672
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230914T155500
+DTEND;TZID=Europe/London:20230914T191500
+DTSTAMP:20230914T145500Z
+UID:89592
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9592&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230914T193000
+DTEND;TZID=Europe/London:20230914T225000
+DTSTAMP:20230914T183000Z
+UID:89591
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9591&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230915T123500
+DTEND;TZID=Europe/London:20230915T155500
+DTSTAMP:20230915T113500Z
+UID:89788
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9788&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230915T161500
+DTEND;TZID=Europe/London:20230915T193500
+DTSTAMP:20230915T151500Z
+UID:89787
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9787&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230915T200000
+DTEND;TZID=Europe/London:20230915T232000
+DTSTAMP:20230915T190000Z
+UID:89786
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9786&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230916T123500
+DTEND;TZID=Europe/London:20230916T155500
+DTSTAMP:20230916T113500Z
+UID:89807
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/022/HO00013205/oppenhei
+ mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=022&txtSessionId=89807&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230916T161500
+DTEND;TZID=Europe/London:20230916T193500
+DTSTAMP:20230916T151500Z
+UID:89808
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9808&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230916T200000
+DTEND;TZID=Europe/London:20230916T232000
+DTSTAMP:20230916T190000Z
+UID:89809
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9809&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230917T140000
+DTEND;TZID=Europe/London:20230917T172000
+DTSTAMP:20230917T130000Z
+UID:89832
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9832&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230917T183000
+DTEND;TZID=Europe/London:20230917T215000
+DTSTAMP:20230917T173000Z
+UID:89833
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 7\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9833&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230918T143000
+DTEND;TZID=Europe/London:20230918T175000
+DTSTAMP:20230918T133000Z
+UID:89857
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9857&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230918T190000
+DTEND;TZID=Europe/London:20230918T222000
+DTSTAMP:20230918T180000Z
+UID:89858
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9858&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230919T140000
+DTEND;TZID=Europe/London:20230919T172000
+DTSTAMP:20230919T130000Z
+UID:89877
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9877&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230919T190000
+DTEND;TZID=Europe/London:20230919T222000
+DTSTAMP:20230919T180000Z
+UID:89872
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9872&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230920T123500
+DTEND;TZID=Europe/London:20230920T155500
+DTSTAMP:20230920T113500Z
+UID:89890
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9890&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230920T161500
+DTEND;TZID=Europe/London:20230920T193500
+DTSTAMP:20230920T151500Z
+UID:89891
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9891&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230920T200000
+DTEND;TZID=Europe/London:20230920T232000
+DTSTAMP:20230920T190000Z
+UID:89892
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9892&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230921T154000
+DTEND;TZID=Europe/London:20230921T190000
+DTSTAMP:20230921T144000Z
+UID:89912
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9912&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20230921T193000
+DTEND;TZID=Europe/London:20230921T225000
+DTSTAMP:20230921T183000Z
+UID:89911
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9911&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230914T161000
+DTEND;TZID=Europe/London:20230914T180500
+DTSTAMP:20230914T151000Z
+UID:89630
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89630
  &visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230913T181500
-DTEND;TZID=Europe/London:20230913T200000
-DTSTAMP:20230913T171500Z
-UID:89709
-DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 5\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/022/HO00012765/scrapper/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=022&txtSessionId=89709&visLang=1
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230914T184000
+DTEND;TZID=Europe/London:20230914T203500
+DTSTAMP:20230914T174000Z
+UID:89631
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89631
+ &visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230913T204000
-DTEND;TZID=Europe/London:20230913T222500
-DTSTAMP:20230913T194000Z
-UID:89629
-DESCRIPTION:Duration: 1h 24m (84 min)\nKIA Screen 2\n\nhttps://www.picture
- houses.com/movie-details/022/HO00012765/scrapper/\nhttps://ticketing.pictu
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230914T210000
+DTEND;TZID=Europe/London:20230914T225500
+DTSTAMP:20230914T200000Z
+UID:89632
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89632
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230915T132000
+DTEND;TZID=Europe/London:20230915T151500
+DTSTAMP:20230915T122000Z
+UID:89785
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89785
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230915T154500
+DTEND;TZID=Europe/London:20230915T174000
+DTSTAMP:20230915T144500Z
+UID:89784
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89784
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230915T182000
+DTEND;TZID=Europe/London:20230915T201500
+DTSTAMP:20230915T172000Z
+UID:89783
+DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
+ houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
  rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9629&visLang=1
+ 9783&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scrapper
-DTSTART;TZID=Europe/London:20230914T135500
-DTEND;TZID=Europe/London:20230914T154000
-DTSTAMP:20230914T125500Z
-UID:89677
-DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00012765/scrapper/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89677
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230915T211000
+DTEND;TZID=Europe/London:20230915T230500
+DTSTAMP:20230915T201000Z
+UID:89782
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89782
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230916T155000
+DTEND;TZID=Europe/London:20230916T174500
+DTSTAMP:20230916T145000Z
+UID:89804
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89804
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230916T182000
+DTEND;TZID=Europe/London:20230916T201500
+DTSTAMP:20230916T172000Z
+UID:89805
+DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
+ houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9805&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230916T211500
+DTEND;TZID=Europe/London:20230916T231000
+DTSTAMP:20230916T201500Z
+UID:89806
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89806
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230917T150000
+DTEND;TZID=Europe/London:20230917T165500
+DTSTAMP:20230917T140000Z
+UID:89829
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89829
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230917T172000
+DTEND;TZID=Europe/London:20230917T191500
+DTSTAMP:20230917T162000Z
+UID:89828
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89828
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230917T200000
+DTEND;TZID=Europe/London:20230917T215500
+DTSTAMP:20230917T190000Z
+UID:89827
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89827
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230918T132000
+DTEND;TZID=Europe/London:20230918T151500
+DTSTAMP:20230918T122000Z
+UID:89848
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89848
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230918T154500
+DTEND;TZID=Europe/London:20230918T174000
+DTSTAMP:20230918T144500Z
+UID:89849
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89849
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230918T182000
+DTEND;TZID=Europe/London:20230918T201500
+DTSTAMP:20230918T172000Z
+UID:89850
+DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
+ houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9850&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230919T132500
+DTEND;TZID=Europe/London:20230919T152000
+DTSTAMP:20230919T122500Z
+UID:89866
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89866
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230919T155000
+DTEND;TZID=Europe/London:20230919T174500
+DTSTAMP:20230919T145000Z
+UID:89867
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89867
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230919T182000
+DTEND;TZID=Europe/London:20230919T201500
+DTSTAMP:20230919T172000Z
+UID:89868
+DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
+ houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9868&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230919T210000
+DTEND;TZID=Europe/London:20230919T225500
+DTSTAMP:20230919T200000Z
+UID:89869
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89869
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230920T132500
+DTEND;TZID=Europe/London:20230920T152000
+DTSTAMP:20230920T122500Z
+UID:89886
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/022/HO00013105/passages/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=022&txtSessionId=89886&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230920T155000
+DTEND;TZID=Europe/London:20230920T174500
+DTSTAMP:20230920T145000Z
+UID:89887
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89887
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230920T182000
+DTEND;TZID=Europe/London:20230920T201500
+DTSTAMP:20230920T172000Z
+UID:89888
+DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
+ houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9888&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230920T210000
+DTEND;TZID=Europe/London:20230920T225500
+DTSTAMP:20230920T200000Z
+UID:89889
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89889
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230921T132500
+DTEND;TZID=Europe/London:20230921T152000
+DTSTAMP:20230921T122500Z
+UID:89907
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89907
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230921T155000
+DTEND;TZID=Europe/London:20230921T174500
+DTSTAMP:20230921T145000Z
+UID:89908
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89908
+ &visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230921T182000
+DTEND;TZID=Europe/London:20230921T201500
+DTSTAMP:20230921T172000Z
+UID:89909
+DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
+ houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9909&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Passages
+DTSTART;TZID=Europe/London:20230921T211000
+DTEND;TZID=Europe/London:20230921T230500
+DTSTAMP:20230921T201000Z
+UID:89910
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89910
  &visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
@@ -1417,15 +1850,16 @@ DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 5\n\nhttps://www.picturehous
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAFF 2023: Australian Short Film Today
-DTSTART;TZID=Europe/London:20230924T170000
-DTEND;TZID=Europe/London:20230924T185000
-DTSTAMP:20230924T160000Z
-UID:89945
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013542/laff-2023-australian-short-film-today/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=022&txtSessionId=89945&visLang=1
+SUMMARY:LAFF 2023: Petrol
+DTSTART;TZID=Europe/London:20230923T170000
+DTEND;TZID=Europe/London:20230923T183500
+DTSTAMP:20230923T160000Z
+UID:89941
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 4\n\nAd and Trailer Free: No
+  advertisements or trailers will play ahead of this screening. You are rec
+ ommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detail
+ s/022/HO00013540/laff-2023-petrol/\nhttps://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89941&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -1441,401 +1875,15 @@ DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 7\n\nQ&A: This screening wi
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LAFF 2023: Petrol
-DTSTART;TZID=Europe/London:20230923T170000
-DTEND;TZID=Europe/London:20230923T183500
-DTSTAMP:20230923T160000Z
-UID:89941
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 4\n\nAd and Trailer Free: No
-  advertisements or trailers will play ahead of this screening. You are rec
- ommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detail
- s/022/HO00013540/laff-2023-petrol/\nhttps://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89941&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230913T171000
-DTEND;TZID=Europe/London:20230913T190500
-DTSTAMP:20230913T161000Z
-UID:89675
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89675
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230913T184000
-DTEND;TZID=Europe/London:20230913T203500
-DTSTAMP:20230913T174000Z
-UID:89628
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89628
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230913T210000
-DTEND;TZID=Europe/London:20230913T225500
-DTSTAMP:20230913T200000Z
-UID:89626
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89626
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230914T134000
-DTEND;TZID=Europe/London:20230914T153500
-DTSTAMP:20230914T124000Z
-UID:89633
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89633
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230914T161000
-DTEND;TZID=Europe/London:20230914T180500
-DTSTAMP:20230914T151000Z
-UID:89630
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89630
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230914T184000
-DTEND;TZID=Europe/London:20230914T203500
-DTSTAMP:20230914T174000Z
-UID:89631
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89631
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230914T210000
-DTEND;TZID=Europe/London:20230914T225500
-DTSTAMP:20230914T200000Z
-UID:89632
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89632
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230915T132000
-DTEND;TZID=Europe/London:20230915T151500
-DTSTAMP:20230915T122000Z
-UID:89785
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89785
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230915T154500
-DTEND;TZID=Europe/London:20230915T174000
-DTSTAMP:20230915T144500Z
-UID:89784
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89784
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230915T182000
-DTEND;TZID=Europe/London:20230915T201500
-DTSTAMP:20230915T172000Z
-UID:89783
-DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
- houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9783&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230915T211000
-DTEND;TZID=Europe/London:20230915T230500
-DTSTAMP:20230915T201000Z
-UID:89782
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89782
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230916T155000
-DTEND;TZID=Europe/London:20230916T174500
-DTSTAMP:20230916T145000Z
-UID:89804
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89804
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230916T182000
-DTEND;TZID=Europe/London:20230916T201500
-DTSTAMP:20230916T172000Z
-UID:89805
-DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
- houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9805&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230916T211500
-DTEND;TZID=Europe/London:20230916T231000
-DTSTAMP:20230916T201500Z
-UID:89806
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89806
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230917T150000
-DTEND;TZID=Europe/London:20230917T165500
-DTSTAMP:20230917T140000Z
-UID:89829
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89829
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230917T172000
-DTEND;TZID=Europe/London:20230917T191500
-DTSTAMP:20230917T162000Z
-UID:89828
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89828
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230917T200000
-DTEND;TZID=Europe/London:20230917T215500
-DTSTAMP:20230917T190000Z
-UID:89827
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89827
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230918T132000
-DTEND;TZID=Europe/London:20230918T151500
-DTSTAMP:20230918T122000Z
-UID:89848
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89848
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230918T154500
-DTEND;TZID=Europe/London:20230918T174000
-DTSTAMP:20230918T144500Z
-UID:89849
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89849
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230918T182000
-DTEND;TZID=Europe/London:20230918T201500
-DTSTAMP:20230918T172000Z
-UID:89850
-DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
- houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9850&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230919T132500
-DTEND;TZID=Europe/London:20230919T152000
-DTSTAMP:20230919T122500Z
-UID:89866
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89866
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230919T155000
-DTEND;TZID=Europe/London:20230919T174500
-DTSTAMP:20230919T145000Z
-UID:89867
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89867
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230919T182000
-DTEND;TZID=Europe/London:20230919T201500
-DTSTAMP:20230919T172000Z
-UID:89868
-DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
- houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9868&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230919T210000
-DTEND;TZID=Europe/London:20230919T225500
-DTSTAMP:20230919T200000Z
-UID:89869
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89869
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230920T132500
-DTEND;TZID=Europe/London:20230920T152000
-DTSTAMP:20230920T122500Z
-UID:89886
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/022/HO00013105/passages/
+SUMMARY:LAFF 2023: Australian Short Film Today
+DTSTART;TZID=Europe/London:20230924T170000
+DTEND;TZID=Europe/London:20230924T185000
+DTSTAMP:20230924T160000Z
+UID:89945
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013542/laff-2023-australian-short-film-today/
  \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=022&txtSessionId=89886&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230920T155000
-DTEND;TZID=Europe/London:20230920T174500
-DTSTAMP:20230920T145000Z
-UID:89887
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89887
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230920T182000
-DTEND;TZID=Europe/London:20230920T201500
-DTSTAMP:20230920T172000Z
-UID:89888
-DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
- houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9888&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230920T210000
-DTEND;TZID=Europe/London:20230920T225500
-DTSTAMP:20230920T200000Z
-UID:89889
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89889
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230921T132500
-DTEND;TZID=Europe/London:20230921T152000
-DTSTAMP:20230921T122500Z
-UID:89907
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89907
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230921T155000
-DTEND;TZID=Europe/London:20230921T174500
-DTSTAMP:20230921T145000Z
-UID:89908
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89908
- &visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230921T182000
-DTEND;TZID=Europe/London:20230921T201500
-DTSTAMP:20230921T172000Z
-UID:89909
-DESCRIPTION:Duration: 1h 32m (92 min)\nKIA Screen 2\n\nhttps://www.picture
- houses.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9909&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Passages
-DTSTART;TZID=Europe/London:20230921T211000
-DTEND;TZID=Europe/London:20230921T230500
-DTSTAMP:20230921T201000Z
-UID:89910
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013105/passages/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89910
- &visLang=1
+ macode=022&txtSessionId=89945&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -1860,6 +1908,45 @@ DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 3\n\nhttps://www.picturehous
  es.com/movie-details/022/HO00013246/eos-klimt-and-the-kiss/\nhttps://ticke
  ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtS
  essionId=88113&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maboungou: Being in the World (UK Premiere) + Q&A
+DTSTART;TZID=Europe/London:20230929T180000
+DTEND;TZID=Europe/London:20230929T193500
+DTSTAMP:20230929T170000Z
+UID:89324
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nAd and Trailer Free: No
+  advertisements or trailers will play ahead of this screening. You are rec
+ ommended to arrive promptly.\n\nQ&A: This screening will be followed by a 
+ Q&A.\n\nhttps://www.picturehouses.com/movie-details/022/HO00013372/maboung
+ ou-being-in-the-world-uk-premiere-q-a/\nhttps://ticketing.picturehouses.co
+ m/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89324&visLan
+ g=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABBA: The Movie – Fan  Event
+DTSTART;TZID=Europe/London:20230917T180000
+DTEND;TZID=Europe/London:20230917T202000
+DTSTAMP:20230917T170000Z
+UID:88785
+DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013336/abba-the-movie-fan-event/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&t
+ xtSessionId=88785&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABBA: The Movie – Fan  Event
+DTSTART;TZID=Europe/London:20230919T180000
+DTEND;TZID=Europe/London:20230919T202000
+DTSTAMP:20230919T170000Z
+UID:88786
+DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/022/HO00013336/abba-the-movie-fan-event/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&t
+ xtSessionId=88786&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -1890,90 +1977,208 @@ DESCRIPTION:Duration: 3h 29m (209 min)\nScreen 6\n\nreDiscover: Time to br
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABBA: The Movie – Fan  Event
-DTSTART;TZID=Europe/London:20230917T180000
-DTEND;TZID=Europe/London:20230917T202000
-DTSTAMP:20230917T170000Z
-UID:88785
-DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013336/abba-the-movie-fan-event/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&t
- xtSessionId=88785&visLang=1
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230914T180000
+DTEND;TZID=Europe/London:20230914T195500
+DTSTAMP:20230914T170000Z
+UID:89656
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9656&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ABBA: The Movie – Fan  Event
-DTSTART;TZID=Europe/London:20230919T180000
-DTEND;TZID=Europe/London:20230919T202000
-DTSTAMP:20230919T170000Z
-UID:88786
-DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013336/abba-the-movie-fan-event/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&t
- xtSessionId=88786&visLang=1
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230915T134500
+DTEND;TZID=Europe/London:20230915T154000
+DTSTAMP:20230915T124500Z
+UID:89798
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9798&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maboungou: Being in the World (UK Premiere) + Q&A
-DTSTART;TZID=Europe/London:20230929T180000
-DTEND;TZID=Europe/London:20230929T193500
-DTSTAMP:20230929T170000Z
-UID:89324
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nAd and Trailer Free: No
-  advertisements or trailers will play ahead of this screening. You are rec
- ommended to arrive promptly.\n\nQ&A: This screening will be followed by a 
- Q&A.\n\nhttps://www.picturehouses.com/movie-details/022/HO00013372/maboung
- ou-being-in-the-world-uk-premiere-q-a/\nhttps://ticketing.picturehouses.co
- m/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89324&visLan
- g=1
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230915T160000
+DTEND;TZID=Europe/London:20230915T175500
+DTSTAMP:20230915T150000Z
+UID:89799
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9799&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230913T181000
-DTEND;TZID=Europe/London:20230913T202500
-DTSTAMP:20230913T171000Z
-UID:89645
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89645&
- visLang=1
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230915T181500
+DTEND;TZID=Europe/London:20230915T201000
+DTSTAMP:20230915T171500Z
+UID:89797
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9797&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230913T205000
-DTEND;TZID=Europe/London:20230913T230500
-DTSTAMP:20230913T195000Z
-UID:89644
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89644&
- visLang=1
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230916T190000
+DTEND;TZID=Europe/London:20230916T205500
+DTSTAMP:20230916T180000Z
+UID:89818
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9818&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230914T123000
-DTEND;TZID=Europe/London:20230914T144500
-DTSTAMP:20230914T113000Z
-UID:89648
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89648&
- visLang=1
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230917T110000
+DTEND;TZID=Europe/London:20230917T125500
+DTSTAMP:20230917T100000Z
+UID:89843
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nSubtitled (Captioned): 
+ Everyone welcome. This screening has subtitles for people with hearing los
+ s.\n\nhttps://www.picturehouses.com/movie-details/022/HO00013286/theater-c
+ amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=022&txtSessionId=89843&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Barbie
-DTSTART;TZID=Europe/London:20230914T152000
-DTEND;TZID=Europe/London:20230914T173500
-DTSTAMP:20230914T142000Z
-UID:89649
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013214/barbie/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=89649&
- visLang=1
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230917T204500
+DTEND;TZID=Europe/London:20230917T224000
+DTSTAMP:20230917T194500Z
+UID:89831
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9831&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230918T153500
+DTEND;TZID=Europe/London:20230918T173000
+DTSTAMP:20230918T143500Z
+UID:89861
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9861&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230918T204500
+DTEND;TZID=Europe/London:20230918T224000
+DTSTAMP:20230918T194500Z
+UID:89860
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9860&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230919T154500
+DTEND;TZID=Europe/London:20230919T174000
+DTSTAMP:20230919T144500Z
+UID:89879
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9879&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230919T205500
+DTEND;TZID=Europe/London:20230919T225000
+DTSTAMP:20230919T195500Z
+UID:89878
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9878&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230920T134500
+DTEND;TZID=Europe/London:20230920T154000
+DTSTAMP:20230920T124500Z
+UID:89901
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9901&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230920T160000
+DTEND;TZID=Europe/London:20230920T175500
+DTSTAMP:20230920T150000Z
+UID:89902
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9902&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230920T181500
+DTEND;TZID=Europe/London:20230920T201000
+DTSTAMP:20230920T171500Z
+UID:89903
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9903&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230921T134500
+DTEND;TZID=Europe/London:20230921T154000
+DTSTAMP:20230921T124500Z
+UID:89915
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9915&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230921T160000
+DTEND;TZID=Europe/London:20230921T175500
+DTSTAMP:20230921T150000Z
+UID:89916
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9916&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Camp
+DTSTART;TZID=Europe/London:20230921T181500
+DTEND;TZID=Europe/London:20230921T201000
+DTSTAMP:20230921T171500Z
+UID:89917
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
+ 9917&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -2290,21 +2495,6 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 6\n\nhttps://www.picturehou
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scorsese/De Niro: The King of Comedy
-DTSTART;TZID=Europe/London:20230919T181500
-DTEND;TZID=Europe/London:20230919T202500
-DTSTAMP:20230919T171500Z
-UID:89106
-DESCRIPTION:Duration: 1h 49m (109 min)\nScreen 5\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/022/HO00013334/scorsese-de-niro-the-king-of-comedy/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txt
- SessionId=89106&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:School of Rock (20th Anniversary)
 DTSTART;TZID=Europe/London:20230918T181500
 DTEND;TZID=Europe/London:20230918T202500
@@ -2315,56 +2505,6 @@ DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 7\n\nCulture Shock: Dedicat
  ehouses.com/movie-details/022/HO00013384/school-of-rock-20th-anniversary/\
  nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
  acode=022&txtSessionId=89139&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=Europe/London:20230913T181500
-DTEND;TZID=Europe/London:20230913T202500
-DTSTAMP:20230913T171500Z
-UID:89357
-DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 1\n\n4K: Showing in 4K High
-  Definition Cinema Resolution\n\nhttps://www.picturehouses.com/movie-detai
- ls/022/HO00013106/past-lives/\nhttps://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=022&txtSessionId=89357&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=Europe/London:20230913T205000
-DTEND;TZID=Europe/London:20230913T230000
-DTSTAMP:20230913T195000Z
-UID:89358
-DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 1\n\n4K: Showing in 4K High
-  Definition Cinema Resolution\n\nhttps://www.picturehouses.com/movie-detai
- ls/022/HO00013106/past-lives/\nhttps://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=022&txtSessionId=89358&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=Europe/London:20230914T130000
-DTEND;TZID=Europe/London:20230914T151000
-DTSTAMP:20230914T120000Z
-UID:89359
-DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 1\n\n4K: Showing in 4K High
-  Definition Cinema Resolution\n\nSubtitled (Captioned): Everyone welcome. 
- This screening has subtitles for people with hearing loss.\n\nhttps://www.
- picturehouses.com/movie-details/022/HO00013106/past-lives/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSe
- ssionId=89359&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Past Lives
-DTSTART;TZID=Europe/London:20230914T154000
-DTEND;TZID=Europe/London:20230914T175000
-DTSTAMP:20230914T144000Z
-UID:89360
-DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 1\n\n4K: Showing in 4K High
-  Definition Cinema Resolution\n\nhttps://www.picturehouses.com/movie-detai
- ls/022/HO00013106/past-lives/\nhttps://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=022&txtSessionId=89360&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -2718,6 +2858,21 @@ DESCRIPTION:Duration: 1h 46m (106 min)\nKIA Screen 2\n\nhttps://www.pictur
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scorsese/De Niro: The King of Comedy
+DTSTART;TZID=Europe/London:20230919T181500
+DTEND;TZID=Europe/London:20230919T202500
+DTSTAMP:20230919T171500Z
+UID:89106
+DESCRIPTION:Duration: 1h 49m (109 min)\nScreen 5\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/022/HO00013334/scorsese-de-niro-the-king-of-comedy/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txt
+ SessionId=89106&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AngelHeaded Hipster + Live Q&A
 DTSTART;TZID=Europe/London:20230914T183000
 DTEND;TZID=Europe/London:20230914T203000
@@ -2783,259 +2938,6 @@ DESCRIPTION:Duration: 1h 28m (88 min)\nScreen 4\n\nAd and Trailer Free: No
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230913T193000
-DTEND;TZID=Europe/London:20230913T225000
-DTSTAMP:20230913T183000Z
-UID:89625
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9625&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230914T120000
-DTEND;TZID=Europe/London:20230914T152000
-DTSTAMP:20230914T110000Z
-UID:89590
-DESCRIPTION:Duration: 3h 00m (180 min)\nKIA Screen 2\n\nhttps://www.pictur
- ehouses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSession
- Id=89590&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230914T155500
-DTEND;TZID=Europe/London:20230914T191500
-DTSTAMP:20230914T145500Z
-UID:89592
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9592&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230914T193000
-DTEND;TZID=Europe/London:20230914T225000
-DTSTAMP:20230914T183000Z
-UID:89591
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9591&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230915T123500
-DTEND;TZID=Europe/London:20230915T155500
-DTSTAMP:20230915T113500Z
-UID:89788
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9788&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230915T161500
-DTEND;TZID=Europe/London:20230915T193500
-DTSTAMP:20230915T151500Z
-UID:89787
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9787&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230915T200000
-DTEND;TZID=Europe/London:20230915T232000
-DTSTAMP:20230915T190000Z
-UID:89786
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9786&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230916T123500
-DTEND;TZID=Europe/London:20230916T155500
-DTSTAMP:20230916T113500Z
-UID:89807
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/022/HO00013205/oppenhei
- mer/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=022&txtSessionId=89807&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230916T161500
-DTEND;TZID=Europe/London:20230916T193500
-DTSTAMP:20230916T151500Z
-UID:89808
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9808&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230916T200000
-DTEND;TZID=Europe/London:20230916T232000
-DTSTAMP:20230916T190000Z
-UID:89809
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9809&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230917T140000
-DTEND;TZID=Europe/London:20230917T172000
-DTSTAMP:20230917T130000Z
-UID:89832
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9832&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230917T183000
-DTEND;TZID=Europe/London:20230917T215000
-DTSTAMP:20230917T173000Z
-UID:89833
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 7\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9833&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230918T143000
-DTEND;TZID=Europe/London:20230918T175000
-DTSTAMP:20230918T133000Z
-UID:89857
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9857&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230918T190000
-DTEND;TZID=Europe/London:20230918T222000
-DTSTAMP:20230918T180000Z
-UID:89858
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9858&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230919T140000
-DTEND;TZID=Europe/London:20230919T172000
-DTSTAMP:20230919T130000Z
-UID:89877
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9877&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230919T190000
-DTEND;TZID=Europe/London:20230919T222000
-DTSTAMP:20230919T180000Z
-UID:89872
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9872&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230920T123500
-DTEND;TZID=Europe/London:20230920T155500
-DTSTAMP:20230920T113500Z
-UID:89890
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9890&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230920T161500
-DTEND;TZID=Europe/London:20230920T193500
-DTSTAMP:20230920T151500Z
-UID:89891
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9891&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230920T200000
-DTEND;TZID=Europe/London:20230920T232000
-DTSTAMP:20230920T190000Z
-UID:89892
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9892&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230921T154000
-DTEND;TZID=Europe/London:20230921T190000
-DTSTAMP:20230921T144000Z
-UID:89912
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9912&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20230921T193000
-DTEND;TZID=Europe/London:20230921T225000
-DTSTAMP:20230921T183000Z
-UID:89911
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9911&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LAFF 2023: The Boys
 DTSTART;TZID=Europe/London:20230923T200000
 DTEND;TZID=Europe/London:20230923T214500
@@ -3061,27 +2963,15 @@ DESCRIPTION:Duration: 1h 59m (119 min)\nScreen 4\n\nCulture Shock: Dedicat
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stop Making Sense
-DTSTART;TZID=Europe/London:20230929T203000
-DTEND;TZID=Europe/London:20230929T222000
-DTSTAMP:20230929T193000Z
-UID:89540
-DESCRIPTION:Duration: 1h 28m (88 min)\nKIA Screen 2\n\nhttps://www.picture
- houses.com/movie-details/022/HO00013484/stop-making-sense/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSe
- ssionId=89540&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stop Making Sense
-DTSTART;TZID=Europe/London:20230930T203000
-DTEND;TZID=Europe/London:20230930T222000
-DTSTAMP:20230930T193000Z
-UID:89541
-DESCRIPTION:Duration: 1h 28m (88 min)\nKIA Screen 2\n\nhttps://www.picture
- houses.com/movie-details/022/HO00013484/stop-making-sense/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSe
- ssionId=89541&visLang=1
+SUMMARY:Strange Way of Life + Recorded Q&A
+DTSTART;TZID=Europe/London:20230925T203000
+DTEND;TZID=Europe/London:20230925T221500
+DTSTAMP:20230925T193000Z
+UID:89107
+DESCRIPTION:Duration: 1h 22m (82 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013400/strange-way-of-life-recorded-q-a/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=022&txtSessionId=89107&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -3169,257 +3059,27 @@ DESCRIPTION:Duration: 2h 03m (123 min)\nScreen 7\n\nhttps://www.picturehou
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230913T203000
-DTEND;TZID=Europe/London:20230913T222500
-DTSTAMP:20230913T193000Z
-UID:89676
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9676&visLang=1
+SUMMARY:Stop Making Sense
+DTSTART;TZID=Europe/London:20230929T203000
+DTEND;TZID=Europe/London:20230929T222000
+DTSTAMP:20230929T193000Z
+UID:89540
+DESCRIPTION:Duration: 1h 28m (88 min)\nKIA Screen 2\n\nhttps://www.picture
+ houses.com/movie-details/022/HO00013484/stop-making-sense/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSe
+ ssionId=89540&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230914T130000
-DTEND;TZID=Europe/London:20230914T145500
-DTSTAMP:20230914T120000Z
-UID:89654
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9654&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230914T153000
-DTEND;TZID=Europe/London:20230914T172500
-DTSTAMP:20230914T143000Z
-UID:89657
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/022/HO00013286/theater-c
- amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=022&txtSessionId=89657&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230914T180000
-DTEND;TZID=Europe/London:20230914T195500
-DTSTAMP:20230914T170000Z
-UID:89656
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9656&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230915T134500
-DTEND;TZID=Europe/London:20230915T154000
-DTSTAMP:20230915T124500Z
-UID:89798
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9798&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230915T160000
-DTEND;TZID=Europe/London:20230915T175500
-DTSTAMP:20230915T150000Z
-UID:89799
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9799&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230915T181500
-DTEND;TZID=Europe/London:20230915T201000
-DTSTAMP:20230915T171500Z
-UID:89797
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9797&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230916T190000
-DTEND;TZID=Europe/London:20230916T205500
-DTSTAMP:20230916T180000Z
-UID:89818
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9818&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230917T110000
-DTEND;TZID=Europe/London:20230917T125500
-DTSTAMP:20230917T100000Z
-UID:89843
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 5\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/022/HO00013286/theater-c
- amp/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=022&txtSessionId=89843&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230917T204500
-DTEND;TZID=Europe/London:20230917T224000
-DTSTAMP:20230917T194500Z
-UID:89831
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9831&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230918T153500
-DTEND;TZID=Europe/London:20230918T173000
-DTSTAMP:20230918T143500Z
-UID:89861
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9861&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230918T204500
-DTEND;TZID=Europe/London:20230918T224000
-DTSTAMP:20230918T194500Z
-UID:89860
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9860&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230919T154500
-DTEND;TZID=Europe/London:20230919T174000
-DTSTAMP:20230919T144500Z
-UID:89879
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9879&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230919T205500
-DTEND;TZID=Europe/London:20230919T225000
-DTSTAMP:20230919T195500Z
-UID:89878
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9878&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230920T134500
-DTEND;TZID=Europe/London:20230920T154000
-DTSTAMP:20230920T124500Z
-UID:89901
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9901&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230920T160000
-DTEND;TZID=Europe/London:20230920T175500
-DTSTAMP:20230920T150000Z
-UID:89902
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9902&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230920T181500
-DTEND;TZID=Europe/London:20230920T201000
-DTSTAMP:20230920T171500Z
-UID:89903
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9903&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230921T134500
-DTEND;TZID=Europe/London:20230921T154000
-DTSTAMP:20230921T124500Z
-UID:89915
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9915&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230921T160000
-DTEND;TZID=Europe/London:20230921T175500
-DTSTAMP:20230921T150000Z
-UID:89916
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9916&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Camp
-DTSTART;TZID=Europe/London:20230921T181500
-DTEND;TZID=Europe/London:20230921T201000
-DTSTAMP:20230921T171500Z
-UID:89917
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 7\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013286/theater-camp/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=8
- 9917&visLang=1
-LOCATION:Picture House London - Picturehouse Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Strange Way of Life + Recorded Q&A
-DTSTART;TZID=Europe/London:20230925T203000
-DTEND;TZID=Europe/London:20230925T221500
-DTSTAMP:20230925T193000Z
-UID:89107
-DESCRIPTION:Duration: 1h 22m (82 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/022/HO00013400/strange-way-of-life-recorded-q-a/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=022&txtSessionId=89107&visLang=1
+SUMMARY:Stop Making Sense
+DTSTART;TZID=Europe/London:20230930T203000
+DTEND;TZID=Europe/London:20230930T222000
+DTSTAMP:20230930T193000Z
+UID:89541
+DESCRIPTION:Duration: 1h 28m (88 min)\nKIA Screen 2\n\nhttps://www.picture
+ houses.com/movie-details/022/HO00013484/stop-making-sense/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSe
+ ssionId=89541&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
@@ -3449,15 +3109,39 @@ DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 7\n\nCulture Shock: Dedicate
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Asteroid City
-DTSTART;TZID=Europe/London:20230913T210000
-DTEND;TZID=Europe/London:20230913T230500
-DTSTAMP:20230913T200000Z
-UID:89702
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 7\n\nhttps://www.picturehou
- ses.com/movie-details/022/HO00012945/asteroid-city/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId
- =89702&visLang=1
+SUMMARY:A Life on the Farm
+DTSTART;TZID=Europe/London:20230914T211000
+DTEND;TZID=Europe/London:20230914T224500
+DTSTAMP:20230914T201000Z
+UID:89761
+DESCRIPTION:Duration: 1h 15m (75 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013501/a-life-on-the-farm/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessi
+ onId=89761&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk to Me
+DTSTART;TZID=Europe/London:20230916T213000
+DTEND;TZID=Europe/London:20230916T232500
+DTSTAMP:20230916T203000Z
+UID:89819
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 7\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013104/talk-to-me/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=898
+ 19&visLang=1
+LOCATION:Picture House London - Picturehouse Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Talk to Me
+DTSTART;TZID=Europe/London:20230919T211500
+DTEND;TZID=Europe/London:20230919T231000
+DTSTAMP:20230919T201500Z
+UID:89881
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 5\n\nhttps://www.picturehous
+ es.com/movie-details/022/HO00013104/talk-to-me/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=022&txtSessionId=898
+ 81&visLang=1
 LOCATION:Picture House London - Picturehouse Central
 END:VEVENT
 END:VCALENDAR
