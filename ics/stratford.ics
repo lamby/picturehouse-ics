@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231105T073631Z
+LAST-MODIFIED:20231106T074254Z
 NAME:Picture House London - Stratford
 X-WR-CALNAME:Picture House London - Stratford
-BEGIN:VEVENT
-SUMMARY:Nabucco (2024)
-DTSTART;TZID=Europe/London:20240109T120000
-DTEND;TZID=Europe/London:20240109T153000
-DTSTAMP:20240109T120000Z
-UID:48846
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013174/met-opera-encore-nabucco-2024/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 012&txtSessionId=48846&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Florencia En El Amazonas (2023)
 DTSTART;TZID=Europe/London:20231212T120000
@@ -26,6 +14,18 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013173/met-opera-encore-florencia-en-el-amaz
  onas-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
  .aspx?cinemacode=012&txtSessionId=48844&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nabucco (2024)
+DTSTART;TZID=Europe/London:20240109T120000
+DTEND;TZID=Europe/London:20240109T153000
+DTSTAMP:20240109T120000Z
+UID:48846
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013174/met-opera-encore-nabucco-2024/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 012&txtSessionId=48846&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -41,33 +41,6 @@ DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A FESTIVE FEAST: Phantom Thread
-DTSTART;TZID=Europe/London:20231231T123000
-DTEND;TZID=Europe/London:20231231T150000
-DTSTAMP:20231231T123000Z
-UID:51058
-DESCRIPTION:Duration: 2h 10m (130 min)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nChristmas: None\n\nhttps://www.pict
- urehouses.com/movie-details/012/HO00013912/a-festive-feast-phantom-thread/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=012&txtSessionId=51058&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Forgotten Man
-DTSTART;TZID=Europe/London:20231111T123000
-DTEND;TZID=Europe/London:20231111T142000
-DTSTAMP:20231111T123000Z
-UID:50940
-DESCRIPTION:Duration: 1h 28m (88 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013889/a-forgotten-man/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=50940&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sight & Sound Top 10 - Vertigo
 DTSTART;TZID=Europe/London:20231125T123000
 DTEND;TZID=Europe/London:20231125T145500
@@ -77,21 +50,6 @@ DESCRIPTION:Duration: 2h 02m (122 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013351/sight-sound-top-10-vertigo/\nhttps://
  ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
  &txtSessionId=49744&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In This World (20th Anniversary)
-DTSTART;TZID=Europe/London:20231203T123000
-DTEND;TZID=Europe/London:20231203T142000
-DTSTAMP:20231203T123000Z
-UID:51054
-DESCRIPTION:Duration: 1h 28m (88 min)\nScreen 2\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/012/HO00013937/in-this-world-20th-anniversary/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
- nId=51054&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -108,18 +66,15 @@ DESCRIPTION:Duration: 3h 21m (201 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A FESTIVE FEAST: Babette's Feast
-DTSTART;TZID=Europe/London:20231210T123000
-DTEND;TZID=Europe/London:20231210T143000
-DTSTAMP:20231210T123000Z
-UID:51055
-DESCRIPTION:Duration: 1h 39m (99 min)\nScreen 2\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nChristmas: None\n\nhttps://www.pictu
- rehouses.com/movie-details/012/HO00013909/a-festive-feast-babette-s-feast/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=012&txtSessionId=51055&visLang=1
+SUMMARY:A Forgotten Man
+DTSTART;TZID=Europe/London:20231111T123000
+DTEND;TZID=Europe/London:20231111T142000
+DTSTAMP:20231111T123000Z
+UID:50940
+DESCRIPTION:Duration: 1h 28m (88 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013889/a-forgotten-man/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=50940&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -153,151 +108,152 @@ DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Great Escaper
-DTSTART;TZID=Europe/London:20231105T133000
-DTEND;TZID=Europe/London:20231105T153000
-DTSTAMP:20231105T133000Z
-UID:50967
-DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013641/the-great-escaper/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
- nId=50967&visLang=1
+SUMMARY:A FESTIVE FEAST: Babette's Feast
+DTSTART;TZID=Europe/London:20231210T123000
+DTEND;TZID=Europe/London:20231210T143000
+DTSTAMP:20231210T123000Z
+UID:51055
+DESCRIPTION:Duration: 1h 39m (99 min)\nScreen 2\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nChristmas: None\n\nhttps://www.pictu
+ rehouses.com/movie-details/012/HO00013909/a-festive-feast-babette-s-feast/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=012&txtSessionId=51055&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Great Escaper
-DTSTART;TZID=Europe/London:20231106T172000
-DTEND;TZID=Europe/London:20231106T192000
-DTSTAMP:20231106T172000Z
-UID:50979
-DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013641/the-great-escaper/\nhttps://ticketing.
+SUMMARY:In This World (20th Anniversary)
+DTSTART;TZID=Europe/London:20231203T123000
+DTEND;TZID=Europe/London:20231203T142000
+DTSTAMP:20231203T123000Z
+UID:51054
+DESCRIPTION:Duration: 1h 28m (88 min)\nScreen 2\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
+ details/012/HO00013937/in-this-world-20th-anniversary/\nhttps://ticketing.
  picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
- nId=50979&visLang=1
+ nId=51054&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Great Escaper
-DTSTART;TZID=Europe/London:20231108T142000
-DTEND;TZID=Europe/London:20231108T160000
-DTSTAMP:20231108T142000Z
-UID:50994
-DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 4\n\nAd and Trailer Free: No
-  advertisements or trailers will play ahead of this screening. You are rec
- ommended to arrive promptly.\n\nSubtitled (Captioned): Everyone welcome. T
- his screening has subtitles for people with hearing loss.\n\nhttps://www.p
- icturehouses.com/movie-details/012/HO00013641/the-great-escaper/\nhttps://
+SUMMARY:A FESTIVE FEAST: Phantom Thread
+DTSTART;TZID=Europe/London:20231231T123000
+DTEND;TZID=Europe/London:20231231T150000
+DTSTAMP:20231231T123000Z
+UID:51058
+DESCRIPTION:Duration: 2h 10m (130 min)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nChristmas: None\n\nhttps://www.pict
+ urehouses.com/movie-details/012/HO00013912/a-festive-feast-phantom-thread/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=012&txtSessionId=51058&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers Of The Flower Moon
+DTSTART;TZID=Europe/London:20231106T140000
+DTEND;TZID=Europe/London:20231106T173000
+DTSTAMP:20231106T140000Z
+UID:50977
+DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/012/HO00013282/killers-of-the-flower-moon/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50977
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers Of The Flower Moon
+DTSTART;TZID=Europe/London:20231106T180000
+DTEND;TZID=Europe/London:20231106T215000
+DTSTAMP:20231106T180000Z
+UID:50976
+DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/\nhttps://
  ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=50994&visLang=1
+ &txtSessionId=50976&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Great Escaper
-DTSTART;TZID=Europe/London:20231109T172000
-DTEND;TZID=Europe/London:20231109T192000
-DTSTAMP:20231109T172000Z
-UID:51002
-DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013641/the-great-escaper/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
- nId=51002&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trolls Band Together
-DTSTART;TZID=Europe/London:20231105T134000
-DTEND;TZID=Europe/London:20231105T153000
-DTSTAMP:20231105T134000Z
-UID:50965
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013708/trolls-band-together/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
- sionId=50965&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trolls Band Together
-DTSTART;TZID=Europe/London:20231106T162000
-DTEND;TZID=Europe/London:20231106T181000
-DTSTAMP:20231106T162000Z
-UID:50983
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013708/trolls-band-together/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
- sionId=50983&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trolls Band Together
-DTSTART;TZID=Europe/London:20231107T172000
-DTEND;TZID=Europe/London:20231107T191000
-DTSTAMP:20231107T172000Z
-UID:50984
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013708/trolls-band-together/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
- sionId=50984&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trolls Band Together
-DTSTART;TZID=Europe/London:20231108T163000
-DTEND;TZID=Europe/London:20231108T182000
-DTSTAMP:20231108T163000Z
-UID:50999
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013708/trolls-band-together/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
- sionId=50999&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trolls Band Together
-DTSTART;TZID=Europe/London:20231109T162000
-DTEND;TZID=Europe/London:20231109T181000
-DTSTAMP:20231109T162000Z
-UID:51008
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013708/trolls-band-together/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
- sionId=51008&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paw Patrol: The Mighty Movie
-DTSTART;TZID=Europe/London:20231105T135000
-DTEND;TZID=Europe/London:20231105T154500
-DTSTAMP:20231105T135000Z
-UID:50968
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013555/paw-patrol-the-mighty-movie/\nhttps://
+SUMMARY:Killers Of The Flower Moon
+DTSTART;TZID=Europe/London:20231107T141500
+DTEND;TZID=Europe/London:20231107T180500
+DTSTAMP:20231107T141500Z
+UID:50988
+DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/\nhttps://
  ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=50968&visLang=1
+ &txtSessionId=50988&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Die Hard
-DTSTART;TZID=Europe/London:20231224T145000
-DTEND;TZID=Europe/London:20231224T172500
-DTSTAMP:20231224T145000Z
-UID:51067
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nCulture Shock: Dedicat
- ed to bringing you the best in cult and genre films.\n\nChristmas: None\n\
- nhttps://www.picturehouses.com/movie-details/012/HO00001518/die-hard/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=012&txtSessionId=51067&visLang=1
+SUMMARY:Killers Of The Flower Moon
+DTSTART;TZID=Europe/London:20231107T184500
+DTEND;TZID=Europe/London:20231107T223500
+DTSTAMP:20231107T184500Z
+UID:50989
+DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013282/killers-
+ of-the-flower-moon/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=012&txtSessionId=50989&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bottoms
-DTSTART;TZID=Europe/London:20231105T153000
-DTEND;TZID=Europe/London:20231105T172500
-DTSTAMP:20231105T153000Z
-UID:50971
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013822/bottoms/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50971&
- visLang=1
+SUMMARY:Killers Of The Flower Moon
+DTSTART;TZID=Europe/London:20231108T140000
+DTEND;TZID=Europe/London:20231108T173000
+DTSTAMP:20231108T140000Z
+UID:50995
+DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nSubtitled (Captioned): Everyone welcome. 
+ This screening has subtitles for people with hearing loss.\n\nhttps://www.
+ picturehouses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=012&txtSessionId=50995&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers Of The Flower Moon
+DTSTART;TZID=Europe/London:20231108T180000
+DTEND;TZID=Europe/London:20231108T215000
+DTSTAMP:20231108T180000Z
+UID:50996
+DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
+ &txtSessionId=50996&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers Of The Flower Moon
+DTSTART;TZID=Europe/London:20231109T140000
+DTEND;TZID=Europe/London:20231109T173000
+DTSTAMP:20231109T140000Z
+UID:51004
+DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/012/HO00013282/killers-of-the-flower-moon/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51004
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Killers Of The Flower Moon
+DTSTART;TZID=Europe/London:20231109T180000
+DTEND;TZID=Europe/London:20231109T215000
+DTSTAMP:20231109T180000Z
+UID:51005
+DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
+ &txtSessionId=51005&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -373,18 +329,76 @@ DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saltburn - Kia Preview
-DTSTART;TZID=Europe/London:20231105T154500
-DTEND;TZID=Europe/London:20231105T181500
-DTSTAMP:20231105T154500Z
-UID:50859
-DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nMembers' Priority Book
- ing: Tickets are only available to Picturehouse Members. Enter your Member
- ship Card number.\n\nPreview: A special preview screening of this film. Se
- e it before anyone else on the big screen!\n\nhttps://www.picturehouses.co
- m/movie-details/012/HO00013836/saltburn-kia-preview/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=50859&visLang=1
+SUMMARY:Rustin
+DTSTART;TZID=Europe/London:20231106T144500
+DTEND;TZID=Europe/London:20231106T165500
+DTSTAMP:20231106T144500Z
+UID:50980
+DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50980&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rustin
+DTSTART;TZID=Europe/London:20231106T194500
+DTEND;TZID=Europe/London:20231106T215500
+DTSTAMP:20231106T194500Z
+UID:50978
+DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50978&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rustin
+DTSTART;TZID=Europe/London:20231107T160000
+DTEND;TZID=Europe/London:20231107T181000
+DTSTAMP:20231107T160000Z
+UID:50987
+DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50987&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rustin
+DTSTART;TZID=Europe/London:20231108T154500
+DTEND;TZID=Europe/London:20231108T175500
+DTSTAMP:20231108T154500Z
+UID:50993
+DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50993&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rustin
+DTSTART;TZID=Europe/London:20231109T144500
+DTEND;TZID=Europe/London:20231109T165500
+DTSTAMP:20231109T144500Z
+UID:51001
+DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51001&
+ visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Hard
+DTSTART;TZID=Europe/London:20231224T145000
+DTEND;TZID=Europe/London:20231224T172500
+DTSTAMP:20231224T145000Z
+UID:51067
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nCulture Shock: Dedicat
+ ed to bringing you the best in cult and genre films.\n\nChristmas: None\n\
+ nhttps://www.picturehouses.com/movie-details/012/HO00001518/die-hard/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=012&txtSessionId=51067&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -568,181 +582,51 @@ DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Killers Of The Flower Moon
-DTSTART;TZID=Europe/London:20231105T160000
-DTEND;TZID=Europe/London:20231105T195000
-DTSTAMP:20231105T160000Z
-UID:50969
-DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=50969&visLang=1
+SUMMARY:Trolls Band Together
+DTSTART;TZID=Europe/London:20231106T162000
+DTEND;TZID=Europe/London:20231106T181000
+DTSTAMP:20231106T162000Z
+UID:50983
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013708/trolls-band-together/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
+ sionId=50983&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Killers Of The Flower Moon
-DTSTART;TZID=Europe/London:20231106T140000
-DTEND;TZID=Europe/London:20231106T173000
-DTSTAMP:20231106T140000Z
-UID:50977
-DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/012/HO00013282/killers-of-the-flower-moon/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50977
- &visLang=1
+SUMMARY:Trolls Band Together
+DTSTART;TZID=Europe/London:20231107T172000
+DTEND;TZID=Europe/London:20231107T191000
+DTSTAMP:20231107T172000Z
+UID:50984
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013708/trolls-band-together/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
+ sionId=50984&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Killers Of The Flower Moon
-DTSTART;TZID=Europe/London:20231106T180000
-DTEND;TZID=Europe/London:20231106T215000
-DTSTAMP:20231106T180000Z
-UID:50976
-DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=50976&visLang=1
+SUMMARY:Trolls Band Together
+DTSTART;TZID=Europe/London:20231108T163000
+DTEND;TZID=Europe/London:20231108T182000
+DTSTAMP:20231108T163000Z
+UID:50999
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013708/trolls-band-together/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
+ sionId=50999&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Killers Of The Flower Moon
-DTSTART;TZID=Europe/London:20231107T141500
-DTEND;TZID=Europe/London:20231107T180500
-DTSTAMP:20231107T141500Z
-UID:50988
-DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=50988&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers Of The Flower Moon
-DTSTART;TZID=Europe/London:20231107T184500
-DTEND;TZID=Europe/London:20231107T223500
-DTSTAMP:20231107T184500Z
-UID:50989
-DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013282/killers-
- of-the-flower-moon/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=012&txtSessionId=50989&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers Of The Flower Moon
-DTSTART;TZID=Europe/London:20231108T140000
-DTEND;TZID=Europe/London:20231108T173000
-DTSTAMP:20231108T140000Z
-UID:50995
-DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nSubtitled (Captioned): Everyone welcome. 
- This screening has subtitles for people with hearing loss.\n\nhttps://www.
- picturehouses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=012&txtSessionId=50995&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers Of The Flower Moon
-DTSTART;TZID=Europe/London:20231108T180000
-DTEND;TZID=Europe/London:20231108T215000
-DTSTAMP:20231108T180000Z
-UID:50996
-DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=50996&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers Of The Flower Moon
-DTSTART;TZID=Europe/London:20231109T140000
-DTEND;TZID=Europe/London:20231109T173000
-DTSTAMP:20231109T140000Z
-UID:51004
-DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/012/HO00013282/killers-of-the-flower-moon/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51004
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Killers Of The Flower Moon
-DTSTART;TZID=Europe/London:20231109T180000
-DTEND;TZID=Europe/London:20231109T215000
-DTSTAMP:20231109T180000Z
-UID:51005
-DESCRIPTION:Duration: 3h 26m (206 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013282/killers-of-the-flower-moon/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
- &txtSessionId=51005&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killer
-DTSTART;TZID=Europe/London:20231105T161500
-DTEND;TZID=Europe/London:20231105T183500
-DTSTAMP:20231105T161500Z
-UID:50966
-DESCRIPTION:Duration: 1h 58m (118 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013655/the-killer/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50
- 966&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killer
-DTSTART;TZID=Europe/London:20231106T184500
-DTEND;TZID=Europe/London:20231106T210500
-DTSTAMP:20231106T184500Z
-UID:50975
-DESCRIPTION:Duration: 1h 58m (118 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013655/the-killer/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50
- 975&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killer
-DTSTART;TZID=Europe/London:20231107T143000
-DTEND;TZID=Europe/London:20231107T165000
-DTSTAMP:20231107T143000Z
-UID:50991
-DESCRIPTION:Duration: 1h 58m (118 min)\nScreen 4\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013655/the-kill
- er/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=012&txtSessionId=50991&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killer
-DTSTART;TZID=Europe/London:20231108T184500
-DTEND;TZID=Europe/London:20231108T210500
-DTSTAMP:20231108T184500Z
-UID:50997
-DESCRIPTION:Duration: 1h 58m (118 min)\nScreen 4\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013655/the-kill
- er/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=012&txtSessionId=50997&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Killer
-DTSTART;TZID=Europe/London:20231109T184500
-DTEND;TZID=Europe/London:20231109T210500
-DTSTAMP:20231109T184500Z
-UID:51006
-DESCRIPTION:Duration: 1h 58m (118 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013655/the-killer/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51
- 006&visLang=1
+SUMMARY:Trolls Band Together
+DTSTART;TZID=Europe/London:20231109T162000
+DTEND;TZID=Europe/London:20231109T181000
+DTSTAMP:20231109T162000Z
+UID:51008
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013708/trolls-band-together/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSes
+ sionId=51008&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -756,6 +640,78 @@ DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 2\n\nCulture Shock: Dedicat
  nhttps://www.picturehouses.com/movie-details/012/HO00011352/home-alone/\nh
  ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
  ode=012&txtSessionId=51068&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Sex
+DTSTART;TZID=Europe/London:20231106T170000
+DTEND;TZID=Europe/London:20231106T190000
+DTSTAMP:20231106T170000Z
+UID:50982
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=50982&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Sex
+DTSTART;TZID=Europe/London:20231107T154000
+DTEND;TZID=Europe/London:20231107T174000
+DTSTAMP:20231107T154000Z
+UID:51015
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51015&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Sex
+DTSTART;TZID=Europe/London:20231107T202000
+DTEND;TZID=Europe/London:20231107T222000
+DTSTAMP:20231107T202000Z
+UID:50985
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=50985&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Sex
+DTSTART;TZID=Europe/London:20231108T180000
+DTEND;TZID=Europe/London:20231108T200000
+DTSTAMP:20231108T180000Z
+UID:51000
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51000&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Sex
+DTSTART;TZID=Europe/London:20231109T152000
+DTEND;TZID=Europe/London:20231109T172000
+DTSTAMP:20231109T152000Z
+UID:51018
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51018&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Sex
+DTSTART;TZID=Europe/London:20231109T200000
+DTEND;TZID=Europe/London:20231109T220000
+DTSTAMP:20231109T200000Z
+UID:51009
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51009&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -941,6 +897,45 @@ DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Great Escaper
+DTSTART;TZID=Europe/London:20231106T172000
+DTEND;TZID=Europe/London:20231106T192000
+DTSTAMP:20231106T172000Z
+UID:50979
+DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013641/the-great-escaper/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
+ nId=50979&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great Escaper
+DTSTART;TZID=Europe/London:20231108T142000
+DTEND;TZID=Europe/London:20231108T160000
+DTSTAMP:20231108T142000Z
+UID:50994
+DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 4\n\nAd and Trailer Free: No
+  advertisements or trailers will play ahead of this screening. You are rec
+ ommended to arrive promptly.\n\nSubtitled (Captioned): Everyone welcome. T
+ his screening has subtitles for people with hearing loss.\n\nhttps://www.p
+ icturehouses.com/movie-details/012/HO00013641/the-great-escaper/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012
+ &txtSessionId=50994&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Great Escaper
+DTSTART;TZID=Europe/London:20231109T172000
+DTEND;TZID=Europe/London:20231109T192000
+DTSTAMP:20231109T172000Z
+UID:51002
+DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013641/the-great-escaper/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
+ nId=51002&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Callas - Paris\, 1958
 DTSTART;TZID=Europe/London:20231111T173000
 DTEND;TZID=Europe/London:20231111T192000
@@ -1006,21 +1001,6 @@ DESCRIPTION:Duration: 3h 22m (202 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Nabucco (2024)
-DTSTART;TZID=Europe/London:20240106T175500
-DTEND;TZID=Europe/London:20240106T210500
-DTSTAMP:20240106T175500Z
-UID:48845
-DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
- Id=48845&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
 DTSTART;TZID=Europe/London:20231209T175500
 DTEND;TZID=Europe/London:20231209T203000
@@ -1036,159 +1016,18 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:How to Have Sex
-DTSTART;TZID=Europe/London:20231105T180000
-DTEND;TZID=Europe/London:20231105T200000
-DTSTAMP:20231105T180000Z
-UID:50972
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=50972&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Have Sex
-DTSTART;TZID=Europe/London:20231106T170000
-DTEND;TZID=Europe/London:20231106T190000
-DTSTAMP:20231106T170000Z
-UID:50982
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=50982&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Have Sex
-DTSTART;TZID=Europe/London:20231107T154000
-DTEND;TZID=Europe/London:20231107T174000
-DTSTAMP:20231107T154000Z
-UID:51015
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=51015&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Have Sex
-DTSTART;TZID=Europe/London:20231107T202000
-DTEND;TZID=Europe/London:20231107T222000
-DTSTAMP:20231107T202000Z
-UID:50985
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=50985&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Have Sex
-DTSTART;TZID=Europe/London:20231108T180000
-DTEND;TZID=Europe/London:20231108T200000
-DTSTAMP:20231108T180000Z
-UID:51000
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=51000&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Have Sex
-DTSTART;TZID=Europe/London:20231109T152000
-DTEND;TZID=Europe/London:20231109T172000
-DTSTAMP:20231109T152000Z
-UID:51018
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=51018&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Have Sex
-DTSTART;TZID=Europe/London:20231109T200000
-DTEND;TZID=Europe/London:20231109T220000
-DTSTAMP:20231109T200000Z
-UID:51009
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013657/how-to-have-sex/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
- d=51009&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rustin
-DTSTART;TZID=Europe/London:20231105T183000
-DTEND;TZID=Europe/London:20231105T204000
-DTSTAMP:20231105T183000Z
-UID:50970
-DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50970&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rustin
-DTSTART;TZID=Europe/London:20231106T144500
-DTEND;TZID=Europe/London:20231106T165500
-DTSTAMP:20231106T144500Z
-UID:50980
-DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50980&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rustin
-DTSTART;TZID=Europe/London:20231106T194500
-DTEND;TZID=Europe/London:20231106T215500
-DTSTAMP:20231106T194500Z
-UID:50978
-DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50978&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rustin
-DTSTART;TZID=Europe/London:20231107T160000
-DTEND;TZID=Europe/London:20231107T181000
-DTSTAMP:20231107T160000Z
-UID:50987
-DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50987&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rustin
-DTSTART;TZID=Europe/London:20231108T154500
-DTEND;TZID=Europe/London:20231108T175500
-DTSTAMP:20231108T154500Z
-UID:50993
-DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50993&
- visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rustin
-DTSTART;TZID=Europe/London:20231109T144500
-DTEND;TZID=Europe/London:20231109T165500
-DTSTAMP:20231109T144500Z
-UID:51001
-DESCRIPTION:Duration: 1h 47m (107 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013841/rustin/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51001&
- visLang=1
+SUMMARY:Met Opera Live: Nabucco (2024)
+DTSTART;TZID=Europe/London:20240106T175500
+DTEND;TZID=Europe/London:20240106T210500
+DTSTAMP:20240106T175500Z
+UID:48845
+DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
+ Id=48845&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1205,18 +1044,91 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nPreview: A special pre
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haunted: Night of the Demon
-DTSTART;TZID=Europe/London:20231112T190000
-DTEND;TZID=Europe/London:20231112T205500
-DTSTAMP:20231112T190000Z
-UID:50765
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 4\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/012/HO00013828/haunted-night-of-the-demon/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=
- 50765&visLang=1
+SUMMARY:The Killer
+DTSTART;TZID=Europe/London:20231106T184500
+DTEND;TZID=Europe/London:20231106T210500
+DTSTAMP:20231106T184500Z
+UID:50975
+DESCRIPTION:Duration: 1h 58m (118 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013655/the-killer/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=50
+ 975&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Killer
+DTSTART;TZID=Europe/London:20231107T143000
+DTEND;TZID=Europe/London:20231107T165000
+DTSTAMP:20231107T143000Z
+UID:50991
+DESCRIPTION:Duration: 1h 58m (118 min)\nScreen 4\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013655/the-kill
+ er/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=012&txtSessionId=50991&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Killer
+DTSTART;TZID=Europe/London:20231108T184500
+DTEND;TZID=Europe/London:20231108T210500
+DTSTAMP:20231108T184500Z
+UID:50997
+DESCRIPTION:Duration: 1h 58m (118 min)\nScreen 4\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013655/the-kill
+ er/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=012&txtSessionId=50997&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Killer
+DTSTART;TZID=Europe/London:20231109T184500
+DTEND;TZID=Europe/London:20231109T210500
+DTSTAMP:20231109T184500Z
+UID:51006
+DESCRIPTION:Duration: 1h 58m (118 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013655/the-killer/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51
+ 006&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Skylight (2023 Encore)
+DTSTART;TZID=Europe/London:20231116T190000
+DTEND;TZID=Europe/London:20231116T220000
+DTSTAMP:20231116T190000Z
+UID:50756
+DESCRIPTION:Duration: 2h 37m (157 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013788/nt-live-skylight-2023-encore/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=50756&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live: Skylight (2023 Encore)
+DTSTART;TZID=Europe/London:20231121T120000
+DTEND;TZID=Europe/London:20231121T150000
+DTSTAMP:20231121T120000Z
+UID:51059
+DESCRIPTION:Duration: 2h 37m (157 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013788/nt-live-skylight-2023-encore/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51059&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#Homecoming + Director Q&A
+DTSTART;TZID=Europe/London:20231110T190000
+DTEND;TZID=Europe/London:20231110T210000
+DTSTAMP:20231110T190000Z
+UID:50860
+DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 4\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nQ&A: This screening will be followed by a
+  Q&A.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013845/homeco
+ ming-director-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=012&txtSessionId=50860&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1256,32 +1168,33 @@ DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haunted: The Haunting (1963)
-DTSTART;TZID=Europe/London:20231105T190000
-DTEND;TZID=Europe/London:20231105T211500
-DTSTAMP:20231105T190000Z
-UID:50764
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 4\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/012/HO00013827/haunted-the-haunting-1963/\nhttps://ticketing.pict
+SUMMARY:Haunted: The Innocents (1961)
+DTSTART;TZID=Europe/London:20231119T190000
+DTEND;TZID=Europe/London:20231119T210000
+DTSTAMP:20231119T190000Z
+UID:50766
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 4\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
+ details/012/HO00013829/haunted-the-innocents-1961/\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=
- 50764&visLang=1
+ 50766&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:#Homecoming + Director Q&A
-DTSTART;TZID=Europe/London:20231110T190000
-DTEND;TZID=Europe/London:20231110T210000
-DTSTAMP:20231110T190000Z
-UID:50860
-DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 4\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nQ&A: This screening will be followed by a
-  Q&A.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013845/homeco
- ming-director-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=012&txtSessionId=50860&visLang=1
+SUMMARY:Haunted: Night of the Demon
+DTSTART;TZID=Europe/London:20231112T190000
+DTEND;TZID=Europe/London:20231112T205500
+DTSTAMP:20231112T190000Z
+UID:50765
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 4\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
+ details/012/HO00013828/haunted-night-of-the-demon/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=
+ 50765&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1300,42 +1213,18 @@ DESCRIPTION:Duration: 1h 59m (119 min)\nScreen 4\n\nreDiscover: Time to br
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Haunted: The Innocents (1961)
-DTSTART;TZID=Europe/London:20231119T190000
-DTEND;TZID=Europe/London:20231119T210000
-DTSTAMP:20231119T190000Z
-UID:50766
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 4\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/012/HO00013829/haunted-the-innocents-1961/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=
- 50766&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Skylight (2023 Encore)
-DTSTART;TZID=Europe/London:20231116T190000
-DTEND;TZID=Europe/London:20231116T220000
-DTSTAMP:20231116T190000Z
-UID:50756
-DESCRIPTION:Duration: 2h 37m (157 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013788/nt-live-skylight-2023-encore/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=50756&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Skylight (2023 Encore)
-DTSTART;TZID=Europe/London:20231121T120000
-DTEND;TZID=Europe/London:20231121T150000
-DTSTAMP:20231121T120000Z
-UID:51059
-DESCRIPTION:Duration: 2h 37m (157 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013788/nt-live-skylight-2023-encore/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51059&visLang=1
+SUMMARY:ROH Live: The Nutcracker (2023)
+DTSTART;TZID=Europe/London:20231212T191500
+DTEND;TZID=Europe/London:20231212T220000
+DTSTAMP:20231212T191500Z
+UID:48657
+DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/012/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
+ nId=48657&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1354,18 +1243,15 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: The Nutcracker (2023)
-DTSTART;TZID=Europe/London:20231212T191500
-DTEND;TZID=Europe/London:20231212T220000
-DTSTAMP:20231212T191500Z
-UID:48657
-DESCRIPTION:Duration: 2h 45m (165 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013023/roh-live-the-nutcracker-2023/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessio
- nId=48657&visLang=1
+SUMMARY:Dolly Parton ROCKSTAR: The Global First Listen
+DTSTART;TZID=Europe/London:20231115T193000
+DTEND;TZID=Europe/London:20231115T205000
+DTSTAMP:20231115T193000Z
+UID:50935
+DESCRIPTION:Duration: 0h 57m (57 min)\nScreen 4\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013862/dolly-parton-rockstar-the-global-first
+ -listen/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=012&txtSessionId=50935&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1379,31 +1265,6 @@ DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 2\n\nOut: Elevating and cel
  ttps://www.picturehouses.com/movie-details/012/HO00013918/out-20000-specie
  s-of-bees/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
  .aspx?cinemacode=012&txtSessionId=51052&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dolly Parton ROCKSTAR: The Global First Listen
-DTSTART;TZID=Europe/London:20231115T193000
-DTEND;TZID=Europe/London:20231115T205000
-DTSTAMP:20231115T193000Z
-UID:50935
-DESCRIPTION:Duration: 0h 57m (57 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013862/dolly-parton-rockstar-the-global-first
- -listen/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=012&txtSessionId=50935&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beyond Utopia
-DTSTART;TZID=Europe/London:20231107T194500
-DTEND;TZID=Europe/London:20231107T215500
-DTSTAMP:20231107T194500Z
-UID:51011
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 4\n\nDiscover: Discover stu
- nning cinema. Each week\, the Picturehouse film team champion one must-see
-  film.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013797/beyon
- d-utopia/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=012&txtSessionId=51011&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1452,6 +1313,19 @@ DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013791/nt-live-2024-vanya/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
  ionId=51063&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beyond Utopia
+DTSTART;TZID=Europe/London:20231107T194500
+DTEND;TZID=Europe/London:20231107T215500
+DTSTAMP:20231107T194500Z
+UID:51011
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 4\n\nDiscover: Discover stu
+ nning cinema. Each week\, the Picturehouse film team champion one must-see
+  film.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013797/beyon
+ d-utopia/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=012&txtSessionId=51011&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
