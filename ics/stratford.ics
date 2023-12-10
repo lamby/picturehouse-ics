@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231208T083819Z
+LAST-MODIFIED:20231210T101527Z
 NAME:Picture House London - Stratford
 X-WR-CALNAME:Picture House London - Stratford
+BEGIN:VEVENT
+SUMMARY:It's A Wonderful Life
+DTSTART;TZID=Europe/London:20231224T120000
+DTEND;TZID=Europe/London:20231224T143500
+DTSTAMP:20231224T120000Z
+UID:51276
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 4\n\nChristmas: None\n\nhtt
+ ps://www.picturehouses.com/movie-details/012/HO00002782/it-s-a-wonderful-l
+ ife/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=012&txtSessionId=51276&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nabucco (2024)
 DTSTART;TZID=Europe/London:20240109T120000
@@ -14,34 +26,6 @@ DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013174/met-opera-encore-nabucco-2024/\nhttps
  ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
  012&txtSessionId=48846&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIGHT & SOUND TOP 10: Jeanne Dielman\, 23 Quai Du Commerce\, 1080 
- Bruxelles
-DTSTART;TZID=Europe/London:20231230T123000
-DTEND;TZID=Europe/London:20231230T161500
-DTSTAMP:20231230T123000Z
-UID:50566
-DESCRIPTION:Duration: 3h 21m (201 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013352/sight-sound-top-10-jeanne-dielman-23-
- quai-du-commerce-1080-bruxelles/\nhttps://ticketing.picturehouses.com/Tick
- eting/visSelectTickets.aspx?cinemacode=012&txtSessionId=50566&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A FESTIVE FEAST: Phantom Thread
-DTSTART;TZID=Europe/London:20231231T123000
-DTEND;TZID=Europe/London:20231231T150000
-DTSTAMP:20231231T123000Z
-UID:51058
-DESCRIPTION:Duration: 2h 10m (130 min)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nChristmas: None\n\nhttps://www.pict
- urehouses.com/movie-details/012/HO00013912/a-festive-feast-phantom-thread/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=012&txtSessionId=51058&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -60,21 +44,6 @@ DESCRIPTION:Duration: 1h 39m (99 min)\nScreen 2\n\nreDiscover: Time to bro
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A FESTIVE FEAST: Tampopo
-DTSTART;TZID=Europe/London:20231217T123000
-DTEND;TZID=Europe/London:20231217T144500
-DTSTAMP:20231217T123000Z
-UID:51056
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nChristmas: None\n\nhttps://www.pict
- urehouses.com/movie-details/012/HO00013910/a-festive-feast-tampopo/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 012&txtSessionId=51056&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A FESTIVE FEAST: The Truffle Hunters
 DTSTART;TZID=Europe/London:20231224T123000
 DTEND;TZID=Europe/London:20231224T141500
@@ -90,432 +59,46 @@ DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 2\n\nreDiscover: Time to bro
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Taste of Things - Kia Preview
-DTSTART;TZID=Europe/London:20240101T140000
-DTEND;TZID=Europe/London:20240101T163500
-DTSTAMP:20240101T140000Z
-UID:51106
-DESCRIPTION:Duration: 2h 14m (134 min)\nScreen 2\n\nPreview: A special pre
- view screening of this film. See it before anyone else on the big screen!\
- n\nhttps://www.picturehouses.com/movie-details/012/HO00013945/the-taste-of
- -things-kia-preview/\nhttps://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=012&txtSessionId=51106&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die Hard
-DTSTART;TZID=Europe/London:20231224T145000
-DTEND;TZID=Europe/London:20231224T172500
-DTSTAMP:20231224T145000Z
-UID:51067
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nCulture Shock: Dedicat
- ed to bringing you the best in cult and genre films.\n\nChristmas: None\n\
- nhttps://www.picturehouses.com/movie-details/012/HO00001518/die-hard/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=012&txtSessionId=51067&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It's A Wonderful Life
-DTSTART;TZID=Europe/London:20231224T151000
-DTEND;TZID=Europe/London:20231224T174500
-DTSTAMP:20231224T151000Z
-UID:51276
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nChristmas: None\n\nhtt
- ps://www.picturehouses.com/movie-details/012/HO00002782/it-s-a-wonderful-l
- ife/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=012&txtSessionId=51276&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things - Kia Preview
-DTSTART;TZID=Europe/London:20231231T154000
-DTEND;TZID=Europe/London:20231231T182500
-DTSTAMP:20231231T154000Z
-UID:51105
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nPreview: A special pre
- view screening of this film. See it before anyone else on the big screen!\
- n\nChristmas: None\n\nhttps://www.picturehouses.com/movie-details/012/HO00
- 013940/poor-things-kia-preview/\nhttps://ticketing.picturehouses.com/Ticke
- ting/visSelectTickets.aspx?cinemacode=012&txtSessionId=51105&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231208T160000
-DTEND;TZID=Europe/London:20231208T183500
-DTSTAMP:20231208T160000Z
-UID:51416
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5141
- 6&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231208T190000
-DTEND;TZID=Europe/London:20231208T213500
-DTSTAMP:20231208T190000Z
-UID:51417
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5141
- 7&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231209T160000
-DTEND;TZID=Europe/London:20231209T183500
-DTSTAMP:20231209T160000Z
-UID:51422
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013839/saltburn
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=51422&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231209T190000
-DTEND;TZID=Europe/London:20231209T213500
-DTSTAMP:20231209T190000Z
-UID:51424
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5142
- 4&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231210T154500
-DTEND;TZID=Europe/London:20231210T182000
-DTSTAMP:20231210T154500Z
-UID:51428
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5142
- 8&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231210T184500
-DTEND;TZID=Europe/London:20231210T212000
-DTSTAMP:20231210T184500Z
-UID:51426
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5142
- 6&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231211T190000
-DTEND;TZID=Europe/London:20231211T213500
-DTSTAMP:20231211T190000Z
-UID:51431
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5143
- 1&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231212T194500
-DTEND;TZID=Europe/London:20231212T222000
-DTSTAMP:20231212T194500Z
-UID:51434
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5143
- 4&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231213T163000
-DTEND;TZID=Europe/London:20231213T190500
-DTSTAMP:20231213T163000Z
-UID:51438
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5143
- 8&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231213T194500
-DTEND;TZID=Europe/London:20231213T222000
-DTSTAMP:20231213T194500Z
-UID:51439
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5143
- 9&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231214T161500
-DTEND;TZID=Europe/London:20231214T185000
-DTSTAMP:20231214T161500Z
-UID:51466
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5146
- 6&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231214T191500
-DTEND;TZID=Europe/London:20231214T215000
-DTSTAMP:20231214T191500Z
-UID:51440
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013839/saltburn
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=012&txtSessionId=51440&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers - Kia Preview
-DTSTART;TZID=Europe/London:20231226T160000
-DTEND;TZID=Europe/London:20231226T183500
-DTSTAMP:20231226T160000Z
-UID:51104
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 1\n\nPreview: A special pre
- view screening of this film. See it before anyone else on the big screen!\
- n\nChristmas: None\n\nhttps://www.picturehouses.com/movie-details/012/HO00
- 013939/the-holdovers-kia-preview/\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=012&txtSessionId=51104&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231208T161500
-DTEND;TZID=Europe/London:20231208T184500
-DTSTAMP:20231208T161500Z
-UID:51415
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51415
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231208T191500
-DTEND;TZID=Europe/London:20231208T214500
-DTSTAMP:20231208T191500Z
-UID:51174
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51174
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231209T131500
-DTEND;TZID=Europe/London:20231209T154500
-DTSTAMP:20231209T131500Z
-UID:51179
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51179
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231209T161500
-DTEND;TZID=Europe/London:20231209T184500
-DTSTAMP:20231209T161500Z
-UID:51178
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51178
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231209T191500
-DTEND;TZID=Europe/London:20231209T214500
-DTSTAMP:20231209T191500Z
-UID:51177
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51177
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231210T133000
-DTEND;TZID=Europe/London:20231210T160000
-DTSTAMP:20231210T133000Z
-UID:51180
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51180
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231210T163000
-DTEND;TZID=Europe/London:20231210T190000
-DTSTAMP:20231210T163000Z
-UID:51181
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51181
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231210T193000
-DTEND;TZID=Europe/London:20231210T220000
-DTSTAMP:20231210T193000Z
-UID:51182
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51182
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231211T164500
-DTEND;TZID=Europe/London:20231211T191500
-DTSTAMP:20231211T164500Z
-UID:51185
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51185
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231211T194500
-DTEND;TZID=Europe/London:20231211T221500
-DTSTAMP:20231211T194500Z
-UID:51184
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013803/maestro/
+SUMMARY:A FESTIVE FEAST: Phantom Thread
+DTSTART;TZID=Europe/London:20231231T123000
+DTEND;TZID=Europe/London:20231231T150000
+DTSTAMP:20231231T123000Z
+UID:51058
+DESCRIPTION:Duration: 2h 10m (130 min)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nChristmas: None\n\nhttps://www.pict
+ urehouses.com/movie-details/012/HO00013912/a-festive-feast-phantom-thread/
  \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=012&txtSessionId=51184&visLang=1
+ macode=012&txtSessionId=51058&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231212T170000
-DTEND;TZID=Europe/London:20231212T193000
-DTSTAMP:20231212T170000Z
-UID:51187
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51187
- &visLang=1
+SUMMARY:A FESTIVE FEAST: Tampopo
+DTSTART;TZID=Europe/London:20231217T123000
+DTEND;TZID=Europe/London:20231217T144500
+DTSTAMP:20231217T123000Z
+UID:51056
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nChristmas: None\n\nhttps://www.pict
+ urehouses.com/movie-details/012/HO00013910/a-festive-feast-tampopo/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 012&txtSessionId=51056&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231212T200000
-DTEND;TZID=Europe/London:20231212T223000
-DTSTAMP:20231212T200000Z
-UID:51186
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51186
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231213T191500
-DTEND;TZID=Europe/London:20231213T214500
-DTSTAMP:20231213T191500Z
-UID:51190
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51190
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231214T164500
-DTEND;TZID=Europe/London:20231214T191500
-DTSTAMP:20231214T164500Z
-UID:51191
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51191
- &visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Maestro
-DTSTART;TZID=Europe/London:20231214T194500
-DTEND;TZID=Europe/London:20231214T221500
-DTSTAMP:20231214T194500Z
-UID:51192
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013803/maestro/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=012&txtSessionId=51192&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wish
-DTSTART;TZID=Europe/London:20231208T162000
-DTEND;TZID=Europe/London:20231208T181500
-DTSTAMP:20231208T162000Z
-UID:51419
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013852/wish/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51419&vis
- Lang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wish
-DTSTART;TZID=Europe/London:20231209T130000
-DTEND;TZID=Europe/London:20231209T145500
-DTSTAMP:20231209T130000Z
-UID:51460
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013852/wish/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51460&vis
- Lang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wish
-DTSTART;TZID=Europe/London:20231209T150000
-DTEND;TZID=Europe/London:20231209T165500
-DTSTAMP:20231209T150000Z
-UID:51420
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 2\n\nSubtitled (Captioned): 
- Everyone welcome. This screening has subtitles for people with hearing los
- s.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013852/wish/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=012&txtSessionId=51420&visLang=1
+SUMMARY:SIGHT & SOUND TOP 10: Jeanne Dielman\, 23 Quai Du Commerce\, 1080 
+ Bruxelles
+DTSTART;TZID=Europe/London:20231230T123000
+DTEND;TZID=Europe/London:20231230T161500
+DTSTAMP:20231230T123000Z
+UID:50566
+DESCRIPTION:Duration: 3h 21m (201 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013352/sight-sound-top-10-jeanne-dielman-23-
+ quai-du-commerce-1080-bruxelles/\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=012&txtSessionId=50566&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -588,67 +171,6 @@ DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 2\n\nhttps://www.picturehous
  es.com/movie-details/012/HO00013852/wish/\nhttps://ticketing.picturehouses
  .com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51443&vis
  Lang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231208T164500
-DTEND;TZID=Europe/London:20231208T190500
-DTSTAMP:20231208T164500Z
-UID:51403
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51403&v
- isLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231208T193000
-DTEND;TZID=Europe/London:20231208T215000
-DTSTAMP:20231208T193000Z
-UID:51152
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51152&v
- isLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231209T135000
-DTEND;TZID=Europe/London:20231209T161000
-DTSTAMP:20231209T135000Z
-UID:51155
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013953/wonka/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=012&txtSessionId=51155&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231209T164000
-DTEND;TZID=Europe/London:20231209T190000
-DTSTAMP:20231209T164000Z
-UID:51160
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51160&v
- isLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231209T193000
-DTEND;TZID=Europe/London:20231209T215000
-DTSTAMP:20231209T193000Z
-UID:51165
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51165&v
- isLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -799,6 +321,613 @@ DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wonka
+DTSTART;TZID=Europe/London:20231222T163000
+DTEND;TZID=Europe/London:20231222T185000
+DTSTAMP:20231222T163000Z
+UID:51521
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51521&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wonka
+DTSTART;TZID=Europe/London:20231224T153000
+DTEND;TZID=Europe/London:20231224T175000
+DTSTAMP:20231224T153000Z
+UID:51522
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51522&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wonka
+DTSTART;TZID=Europe/London:20231226T161500
+DTEND;TZID=Europe/London:20231226T183500
+DTSTAMP:20231226T161500Z
+UID:51548
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51548&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wonka
+DTSTART;TZID=Europe/London:20231227T161500
+DTEND;TZID=Europe/London:20231227T183500
+DTSTAMP:20231227T161500Z
+UID:51551
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51551&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wonka
+DTSTART;TZID=Europe/London:20231228T161500
+DTEND;TZID=Europe/London:20231228T183500
+DTSTAMP:20231228T161500Z
+UID:51556
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51556&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestro
+DTSTART;TZID=Europe/London:20231210T133000
+DTEND;TZID=Europe/London:20231210T160000
+DTSTAMP:20231210T133000Z
+UID:51180
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51180
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestro
+DTSTART;TZID=Europe/London:20231210T163000
+DTEND;TZID=Europe/London:20231210T190000
+DTSTAMP:20231210T163000Z
+UID:51181
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51181
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestro
+DTSTART;TZID=Europe/London:20231210T193000
+DTEND;TZID=Europe/London:20231210T220000
+DTSTAMP:20231210T193000Z
+UID:51182
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51182
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestro
+DTSTART;TZID=Europe/London:20231211T164500
+DTEND;TZID=Europe/London:20231211T191500
+DTSTAMP:20231211T164500Z
+UID:51185
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51185
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestro
+DTSTART;TZID=Europe/London:20231211T194500
+DTEND;TZID=Europe/London:20231211T221500
+DTSTAMP:20231211T194500Z
+UID:51184
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013803/maestro/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=012&txtSessionId=51184&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestro
+DTSTART;TZID=Europe/London:20231212T170000
+DTEND;TZID=Europe/London:20231212T193000
+DTSTAMP:20231212T170000Z
+UID:51187
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51187
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestro
+DTSTART;TZID=Europe/London:20231212T200000
+DTEND;TZID=Europe/London:20231212T223000
+DTSTAMP:20231212T200000Z
+UID:51186
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51186
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestro
+DTSTART;TZID=Europe/London:20231213T191500
+DTEND;TZID=Europe/London:20231213T214500
+DTSTAMP:20231213T191500Z
+UID:51190
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51190
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestro
+DTSTART;TZID=Europe/London:20231214T164500
+DTEND;TZID=Europe/London:20231214T191500
+DTSTAMP:20231214T164500Z
+UID:51191
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013803/maestro/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51191
+ &visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maestro
+DTSTART;TZID=Europe/London:20231214T194500
+DTEND;TZID=Europe/London:20231214T221500
+DTSTAMP:20231214T194500Z
+UID:51192
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 4\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013803/maestro/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=012&txtSessionId=51192&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Goal Wins
+DTSTART;TZID=Europe/London:20231226T134500
+DTEND;TZID=Europe/London:20231226T155000
+DTSTAMP:20231226T134500Z
+UID:51549
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013971/next-goal-wins/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51549&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Goal Wins
+DTSTART;TZID=Europe/London:20231226T172000
+DTEND;TZID=Europe/London:20231226T192500
+DTSTAMP:20231226T172000Z
+UID:51543
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013971/next-goal-wins/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51543&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Goal Wins
+DTSTART;TZID=Europe/London:20231226T195000
+DTEND;TZID=Europe/London:20231226T215500
+DTSTAMP:20231226T195000Z
+UID:51546
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013971/next-goal-wins/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51546&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Goal Wins
+DTSTART;TZID=Europe/London:20231227T172000
+DTEND;TZID=Europe/London:20231227T192500
+DTSTAMP:20231227T172000Z
+UID:51555
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013971/next-goal-wins/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51555&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Goal Wins
+DTSTART;TZID=Europe/London:20231227T195000
+DTEND;TZID=Europe/London:20231227T215500
+DTSTAMP:20231227T195000Z
+UID:51552
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013971/next-goal-wins/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51552&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Goal Wins
+DTSTART;TZID=Europe/London:20231228T172000
+DTEND;TZID=Europe/London:20231228T192500
+DTSTAMP:20231228T172000Z
+UID:51560
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013971/next-goal-wins/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51560&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Next Goal Wins
+DTSTART;TZID=Europe/London:20231228T195000
+DTEND;TZID=Europe/London:20231228T215500
+DTSTAMP:20231228T195000Z
+UID:51557
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013971/next-goal-wins/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionI
+ d=51557&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (Original Language Version)
+DTSTART;TZID=Europe/London:20231226T135000
+DTEND;TZID=Europe/London:20231226T161500
+DTSTAMP:20231226T135000Z
+UID:51547
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013972/the-boy-and-the-heron-original-langua
+ ge-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=012&txtSessionId=51547&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (Original Language Version)
+DTSTART;TZID=Europe/London:20231226T193000
+DTEND;TZID=Europe/London:20231226T215500
+DTSTAMP:20231226T193000Z
+UID:51544
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013972/the-boy-and-the-heron-original-langua
+ ge-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=012&txtSessionId=51544&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (Original Language Version)
+DTSTART;TZID=Europe/London:20231227T164000
+DTEND;TZID=Europe/London:20231227T190500
+DTSTAMP:20231227T164000Z
+UID:51554
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013972/the-boy-and-the-heron-original-langua
+ ge-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=012&txtSessionId=51554&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (Original Language Version)
+DTSTART;TZID=Europe/London:20231228T193000
+DTEND;TZID=Europe/London:20231228T215500
+DTSTAMP:20231228T193000Z
+UID:51559
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013972/the-boy-and-the-heron-original-langua
+ ge-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=012&txtSessionId=51559&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things - Kia Preview
+DTSTART;TZID=Europe/London:20240101T140000
+DTEND;TZID=Europe/London:20240101T163500
+DTSTAMP:20240101T140000Z
+UID:51106
+DESCRIPTION:Duration: 2h 14m (134 min)\nScreen 2\n\nPreview: A special pre
+ view screening of this film. See it before anyone else on the big screen!\
+ n\nhttps://www.picturehouses.com/movie-details/012/HO00013945/the-taste-of
+ -things-kia-preview/\nhttps://ticketing.picturehouses.com/Ticketing/visSel
+ ectTickets.aspx?cinemacode=012&txtSessionId=51106&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers - Kia Preview
+DTSTART;TZID=Europe/London:20231226T140000
+DTEND;TZID=Europe/London:20231226T163500
+DTSTAMP:20231226T140000Z
+UID:51104
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nPreview: A special pre
+ view screening of this film. See it before anyone else on the big screen!\
+ n\nChristmas: None\n\nhttps://www.picturehouses.com/movie-details/012/HO00
+ 013939/the-holdovers-kia-preview/\nhttps://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=012&txtSessionId=51104&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Life
+DTSTART;TZID=Europe/London:20240101T141000
+DTEND;TZID=Europe/London:20240101T162000
+DTSTAMP:20240101T141000Z
+UID:51594
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014067/one-life/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5159
+ 4&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Life
+DTSTART;TZID=Europe/London:20240101T172000
+DTEND;TZID=Europe/London:20240101T193000
+DTSTAMP:20240101T172000Z
+UID:51590
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014067/one-life/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5159
+ 0&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Life
+DTSTART;TZID=Europe/London:20240101T194500
+DTEND;TZID=Europe/London:20240101T215500
+DTSTAMP:20240101T194500Z
+UID:51592
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014067/one-life/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5159
+ 2&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Life
+DTSTART;TZID=Europe/London:20240102T172000
+DTEND;TZID=Europe/London:20240102T193000
+DTSTAMP:20240102T172000Z
+UID:51597
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014067/one-life/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5159
+ 7&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Life
+DTSTART;TZID=Europe/London:20240102T194500
+DTEND;TZID=Europe/London:20240102T215500
+DTSTAMP:20240102T194500Z
+UID:51595
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014067/one-life/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5159
+ 5&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Life
+DTSTART;TZID=Europe/London:20240103T172000
+DTEND;TZID=Europe/London:20240103T193000
+DTSTAMP:20240103T172000Z
+UID:51604
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014067/one-life/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5160
+ 4&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Life
+DTSTART;TZID=Europe/London:20240103T194500
+DTEND;TZID=Europe/London:20240103T215500
+DTSTAMP:20240103T194500Z
+UID:51602
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014067/one-life/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5160
+ 2&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Life
+DTSTART;TZID=Europe/London:20240104T172000
+DTEND;TZID=Europe/London:20240104T193000
+DTSTAMP:20240104T172000Z
+UID:51611
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014067/one-life/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5161
+ 1&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One Life
+DTSTART;TZID=Europe/London:20240104T194500
+DTEND;TZID=Europe/London:20240104T215500
+DTSTAMP:20240104T194500Z
+UID:51609
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014067/one-life/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5160
+ 9&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Hard
+DTSTART;TZID=Europe/London:20231224T145000
+DTEND;TZID=Europe/London:20231224T172500
+DTSTAMP:20231224T145000Z
+UID:51067
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nCulture Shock: Dedicat
+ ed to bringing you the best in cult and genre films.\n\nChristmas: None\n\
+ nhttps://www.picturehouses.com/movie-details/012/HO00001518/die-hard/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=012&txtSessionId=51067&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things - Kia Preview
+DTSTART;TZID=Europe/London:20231231T154000
+DTEND;TZID=Europe/London:20231231T182500
+DTSTAMP:20231231T154000Z
+UID:51105
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nPreview: A special pre
+ view screening of this film. See it before anyone else on the big screen!\
+ n\nChristmas: None\n\nhttps://www.picturehouses.com/movie-details/012/HO00
+ 013940/poor-things-kia-preview/\nhttps://ticketing.picturehouses.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=012&txtSessionId=51105&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART;TZID=Europe/London:20231210T154500
+DTEND;TZID=Europe/London:20231210T182000
+DTSTAMP:20231210T154500Z
+UID:51428
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5142
+ 8&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART;TZID=Europe/London:20231210T184500
+DTEND;TZID=Europe/London:20231210T212000
+DTSTAMP:20231210T184500Z
+UID:51426
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5142
+ 6&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART;TZID=Europe/London:20231211T190000
+DTEND;TZID=Europe/London:20231211T213500
+DTSTAMP:20231211T190000Z
+UID:51431
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5143
+ 1&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART;TZID=Europe/London:20231212T194500
+DTEND;TZID=Europe/London:20231212T222000
+DTSTAMP:20231212T194500Z
+UID:51434
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5143
+ 4&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART;TZID=Europe/London:20231213T163000
+DTEND;TZID=Europe/London:20231213T190500
+DTSTAMP:20231213T163000Z
+UID:51438
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5143
+ 8&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART;TZID=Europe/London:20231213T194500
+DTEND;TZID=Europe/London:20231213T222000
+DTSTAMP:20231213T194500Z
+UID:51439
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5143
+ 9&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART;TZID=Europe/London:20231214T161500
+DTEND;TZID=Europe/London:20231214T185000
+DTSTAMP:20231214T161500Z
+UID:51466
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5146
+ 6&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART;TZID=Europe/London:20231214T191500
+DTEND;TZID=Europe/London:20231214T215000
+DTSTAMP:20231214T191500Z
+UID:51440
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00013839/saltburn
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=012&txtSessionId=51440&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (English Language Version)
+DTSTART;TZID=Europe/London:20231226T164000
+DTEND;TZID=Europe/London:20231226T190500
+DTSTAMP:20231226T164000Z
+UID:51545
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013832/the-boy-and-the-heron-english-languag
+ e-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=012&txtSessionId=51545&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (English Language Version)
+DTSTART;TZID=Europe/London:20231227T193000
+DTEND;TZID=Europe/London:20231227T215500
+DTSTAMP:20231227T193000Z
+UID:51553
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013832/the-boy-and-the-heron-english-languag
+ e-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=012&txtSessionId=51553&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (English Language Version)
+DTSTART;TZID=Europe/London:20231228T164000
+DTEND;TZID=Europe/London:20231228T190500
+DTSTAMP:20231228T164000Z
+UID:51558
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013832/the-boy-and-the-heron-english-languag
+ e-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=012&txtSessionId=51558&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Home Alone
 DTSTART;TZID=Europe/London:20231229T170000
 DTEND;TZID=Europe/London:20231229T190500
@@ -840,18 +969,15 @@ DESCRIPTION:Duration: 1h 26m (86 min)\nScreen 2\n\nCulture Shock: Dedicate
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Florencia En El Amazonas (2023)
-DTSTART;TZID=Europe/London:20231209T175500
-DTEND;TZID=Europe/London:20231209T203000
-DTSTAMP:20231209T175500Z
-UID:48843
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/012/HO00013163/met-opera-live-florencia-en-el-amazonas-2023/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=012&txtSessionId=48843&visLang=1
+SUMMARY:The Muppet Christmas Carol
+DTSTART;TZID=Europe/London:20231224T131500
+DTEND;TZID=Europe/London:20231224T150500
+DTSTAMP:20231224T131500Z
+UID:51524
+DESCRIPTION:Duration: 1h 26m (86 min)\nScreen 1\n\nChristmas: None\n\nhttp
+ s://www.picturehouses.com/movie-details/012/HO00008902/the-muppet-christma
+ s-carol/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=012&txtSessionId=51524&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -867,18 +993,6 @@ DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nAd and Trailer Free: N
  e-details/012/HO00013164/met-opera-live-nabucco-2024/\nhttps://ticketing.p
  icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSession
  Id=48845&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Napoleon
-DTSTART;TZID=Europe/London:20231208T184500
-DTEND;TZID=Europe/London:20231208T214500
-DTSTAMP:20231208T184500Z
-UID:51418
-DESCRIPTION:Duration: 2h 38m (158 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013906/napoleon/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5141
- 8&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -932,18 +1046,6 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=Europe/London:20231213T190000
-DTEND;TZID=Europe/London:20231213T215500
-DTSTAMP:20231213T190000Z
-UID:51436
-DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013367/anatomy-of-a-fall/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessi
- onId=51436&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NT Live 2024: Dear England
 DTSTART;TZID=Europe/London:20240125T190000
 DTEND;TZID=Europe/London:20240125T220000
@@ -980,6 +1082,18 @@ DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=Europe/London:20231213T190000
+DTEND;TZID=Europe/London:20231213T215500
+DTSTAMP:20231213T190000Z
+UID:51436
+DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013367/anatomy-of-a-fall/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessi
+ onId=51436&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Boy And The Heron (Original Language Version) - Kia Preview
 DTSTART;TZID=Europe/London:20231215T190000
 DTEND;TZID=Europe/London:20231215T212500
@@ -991,6 +1105,90 @@ DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 2\n\nPreview: A special pre
  the-heron-original-language-version-kia-preview/\nhttps://ticketing.pictur
  ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51
  321&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dunki
+DTSTART;TZID=Europe/London:20231221T190000
+DTEND;TZID=Europe/London:20231221T220000
+DTSTAMP:20231221T190000Z
+UID:51561
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014063/dunki/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51561&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dunki
+DTSTART;TZID=Europe/London:20231222T190000
+DTEND;TZID=Europe/London:20231222T220000
+DTSTAMP:20231222T190000Z
+UID:51517
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014063/dunki/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51517&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dunki
+DTSTART;TZID=Europe/London:20231223T190000
+DTEND;TZID=Europe/London:20231223T220000
+DTSTAMP:20231223T190000Z
+UID:51530
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014063/dunki/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51530&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dunki
+DTSTART;TZID=Europe/London:20231224T150000
+DTEND;TZID=Europe/London:20231224T180000
+DTSTAMP:20231224T150000Z
+UID:51527
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014063/dunki/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51527&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dunki
+DTSTART;TZID=Europe/London:20231226T190000
+DTEND;TZID=Europe/London:20231226T220000
+DTSTAMP:20231226T190000Z
+UID:51533
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014063/dunki/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51533&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dunki
+DTSTART;TZID=Europe/London:20231227T190000
+DTEND;TZID=Europe/London:20231227T220000
+DTSTAMP:20231227T190000Z
+UID:51536
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014063/dunki/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51536&v
+ isLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dunki
+DTSTART;TZID=Europe/London:20231228T190000
+DTEND;TZID=Europe/London:20231228T220000
+DTSTAMP:20231228T190000Z
+UID:51539
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014063/dunki/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51539&v
+ isLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1046,19 +1244,6 @@ DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OUT: The Lost Boys (Le Paradis) + Recorded Q&A
-DTSTART;TZID=Europe/London:20240111T194500
-DTEND;TZID=Europe/London:20240111T215500
-DTSTAMP:20240111T194500Z
-UID:51414
-DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 2\n\nOut: Elevating and cel
- ebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\nh
- ttps://www.picturehouses.com/movie-details/012/HO00013977/out-the-lost-boy
- s-le-paradis-recorded-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/
- visSelectTickets.aspx?cinemacode=012&txtSessionId=51414&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NT Live 2024: Vanya
 DTSTART;TZID=Europe/London:20240222T194500
 DTEND;TZID=Europe/London:20240222T215500
@@ -1095,6 +1280,19 @@ DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OUT: The Lost Boys (Le Paradis) + Recorded Q&A
+DTSTART;TZID=Europe/London:20240111T194500
+DTEND;TZID=Europe/London:20240111T215500
+DTSTAMP:20240111T194500Z
+UID:51414
+DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 2\n\nOut: Elevating and cel
+ ebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\nh
+ ttps://www.picturehouses.com/movie-details/012/HO00013977/out-the-lost-boy
+ s-le-paradis-recorded-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=012&txtSessionId=51414&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Earth Mama
 DTSTART;TZID=Europe/London:20231215T200000
 DTEND;TZID=Europe/London:20231215T220000
@@ -1119,19 +1317,6 @@ DESCRIPTION:Duration: 1h 37m (97 min)\nScreen 4\n\nhttps://www.picturehous
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elf (20th Anniversary)
-DTSTART;TZID=Europe/London:20231218T200000
-DTEND;TZID=Europe/London:20231218T220000
-DTSTAMP:20231218T200000Z
-UID:51066
-DESCRIPTION:Duration: 1h 37m (97 min)\nScreen 2\n\nCulture Shock: Dedicate
- d to bringing you the best in cult and genre films.\n\nChristmas: None\n\n
- https://www.picturehouses.com/movie-details/012/HO00013913/elf-20th-annive
- rsary/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=012&txtSessionId=51066&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:May December
 DTSTART;TZID=Europe/London:20231211T200000
 DTEND;TZID=Europe/London:20231211T220000
@@ -1142,6 +1327,19 @@ DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nAd and Trailer Free: N
  commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
  ls/012/HO00013730/may-december/\nhttps://ticketing.picturehouses.com/Ticke
  ting/visSelectTickets.aspx?cinemacode=012&txtSessionId=51433&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf (20th Anniversary)
+DTSTART;TZID=Europe/London:20231218T200000
+DTEND;TZID=Europe/London:20231218T220000
+DTSTAMP:20231218T200000Z
+UID:51066
+DESCRIPTION:Duration: 1h 37m (97 min)\nScreen 2\n\nCulture Shock: Dedicate
+ d to bringing you the best in cult and genre films.\n\nChristmas: None\n\n
+ https://www.picturehouses.com/movie-details/012/HO00013913/elf-20th-annive
+ rsary/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=012&txtSessionId=51066&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
