@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20231222T101003Z
+LAST-MODIFIED:20231223T085938Z
 NAME:Picture House London - Stratford
 X-WR-CALNAME:Picture House London - Stratford
+BEGIN:VEVENT
+SUMMARY:Wish
+DTSTART;TZID=Europe/London:20231223T114500
+DTEND;TZID=Europe/London:20231223T134000
+DTSTAMP:20231223T114500Z
+UID:51679
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/012/HO00013852/wish/\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51679&vis
+ Lang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nabucco (2024)
 DTSTART;TZID=Europe/London:20240109T120000
@@ -14,6 +26,18 @@ DESCRIPTION:Duration: 3h 06m (186 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013174/met-opera-encore-nabucco-2024/\nhttps
  ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
  012&txtSessionId=48846&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Napoleon
+DTSTART;TZID=Europe/London:20231223T121500
+DTEND;TZID=Europe/London:20231223T151500
+DTSTAMP:20231223T121500Z
+UID:51720
+DESCRIPTION:Duration: 2h 38m (158 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013906/napoleon/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5172
+ 0&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -30,28 +54,18 @@ DESCRIPTION:Duration: 1h 28m (88 min)\nScreen 3\n\nDiscover: Discover stun
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Napoleon
-DTSTART;TZID=Europe/London:20231223T121500
-DTEND;TZID=Europe/London:20231223T151500
-DTSTAMP:20231223T121500Z
-UID:51720
-DESCRIPTION:Duration: 2h 38m (158 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013906/napoleon/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5172
- 0&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIGHT & SOUND TOP 10: Jeanne Dielman\, 23 Quai Du Commerce\, 1080 
- Bruxelles
-DTSTART;TZID=Europe/London:20231230T123000
-DTEND;TZID=Europe/London:20231230T161500
-DTSTAMP:20231230T123000Z
-UID:50566
-DESCRIPTION:Duration: 3h 21m (201 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013352/sight-sound-top-10-jeanne-dielman-23-
- quai-du-commerce-1080-bruxelles/\nhttps://ticketing.picturehouses.com/Tick
- eting/visSelectTickets.aspx?cinemacode=012&txtSessionId=50566&visLang=1
+SUMMARY:A FESTIVE FEAST: The Truffle Hunters
+DTSTART;TZID=Europe/London:20231224T123000
+DTEND;TZID=Europe/London:20231224T141500
+DTSTAMP:20231224T123000Z
+UID:51057
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 2\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nChristmas: None\n\nhttps://www.pictu
+ rehouses.com/movie-details/012/HO00013911/a-festive-feast-the-truffle-hunt
+ ers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=012&txtSessionId=51057&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -70,18 +84,16 @@ DESCRIPTION:Duration: 2h 10m (130 min)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A FESTIVE FEAST: The Truffle Hunters
-DTSTART;TZID=Europe/London:20231224T123000
-DTEND;TZID=Europe/London:20231224T141500
-DTSTAMP:20231224T123000Z
-UID:51057
-DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 2\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nChristmas: None\n\nhttps://www.pictu
- rehouses.com/movie-details/012/HO00013911/a-festive-feast-the-truffle-hunt
- ers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=012&txtSessionId=51057&visLang=1
+SUMMARY:SIGHT & SOUND TOP 10: Jeanne Dielman\, 23 Quai Du Commerce\, 1080 
+ Bruxelles
+DTSTART;TZID=Europe/London:20231230T123000
+DTEND;TZID=Europe/London:20231230T161500
+DTSTAMP:20231230T123000Z
+UID:50566
+DESCRIPTION:Duration: 3h 21m (201 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013352/sight-sound-top-10-jeanne-dielman-23-
+ quai-du-commerce-1080-bruxelles/\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=012&txtSessionId=50566&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -625,125 +637,209 @@ DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 3\n\nDiscover: Discover stu
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Die Hard
-DTSTART;TZID=Europe/London:20231224T145000
-DTEND;TZID=Europe/London:20231224T172500
-DTSTAMP:20231224T145000Z
-UID:51067
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nCulture Shock: Dedicat
- ed to bringing you the best in cult and genre films.\n\nChristmas: None\n\
- nhttps://www.picturehouses.com/movie-details/012/HO00001518/die-hard/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=012&txtSessionId=51067&visLang=1
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231223T141500
+DTEND;TZID=Europe/London:20231223T163000
+DTSTAMP:20231223T141500Z
+UID:51542
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51542&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Poor Things - Kia Preview
-DTSTART;TZID=Europe/London:20231231T154000
-DTEND;TZID=Europe/London:20231231T182500
-DTSTAMP:20231231T154000Z
-UID:51105
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nPreview: A special pre
- view screening of this film. See it before anyone else on the big screen!\
- n\nChristmas: None\n\nhttps://www.picturehouses.com/movie-details/012/HO00
- 013940/poor-things-kia-preview/\nhttps://ticketing.picturehouses.com/Ticke
- ting/visSelectTickets.aspx?cinemacode=012&txtSessionId=51105&visLang=1
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231223T170000
+DTEND;TZID=Europe/London:20231223T191500
+DTSTAMP:20231223T170000Z
+UID:51531
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00014066/aquaman-
+ and-the-lost-kingdom/\nhttps://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=012&txtSessionId=51531&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231222T161500
-DTEND;TZID=Europe/London:20231222T185000
-DTSTAMP:20231222T161500Z
-UID:51717
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5171
- 7&visLang=1
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231223T194500
+DTEND;TZID=Europe/London:20231223T220000
+DTSTAMP:20231223T194500Z
+UID:51532
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51532&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231223T155000
-DTEND;TZID=Europe/London:20231223T182500
-DTSTAMP:20231223T155000Z
-UID:51719
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5171
- 9&visLang=1
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231224T121500
+DTEND;TZID=Europe/London:20231224T143000
+DTSTAMP:20231224T121500Z
+UID:51529
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51529&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Saltburn
-DTSTART;TZID=Europe/London:20231230T170000
-DTEND;TZID=Europe/London:20231230T193500
-DTSTAMP:20231230T170000Z
-UID:51724
-DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5172
- 4&visLang=1
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231224T151500
+DTEND;TZID=Europe/London:20231224T173000
+DTSTAMP:20231224T151500Z
+UID:51738
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51738&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Star Wars: Episode V - The Empire Strikes Back
-DTSTART;TZID=Europe/London:20231223T161500
-DTEND;TZID=Europe/London:20231223T184500
-DTSTAMP:20231223T161500Z
-UID:51676
-DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014113/star-wars-episode-v-the-empire-strike
- s-back/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=012&txtSessionId=51676&visLang=1
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231226T170000
+DTEND;TZID=Europe/London:20231226T191500
+DTSTAMP:20231226T170000Z
+UID:51534
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51534&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wish
-DTSTART;TZID=Europe/London:20231222T162000
-DTEND;TZID=Europe/London:20231222T181500
-DTSTAMP:20231222T162000Z
-UID:51718
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 4\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013852/wish/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51718&vis
- Lang=1
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231226T194500
+DTEND;TZID=Europe/London:20231226T220000
+DTSTAMP:20231226T194500Z
+UID:51535
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51535&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wish
-DTSTART;TZID=Europe/London:20231223T114500
-DTEND;TZID=Europe/London:20231223T134000
-DTSTAMP:20231223T114500Z
-UID:51679
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/012/HO00013852/wish/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51679&vis
- Lang=1
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231227T163000
+DTEND;TZID=Europe/London:20231227T184500
+DTSTAMP:20231227T163000Z
+UID:51537
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00014066/aquaman-
+ and-the-lost-kingdom/\nhttps://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=012&txtSessionId=51537&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231222T163000
-DTEND;TZID=Europe/London:20231222T185000
-DTSTAMP:20231222T163000Z
-UID:51521
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51521&v
- isLang=1
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231227T191500
+DTEND;TZID=Europe/London:20231227T213000
+DTSTAMP:20231227T191500Z
+UID:51538
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51538&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20231222T191500
-DTEND;TZID=Europe/London:20231222T213500
-DTSTAMP:20231222T191500Z
-UID:51737
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00013953/wonka/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51737&v
- isLang=1
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231228T170000
+DTEND;TZID=Europe/London:20231228T191500
+DTSTAMP:20231228T170000Z
+UID:51540
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51540&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231228T194500
+DTEND;TZID=Europe/London:20231228T220000
+DTSTAMP:20231228T194500Z
+UID:51541
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51541&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231229T190000
+DTEND;TZID=Europe/London:20231229T211500
+DTSTAMP:20231229T190000Z
+UID:51566
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51566&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20231230T201500
+DTEND;TZID=Europe/London:20231230T223000
+DTSTAMP:20231230T201500Z
+UID:51571
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51571&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20240101T191500
+DTEND;TZID=Europe/London:20240101T213000
+DTSTAMP:20240101T191500Z
+UID:51587
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51587&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20240102T193000
+DTEND;TZID=Europe/London:20240102T214500
+DTSTAMP:20240102T193000Z
+UID:51600
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51600&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20240103T184500
+DTEND;TZID=Europe/London:20240103T210000
+DTSTAMP:20240103T184500Z
+UID:51607
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51607&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aquaman and the Lost Kingdom
+DTSTART;TZID=Europe/London:20240104T190000
+DTEND;TZID=Europe/London:20240104T211500
+DTSTAMP:20240104T190000Z
+UID:51614
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 12&txtSessionId=51614&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -965,6 +1061,68 @@ DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 4\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Die Hard
+DTSTART;TZID=Europe/London:20231224T145000
+DTEND;TZID=Europe/London:20231224T172500
+DTSTAMP:20231224T145000Z
+UID:51067
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nCulture Shock: Dedicat
+ ed to bringing you the best in cult and genre films.\n\nChristmas: None\n\
+ nhttps://www.picturehouses.com/movie-details/012/HO00001518/die-hard/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=012&txtSessionId=51067&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things - Kia Preview
+DTSTART;TZID=Europe/London:20231231T154000
+DTEND;TZID=Europe/London:20231231T182500
+DTSTAMP:20231231T154000Z
+UID:51105
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nPreview: A special pre
+ view screening of this film. See it before anyone else on the big screen!\
+ n\nChristmas: None\n\nhttps://www.picturehouses.com/movie-details/012/HO00
+ 013940/poor-things-kia-preview/\nhttps://ticketing.picturehouses.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=012&txtSessionId=51105&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART;TZID=Europe/London:20231223T155000
+DTEND;TZID=Europe/London:20231223T182500
+DTSTAMP:20231223T155000Z
+UID:51719
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5171
+ 9&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saltburn
+DTSTART;TZID=Europe/London:20231230T170000
+DTEND;TZID=Europe/London:20231230T193500
+DTSTAMP:20231230T170000Z
+UID:51724
+DESCRIPTION:Duration: 2h 11m (131 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00013839/saltburn/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=5172
+ 4&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Star Wars: Episode V - The Empire Strikes Back
+DTSTART;TZID=Europe/London:20231223T161500
+DTEND;TZID=Europe/London:20231223T184500
+DTSTAMP:20231223T161500Z
+UID:51676
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014113/star-wars-episode-v-the-empire-strike
+ s-back/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=012&txtSessionId=51676&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Boy And The Heron (English Language Version)
 DTSTART;TZID=Europe/London:20231226T164000
 DTEND;TZID=Europe/London:20231226T190500
@@ -1098,236 +1256,6 @@ DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 2\n\nCulture Shock: Dedicat
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231222T164500
-DTEND;TZID=Europe/London:20231222T190000
-DTSTAMP:20231222T164500Z
-UID:51519
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51519&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231222T194500
-DTEND;TZID=Europe/London:20231222T220000
-DTSTAMP:20231222T194500Z
-UID:51518
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51518&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231223T141500
-DTEND;TZID=Europe/London:20231223T163000
-DTSTAMP:20231223T141500Z
-UID:51542
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51542&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231223T170000
-DTEND;TZID=Europe/London:20231223T191500
-DTSTAMP:20231223T170000Z
-UID:51531
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00014066/aquaman-
- and-the-lost-kingdom/\nhttps://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=012&txtSessionId=51531&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231223T194500
-DTEND;TZID=Europe/London:20231223T220000
-DTSTAMP:20231223T194500Z
-UID:51532
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51532&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231224T121500
-DTEND;TZID=Europe/London:20231224T143000
-DTSTAMP:20231224T121500Z
-UID:51529
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51529&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231224T151500
-DTEND;TZID=Europe/London:20231224T173000
-DTSTAMP:20231224T151500Z
-UID:51738
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51738&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231226T170000
-DTEND;TZID=Europe/London:20231226T191500
-DTSTAMP:20231226T170000Z
-UID:51534
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51534&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231226T194500
-DTEND;TZID=Europe/London:20231226T220000
-DTSTAMP:20231226T194500Z
-UID:51535
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51535&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231227T163000
-DTEND;TZID=Europe/London:20231227T184500
-DTSTAMP:20231227T163000Z
-UID:51537
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/012/HO00014066/aquaman-
- and-the-lost-kingdom/\nhttps://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=012&txtSessionId=51537&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231227T191500
-DTEND;TZID=Europe/London:20231227T213000
-DTSTAMP:20231227T191500Z
-UID:51538
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51538&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231228T170000
-DTEND;TZID=Europe/London:20231228T191500
-DTSTAMP:20231228T170000Z
-UID:51540
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51540&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231228T194500
-DTEND;TZID=Europe/London:20231228T220000
-DTSTAMP:20231228T194500Z
-UID:51541
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51541&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231229T190000
-DTEND;TZID=Europe/London:20231229T211500
-DTSTAMP:20231229T190000Z
-UID:51566
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51566&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20231230T201500
-DTEND;TZID=Europe/London:20231230T223000
-DTSTAMP:20231230T201500Z
-UID:51571
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51571&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20240101T191500
-DTEND;TZID=Europe/London:20240101T213000
-DTSTAMP:20240101T191500Z
-UID:51587
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51587&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20240102T193000
-DTEND;TZID=Europe/London:20240102T214500
-DTSTAMP:20240102T193000Z
-UID:51600
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51600&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20240103T184500
-DTEND;TZID=Europe/London:20240103T210000
-DTSTAMP:20240103T184500Z
-UID:51607
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51607&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aquaman and the Lost Kingdom
-DTSTART;TZID=Europe/London:20240104T190000
-DTEND;TZID=Europe/London:20240104T211500
-DTSTAMP:20240104T190000Z
-UID:51614
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014066/aquaman-and-the-lost-kingdom/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 12&txtSessionId=51614&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: Nabucco (2024)
 DTSTART;TZID=Europe/London:20240106T175500
 DTEND;TZID=Europe/London:20240106T210500
@@ -1376,32 +1304,6 @@ DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 3\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013789/nt-live-2024-dear-england/\nhttps://t
  icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&
  txtSessionId=51061&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PET SHOP BOYS DREAMWORLD: THE GREATEST HITS LIVE AT THE ROYAL AREN
- A COPENHAGEN
-DTSTART;TZID=Europe/London:20240131T190000
-DTEND;TZID=Europe/London:20240131T211500
-DTSTAMP:20240131T190000Z
-UID:51471
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014069/pet-shop-boys-dreamworld-the-greatest
- -hits-live-at-the-royal-arena-copenhagen/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51471&vis
- Lang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dunki
-DTSTART;TZID=Europe/London:20231222T190000
-DTEND;TZID=Europe/London:20231222T221000
-DTSTAMP:20231222T190000Z
-UID:51517
-DESCRIPTION:Duration: 2h 50m (170 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014063/dunki/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51517&v
- isLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1465,15 +1367,17 @@ DESCRIPTION:Duration: 2h 50m (170 min)\nScreen 4\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Star Wars: Episode VI - Return of the Jedi
-DTSTART;TZID=Europe/London:20231223T191500
-DTEND;TZID=Europe/London:20231223T214500
-DTSTAMP:20231223T191500Z
-UID:51678
-DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/012/HO00014114/star-wars-episode-vi-return-of-the-je
- di/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=012&txtSessionId=51678&visLang=1
+SUMMARY:PET SHOP BOYS DREAMWORLD: THE GREATEST HITS LIVE AT THE ROYAL AREN
+ A COPENHAGEN
+DTSTART;TZID=Europe/London:20240131T190000
+DTEND;TZID=Europe/London:20240131T211500
+DTSTAMP:20240131T190000Z
+UID:51471
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014069/pet-shop-boys-dreamworld-the-greatest
+ -hits-live-at-the-royal-arena-copenhagen/\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51471&vis
+ Lang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1562,6 +1466,18 @@ DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Star Wars: Episode VI - Return of the Jedi
+DTSTART;TZID=Europe/London:20231223T191500
+DTEND;TZID=Europe/London:20231223T214500
+DTSTAMP:20231223T191500Z
+UID:51678
+DESCRIPTION:Duration: 2h 09m (129 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/012/HO00014114/star-wars-episode-vi-return-of-the-je
+ di/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=012&txtSessionId=51678&visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Poor Things
 DTSTART;TZID=Europe/London:20240112T191500
 DTEND;TZID=Europe/London:20240112T220000
@@ -1622,19 +1538,6 @@ DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Priscilla - Kia Preview
-DTSTART;TZID=Europe/London:20231222T193000
-DTEND;TZID=Europe/London:20231222T214500
-DTSTAMP:20231222T193000Z
-UID:51322
-DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nPreview: A special pre
- view screening of this film. See it before anyone else on the big screen!\
- n\nhttps://www.picturehouses.com/movie-details/012/HO00014047/priscilla-ki
- a-preview/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=012&txtSessionId=51322&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Barbie
 DTSTART;TZID=Europe/London:20240115T194000
 DTEND;TZID=Europe/London:20240115T215500
@@ -1644,6 +1547,19 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013214/barbie/\nhttps://ticketing.picturehou
  ses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSessionId=51739&
  visLang=1
+LOCATION:Picture House London - Stratford
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OUT: The Lost Boys (Le Paradis) + Recorded Q&A
+DTSTART;TZID=Europe/London:20240111T194500
+DTEND;TZID=Europe/London:20240111T222000
+DTSTAMP:20240111T194500Z
+UID:51414
+DESCRIPTION:Duration: 2h 14m (134 min)\nScreen 2\n\nOut: Elevating and cel
+ ebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\nh
+ ttps://www.picturehouses.com/movie-details/012/HO00013977/out-the-lost-boy
+ s-le-paradis-recorded-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=012&txtSessionId=51414&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
@@ -1680,19 +1596,6 @@ DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/012/HO00013791/nt-live-2024-vanya/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=012&txtSess
  ionId=51063&visLang=1
-LOCATION:Picture House London - Stratford
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OUT: The Lost Boys (Le Paradis) + Recorded Q&A
-DTSTART;TZID=Europe/London:20240111T194500
-DTEND;TZID=Europe/London:20240111T215500
-DTSTAMP:20240111T194500Z
-UID:51414
-DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 2\n\nOut: Elevating and cel
- ebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\nh
- ttps://www.picturehouses.com/movie-details/012/HO00013977/out-the-lost-boy
- s-le-paradis-recorded-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/
- visSelectTickets.aspx?cinemacode=012&txtSessionId=51414&visLang=1
 LOCATION:Picture House London - Stratford
 END:VEVENT
 BEGIN:VEVENT
