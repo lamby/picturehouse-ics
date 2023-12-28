@@ -197,6 +197,8 @@ class PictureHouseICS:
                         break
                     if attr in HIDE_ATTRIBUTES:
                         continue
+                    if z['description'] == "None":
+                        continue
                     description.append("")
                     description.append(f"{attr}: {z['description']}")
 
