@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240112T091512Z
+LAST-MODIFIED:20240113T093314Z
 NAME:Picture House Bath - Little Theatre Cinema
 X-WR-CALNAME:Picture House Bath - Little Theatre Cinema
-BEGIN:VEVENT
-SUMMARY:BAHFF: Hercules
-DTSTART;TZID=Europe/London:20240404T103000
-DTEND;TZID=Europe/London:20240404T122500
-DTSTAMP:20240404T093000Z
-UID:29369
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/003/HO00013854/bahff-hercules/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId
- =29369&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BAHFF: Early Man
 DTSTART;TZID=Europe/London:20240405T103000
@@ -26,6 +14,18 @@ DESCRIPTION:Duration: 1h 27m (87 min)\nScreen 1\n\nhttps://www.picturehous
  es.com/movie-details/003/HO00013857/bahff-early-man/\nhttps://ticketing.pi
  cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionI
  d=29372&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAHFF: Hercules
+DTSTART;TZID=Europe/London:20240404T103000
+DTEND;TZID=Europe/London:20240404T122500
+DTSTAMP:20240404T093000Z
+UID:29369
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/003/HO00013854/bahff-hercules/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId
+ =29369&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -44,30 +44,6 @@ DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240515T110000
-DTEND;TZID=Europe/London:20240515T143500
-DTSTAMP:20240515T100000Z
-UID:28069
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013179/met-opera-encore-madama-butterfly-202
- 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=003&txtSessionId=28069&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London:20240327T110000
-DTEND;TZID=Europe/London:20240327T145500
-DTSTAMP:20240327T110000Z
-UID:28065
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013177/met-opera-encore-romeo-et-juliette-20
- 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=003&txtSessionId=28065&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Encore: Carmen (2024)
 DTSTART;TZID=Europe/London:20240506T110000
 DTEND;TZID=Europe/London:20240506T144500
@@ -79,45 +55,6 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
  ls/003/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
  .com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=27838&vis
  Lang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Forza del Destino (2024)
-DTSTART;TZID=Europe/London:20240313T110000
-DTEND;TZID=Europe/London:20240313T154500
-DTSTAMP:20240313T110000Z
-UID:28063
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013176/met-opera-encore-la-forza-del-destino
- -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=003&txtSessionId=28063&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carmen (2024)
-DTSTART;TZID=Europe/London:20240130T110000
-DTEND;TZID=Europe/London:20240130T150500
-DTSTAMP:20240130T110000Z
-UID:28061
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013175/met-opera-encore-carmen-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 03&txtSessionId=28061&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buster Keaton: Go West
-DTSTART;TZID=Europe/London:20240121T110000
-DTEND;TZID=Europe/London:20240121T123000
-DTSTAMP:20240121T110000Z
-UID:30357
-DESCRIPTION:Duration: 1h 09m (69 min)\nScreen 2\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/003/HO00014129/buster-keaton-go-west/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=30357
- &visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -162,6 +99,69 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Forza del Destino (2024)
+DTSTART;TZID=Europe/London:20240313T110000
+DTEND;TZID=Europe/London:20240313T154500
+DTSTAMP:20240313T110000Z
+UID:28063
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00013176/met-opera-encore-la-forza-del-destino
+ -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=003&txtSessionId=28063&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buster Keaton: Go West
+DTSTART;TZID=Europe/London:20240121T110000
+DTEND;TZID=Europe/London:20240121T123000
+DTSTAMP:20240121T110000Z
+UID:30357
+DESCRIPTION:Duration: 1h 09m (69 min)\nScreen 2\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
+ details/003/HO00014129/buster-keaton-go-west/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=30357
+ &visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240515T110000
+DTEND;TZID=Europe/London:20240515T143500
+DTSTAMP:20240515T100000Z
+UID:28069
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00013179/met-opera-encore-madama-butterfly-202
+ 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=003&txtSessionId=28069&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London:20240327T110000
+DTEND;TZID=Europe/London:20240327T145500
+DTSTAMP:20240327T110000Z
+UID:28065
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00013177/met-opera-encore-romeo-et-juliette-20
+ 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=003&txtSessionId=28065&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen (2024)
+DTSTART;TZID=Europe/London:20240130T110000
+DTEND;TZID=Europe/London:20240130T150500
+DTSTAMP:20240130T110000Z
+UID:28061
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00013175/met-opera-encore-carmen-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 03&txtSessionId=28061&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wonka
 DTSTART;TZID=Europe/London:20240114T110500
 DTEND;TZID=Europe/London:20240114T132500
@@ -171,115 +171,6 @@ DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/003/HO00013953/wonka/\nhttps://ticketing.picturehous
  es.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=30302&v
  isLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Priscilla
-DTSTART;TZID=Europe/London:20240112T111500
-DTEND;TZID=Europe/London:20240112T133000
-DTSTAMP:20240112T111500Z
-UID:30333
-DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
- 33&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Priscilla
-DTSTART;TZID=Europe/London:20240112T160000
-DTEND;TZID=Europe/London:20240112T181500
-DTSTAMP:20240112T160000Z
-UID:30295
-DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=302
- 95&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Priscilla
-DTSTART;TZID=Europe/London:20240113T201500
-DTEND;TZID=Europe/London:20240113T223000
-DTSTAMP:20240113T201500Z
-UID:30299
-DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=302
- 99&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Priscilla
-DTSTART;TZID=Europe/London:20240114T153000
-DTEND;TZID=Europe/London:20240114T174500
-DTSTAMP:20240114T153000Z
-UID:30305
-DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
- 05&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Priscilla
-DTSTART;TZID=Europe/London:20240115T104500
-DTEND;TZID=Europe/London:20240115T130000
-DTSTAMP:20240115T104500Z
-UID:30311
-DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
- 11&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Priscilla
-DTSTART;TZID=Europe/London:20240116T123000
-DTEND;TZID=Europe/London:20240116T144500
-DTSTAMP:20240116T123000Z
-UID:30317
-DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
- 17&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Priscilla
-DTSTART;TZID=Europe/London:20240117T155500
-DTEND;TZID=Europe/London:20240117T181000
-DTSTAMP:20240117T155500Z
-UID:30323
-DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
- 23&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Priscilla
-DTSTART;TZID=Europe/London:20240118T203000
-DTEND;TZID=Europe/London:20240118T224500
-DTSTAMP:20240118T203000Z
-UID:30329
-DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
- 29&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Manon (2024)
-DTSTART;TZID=Europe/London:20240212T113000
-DTEND;TZID=Europe/London:20240212T150500
-DTSTAMP:20240212T113000Z
-UID:27825
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nLive via Satellite: Th
- is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
- turehouses.com/movie-details/003/HO00013113/roh-encore-manon-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 03&txtSessionId=27825&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -297,48 +188,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Swan Lake (2024)
-DTSTART;TZID=Europe/London:20240429T113000
-DTEND;TZID=Europe/London:20240429T145000
-DTSTAMP:20240429T103000Z
-UID:27836
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/003/HO00013116/roh-encore-swan-lake-2024/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=27836&
- visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London:20240527T113000
-DTEND;TZID=Europe/London:20240527T144500
-DTSTAMP:20240527T103000Z
-UID:27840
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/003/HO00013118/roh-encore-the-winter-s-tale-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionI
- d=27840&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London:20240617T113000
-DTEND;TZID=Europe/London:20240617T144500
-DTSTAMP:20240617T103000Z
-UID:27844
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/003/HO00013120/roh-encore-andrea-chenier-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=2
- 7844&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Encore: Madama Butterfly (2024)
 DTSTART;TZID=Europe/London:20240401T113000
 DTEND;TZID=Europe/London:20240401T144500
@@ -353,51 +202,16 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240112T114500
-DTEND;TZID=Europe/London:20240112T143000
-DTSTAMP:20240112T114500Z
-UID:30003
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=3
- 0003&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240112T144500
-DTEND;TZID=Europe/London:20240112T173000
-DTSTAMP:20240112T144500Z
-UID:30002
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=3
- 0002&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240112T174500
-DTEND;TZID=Europe/London:20240112T203000
-DTSTAMP:20240112T174500Z
-UID:30001
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=3
- 0001&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240112T204500
-DTEND;TZID=Europe/London:20240112T233000
-DTSTAMP:20240112T204500Z
-UID:30000
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=3
- 0000&visLang=1
+SUMMARY:ROH Encore: Manon (2024)
+DTSTART;TZID=Europe/London:20240212T113000
+DTEND;TZID=Europe/London:20240212T150500
+DTSTAMP:20240212T113000Z
+UID:27825
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nLive via Satellite: Th
+ is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
+ turehouses.com/movie-details/003/HO00013113/roh-encore-manon-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 03&txtSessionId=27825&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -643,6 +457,48 @@ DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Encore: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240527T113000
+DTEND;TZID=Europe/London:20240527T144500
+DTSTAMP:20240527T103000Z
+UID:27840
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/003/HO00013118/roh-encore-the-winter-s-tale-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionI
+ d=27840&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London:20240617T113000
+DTEND;TZID=Europe/London:20240617T144500
+DTSTAMP:20240617T103000Z
+UID:27844
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/003/HO00013120/roh-encore-andrea-chenier-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=2
+ 7844&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240429T113000
+DTEND;TZID=Europe/London:20240429T145000
+DTSTAMP:20240429T103000Z
+UID:27836
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/003/HO00013116/roh-encore-swan-lake-2024/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=27836&
+ visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Message in a Bottle (Encore)
 DTSTART;TZID=Europe/London:20240603T120000
 DTEND;TZID=Europe/London:20240603T132500
@@ -654,30 +510,6 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 2\n\nAd and Trailer Free: No
  s/003/HO00013119/message-in-a-bottle-encore/\nhttps://ticketing.picturehou
  ses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=27842&
  visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAHFF: Spartacus
-DTSTART;TZID=Europe/London:20240406T121500
-DTEND;TZID=Europe/London:20240406T152000
-DTSTAMP:20240406T111500Z
-UID:29376
-DESCRIPTION:Duration: 2h 41m (161 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013860/bahff-spartacus/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSession
- Id=29376&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: A Matter of Life and Death
-DTSTART;TZID=Europe/London:20240203T121500
-DTEND;TZID=Europe/London:20240203T141500
-DTSTAMP:20240203T121500Z
-UID:30029
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014071/powell-pressburger-a-matter-of-life-a
- nd-death/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=003&txtSessionId=30029&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -693,15 +525,27 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: Black Narcissus
-DTSTART;TZID=Europe/London:20240210T123000
-DTEND;TZID=Europe/London:20240210T143500
-DTSTAMP:20240210T123000Z
-UID:30030
-DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014072/powell-pressburger-black-narcissus/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=003&txtSessionId=30030&visLang=1
+SUMMARY:Powell & Pressburger: A Matter of Life and Death
+DTSTART;TZID=Europe/London:20240203T121500
+DTEND;TZID=Europe/London:20240203T141500
+DTSTAMP:20240203T121500Z
+UID:30029
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014071/powell-pressburger-a-matter-of-life-a
+ nd-death/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=003&txtSessionId=30029&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAHFF: Spartacus
+DTSTART;TZID=Europe/London:20240406T121500
+DTEND;TZID=Europe/London:20240406T152000
+DTSTAMP:20240406T111500Z
+UID:29376
+DESCRIPTION:Duration: 2h 41m (161 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00013860/bahff-spartacus/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSession
+ Id=29376&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -714,67 +558,6 @@ DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 2\n\nhttps://www.picturehous
  es.com/movie-details/003/HO00014073/powell-pressburger-i-know-where-i-m-go
  ing/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
  cinemacode=003&txtSessionId=30032&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: A Canterbury Tale
-DTSTART;TZID=Europe/London:20240302T123000
-DTEND;TZID=Europe/London:20240302T145500
-DTSTAMP:20240302T123000Z
-UID:30033
-DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014074/powell-pressburger-a-canterbury-tale/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=003&txtSessionId=30033&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BAHFF: Around China with a Movie Camera
-DTSTART;TZID=Europe/London:20240404T124500
-DTEND;TZID=Europe/London:20240404T141500
-DTSTAMP:20240404T114500Z
-UID:29371
-DESCRIPTION:Duration: 1h 09m (69 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/003/HO00013856/bahff-around-china-with-a-movie-camera
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=003&txtSessionId=29371&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Favorite Things - The Rodgers & Hammerstein 80th Anniversary Co
- ncert
-DTSTART;TZID=Europe/London:20240218T133000
-DTEND;TZID=Europe/London:20240218T155000
-DTSTAMP:20240218T133000Z
-UID:30269
-DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014056/my-favorite-things-the-rodgers-hammer
- stein-80th-anniversary-concert/\nhttps://ticketing.picturehouses.com/Ticke
- ting/visSelectTickets.aspx?cinemacode=003&txtSessionId=30269&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Life
-DTSTART;TZID=Europe/London:20240112T134000
-DTEND;TZID=Europe/London:20240112T155000
-DTSTAMP:20240112T134000Z
-UID:30290
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014067/one-life/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=3029
- 0&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Life
-DTSTART;TZID=Europe/London:20240112T183000
-DTEND;TZID=Europe/London:20240112T204000
-DTSTAMP:20240112T183000Z
-UID:30332
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014067/one-life/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=3033
- 2&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -934,6 +717,55 @@ DESCRIPTION:Duration: 1h 50m (110 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Powell & Pressburger: Black Narcissus
+DTSTART;TZID=Europe/London:20240210T123000
+DTEND;TZID=Europe/London:20240210T143500
+DTSTAMP:20240210T123000Z
+UID:30030
+DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014072/powell-pressburger-black-narcissus/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=003&txtSessionId=30030&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Powell & Pressburger: A Canterbury Tale
+DTSTART;TZID=Europe/London:20240302T123000
+DTEND;TZID=Europe/London:20240302T145500
+DTSTAMP:20240302T123000Z
+UID:30033
+DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014074/powell-pressburger-a-canterbury-tale/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=003&txtSessionId=30033&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BAHFF: Around China with a Movie Camera
+DTSTART;TZID=Europe/London:20240404T124500
+DTEND;TZID=Europe/London:20240404T141500
+DTSTAMP:20240404T114500Z
+UID:29371
+DESCRIPTION:Duration: 1h 09m (69 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/003/HO00013856/bahff-around-china-with-a-movie-camera
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=003&txtSessionId=29371&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Favorite Things - The Rodgers & Hammerstein 80th Anniversary Co
+ ncert
+DTSTART;TZID=Europe/London:20240218T133000
+DTEND;TZID=Europe/London:20240218T155000
+DTSTAMP:20240218T133000Z
+UID:30269
+DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014056/my-favorite-things-the-rodgers-hammer
+ stein-80th-anniversary-concert/\nhttps://ticketing.picturehouses.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=003&txtSessionId=30269&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Holocaust Memorial Day: My Nazi Legacy
 DTSTART;TZID=Europe/London:20240128T140000
 DTEND;TZID=Europe/London:20240128T155500
@@ -955,6 +787,58 @@ DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 1\n\nhttps://www.picturehous
  es.com/movie-details/003/HO00013855/bahff-one-million-years-b-c/\nhttps://
  ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003
  &txtSessionId=29370&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (English Language Version)
+DTSTART;TZID=Europe/London:20240113T150000
+DTEND;TZID=Europe/London:20240113T172500
+DTSTAMP:20240113T150000Z
+UID:30301
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 2\n\nDubbed: Please note\, 
+ this screening features the Dubbed English version of the film\n\nhttps://
+ www.picturehouses.com/movie-details/003/HO00013832/the-boy-and-the-heron-e
+ nglish-language-version/\nhttps://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=003&txtSessionId=30301&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (English Language Version)
+DTSTART;TZID=Europe/London:20240115T152500
+DTEND;TZID=Europe/London:20240115T175000
+DTSTAMP:20240115T152500Z
+UID:30313
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 2\n\nDubbed: Please note\, 
+ this screening features the Dubbed English version of the film\n\nhttps://
+ www.picturehouses.com/movie-details/003/HO00013832/the-boy-and-the-heron-e
+ nglish-language-version/\nhttps://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=003&txtSessionId=30313&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (English Language Version)
+DTSTART;TZID=Europe/London:20240116T154000
+DTEND;TZID=Europe/London:20240116T180500
+DTSTAMP:20240116T154000Z
+UID:30319
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nDubbed: Please note\, 
+ this screening features the Dubbed English version of the film\n\nhttps://
+ www.picturehouses.com/movie-details/003/HO00013832/the-boy-and-the-heron-e
+ nglish-language-version/\nhttps://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=003&txtSessionId=30319&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (English Language Version)
+DTSTART;TZID=Europe/London:20240118T150500
+DTEND;TZID=Europe/London:20240118T173000
+DTSTAMP:20240118T150500Z
+UID:30331
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nDubbed: Please note\, 
+ this screening features the Dubbed English version of the film\n\nhttps://
+ www.picturehouses.com/movie-details/003/HO00013832/the-boy-and-the-heron-e
+ nglish-language-version/\nhttps://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=003&txtSessionId=30331&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -1012,18 +896,18 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240511T175500
-DTEND;TZID=Europe/London:20240511T211000
-DTSTAMP:20240511T165500Z
-UID:28068
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+SUMMARY:Met Opera Live: Carmen (2024)
+DTSTART;TZID=Europe/London:20240127T175500
+DTEND;TZID=Europe/London:20240127T214000
+DTSTAMP:20240127T175500Z
+UID:28060
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/003/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&t
- xtSessionId=28068&visLang=1
+ e-details/003/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionI
+ d=28060&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -1078,18 +962,18 @@ DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Carmen (2024)
-DTSTART;TZID=Europe/London:20240127T175500
-DTEND;TZID=Europe/London:20240127T214000
-DTSTAMP:20240127T175500Z
-UID:28060
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 1\n\nAd and Trailer Free: N
+SUMMARY:Met Opera Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240511T175500
+DTEND;TZID=Europe/London:20240511T211000
+DTSTAMP:20240511T165500Z
+UID:28068
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/003/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionI
- d=28060&visLang=1
+ e-details/003/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&t
+ xtSessionId=28068&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -1114,30 +998,6 @@ DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
  es.com/movie-details/003/HO00013570/eos-john-singer-sargent-fashion-and-sw
  agger/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
  x?cinemacode=003&txtSessionId=29248&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: My National Gallery\, London
-DTSTART;TZID=Europe/London:20240604T180000
-DTEND;TZID=Europe/London:20240604T195000
-DTSTAMP:20240604T170000Z
-UID:29249
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/003/HO00013571/eos-my-national-gallery-london/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 003&txtSessionId=29249&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: My National Gallery\, London
-DTSTART;TZID=Europe/London:20240606T120000
-DTEND;TZID=Europe/London:20240606T135000
-DTSTAMP:20240606T110000Z
-UID:29250
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/003/HO00013571/eos-my-national-gallery-london/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 003&txtSessionId=29250&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -1177,6 +1037,30 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: My National Gallery\, London
+DTSTART;TZID=Europe/London:20240604T180000
+DTEND;TZID=Europe/London:20240604T195000
+DTSTAMP:20240604T170000Z
+UID:29249
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/003/HO00013571/eos-my-national-gallery-london/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 003&txtSessionId=29249&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: My National Gallery\, London
+DTSTART;TZID=Europe/London:20240606T120000
+DTEND;TZID=Europe/London:20240606T135000
+DTSTAMP:20240606T110000Z
+UID:29250
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 2\n\nhttps://www.picturehous
+ es.com/movie-details/003/HO00013571/eos-my-national-gallery-london/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 003&txtSessionId=29250&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BAHFF: The Truffle Hunters
 DTSTART;TZID=Europe/London:20240405T181500
 DTEND;TZID=Europe/London:20240405T200000
@@ -1201,21 +1085,6 @@ DESCRIPTION:Duration: 2h 30m (150 min)\nCommunity Room\n\nhttps://www.pict
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Rusalka (2024)
-DTSTART;TZID=Europe/London:20240124T184500
-DTEND;TZID=Europe/London:20240124T223000
-DTSTAMP:20240124T184500Z
-UID:27822
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/003/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=278
- 22&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: Carmen (2024)
 DTSTART;TZID=Europe/London:20240501T184500
 DTEND;TZID=Europe/London:20240501T223000
@@ -1228,6 +1097,21 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
  e-details/003/HO00013040/roh-live-carmen-2024/\nhttps://ticketing.pictureh
  ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=2783
  7&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Rusalka (2024)
+DTSTART;TZID=Europe/London:20240124T184500
+DTEND;TZID=Europe/London:20240124T223000
+DTSTAMP:20240124T184500Z
+UID:27822
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/003/HO00013024/roh-live-rusalka-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=278
+ 22&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -1252,6 +1136,82 @@ DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/003/HO00014059/42nd-street-the-musical/\nhttps://tic
  keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&tx
  tSessionId=30274&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Dear England
+DTSTART;TZID=Europe/London:20240125T190000
+DTEND;TZID=Europe/London:20240125T222500
+DTSTAMP:20240125T190000Z
+UID:29312
+DESCRIPTION:Duration: 3h 02m (182 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00013789/nt-live-2024-dear-england/\nhttps://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&
+ txtSessionId=29312&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Dear England
+DTSTART;TZID=Europe/London:20240131T120000
+DTEND;TZID=Europe/London:20240131T152500
+DTSTAMP:20240131T120000Z
+UID:29528
+DESCRIPTION:Duration: 3h 02m (182 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00013789/nt-live-2024-dear-england/\nhttps://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&
+ txtSessionId=29528&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Dear England
+DTSTART;TZID=Europe/London:20240204T163000
+DTEND;TZID=Europe/London:20240204T195500
+DTSTAMP:20240204T163000Z
+UID:30359
+DESCRIPTION:Duration: 3h 02m (182 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00013789/nt-live-2024-dear-england/\nhttps://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&
+ txtSessionId=30359&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Nye
+DTSTART;TZID=Europe/London:20240423T190000
+DTEND;TZID=Europe/London:20240423T214000
+DTSTAMP:20240423T180000Z
+UID:30284
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 1\n\nMembers' Priority Book
+ ing: Tickets are only available to Picturehouse Members. Enter your Member
+ ship Card number.\n\nAd and Trailer Free: No advertisements or trailers wi
+ ll play ahead of this screening. You are recommended to arrive promptly.\n
+ \nLive via Satellite: This screening will be streamed live via a Satellite
+  Feed\n\nhttps://www.picturehouses.com/movie-details/003/HO00014158/nt-liv
+ e-2024-nye/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=003&txtSessionId=30284&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An American in Paris - The Musical
+DTSTART;TZID=Europe/London:20240418T190000
+DTEND;TZID=Europe/London:20240418T220000
+DTSTAMP:20240418T180000Z
+UID:30271
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014058/an-american-in-paris-the-musical/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=003&txtSessionId=30271&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An American in Paris - The Musical
+DTSTART;TZID=Europe/London:20240421T133000
+DTEND;TZID=Europe/London:20240421T163000
+DTSTAMP:20240421T123000Z
+UID:30272
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014058/an-american-in-paris-the-musical/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=003&txtSessionId=30272&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -1297,97 +1257,6 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nMembers' Priority Book
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:An American in Paris - The Musical
-DTSTART;TZID=Europe/London:20240418T190000
-DTEND;TZID=Europe/London:20240418T220000
-DTSTAMP:20240418T180000Z
-UID:30271
-DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014058/an-american-in-paris-the-musical/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=003&txtSessionId=30271&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:An American in Paris - The Musical
-DTSTART;TZID=Europe/London:20240421T133000
-DTEND;TZID=Europe/London:20240421T163000
-DTSTAMP:20240421T123000Z
-UID:30272
-DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00014058/an-american-in-paris-the-musical/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=003&txtSessionId=30272&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Nye
-DTSTART;TZID=Europe/London:20240423T190000
-DTEND;TZID=Europe/London:20240423T214000
-DTSTAMP:20240423T180000Z
-UID:30284
-DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 1\n\nMembers' Priority Book
- ing: Tickets are only available to Picturehouse Members. Enter your Member
- ship Card number.\n\nAd and Trailer Free: No advertisements or trailers wi
- ll play ahead of this screening. You are recommended to arrive promptly.\n
- \nLive via Satellite: This screening will be streamed live via a Satellite
-  Feed\n\nhttps://www.picturehouses.com/movie-details/003/HO00014158/nt-liv
- e-2024-nye/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
- s.aspx?cinemacode=003&txtSessionId=30284&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Dear England
-DTSTART;TZID=Europe/London:20240125T190000
-DTEND;TZID=Europe/London:20240125T222500
-DTSTAMP:20240125T190000Z
-UID:29312
-DESCRIPTION:Duration: 3h 02m (182 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013789/nt-live-2024-dear-england/\nhttps://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&
- txtSessionId=29312&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Dear England
-DTSTART;TZID=Europe/London:20240131T120000
-DTEND;TZID=Europe/London:20240131T152500
-DTSTAMP:20240131T120000Z
-UID:29528
-DESCRIPTION:Duration: 3h 02m (182 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013789/nt-live-2024-dear-england/\nhttps://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&
- txtSessionId=29528&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Dear England
-DTSTART;TZID=Europe/London:20240204T163000
-DTEND;TZID=Europe/London:20240204T195500
-DTSTAMP:20240204T163000Z
-UID:30359
-DESCRIPTION:Duration: 3h 02m (182 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/003/HO00013789/nt-live-2024-dear-england/\nhttps://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&
- txtSessionId=30359&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London:20240611T191500
-DTEND;TZID=Europe/London:20240611T223000
-DTSTAMP:20240611T181500Z
-UID:27843
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/003/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessio
- nId=27843&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: The Winter's Tale (2024)
 DTSTART;TZID=Europe/London:20240522T191500
 DTEND;TZID=Europe/London:20240522T223000
@@ -1400,21 +1269,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  e-details/003/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
  ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSes
  sionId=27839&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Swan Lake (2024)
-DTSTART;TZID=Europe/London:20240424T191500
-DTEND;TZID=Europe/London:20240424T223500
-DTSTAMP:20240424T181500Z
-UID:27835
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/003/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=2
- 7835&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -1433,6 +1287,36 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240326T191500
+DTEND;TZID=Europe/London:20240326T223000
+DTSTAMP:20240326T191500Z
+UID:27826
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/003/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSess
+ ionId=27826&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240424T191500
+DTEND;TZID=Europe/London:20240424T223500
+DTSTAMP:20240424T181500Z
+UID:27835
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/003/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=2
+ 7835&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Live: MacMillan Triple (2024)
 DTSTART;TZID=Europe/London:20240409T191500
 DTEND;TZID=Europe/London:20240409T223000
@@ -1448,18 +1332,18 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240326T191500
-DTEND;TZID=Europe/London:20240326T223000
-DTSTAMP:20240326T191500Z
-UID:27826
+SUMMARY:ROH Live: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London:20240611T191500
+DTEND;TZID=Europe/London:20240611T223000
+DTSTAMP:20240611T181500Z
+UID:27843
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/003/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSess
- ionId=27826&visLang=1
+ e-details/003/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessio
+ nId=27843&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
@@ -1549,6 +1433,78 @@ DESCRIPTION:Duration: 2h 12m (132 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Priscilla
+DTSTART;TZID=Europe/London:20240113T201500
+DTEND;TZID=Europe/London:20240113T223000
+DTSTAMP:20240113T201500Z
+UID:30299
+DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=302
+ 99&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priscilla
+DTSTART;TZID=Europe/London:20240114T153000
+DTEND;TZID=Europe/London:20240114T174500
+DTSTAMP:20240114T153000Z
+UID:30305
+DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
+ 05&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priscilla
+DTSTART;TZID=Europe/London:20240115T104500
+DTEND;TZID=Europe/London:20240115T130000
+DTSTAMP:20240115T104500Z
+UID:30311
+DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
+ 11&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priscilla
+DTSTART;TZID=Europe/London:20240116T123000
+DTEND;TZID=Europe/London:20240116T144500
+DTSTAMP:20240116T123000Z
+UID:30317
+DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
+ 17&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priscilla
+DTSTART;TZID=Europe/London:20240117T155500
+DTEND;TZID=Europe/London:20240117T181000
+DTSTAMP:20240117T155500Z
+UID:30323
+DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
+ 23&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Priscilla
+DTSTART;TZID=Europe/London:20240118T203000
+DTEND;TZID=Europe/London:20240118T224500
+DTSTAMP:20240118T203000Z
+UID:30329
+DESCRIPTION:Duration: 1h 53m (113 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/003/HO00014003/priscilla/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtSessionId=303
+ 29&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Boy And The Heron (Original Language Version)
 DTSTART;TZID=Europe/London:20240114T202000
 DTEND;TZID=Europe/London:20240114T224500
@@ -1573,6 +1529,18 @@ DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BAHFF: The Nettle Dress
+DTSTART;TZID=Europe/London:20240405T203000
+DTEND;TZID=Europe/London:20240405T220000
+DTSTAMP:20240405T193000Z
+UID:29375
+DESCRIPTION:Duration: 1h 08m (68 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/003/HO00013861/bahff-the-nettle-dress/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtS
+ essionId=29375&visLang=1
+LOCATION:Picture House Bath - Little Theatre Cinema
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PET SHOP BOYS DREAMWORLD: THE GREATEST HITS LIVE AT THE ROYAL AREN
  A COPENHAGEN
 DTSTART;TZID=Europe/London:20240131T203000
@@ -1587,18 +1555,6 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BAHFF: The Nettle Dress
-DTSTART;TZID=Europe/London:20240405T203000
-DTEND;TZID=Europe/London:20240405T220000
-DTSTAMP:20240405T193000Z
-UID:29375
-DESCRIPTION:Duration: 1h 08m (68 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/003/HO00013861/bahff-the-nettle-dress/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=003&txtS
- essionId=29375&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BAHFF: Caltiki\, the Immortal Monster
 DTSTART;TZID=Europe/London:20240404T204500
 DTEND;TZID=Europe/London:20240404T222500
@@ -1608,71 +1564,6 @@ DESCRIPTION:Duration: 1h 16m (76 min)\nScreen 1\n\nhttps://www.picturehous
  es.com/movie-details/003/HO00014149/bahff-caltiki-the-immortal-monster/\nh
  ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
  ode=003&txtSessionId=30178&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boy And The Heron (English Language Version)
-DTSTART;TZID=Europe/London:20240112T205000
-DTEND;TZID=Europe/London:20240112T231500
-DTSTAMP:20240112T205000Z
-UID:30292
-DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 2\n\nDubbed: Please note\, 
- this screening features the Dubbed English version of the film\n\nhttps://
- www.picturehouses.com/movie-details/003/HO00013832/the-boy-and-the-heron-e
- nglish-language-version/\nhttps://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=003&txtSessionId=30292&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boy And The Heron (English Language Version)
-DTSTART;TZID=Europe/London:20240113T150000
-DTEND;TZID=Europe/London:20240113T172500
-DTSTAMP:20240113T150000Z
-UID:30301
-DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 2\n\nDubbed: Please note\, 
- this screening features the Dubbed English version of the film\n\nhttps://
- www.picturehouses.com/movie-details/003/HO00013832/the-boy-and-the-heron-e
- nglish-language-version/\nhttps://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=003&txtSessionId=30301&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boy And The Heron (English Language Version)
-DTSTART;TZID=Europe/London:20240115T152500
-DTEND;TZID=Europe/London:20240115T175000
-DTSTAMP:20240115T152500Z
-UID:30313
-DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 2\n\nDubbed: Please note\, 
- this screening features the Dubbed English version of the film\n\nhttps://
- www.picturehouses.com/movie-details/003/HO00013832/the-boy-and-the-heron-e
- nglish-language-version/\nhttps://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=003&txtSessionId=30313&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boy And The Heron (English Language Version)
-DTSTART;TZID=Europe/London:20240116T154000
-DTEND;TZID=Europe/London:20240116T180500
-DTSTAMP:20240116T154000Z
-UID:30319
-DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nDubbed: Please note\, 
- this screening features the Dubbed English version of the film\n\nhttps://
- www.picturehouses.com/movie-details/003/HO00013832/the-boy-and-the-heron-e
- nglish-language-version/\nhttps://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=003&txtSessionId=30319&visLang=1
-LOCATION:Picture House Bath - Little Theatre Cinema
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boy And The Heron (English Language Version)
-DTSTART;TZID=Europe/London:20240118T150500
-DTEND;TZID=Europe/London:20240118T173000
-DTSTAMP:20240118T150500Z
-UID:30331
-DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nDubbed: Please note\, 
- this screening features the Dubbed English version of the film\n\nhttps://
- www.picturehouses.com/movie-details/003/HO00013832/the-boy-and-the-heron-e
- nglish-language-version/\nhttps://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=003&txtSessionId=30331&visLang=1
 LOCATION:Picture House Bath - Little Theatre Cinema
 END:VEVENT
 BEGIN:VEVENT
