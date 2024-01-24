@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240123T145025Z
+LAST-MODIFIED:20240124T140811Z
 NAME:Picture House London - West Norwood
 X-WR-CALNAME:Picture House London - West Norwood
+BEGIN:VEVENT
+SUMMARY:Titanic - The Musical
+DTSTART;TZID=Europe/London:20240310T110000
+DTEND;TZID=Europe/London:20240310T140000
+DTSTAMP:20240310T110000Z
+UID:28662
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00014057/titanic-the-musical/\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&tx
+ tSessionId=28662&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werner Herzog: The Enigma of Kaspar Hauser
 DTSTART;TZID=Europe/London:20240303T110000
@@ -17,18 +29,6 @@ DESCRIPTION:Duration: 1h 49m (109 min)\nScreen Four\n\nreDiscover: Time to
  vie-details/027/HO00014142/werner-herzog-the-enigma-of-kaspar-hauser/\nhtt
  ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
  e=027&txtSessionId=28937&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Titanic - The Musical
-DTSTART;TZID=Europe/London:20240310T110000
-DTEND;TZID=Europe/London:20240310T140000
-DTSTAMP:20240310T110000Z
-UID:28662
-DESCRIPTION:Duration: 2h 40m (160 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00014057/titanic-the-musical/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&tx
- tSessionId=28662&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -48,18 +48,6 @@ LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Boy And The Heron (English Language Version)
-DTSTART;TZID=Europe/London:20240124T114000
-DTEND;TZID=Europe/London:20240124T140500
-DTSTAMP:20240124T114000Z
-UID:28900
-DESCRIPTION:Duration: 2h 04m (124 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00013832/the-boy-and-the-heron-english-lang
- uage-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=027&txtSessionId=28900&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Boy And The Heron (English Language Version)
 DTSTART;TZID=Europe/London:20240125T114000
 DTEND;TZID=Europe/London:20240125T140500
 DTSTAMP:20240125T114000Z
@@ -68,6 +56,18 @@ DESCRIPTION:Duration: 2h 04m (124 min)\nScreen Four\n\nhttps://www.picture
  houses.com/movie-details/027/HO00013832/the-boy-and-the-heron-english-lang
  uage-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
  ets.aspx?cinemacode=027&txtSessionId=28908&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240514T120000
+DTEND;TZID=Europe/London:20240514T153500
+DTSTAMP:20240514T110000Z
+UID:24928
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen One\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013179/met-opera-encore-madama-butterfly-2
+ 024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=027&txtSessionId=24928&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -85,30 +85,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20240127T120000
-DTEND;TZID=Europe/London:20240127T142000
-DTSTAMP:20240127T120000Z
-UID:28968
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00013953/wonka/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=289
- 68&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20240128T115000
-DTEND;TZID=Europe/London:20240128T141000
-DTSTAMP:20240128T115000Z
-UID:29042
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013953/wonka/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=29042
- &visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La Rondine (2024)
 DTSTART;TZID=Europe/London:20240423T120000
 DTEND;TZID=Europe/London:20240423T151000
@@ -121,27 +97,15 @@ DESCRIPTION:Duration: 2h 47m (167 min)\nScreen One\n\nhttps://www.pictureh
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240514T120000
-DTEND;TZID=Europe/London:20240514T153500
-DTSTAMP:20240514T110000Z
-UID:24928
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013179/met-opera-encore-madama-butterfly-2
- 024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=027&txtSessionId=24928&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Forza del Destino (2024)
-DTSTART;TZID=Europe/London:20240312T120000
-DTEND;TZID=Europe/London:20240312T164500
-DTSTAMP:20240312T120000Z
-UID:24922
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013176/met-opera-encore-la-forza-del-desti
- no-2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=027&txtSessionId=24922&visLang=1
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London:20240326T120000
+DTEND;TZID=Europe/London:20240326T155500
+DTSTAMP:20240326T120000Z
+UID:24924
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen One\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013177/met-opera-encore-romeo-et-juliette-
+ 2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=027&txtSessionId=24924&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -169,15 +133,39 @@ DESCRIPTION:Duration: 2h 40m (160 min)\nScreen Three\n\nhttps://www.pictur
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London:20240326T120000
-DTEND;TZID=Europe/London:20240326T155500
-DTSTAMP:20240326T120000Z
-UID:24924
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013177/met-opera-encore-romeo-et-juliette-
- 2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=027&txtSessionId=24924&visLang=1
+SUMMARY:La Forza del Destino (2024)
+DTSTART;TZID=Europe/London:20240312T120000
+DTEND;TZID=Europe/London:20240312T164500
+DTSTAMP:20240312T120000Z
+UID:24922
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen One\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013176/met-opera-encore-la-forza-del-desti
+ no-2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=027&txtSessionId=24922&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wonka
+DTSTART;TZID=Europe/London:20240127T120000
+DTEND;TZID=Europe/London:20240127T142000
+DTSTAMP:20240127T120000Z
+UID:28968
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00013953/wonka/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=289
+ 68&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wonka
+DTSTART;TZID=Europe/London:20240128T115000
+DTEND;TZID=Europe/London:20240128T141000
+DTSTAMP:20240128T115000Z
+UID:29042
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013953/wonka/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=29042
+ &visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -670,51 +658,341 @@ DESCRIPTION:Duration: 2h 21m (141 min)\nScreen Three\n\nhttps://www.pictur
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: Black Narcissus
-DTSTART;TZID=Europe/London:20240210T150000
-DTEND;TZID=Europe/London:20240210T170500
-DTSTAMP:20240210T150000Z
-UID:28816
-DESCRIPTION:Duration: 1h 41m (101 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014072/powell-pressburger-black-narcissus
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=027&txtSessionId=28816&visLang=1
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240124T141500
+DTEND;TZID=Europe/London:20240124T165000
+DTSTAMP:20240124T141500Z
+UID:28894
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nSubtitled (Captioned
+ ): Everyone welcome. This screening has subtitles for people with hearing 
+ loss.\n\nhttps://www.picturehouses.com/movie-details/027/HO00013914/the-ho
+ ldovers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=027&txtSessionId=28894&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: The Red Shoes
-DTSTART;TZID=Europe/London:20240217T150000
-DTEND;TZID=Europe/London:20240217T175500
-DTSTAMP:20240217T150000Z
-UID:28817
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014070/powell-pressburger-the-red-shoes/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=027&txtSessionId=28817&visLang=1
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240124T171500
+DTEND;TZID=Europe/London:20240124T195000
+DTSTAMP:20240124T171500Z
+UID:28893
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28893&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: A Matter of Life and Death
-DTSTART;TZID=Europe/London:20240203T150000
-DTEND;TZID=Europe/London:20240203T170000
-DTSTAMP:20240203T150000Z
-UID:28821
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014071/powell-pressburger-a-matter-of-lif
- e-and-death/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=027&txtSessionId=28821&visLang=1
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240124T201500
+DTEND;TZID=Europe/London:20240124T225000
+DTSTAMP:20240124T201500Z
+UID:28892
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28892&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: I Know Where I'm Going!
-DTSTART;TZID=Europe/London:20240224T150000
-DTEND;TZID=Europe/London:20240224T165500
-DTSTAMP:20240224T150000Z
-UID:28818
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen Four\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00014073/powell-pressburger-i-know-where-i-m
- -going/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=027&txtSessionId=28818&visLang=1
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240125T141500
+DTEND;TZID=Europe/London:20240125T165000
+DTSTAMP:20240125T141500Z
+UID:28903
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28903&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240125T171500
+DTEND;TZID=Europe/London:20240125T195000
+DTSTAMP:20240125T171500Z
+UID:28904
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28904&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240125T201500
+DTEND;TZID=Europe/London:20240125T225000
+DTSTAMP:20240125T201500Z
+UID:28905
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28905&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240126T124500
+DTEND;TZID=Europe/London:20240126T152000
+DTSTAMP:20240126T124500Z
+UID:28949
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nSubtitled (Caption
+ ed): Everyone welcome. This screening has subtitles for people with hearin
+ g loss.\n\nhttps://www.picturehouses.com/movie-details/027/HO00013914/the-
+ holdovers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=027&txtSessionId=28949&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240126T160000
+DTEND;TZID=Europe/London:20240126T183500
+DTSTAMP:20240126T160000Z
+UID:28947
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
+ onId=28947&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240126T200000
+DTEND;TZID=Europe/London:20240126T223500
+DTSTAMP:20240126T200000Z
+UID:28941
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessio
+ nId=28941&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240127T133000
+DTEND;TZID=Europe/London:20240127T160500
+DTSTAMP:20240127T133000Z
+UID:28955
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen One\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28955&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240127T163000
+DTEND;TZID=Europe/London:20240127T190500
+DTSTAMP:20240127T163000Z
+UID:28956
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen One\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28956&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240127T201000
+DTEND;TZID=Europe/London:20240127T224500
+DTSTAMP:20240127T201000Z
+UID:28954
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessio
+ nId=28954&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240128T171500
+DTEND;TZID=Europe/London:20240128T195000
+DTSTAMP:20240128T171500Z
+UID:28980
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28980&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240128T194000
+DTEND;TZID=Europe/London:20240128T221500
+DTSTAMP:20240128T194000Z
+UID:28972
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
+ onId=28972&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240129T141500
+DTEND;TZID=Europe/London:20240129T165000
+DTSTAMP:20240129T141500Z
+UID:28995
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28995&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240129T171500
+DTEND;TZID=Europe/London:20240129T195000
+DTSTAMP:20240129T171500Z
+UID:28989
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28989&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240129T201500
+DTEND;TZID=Europe/London:20240129T225000
+DTSTAMP:20240129T201500Z
+UID:28986
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=28986&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240130T115000
+DTEND;TZID=Europe/London:20240130T142500
+DTSTAMP:20240130T115000Z
+UID:29002
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
+ onId=29002&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240130T200000
+DTEND;TZID=Europe/London:20240130T223500
+DTSTAMP:20240130T200000Z
+UID:29007
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
+ onId=29007&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240131T140000
+DTEND;TZID=Europe/London:20240131T163500
+DTSTAMP:20240131T140000Z
+UID:29018
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
+ onId=29018&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240131T170000
+DTEND;TZID=Europe/London:20240131T193500
+DTSTAMP:20240131T170000Z
+UID:29020
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
+ onId=29020&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240131T200000
+DTEND;TZID=Europe/London:20240131T223500
+DTSTAMP:20240131T200000Z
+UID:29019
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
+ onId=29019&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240201T114000
+DTEND;TZID=Europe/London:20240201T141500
+DTSTAMP:20240201T114000Z
+UID:29035
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=29035&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240201T171500
+DTEND;TZID=Europe/London:20240201T195000
+DTSTAMP:20240201T171500Z
+UID:29033
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=29033&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240201T201500
+DTEND;TZID=Europe/London:20240201T225000
+DTSTAMP:20240201T201500Z
+UID:29034
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
+ Id=29034&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=Europe/London:20240124T143000
+DTEND;TZID=Europe/London:20240124T172500
+DTSTAMP:20240124T143000Z
+UID:28895
+DESCRIPTION:Duration: 2h 32m (152 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00013367/anatomy-of-a-fall/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSe
+ ssionId=28895&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=Europe/London:20240125T143000
+DTEND;TZID=Europe/London:20240125T172500
+DTSTAMP:20240125T143000Z
+UID:28909
+DESCRIPTION:Duration: 2h 32m (152 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00013367/anatomy-of-a-fall/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSe
+ ssionId=28909&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Powell & Pressburger: A Canterbury Tale
+DTSTART;TZID=Europe/London:20240302T150000
+DTEND;TZID=Europe/London:20240302T172500
+DTSTAMP:20240302T150000Z
+UID:28819
+DESCRIPTION:Duration: 2h 05m (125 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014074/powell-pressburger-a-canterbury-ta
+ le/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=027&txtSessionId=28819&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -733,219 +1011,55 @@ DESCRIPTION:Duration: 1h 06m (66 min)\nScreen Three\n\nreDiscover: Time to
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: A Canterbury Tale
-DTSTART;TZID=Europe/London:20240302T150000
-DTEND;TZID=Europe/London:20240302T172500
-DTSTAMP:20240302T150000Z
-UID:28819
-DESCRIPTION:Duration: 2h 05m (125 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014074/powell-pressburger-a-canterbury-ta
- le/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=027&txtSessionId=28819&visLang=1
+SUMMARY:Powell & Pressburger: I Know Where I'm Going! + Introduction
+DTSTART;TZID=Europe/London:20240224T150000
+DTEND;TZID=Europe/London:20240224T165000
+DTSTAMP:20240224T150000Z
+UID:28818
+DESCRIPTION:Duration: 1h 47m (107 min)\nScreen Four\n\nAd and Trailer Free
+ : No advertisements or trailers will play ahead of this screening. You are
+  recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-de
+ tails/027/HO00014228/powell-pressburger-i-know-where-i-m-going-introductio
+ n/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=027&txtSessionId=28818&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240123T151500
-DTEND;TZID=Europe/London:20240123T173000
-DTSTAMP:20240123T151500Z
-UID:28882
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSes
- sionId=28882&visLang=1
+SUMMARY:Powell & Pressburger: A Matter of Life and Death
+DTSTART;TZID=Europe/London:20240203T150000
+DTEND;TZID=Europe/London:20240203T170000
+DTSTAMP:20240203T150000Z
+UID:28821
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014071/powell-pressburger-a-matter-of-lif
+ e-and-death/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=027&txtSessionId=28821&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240123T201500
-DTEND;TZID=Europe/London:20240123T223000
-DTSTAMP:20240123T201500Z
-UID:28883
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=28883&visLang=1
+SUMMARY:Powell & Pressburger: The Red Shoes
+DTSTART;TZID=Europe/London:20240217T150000
+DTEND;TZID=Europe/London:20240217T175500
+DTSTAMP:20240217T150000Z
+UID:28817
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014070/powell-pressburger-the-red-shoes/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=027&txtSessionId=28817&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240124T133000
-DTEND;TZID=Europe/London:20240124T154500
-DTSTAMP:20240124T133000Z
-UID:28897
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSes
- sionId=28897&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240124T175000
-DTEND;TZID=Europe/London:20240124T200500
-DTSTAMP:20240124T175000Z
-UID:28898
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=28898&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240125T134000
-DTEND;TZID=Europe/London:20240125T155500
-DTSTAMP:20240125T134000Z
-UID:28906
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSes
- sionId=28906&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240125T203000
-DTEND;TZID=Europe/London:20240125T224500
-DTSTAMP:20240125T203000Z
-UID:28910
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=28910&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240126T113000
-DTEND;TZID=Europe/London:20240126T134500
-DTSTAMP:20240126T113000Z
-UID:28951
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=28951&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240126T172000
-DTEND;TZID=Europe/London:20240126T193500
-DTSTAMP:20240126T172000Z
-UID:28942
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=28942&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240127T141500
-DTEND;TZID=Europe/London:20240127T163000
-DTSTAMP:20240127T141500Z
-UID:28961
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=28961&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240128T151500
-DTEND;TZID=Europe/London:20240128T173000
-DTSTAMP:20240128T151500Z
-UID:28978
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=28978&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240129T124000
-DTEND;TZID=Europe/London:20240129T145500
-DTSTAMP:20240129T124000Z
-UID:29046
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSes
- sionId=29046&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240129T170000
-DTEND;TZID=Europe/London:20240129T191500
-DTSTAMP:20240129T170000Z
-UID:28987
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=28987&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240130T172000
-DTEND;TZID=Europe/London:20240130T193500
-DTSTAMP:20240130T172000Z
-UID:29005
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=29005&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240131T114000
-DTEND;TZID=Europe/London:20240131T135500
-DTSTAMP:20240131T114000Z
-UID:29039
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=29039&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240131T173000
-DTEND;TZID=Europe/London:20240131T194500
-DTSTAMP:20240131T173000Z
-UID:29024
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=29024&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240201T121000
-DTEND;TZID=Europe/London:20240201T142500
-DTSTAMP:20240201T121000Z
-UID:29043
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSes
- sionId=29043&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240201T145000
-DTEND;TZID=Europe/London:20240201T170500
-DTSTAMP:20240201T145000Z
-UID:29029
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSes
- sionId=29029&visLang=1
+SUMMARY:Powell & Pressburger: Black Narcissus + Introduction
+DTSTART;TZID=Europe/London:20240210T150000
+DTEND;TZID=Europe/London:20240210T170000
+DTSTAMP:20240210T150000Z
+UID:28816
+DESCRIPTION:Duration: 1h 56m (116 min)\nScreen Four\n\nAd and Trailer Free
+ : No advertisements or trailers will play ahead of this screening. You are
+  recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-de
+ tails/027/HO00014226/powell-pressburger-black-narcissus-introduction/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=027&txtSessionId=28816&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -985,39 +1099,15 @@ DESCRIPTION:Duration: 1h 43m (103 min)\nScreen Two\n\nhttps://www.pictureh
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240123T163000
-DTEND;TZID=Europe/London:20240123T191500
-DTSTAMP:20240123T163000Z
-UID:28839
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013711/poor-things/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId
- =28839&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240123T194500
-DTEND;TZID=Europe/London:20240123T223000
-DTSTAMP:20240123T194500Z
-UID:28845
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013711/poor-things/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId
- =28845&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240124T131500
-DTEND;TZID=Europe/London:20240124T160000
-DTSTAMP:20240124T131500Z
-UID:28834
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013711/poor-things/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId
- =28834&visLang=1
+SUMMARY:One Life
+DTSTART;TZID=Europe/London:20240125T162000
+DTEND;TZID=Europe/London:20240125T183000
+DTSTAMP:20240125T162000Z
+UID:28907
+DESCRIPTION:Duration: 1h 50m (110 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00014067/one-life/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=
+ 28907&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -1334,42 +1424,6 @@ DESCRIPTION:Duration: 2h 22m (142 min)\nScreen One\n\nhttps://www.pictureh
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=Europe/London:20240123T164000
-DTEND;TZID=Europe/London:20240123T193500
-DTSTAMP:20240123T164000Z
-UID:28887
-DESCRIPTION:Duration: 2h 32m (152 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00013367/anatomy-of-a-fall/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSe
- ssionId=28887&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=Europe/London:20240124T143000
-DTEND;TZID=Europe/London:20240124T172500
-DTSTAMP:20240124T143000Z
-UID:28895
-DESCRIPTION:Duration: 2h 32m (152 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00013367/anatomy-of-a-fall/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSe
- ssionId=28895&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=Europe/London:20240125T143000
-DTEND;TZID=Europe/London:20240125T172500
-DTSTAMP:20240125T143000Z
-UID:28909
-DESCRIPTION:Duration: 2h 32m (152 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00013367/anatomy-of-a-fall/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSe
- ssionId=28909&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: Roméo et Juliette (2024)
 DTSTART;TZID=Europe/London:20240323T165500
 DTEND;TZID=Europe/London:20240323T203000
@@ -1397,332 +1451,6 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen Three\n\nAd and Trailer Fre
  movie-details/027/HO00013166/met-opera-live-la-forza-del-destino-2024/\nht
  tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
  de=027&txtSessionId=24921&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240123T170000
-DTEND;TZID=Europe/London:20240123T193500
-DTSTAMP:20240123T170000Z
-UID:28879
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28879&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240123T200000
-DTEND;TZID=Europe/London:20240123T223500
-DTSTAMP:20240123T200000Z
-UID:28878
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28878&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240124T141500
-DTEND;TZID=Europe/London:20240124T165000
-DTSTAMP:20240124T141500Z
-UID:28894
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nSubtitled (Captioned
- ): Everyone welcome. This screening has subtitles for people with hearing 
- loss.\n\nhttps://www.picturehouses.com/movie-details/027/HO00013914/the-ho
- ldovers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=027&txtSessionId=28894&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240124T171500
-DTEND;TZID=Europe/London:20240124T195000
-DTSTAMP:20240124T171500Z
-UID:28893
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28893&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240124T201500
-DTEND;TZID=Europe/London:20240124T225000
-DTSTAMP:20240124T201500Z
-UID:28892
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28892&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240125T141500
-DTEND;TZID=Europe/London:20240125T165000
-DTSTAMP:20240125T141500Z
-UID:28903
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28903&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240125T171500
-DTEND;TZID=Europe/London:20240125T195000
-DTSTAMP:20240125T171500Z
-UID:28904
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28904&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240125T201500
-DTEND;TZID=Europe/London:20240125T225000
-DTSTAMP:20240125T201500Z
-UID:28905
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28905&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240126T124500
-DTEND;TZID=Europe/London:20240126T152000
-DTSTAMP:20240126T124500Z
-UID:28949
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nSubtitled (Caption
- ed): Everyone welcome. This screening has subtitles for people with hearin
- g loss.\n\nhttps://www.picturehouses.com/movie-details/027/HO00013914/the-
- holdovers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=027&txtSessionId=28949&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240126T160000
-DTEND;TZID=Europe/London:20240126T183500
-DTSTAMP:20240126T160000Z
-UID:28947
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
- onId=28947&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240126T200000
-DTEND;TZID=Europe/London:20240126T223500
-DTSTAMP:20240126T200000Z
-UID:28941
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessio
- nId=28941&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240127T133000
-DTEND;TZID=Europe/London:20240127T160500
-DTSTAMP:20240127T133000Z
-UID:28955
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28955&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240127T163000
-DTEND;TZID=Europe/London:20240127T190500
-DTSTAMP:20240127T163000Z
-UID:28956
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28956&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240127T201000
-DTEND;TZID=Europe/London:20240127T224500
-DTSTAMP:20240127T201000Z
-UID:28954
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessio
- nId=28954&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240128T171500
-DTEND;TZID=Europe/London:20240128T195000
-DTSTAMP:20240128T171500Z
-UID:28980
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28980&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240128T194000
-DTEND;TZID=Europe/London:20240128T221500
-DTSTAMP:20240128T194000Z
-UID:28972
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
- onId=28972&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240129T141500
-DTEND;TZID=Europe/London:20240129T165000
-DTSTAMP:20240129T141500Z
-UID:28995
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28995&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240129T171500
-DTEND;TZID=Europe/London:20240129T195000
-DTSTAMP:20240129T171500Z
-UID:28989
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28989&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240129T201500
-DTEND;TZID=Europe/London:20240129T225000
-DTSTAMP:20240129T201500Z
-UID:28986
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=28986&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240130T115000
-DTEND;TZID=Europe/London:20240130T142500
-DTSTAMP:20240130T115000Z
-UID:29002
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
- onId=29002&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240130T200000
-DTEND;TZID=Europe/London:20240130T223500
-DTSTAMP:20240130T200000Z
-UID:29007
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
- onId=29007&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240131T140000
-DTEND;TZID=Europe/London:20240131T163500
-DTSTAMP:20240131T140000Z
-UID:29018
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
- onId=29018&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240131T170000
-DTEND;TZID=Europe/London:20240131T193500
-DTSTAMP:20240131T170000Z
-UID:29020
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
- onId=29020&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240131T200000
-DTEND;TZID=Europe/London:20240131T223500
-DTSTAMP:20240131T200000Z
-UID:29019
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessi
- onId=29019&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240201T114000
-DTEND;TZID=Europe/London:20240201T141500
-DTSTAMP:20240201T114000Z
-UID:29035
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=29035&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240201T171500
-DTEND;TZID=Europe/London:20240201T195000
-DTSTAMP:20240201T171500Z
-UID:29033
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=29033&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240201T201500
-DTEND;TZID=Europe/London:20240201T225000
-DTSTAMP:20240201T201500Z
-UID:29034
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00013914/the-holdovers/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
- Id=29034&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -1784,6 +1512,174 @@ DESCRIPTION:Duration: 0h 45m (45 min)\nScreen Three\n\nreDiscover: Time to
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240124T175000
+DTEND;TZID=Europe/London:20240124T200500
+DTSTAMP:20240124T175000Z
+UID:28898
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=28898&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240125T134000
+DTEND;TZID=Europe/London:20240125T155500
+DTSTAMP:20240125T134000Z
+UID:28906
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSes
+ sionId=28906&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240125T203000
+DTEND;TZID=Europe/London:20240125T224500
+DTSTAMP:20240125T203000Z
+UID:28910
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=28910&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240126T113000
+DTEND;TZID=Europe/London:20240126T134500
+DTSTAMP:20240126T113000Z
+UID:28951
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=28951&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240126T172000
+DTEND;TZID=Europe/London:20240126T193500
+DTSTAMP:20240126T172000Z
+UID:28942
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=28942&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240127T141500
+DTEND;TZID=Europe/London:20240127T163000
+DTSTAMP:20240127T141500Z
+UID:28961
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=28961&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240128T151500
+DTEND;TZID=Europe/London:20240128T173000
+DTSTAMP:20240128T151500Z
+UID:28978
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=28978&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240129T124000
+DTEND;TZID=Europe/London:20240129T145500
+DTSTAMP:20240129T124000Z
+UID:29046
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSes
+ sionId=29046&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240129T170000
+DTEND;TZID=Europe/London:20240129T191500
+DTSTAMP:20240129T170000Z
+UID:28987
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=28987&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240130T172000
+DTEND;TZID=Europe/London:20240130T193500
+DTSTAMP:20240130T172000Z
+UID:29005
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=29005&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240131T114000
+DTEND;TZID=Europe/London:20240131T135500
+DTSTAMP:20240131T114000Z
+UID:29039
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=29039&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240131T173000
+DTEND;TZID=Europe/London:20240131T194500
+DTSTAMP:20240131T173000Z
+UID:29024
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=29024&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240201T121000
+DTEND;TZID=Europe/London:20240201T142500
+DTSTAMP:20240201T121000Z
+UID:29043
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSes
+ sionId=29043&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240201T145000
+DTEND;TZID=Europe/London:20240201T170500
+DTSTAMP:20240201T145000Z
+UID:29029
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00014143/mean-girls-2024/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSes
+ sionId=29029&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Priscilla
 DTSTART;TZID=Europe/London:20240125T175000
 DTEND;TZID=Europe/London:20240125T200500
@@ -1793,42 +1689,6 @@ DESCRIPTION:Duration: 1h 53m (113 min)\nScreen Four\n\nhttps://www.picture
  houses.com/movie-details/027/HO00014003/priscilla/\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=
  28911&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Life
-DTSTART;TZID=Europe/London:20240123T175000
-DTEND;TZID=Europe/London:20240123T200000
-DTSTAMP:20240123T175000Z
-UID:28886
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00014067/one-life/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=
- 28886&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Life
-DTSTART;TZID=Europe/London:20240124T114000
-DTEND;TZID=Europe/London:20240124T135000
-DTSTAMP:20240124T114000Z
-UID:28901
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00014067/one-life/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=28
- 901&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One Life
-DTSTART;TZID=Europe/London:20240125T162000
-DTEND;TZID=Europe/London:20240125T183000
-DTSTAMP:20240125T162000Z
-UID:28907
-DESCRIPTION:Duration: 1h 50m (110 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00014067/one-life/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=
- 28907&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -1847,21 +1707,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Carmen (2024)
-DTSTART;TZID=Europe/London:20240127T175500
-DTEND;TZID=Europe/London:20240127T214000
-DTSTAMP:20240127T175500Z
-UID:24919
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
- ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
- movie-details/027/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
- ionId=24919&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: La Rondine (2024)
 DTSTART;TZID=Europe/London:20240420T175500
 DTEND;TZID=Europe/London:20240420T204500
@@ -1874,6 +1719,21 @@ DESCRIPTION:Duration: 2h 47m (167 min)\nScreen Three\n\nAd and Trailer Fre
  movie-details/027/HO00013168/met-opera-live-la-rondine-2024/\nhttps://tick
  eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txt
  SessionId=24925&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Carmen (2024)
+DTSTART;TZID=Europe/London:20240127T175500
+DTEND;TZID=Europe/London:20240127T214000
+DTSTAMP:20240127T175500Z
+UID:24919
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
+ ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
+ movie-details/027/HO00013165/met-opera-live-carmen-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSess
+ ionId=24919&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -1901,30 +1761,6 @@ DESCRIPTION:Duration: 1h 30m (90 min)\nScreen Two\n\nhttps://www.pictureho
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Painting the Modern Garden: Monet To Matisse
-DTSTART;TZID=Europe/London:20240227T180000
-DTEND;TZID=Europe/London:20240227T195500
-DTSTAMP:20240227T180000Z
-UID:27233
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen Two\n\nhttps://www.pictureho
- uses.com/movie-details/027/HO00013550/eos-painting-the-modern-garden-monet
- -to-matisse/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=027&txtSessionId=27233&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Painting the Modern Garden: Monet To Matisse
-DTSTART;TZID=Europe/London:20240305T120000
-DTEND;TZID=Europe/London:20240305T135500
-DTSTAMP:20240305T120000Z
-UID:27234
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen Two\n\nhttps://www.pictureho
- uses.com/movie-details/027/HO00013550/eos-painting-the-modern-garden-monet
- -to-matisse/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=027&txtSessionId=27234&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: John Singer Sargent: Fashion and Swagger
 DTSTART;TZID=Europe/London:20240416T180000
 DTEND;TZID=Europe/London:20240416T195000
@@ -1949,6 +1785,18 @@ DESCRIPTION:Duration: 1h 30m (90 min)\nScreen Two\n\nhttps://www.pictureho
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Monty Python and the Holy Grail
+DTSTART;TZID=Europe/London:20240221T180000
+DTEND;TZID=Europe/London:20240221T195500
+DTSTAMP:20240221T180000Z
+UID:29054
+DESCRIPTION:Duration: 1h 32m (92 min)\nScreen Two\n\nhttps://www.pictureho
+ uses.com/movie-details/027/HO00014217/monty-python-and-the-holy-grail/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=027&txtSessionId=29054&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eternal Sunshine of the Spotless Mind
 DTSTART;TZID=Europe/London:20240214T180000
 DTEND;TZID=Europe/London:20240214T201000
@@ -1958,6 +1806,30 @@ DESCRIPTION:Duration: 1h 48m (108 min)\nScreen Four\n\nhttps://www.picture
  houses.com/movie-details/027/HO00014185/eternal-sunshine-of-the-spotless-m
  ind/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
  cinemacode=027&txtSessionId=28916&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Painting the Modern Garden: Monet To Matisse
+DTSTART;TZID=Europe/London:20240227T180000
+DTEND;TZID=Europe/London:20240227T195500
+DTSTAMP:20240227T180000Z
+UID:27233
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen Two\n\nhttps://www.pictureho
+ uses.com/movie-details/027/HO00013550/eos-painting-the-modern-garden-monet
+ -to-matisse/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=027&txtSessionId=27233&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Painting the Modern Garden: Monet To Matisse
+DTSTART;TZID=Europe/London:20240305T120000
+DTEND;TZID=Europe/London:20240305T135500
+DTSTAMP:20240305T120000Z
+UID:27234
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen Two\n\nhttps://www.pictureho
+ uses.com/movie-details/027/HO00013550/eos-painting-the-modern-garden-monet
+ -to-matisse/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=027&txtSessionId=27234&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -1988,93 +1860,6 @@ DESCRIPTION:Duration: 3h 45m (225 min)\nScreen Three\n\nAd and Trailer Fre
  movie-details/027/HO00013040/roh-live-carmen-2024/\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=
  24635&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:An American in Paris - The Musical
-DTSTART;TZID=Europe/London:20240418T190000
-DTEND;TZID=Europe/London:20240418T220000
-DTSTAMP:20240418T180000Z
-UID:28663
-DESCRIPTION:Duration: 2h 40m (160 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014058/an-american-in-paris-the-musical/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=027&txtSessionId=28663&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:An American in Paris - The Musical
-DTSTART;TZID=Europe/London:20240421T133000
-DTEND;TZID=Europe/London:20240421T163000
-DTSTAMP:20240421T123000Z
-UID:28664
-DESCRIPTION:Duration: 2h 40m (160 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014058/an-american-in-paris-the-musical/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=027&txtSessionId=28664&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Nye
-DTSTART;TZID=Europe/London:20240423T190000
-DTEND;TZID=Europe/London:20240423T214000
-DTSTAMP:20240423T180000Z
-UID:28670
-DESCRIPTION:Duration: 2h 40m (160 min)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
- ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
- movie-details/027/HO00014158/nt-live-2024-nye/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=2867
- 0&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Dear England
-DTSTART;TZID=Europe/London:20240125T190000
-DTEND;TZID=Europe/London:20240125T222500
-DTSTAMP:20240125T190000Z
-UID:27231
-DESCRIPTION:Duration: 3h 02m (182 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00013789/nt-live-2024-dear-england/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 027&txtSessionId=27231&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Dear England
-DTSTART;TZID=Europe/London:20240128T110000
-DTEND;TZID=Europe/London:20240128T142500
-DTSTAMP:20240128T110000Z
-UID:27606
-DESCRIPTION:Duration: 3h 02m (182 min)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/027/HO00013789/nt-live-2024-dear-england/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 027&txtSessionId=27606&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Dear England
-DTSTART;TZID=Europe/London:20240130T120000
-DTEND;TZID=Europe/London:20240130T152500
-DTSTAMP:20240130T120000Z
-UID:27607
-DESCRIPTION:Duration: 3h 02m (182 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00013789/nt-live-2024-dear-england/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 27&txtSessionId=27607&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things + Recorded Q&A
-DTSTART;TZID=Europe/London:20240214T190000
-DTEND;TZID=Europe/London:20240214T215500
-DTSTAMP:20240214T190000Z
-UID:28915
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen Two\n\nhttps://www.pictureh
- ouses.com/movie-details/027/HO00014190/the-taste-of-things-recorded-q-a/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=027&txtSessionId=28915&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -2138,18 +1923,104 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen Two\n\nhttps://www.pictureh
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London:20240611T191500
-DTEND;TZID=Europe/London:20240611T223000
-DTSTAMP:20240611T181500Z
-UID:24638
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
+SUMMARY:NT Live 2024: Nye
+DTSTART;TZID=Europe/London:20240423T190000
+DTEND;TZID=Europe/London:20240423T214000
+DTSTAMP:20240423T180000Z
+UID:28670
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen Three\n\nAd and Trailer Fre
  e: No advertisements or trailers will play ahead of this screening. You ar
  e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
  ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
- movie-details/027/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSe
- ssionId=24638&visLang=1
+ movie-details/027/HO00014158/nt-live-2024-nye/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=2867
+ 0&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things + Recorded Q&A
+DTSTART;TZID=Europe/London:20240214T190000
+DTEND;TZID=Europe/London:20240214T215500
+DTSTAMP:20240214T190000Z
+UID:28915
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen Two\n\nhttps://www.pictureh
+ ouses.com/movie-details/027/HO00014190/the-taste-of-things-recorded-q-a/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=027&txtSessionId=28915&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An American in Paris - The Musical
+DTSTART;TZID=Europe/London:20240418T190000
+DTEND;TZID=Europe/London:20240418T220000
+DTSTAMP:20240418T180000Z
+UID:28663
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014058/an-american-in-paris-the-musical/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=027&txtSessionId=28663&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An American in Paris - The Musical
+DTSTART;TZID=Europe/London:20240421T133000
+DTEND;TZID=Europe/London:20240421T163000
+DTSTAMP:20240421T123000Z
+UID:28664
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014058/an-american-in-paris-the-musical/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=027&txtSessionId=28664&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Dear England
+DTSTART;TZID=Europe/London:20240125T190000
+DTEND;TZID=Europe/London:20240125T222500
+DTSTAMP:20240125T190000Z
+UID:27231
+DESCRIPTION:Duration: 3h 02m (182 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00013789/nt-live-2024-dear-england/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 027&txtSessionId=27231&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Dear England
+DTSTART;TZID=Europe/London:20240128T110000
+DTEND;TZID=Europe/London:20240128T142500
+DTSTAMP:20240128T110000Z
+UID:27606
+DESCRIPTION:Duration: 3h 02m (182 min)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/027/HO00013789/nt-live-2024-dear-england/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 027&txtSessionId=27606&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Dear England
+DTSTART;TZID=Europe/London:20240130T120000
+DTEND;TZID=Europe/London:20240130T152500
+DTSTAMP:20240130T120000Z
+UID:27607
+DESCRIPTION:Duration: 3h 02m (182 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00013789/nt-live-2024-dear-england/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 27&txtSessionId=27607&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Dear England (Captioned Screening)
+DTSTART;TZID=Europe/London:20240208T191500
+DTEND;TZID=Europe/London:20240208T224000
+DTSTAMP:20240208T191500Z
+UID:29047
+DESCRIPTION:Duration: 3h 02m (182 min)\nScreen Three\n\nSubtitled (Caption
+ ed): Everyone welcome. This screening has subtitles for people with hearin
+ g loss.\n\nhttps://www.picturehouses.com/movie-details/027/HO00014216/nt-l
+ ive-2024-dear-england-captioned-screening/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=29047&vi
+ sLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -2168,6 +2039,21 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ROH Live: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London:20240611T191500
+DTEND;TZID=Europe/London:20240611T223000
+DTSTAMP:20240611T181500Z
+UID:24638
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
+ ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
+ movie-details/027/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSe
+ ssionId=24638&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ROH Live: Madama Butterfly (2024)
 DTSTART;TZID=Europe/London:20240326T191500
 DTEND;TZID=Europe/London:20240326T223000
@@ -2180,6 +2066,21 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
  movie-details/027/HO00013026/roh-live-madama-butterfly-2024/\nhttps://tick
  eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txt
  SessionId=24631&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: MacMillan Triple (2024)
+DTSTART;TZID=Europe/London:20240409T191500
+DTEND;TZID=Europe/London:20240409T223000
+DTSTAMP:20240409T181500Z
+UID:24633
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
+ ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
+ movie-details/027/HO00013038/roh-live-macmillan-triple-2024/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txt
+ SessionId=24633&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -2198,20 +2099,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live 2024: Dear England (Captioned Screening)
-DTSTART;TZID=Europe/London:20240208T191500
-DTEND;TZID=Europe/London:20240208T224000
-DTSTAMP:20240208T191500Z
-UID:29047
-DESCRIPTION:Duration: 3h 02m (182 min)\nScreen Three\n\nSubtitled (Caption
- ed): Everyone welcome. This screening has subtitles for people with hearin
- g loss.\n\nhttps://www.picturehouses.com/movie-details/027/HO00014216/nt-l
- ive-2024-dear-england-captioned-screening/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSessionId=29047&vi
- sLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: Swan Lake (2024)
 DTSTART;TZID=Europe/London:20240424T191500
 DTEND;TZID=Europe/London:20240424T223500
@@ -2224,21 +2111,6 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen Three\n\nAd and Trailer Fre
  movie-details/027/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.p
  icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txtSession
  Id=24634&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: MacMillan Triple (2024)
-DTSTART;TZID=Europe/London:20240409T191500
-DTEND;TZID=Europe/London:20240409T223000
-DTSTAMP:20240409T181500Z
-UID:24633
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nLive via Satellite: This screening wi
- ll be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/
- movie-details/027/HO00013038/roh-live-macmillan-triple-2024/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txt
- SessionId=24633&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
@@ -2318,6 +2190,18 @@ DESCRIPTION:Duration: 1h 57m (117 min)\nScreen Three\n\nhttps://www.pictur
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kinky Boots The Musical
+DTSTART;TZID=Europe/London:20240201T200000
+DTEND;TZID=Europe/London:20240201T223500
+DTSTAMP:20240201T200000Z
+UID:28659
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Four\n\nhttps://www.picture
+ houses.com/movie-details/027/HO00014054/kinky-boots-the-musical/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027
+ &txtSessionId=28659&visLang=1
+LOCATION:Picture House London - West Norwood
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wicked Little Letters
 DTSTART;TZID=Europe/London:20240220T200000
 DTEND;TZID=Europe/London:20240220T220000
@@ -2331,18 +2215,6 @@ DESCRIPTION:Duration: 1h 40m (100 min)\nScreen Two\n\nDiscover: Discover s
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Kinky Boots The Musical
-DTSTART;TZID=Europe/London:20240201T200000
-DTEND;TZID=Europe/London:20240201T223500
-DTSTAMP:20240201T200000Z
-UID:28659
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen Four\n\nhttps://www.picture
- houses.com/movie-details/027/HO00014054/kinky-boots-the-musical/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027
- &txtSessionId=28659&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Zone of Interest
 DTSTART;TZID=Europe/London:20240203T203000
 DTEND;TZID=Europe/London:20240203T223500
@@ -2352,19 +2224,6 @@ DESCRIPTION:Duration: 1h 45m (105 min)\nScreen One\n\nhttps://www.pictureh
  ouses.com/movie-details/027/HO00014011/the-zone-of-interest/\nhttps://tick
  eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=027&txt
  SessionId=28927&visLang=1
-LOCATION:Picture House London - West Norwood
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Godzilla Minus One
-DTSTART;TZID=Europe/London:20240123T203000
-DTEND;TZID=Europe/London:20240123T225500
-DTSTAMP:20240123T203000Z
-UID:28912
-DESCRIPTION:Duration: 2h 04m (124 min)\nScreen Three\n\nDiscover: Discover
-  stunning cinema. Each week\, the Picturehouse film team champion one must
- -see film.\n\nhttps://www.picturehouses.com/movie-details/027/HO00014053/g
- odzilla-minus-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=027&txtSessionId=28912&visLang=1
 LOCATION:Picture House London - West Norwood
 END:VEVENT
 END:VCALENDAR
