@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240129T151655Z
+LAST-MODIFIED:20240130T145533Z
 NAME:Picture House Edinburgh - Cameo
 X-WR-CALNAME:Picture House Edinburgh - Cameo
-BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: A Canterbury Tale
-DTSTART;TZID=Europe/London:20240302T110000
-DTEND;TZID=Europe/London:20240302T132500
-DTSTAMP:20240302T110000Z
-UID:40226
-DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00014074/powell-pressburger-a-canterbury-tale/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=005&txtSessionId=40226&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werner Herzog: Aguirre\, The Wrath Of God
 DTSTART;TZID=Europe/London:20240218T110000
@@ -26,6 +14,18 @@ DESCRIPTION:Duration: 1h 31m (91 min)\nScreen 1\n\nhttps://www.picturehous
  es.com/movie-details/005/HO00014140/werner-herzog-aguirre-the-wrath-of-god
  /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
  emacode=005&txtSessionId=40234&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Powell & Pressburger: A Canterbury Tale
+DTSTART;TZID=Europe/London:20240302T110000
+DTEND;TZID=Europe/London:20240302T132500
+DTSTAMP:20240302T110000Z
+UID:40226
+DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014074/powell-pressburger-a-canterbury-tale/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=005&txtSessionId=40226&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -40,35 +40,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  ls/005/HO00013114/roh-encore-madama-butterfly-2024/\nhttps://ticketing.pic
  turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
  =36984&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buster Keaton: The General
-DTSTART;TZID=Europe/London:20240211T113000
-DTEND;TZID=Europe/London:20240211T131000
-DTSTAMP:20240211T113000Z
-UID:40233
-DESCRIPTION:Duration: 1h 19m (79 min)\nScreen 1\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/005/HO00014132/buster-keaton-the-general/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0233&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Dear England (Captioned Screening)
-DTSTART;TZID=Europe/London:20240208T113000
-DTEND;TZID=Europe/London:20240208T145500
-DTSTAMP:20240208T113000Z
-UID:40581
-DESCRIPTION:Duration: 3h 02m (182 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/005/HO00014216/nt-live-
- 2024-dear-england-captioned-screening/\nhttps://ticketing.picturehouses.co
- m/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=40581&visLan
- g=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -87,81 +58,32 @@ DESCRIPTION:Duration: 0h 45m (45 min)\nScreen 1\n\nreDiscover: Time to bro
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werner Herzog: Nosferatu The Vampyre
-DTSTART;TZID=Europe/London:20240225T120000
-DTEND;TZID=Europe/London:20240225T141000
-DTSTAMP:20240225T120000Z
-UID:40235
-DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00014141/werner-herzog-nosferatu-the-vampyre/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
- SessionId=40235&visLang=1
+SUMMARY:NT Live 2024: Dear England (Captioned Screening)
+DTSTART;TZID=Europe/London:20240208T113000
+DTEND;TZID=Europe/London:20240208T145500
+DTSTAMP:20240208T113000Z
+UID:40581
+DESCRIPTION:Duration: 3h 02m (182 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/005/HO00014216/nt-live-
+ 2024-dear-england-captioned-screening/\nhttps://ticketing.picturehouses.co
+ m/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=40581&visLan
+ g=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:42nd Street The Musical
-DTSTART;TZID=Europe/London:20240519T120000
-DTEND;TZID=Europe/London:20240519T144500
-DTSTAMP:20240519T110000Z
-UID:40008
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00014059/42nd-street-the-musical/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&tx
- tSessionId=40008&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London:20240528T120000
-DTEND;TZID=Europe/London:20240528T151500
-DTSTAMP:20240528T110000Z
-UID:36992
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/005/HO00013118/roh-encore-the-winter-s-tale-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionI
- d=36992&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240515T120000
-DTEND;TZID=Europe/London:20240515T153500
-DTSTAMP:20240515T110000Z
-UID:37270
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013179/met-opera-encore-madama-butterfly-202
- 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=005&txtSessionId=37270&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London:20240327T120000
-DTEND;TZID=Europe/London:20240327T155500
-DTSTAMP:20240327T120000Z
-UID:37266
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013177/met-opera-encore-romeo-et-juliette-20
- 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=005&txtSessionId=37266&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Favorite Things - The Rodgers & Hammerstein 80th Anniversary Co
- ncert
-DTSTART;TZID=Europe/London:20240218T120000
-DTEND;TZID=Europe/London:20240218T142000
-DTSTAMP:20240218T120000Z
-UID:40005
-DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00014056/my-favorite-things-the-rodgers-hammer
- stein-80th-anniversary-concert/\nhttps://ticketing.picturehouses.com/Ticke
- ting/visSelectTickets.aspx?cinemacode=005&txtSessionId=40005&visLang=1
+SUMMARY:Buster Keaton: The General
+DTSTART;TZID=Europe/London:20240211T113000
+DTEND;TZID=Europe/London:20240211T131000
+DTSTAMP:20240211T113000Z
+UID:40233
+DESCRIPTION:Duration: 1h 19m (79 min)\nScreen 1\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
+ details/005/HO00014132/buster-keaton-the-general/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0233&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -179,42 +101,29 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 1\n\nAd and Trailer Free: No
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London:20240618T120000
-DTEND;TZID=Europe/London:20240618T151500
-DTSTAMP:20240618T110000Z
-UID:36996
+SUMMARY:ROH Encore: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240528T120000
+DTEND;TZID=Europe/London:20240528T151500
+DTSTAMP:20240528T110000Z
+UID:36992
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/005/HO00013120/roh-encore-andrea-chenier-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=3
- 6996&visLang=1
+ ls/005/HO00013118/roh-encore-the-winter-s-tale-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionI
+ d=36992&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Forza del Destino (2024)
-DTSTART;TZID=Europe/London:20240313T120000
-DTEND;TZID=Europe/London:20240313T164500
-DTSTAMP:20240313T120000Z
-UID:37264
-DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013176/met-opera-encore-la-forza-del-destino
- -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=005&txtSessionId=37264&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Manon (2024)
-DTSTART;TZID=Europe/London:20240213T120000
-DTEND;TZID=Europe/London:20240213T153500
-DTSTAMP:20240213T120000Z
-UID:36982
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nLive via Satellite: Th
- is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
- turehouses.com/movie-details/005/HO00013113/roh-encore-manon-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 05&txtSessionId=36982&visLang=1
+SUMMARY:42nd Street The Musical
+DTSTART;TZID=Europe/London:20240519T120000
+DTEND;TZID=Europe/London:20240519T144500
+DTSTAMP:20240519T110000Z
+UID:40008
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014059/42nd-street-the-musical/\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&tx
+ tSessionId=40008&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -230,53 +139,15 @@ DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:An American in Paris - The Musical
-DTSTART;TZID=Europe/London:20240421T120000
-DTEND;TZID=Europe/London:20240421T150000
-DTSTAMP:20240421T110000Z
-UID:40007
-DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00014058/an-american-in-paris-the-musical/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=005&txtSessionId=40007&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Titanic - The Musical
-DTSTART;TZID=Europe/London:20240310T120000
-DTEND;TZID=Europe/London:20240310T150000
-DTSTAMP:20240310T120000Z
-UID:40006
-DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00014057/titanic-the-musical/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
- sionId=40006&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carmen (2024)
-DTSTART;TZID=Europe/London:20240131T120000
-DTEND;TZID=Europe/London:20240131T160500
-DTSTAMP:20240131T120000Z
-UID:37262
-DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013175/met-opera-encore-carmen-2024/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 05&txtSessionId=37262&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Carmen (2024)
-DTSTART;TZID=Europe/London:20240507T120000
-DTEND;TZID=Europe/London:20240507T154500
-DTSTAMP:20240507T110000Z
-UID:36990
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/005/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=36990&vis
- Lang=1
+SUMMARY:Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240515T120000
+DTEND;TZID=Europe/London:20240515T153500
+DTSTAMP:20240515T110000Z
+UID:37270
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013179/met-opera-encore-madama-butterfly-202
+ 4/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=005&txtSessionId=37270&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -294,17 +165,41 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Rusalka (2024)
-DTSTART;TZID=Europe/London:20240130T120000
-DTEND;TZID=Europe/London:20240130T154500
-DTSTAMP:20240130T120000Z
-UID:36980
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London:20240327T120000
+DTEND;TZID=Europe/London:20240327T155500
+DTSTAMP:20240327T120000Z
+UID:37266
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013177/met-opera-encore-romeo-et-juliette-20
+ 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=005&txtSessionId=37266&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Carmen (2024)
+DTSTART;TZID=Europe/London:20240507T120000
+DTEND;TZID=Europe/London:20240507T154500
+DTSTAMP:20240507T110000Z
+UID:36990
 DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/005/HO00013112/roh-encore-rusalka-2024/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=36980&vi
- sLang=1
+ ls/005/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=36990&vis
+ Lang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An American in Paris - The Musical
+DTSTART;TZID=Europe/London:20240421T120000
+DTEND;TZID=Europe/London:20240421T150000
+DTSTAMP:20240421T110000Z
+UID:40007
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014058/an-american-in-paris-the-musical/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=005&txtSessionId=40007&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -343,6 +238,397 @@ DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/005/HO00014161/nt-live-2024-nye-encore/\nhttps://tic
  keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&tx
  tSessionId=40539&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Favorite Things - The Rodgers & Hammerstein 80th Anniversary Co
+ ncert
+DTSTART;TZID=Europe/London:20240218T120000
+DTEND;TZID=Europe/London:20240218T142000
+DTSTAMP:20240218T120000Z
+UID:40005
+DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014056/my-favorite-things-the-rodgers-hammer
+ stein-80th-anniversary-concert/\nhttps://ticketing.picturehouses.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=005&txtSessionId=40005&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Forza del Destino (2024)
+DTSTART;TZID=Europe/London:20240313T120000
+DTEND;TZID=Europe/London:20240313T164500
+DTSTAMP:20240313T120000Z
+UID:37264
+DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013176/met-opera-encore-la-forza-del-destino
+ -2024/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=005&txtSessionId=37264&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carmen (2024)
+DTSTART;TZID=Europe/London:20240131T120000
+DTEND;TZID=Europe/London:20240131T160500
+DTSTAMP:20240131T120000Z
+UID:37262
+DESCRIPTION:Duration: 3h 44m (224 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013175/met-opera-encore-carmen-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 05&txtSessionId=37262&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werner Herzog: Nosferatu The Vampyre
+DTSTART;TZID=Europe/London:20240225T120000
+DTEND;TZID=Europe/London:20240225T141000
+DTSTAMP:20240225T120000Z
+UID:40235
+DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00014141/werner-herzog-nosferatu-the-vampyre/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
+ SessionId=40235&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London:20240618T120000
+DTEND;TZID=Europe/London:20240618T151500
+DTSTAMP:20240618T110000Z
+UID:36996
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/005/HO00013120/roh-encore-andrea-chenier-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=3
+ 6996&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Manon (2024)
+DTSTART;TZID=Europe/London:20240213T120000
+DTEND;TZID=Europe/London:20240213T153500
+DTSTAMP:20240213T120000Z
+UID:36982
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nLive via Satellite: Th
+ is screening will be streamed live via a Satellite Feed\n\nhttps://www.pic
+ turehouses.com/movie-details/005/HO00013113/roh-encore-manon-2024/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 05&txtSessionId=36982&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Titanic - The Musical
+DTSTART;TZID=Europe/London:20240310T120000
+DTEND;TZID=Europe/London:20240310T150000
+DTSTAMP:20240310T120000Z
+UID:40006
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014057/titanic-the-musical/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40006&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240202T120000
+DTEND;TZID=Europe/London:20240202T140500
+DTSTAMP:20240202T120000Z
+UID:40616
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40616&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240202T153500
+DTEND;TZID=Europe/London:20240202T174000
+DTSTAMP:20240202T153500Z
+UID:40615
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40615&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240202T171500
+DTEND;TZID=Europe/London:20240202T192000
+DTSTAMP:20240202T171500Z
+UID:40587
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40587&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240202T204500
+DTEND;TZID=Europe/London:20240202T225000
+DTSTAMP:20240202T204500Z
+UID:40613
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40613&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240203T110500
+DTEND;TZID=Europe/London:20240203T131000
+DTSTAMP:20240203T110500Z
+UID:40205
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40205&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240203T153000
+DTEND;TZID=Europe/London:20240203T173500
+DTSTAMP:20240203T153000Z
+UID:40130
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40130&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240203T181500
+DTEND;TZID=Europe/London:20240203T202000
+DTSTAMP:20240203T181500Z
+UID:40131
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40131&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240203T212500
+DTEND;TZID=Europe/London:20240203T233000
+DTSTAMP:20240203T212500Z
+UID:40132
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40132&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240204T114500
+DTEND;TZID=Europe/London:20240204T135000
+DTSTAMP:20240204T114500Z
+UID:40204
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40204&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240204T153500
+DTEND;TZID=Europe/London:20240204T174000
+DTSTAMP:20240204T153500Z
+UID:40200
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40200&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240204T181500
+DTEND;TZID=Europe/London:20240204T202000
+DTSTAMP:20240204T181500Z
+UID:40202
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40202&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240204T201000
+DTEND;TZID=Europe/London:20240204T221500
+DTSTAMP:20240204T201000Z
+UID:40199
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40199&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240205T130000
+DTEND;TZID=Europe/London:20240205T150500
+DTSTAMP:20240205T130000Z
+UID:40630
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40630&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240205T144500
+DTEND;TZID=Europe/London:20240205T165000
+DTSTAMP:20240205T144500Z
+UID:40632
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40632&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240205T181500
+DTEND;TZID=Europe/London:20240205T202000
+DTSTAMP:20240205T181500Z
+UID:40627
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40627&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240205T201000
+DTEND;TZID=Europe/London:20240205T221500
+DTSTAMP:20240205T201000Z
+UID:40625
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40625&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240206T124500
+DTEND;TZID=Europe/London:20240206T145000
+DTSTAMP:20240206T124500Z
+UID:40639
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40639&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240206T170000
+DTEND;TZID=Europe/London:20240206T190500
+DTSTAMP:20240206T170000Z
+UID:40636
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40636&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240206T192500
+DTEND;TZID=Europe/London:20240206T213000
+DTSTAMP:20240206T192500Z
+UID:40635
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40635&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240207T114500
+DTEND;TZID=Europe/London:20240207T135000
+DTSTAMP:20240207T114500Z
+UID:40647
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40647&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240207T164500
+DTEND;TZID=Europe/London:20240207T185000
+DTSTAMP:20240207T164500Z
+UID:40453
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40453&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240207T201000
+DTEND;TZID=Europe/London:20240207T221500
+DTSTAMP:20240207T201000Z
+UID:40450
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40450&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240208T143000
+DTEND;TZID=Europe/London:20240208T163500
+DTSTAMP:20240208T143000Z
+UID:40659
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40659&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240208T171500
+DTEND;TZID=Europe/London:20240208T192000
+DTSTAMP:20240208T171500Z
+UID:40584
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40584&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240208T205000
+DTEND;TZID=Europe/London:20240208T225500
+DTSTAMP:20240208T205000Z
+UID:40652
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=40652&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -434,6 +720,18 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Casablanca
+DTSTART;TZID=Europe/London:20240217T140000
+DTEND;TZID=Europe/London:20240217T160000
+DTSTAMP:20240217T140000Z
+UID:40454
+DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 1\n\nhttps://www.picturehous
+ es.com/movie-details/005/HO00012475/casablanca/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=404
+ 54&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Occupied City + Live Satellite Q&A with Steve McQueen & Bianca Sti
  gter
 DTSTART;TZID=Europe/London:20240211T140000
@@ -451,15 +749,304 @@ DESCRIPTION:Duration: 5h 05m (305 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Casablanca
-DTSTART;TZID=Europe/London:20240217T140000
-DTEND;TZID=Europe/London:20240217T160000
-DTSTAMP:20240217T140000Z
-UID:40454
-DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 1\n\nhttps://www.picturehous
- es.com/movie-details/005/HO00012475/casablanca/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=404
- 54&visLang=1
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240202T144500
+DTEND;TZID=Europe/London:20240202T170500
+DTSTAMP:20240202T144500Z
+UID:40618
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40618&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240202T203500
+DTEND;TZID=Europe/London:20240202T225500
+DTSTAMP:20240202T203500Z
+UID:40585
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40585&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240203T133000
+DTEND;TZID=Europe/London:20240203T155000
+DTSTAMP:20240203T133000Z
+UID:40209
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40209&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240203T184500
+DTEND;TZID=Europe/London:20240203T210500
+DTSTAMP:20240203T184500Z
+UID:40211
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40211&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240204T145000
+DTEND;TZID=Europe/London:20240204T171000
+DTSTAMP:20240204T145000Z
+UID:40206
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/005/HO00014006/american
+ -fiction/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=005&txtSessionId=40206&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240204T200000
+DTEND;TZID=Europe/London:20240204T222000
+DTSTAMP:20240204T200000Z
+UID:40207
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40207&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240205T120000
+DTEND;TZID=Europe/London:20240205T142000
+DTSTAMP:20240205T120000Z
+UID:40633
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40633&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240205T171500
+DTEND;TZID=Europe/London:20240205T193500
+DTSTAMP:20240205T171500Z
+UID:40624
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40624&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240206T142500
+DTEND;TZID=Europe/London:20240206T164500
+DTSTAMP:20240206T142500Z
+UID:40641
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40641&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240206T201500
+DTEND;TZID=Europe/London:20240206T223500
+DTSTAMP:20240206T201500Z
+UID:40548
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40548&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240207T144500
+DTEND;TZID=Europe/London:20240207T170500
+DTSTAMP:20240207T144500Z
+UID:40648
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40648&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240207T173000
+DTEND;TZID=Europe/London:20240207T195000
+DTSTAMP:20240207T173000Z
+UID:40449
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40449&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240208T111500
+DTEND;TZID=Europe/London:20240208T133500
+DTSTAMP:20240208T111500Z
+UID:40583
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40583&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Fiction
+DTSTART;TZID=Europe/London:20240208T200000
+DTEND;TZID=Europe/London:20240208T222000
+DTSTAMP:20240208T200000Z
+UID:40655
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014006/american-fiction/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
+ nId=40655&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240130T150000
+DTEND;TZID=Europe/London:20240130T173500
+DTSTAMP:20240130T150000Z
+UID:40525
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40525&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240130T203000
+DTEND;TZID=Europe/London:20240130T230500
+DTSTAMP:20240130T203000Z
+UID:40523
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40523&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240131T113000
+DTEND;TZID=Europe/London:20240131T140500
+DTSTAMP:20240131T113000Z
+UID:40567
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40567&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240131T171500
+DTEND;TZID=Europe/London:20240131T195000
+DTSTAMP:20240131T171500Z
+UID:40529
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40529&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240201T150000
+DTEND;TZID=Europe/London:20240201T173500
+DTSTAMP:20240201T150000Z
+UID:40565
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40565&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240201T195500
+DTEND;TZID=Europe/London:20240201T223000
+DTSTAMP:20240201T195500Z
+UID:40531
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40531&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240202T123000
+DTEND;TZID=Europe/London:20240202T150500
+DTSTAMP:20240202T123000Z
+UID:40620
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40620&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240204T120000
+DTEND;TZID=Europe/London:20240204T143500
+DTSTAMP:20240204T120000Z
+UID:40622
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40622&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240206T112500
+DTEND;TZID=Europe/London:20240206T140000
+DTSTAMP:20240206T112500Z
+UID:40643
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40643&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240207T152000
+DTEND;TZID=Europe/London:20240207T175500
+DTSTAMP:20240207T152000Z
+UID:40649
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40649&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240208T170000
+DTEND;TZID=Europe/London:20240208T193500
+DTSTAMP:20240208T170000Z
+UID:40654
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =40654&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -485,54 +1072,6 @@ DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 3\n\nhttps://www.picturehou
  ses.com/movie-details/005/HO00013367/anatomy-of-a-fall/\nhttps://ticketing
  .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessi
  onId=40563&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of Us Strangers
-DTSTART;TZID=Europe/London:20240129T154500
-DTEND;TZID=Europe/London:20240129T175000
-DTSTAMP:20240129T154500Z
-UID:40486
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
- sionId=40486&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of Us Strangers
-DTSTART;TZID=Europe/London:20240129T181500
-DTEND;TZID=Europe/London:20240129T202000
-DTSTAMP:20240129T181500Z
-UID:40485
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
- sionId=40485&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of Us Strangers
-DTSTART;TZID=Europe/London:20240129T204500
-DTEND;TZID=Europe/London:20240129T225000
-DTSTAMP:20240129T204500Z
-UID:40488
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
- sionId=40488&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All of Us Strangers
-DTSTART;TZID=Europe/London:20240130T123000
-DTEND;TZID=Europe/London:20240130T143500
-DTSTAMP:20240130T123000Z
-UID:40517
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
- sionId=40517&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -669,6 +1208,321 @@ DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240202T121500
+DTEND;TZID=Europe/London:20240202T142000
+DTSTAMP:20240202T121500Z
+UID:40617
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40617&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240202T143000
+DTEND;TZID=Europe/London:20240202T163500
+DTSTAMP:20240202T143000Z
+UID:40614
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40614&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240202T180500
+DTEND;TZID=Europe/London:20240202T201000
+DTSTAMP:20240202T180500Z
+UID:40612
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40612&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240202T194500
+DTEND;TZID=Europe/London:20240202T215000
+DTSTAMP:20240202T194500Z
+UID:40586
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40586&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240203T130000
+DTEND;TZID=Europe/London:20240203T150500
+DTSTAMP:20240203T130000Z
+UID:40570
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40570&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240203T162000
+DTEND;TZID=Europe/London:20240203T182500
+DTSTAMP:20240203T162000Z
+UID:40213
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40213&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240203T180000
+DTEND;TZID=Europe/London:20240203T200500
+DTSTAMP:20240203T180000Z
+UID:40212
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40212&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240203T204500
+DTEND;TZID=Europe/London:20240203T225000
+DTSTAMP:20240203T204500Z
+UID:40210
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40210&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240204T142000
+DTEND;TZID=Europe/London:20240204T162500
+DTSTAMP:20240204T142000Z
+UID:40203
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40203&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240204T173000
+DTEND;TZID=Europe/London:20240204T193500
+DTSTAMP:20240204T173000Z
+UID:40201
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40201&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240204T204500
+DTEND;TZID=Europe/London:20240204T225000
+DTSTAMP:20240204T204500Z
+UID:40208
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40208&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240205T121500
+DTEND;TZID=Europe/London:20240205T142000
+DTSTAMP:20240205T121500Z
+UID:40629
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40629&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240205T154500
+DTEND;TZID=Europe/London:20240205T175000
+DTSTAMP:20240205T154500Z
+UID:40631
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40631&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240205T174000
+DTEND;TZID=Europe/London:20240205T194500
+DTSTAMP:20240205T174000Z
+UID:40628
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/005/HO00013713/all-of-u
+ s-strangers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=005&txtSessionId=40628&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240205T204500
+DTEND;TZID=Europe/London:20240205T225000
+DTSTAMP:20240205T204500Z
+UID:40626
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40626&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240206T120000
+DTEND;TZID=Europe/London:20240206T140500
+DTSTAMP:20240206T120000Z
+UID:40644
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40644&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240206T151500
+DTEND;TZID=Europe/London:20240206T172000
+DTSTAMP:20240206T151500Z
+UID:40640
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40640&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240206T180000
+DTEND;TZID=Europe/London:20240206T200500
+DTSTAMP:20240206T180000Z
+UID:40638
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40638&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240206T203000
+DTEND;TZID=Europe/London:20240206T223500
+DTSTAMP:20240206T203000Z
+UID:40637
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40637&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240207T122000
+DTEND;TZID=Europe/London:20240207T142500
+DTSTAMP:20240207T122000Z
+UID:40645
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/005/HO00013713/all-of-u
+ s-strangers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=005&txtSessionId=40645&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240207T141500
+DTEND;TZID=Europe/London:20240207T162000
+DTSTAMP:20240207T141500Z
+UID:40646
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40646&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240207T181500
+DTEND;TZID=Europe/London:20240207T202000
+DTSTAMP:20240207T181500Z
+UID:40452
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40452&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240207T204500
+DTEND;TZID=Europe/London:20240207T225000
+DTSTAMP:20240207T204500Z
+UID:40451
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40451&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240208T141500
+DTEND;TZID=Europe/London:20240208T162000
+DTSTAMP:20240208T141500Z
+UID:40657
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40657&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240208T182000
+DTEND;TZID=Europe/London:20240208T202500
+DTSTAMP:20240208T182000Z
+UID:40653
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/005/HO00013713/all-of-u
+ s-strangers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=005&txtSessionId=40653&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240208T201500
+DTEND;TZID=Europe/London:20240208T222000
+DTSTAMP:20240208T201500Z
+UID:40651
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=40651&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oppenheimer (35mm)
 DTSTART;TZID=Europe/London:20240210T160000
 DTEND;TZID=Europe/London:20240210T192000
@@ -702,139 +1556,6 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/005/HO00013222/oppenheimer-35mm/\nhttps://ticketing.
  picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
  nId=40509&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240129T163000
-DTEND;TZID=Europe/London:20240129T191500
-DTSTAMP:20240129T163000Z
-UID:40573
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0573&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240129T194500
-DTEND;TZID=Europe/London:20240129T223000
-DTSTAMP:20240129T194500Z
-UID:40527
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0527&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240130T113000
-DTEND;TZID=Europe/London:20240130T141500
-DTSTAMP:20240130T113000Z
-UID:40526
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0526&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240130T143000
-DTEND;TZID=Europe/London:20240130T171500
-DTSTAMP:20240130T143000Z
-UID:40574
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0574&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240130T202000
-DTEND;TZID=Europe/London:20240130T230500
-DTSTAMP:20240130T202000Z
-UID:40524
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0524&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240131T152500
-DTEND;TZID=Europe/London:20240131T181000
-DTSTAMP:20240131T152500Z
-UID:40530
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0530&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240131T170000
-DTEND;TZID=Europe/London:20240131T194500
-DTSTAMP:20240131T170000Z
-UID:40575
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0575&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240131T201500
-DTEND;TZID=Europe/London:20240131T230000
-DTSTAMP:20240131T201500Z
-UID:40544
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0544&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240201T123000
-DTEND;TZID=Europe/London:20240201T151500
-DTSTAMP:20240201T123000Z
-UID:40564
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0564&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240201T165000
-DTEND;TZID=Europe/London:20240201T193500
-DTSTAMP:20240201T165000Z
-UID:40576
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0576&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240201T190000
-DTEND;TZID=Europe/London:20240201T214500
-DTSTAMP:20240201T190000Z
-UID:40532
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/005/HO00013711/poor-thi
- ngs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=005&txtSessionId=40532&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -880,18 +1601,6 @@ DESCRIPTION:Duration: 2h 12m (132 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Boy And The Heron (Original Language Version)
-DTSTART;TZID=Europe/London:20240129T172500
-DTEND;TZID=Europe/London:20240129T195000
-DTSTAMP:20240129T172500Z
-UID:40558
-DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013972/the-boy-and-the-heron-original-langua
- ge-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
- s.aspx?cinemacode=005&txtSessionId=40558&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Taste of Things + Recorded Q&A
 DTSTART;TZID=Europe/London:20240214T174000
 DTEND;TZID=Europe/London:20240214T203500
@@ -901,6 +1610,19 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/005/HO00014190/the-taste-of-things-recorded-q-a/\nht
  tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
  de=005&txtSessionId=40495&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werner Herzog - Radical Dreamer
+DTSTART;TZID=Europe/London:20240206T174500
+DTEND;TZID=Europe/London:20240206T193500
+DTSTAMP:20240206T174500Z
+UID:40547
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 1\n\nDiscover: Discover stun
+ ning cinema. Each week\, the Picturehouse film team champion one must-see 
+ film.\n\nhttps://www.picturehouses.com/movie-details/005/HO00014096/werner
+ -herzog-radical-dreamer/\nhttps://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=005&txtSessionId=40547&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -931,6 +1653,30 @@ DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nAd and Trailer Free: N
  e-details/005/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSess
  ionId=37267&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hoarder on the Border - Japan Foundation Tour
+DTSTART;TZID=Europe/London:20240228T180000
+DTEND;TZID=Europe/London:20240228T200500
+DTSTAMP:20240228T180000Z
+UID:40175
+DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014107/hoarder-on-the-border-japan-foundatio
+ n-tour/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
+ px?cinemacode=005&txtSessionId=40175&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pictures of Ghosts (Retratos Fantasmas)
+DTSTART;TZID=Europe/London:20240130T180000
+DTEND;TZID=Europe/London:20240130T195500
+DTSTAMP:20240130T180000Z
+UID:40484
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/005/HO00014188/pictures-of-ghosts-retratos-fantasmas/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=005&txtSessionId=40484&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -970,6 +1716,80 @@ DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 3\n\nhttps://www.picturehous
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: Painting the Modern Garden: Monet To Matisse
+DTSTART;TZID=Europe/London:20240227T180000
+DTEND;TZID=Europe/London:20240227T195500
+DTSTAMP:20240227T180000Z
+UID:39133
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/005/HO00013550/eos-painting-the-modern-garden-monet-t
+ o-matisse/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=005&txtSessionId=39133&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Painting the Modern Garden: Monet To Matisse
+DTSTART;TZID=Europe/London:20240305T120000
+DTEND;TZID=Europe/London:20240305T135500
+DTSTAMP:20240305T120000Z
+UID:39134
+DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/005/HO00013550/eos-painting-the-modern-garden-monet-t
+ o-matisse/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=005&txtSessionId=39134&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Screen Tour : Six Inches of Soil + Panel
+DTSTART;TZID=Europe/London:20240410T180000
+DTEND;TZID=Europe/London:20240410T203000
+DTSTAMP:20240410T170000Z
+UID:40611
+DESCRIPTION:Duration: 2h 30m (150 min)\nScreen 3\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/005/HO00014212/green-screen-tour-six-inches-of-soil-panel/\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&tx
+ tSessionId=40611&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shadow of Fire - Japan Foundation Tour
+DTSTART;TZID=Europe/London:20240320T180000
+DTEND;TZID=Europe/London:20240320T195500
+DTSTAMP:20240320T180000Z
+UID:40178
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/005/HO00014104/shadow-of-fire-japan-foundation-tour/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=005&txtSessionId=40178&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ice Cream Fever - Japan Foundation Tour
+DTSTART;TZID=Europe/London:20240313T180000
+DTEND;TZID=Europe/London:20240313T200500
+DTSTAMP:20240313T180000Z
+UID:40177
+DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014103/ice-cream-fever-japan-foundation-tour
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=005&txtSessionId=40177&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sabakan - Japan Foundation Tour
+DTSTART;TZID=Europe/London:20240306T180000
+DTEND;TZID=Europe/London:20240306T200000
+DTSTAMP:20240306T180000Z
+UID:40176
+DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 3\n\nhttps://www.picturehous
+ es.com/movie-details/005/HO00014102/sabakan-japan-foundation-tour/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 05&txtSessionId=40176&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY: My National Gallery\, London
 DTSTART;TZID=Europe/London:20240604T180000
 DTEND;TZID=Europe/London:20240604T195000
@@ -1004,104 +1824,6 @@ DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 1\n\nDiscover: Discover stu
   film.\n\nhttps://www.picturehouses.com/movie-details/005/HO00014017/wicke
  d-little-letters/\nhttps://ticketing.picturehouses.com/Ticketing/visSelect
  Tickets.aspx?cinemacode=005&txtSessionId=40552&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Painting the Modern Garden: Monet To Matisse
-DTSTART;TZID=Europe/London:20240227T180000
-DTEND;TZID=Europe/London:20240227T195500
-DTSTAMP:20240227T180000Z
-UID:39133
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/005/HO00013550/eos-painting-the-modern-garden-monet-t
- o-matisse/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=005&txtSessionId=39133&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Painting the Modern Garden: Monet To Matisse
-DTSTART;TZID=Europe/London:20240305T120000
-DTEND;TZID=Europe/London:20240305T135500
-DTSTAMP:20240305T120000Z
-UID:39134
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/005/HO00013550/eos-painting-the-modern-garden-monet-t
- o-matisse/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=005&txtSessionId=39134&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hoarder on the Border - Japan Foundation Tour
-DTSTART;TZID=Europe/London:20240228T180000
-DTEND;TZID=Europe/London:20240228T200500
-DTSTAMP:20240228T180000Z
-UID:40175
-DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00014107/hoarder-on-the-border-japan-foundatio
- n-tour/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.as
- px?cinemacode=005&txtSessionId=40175&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sabakan - Japan Foundation Tour
-DTSTART;TZID=Europe/London:20240306T180000
-DTEND;TZID=Europe/London:20240306T200000
-DTSTAMP:20240306T180000Z
-UID:40176
-DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/005/HO00014102/sabakan-japan-foundation-tour/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 05&txtSessionId=40176&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shadow of Fire - Japan Foundation Tour
-DTSTART;TZID=Europe/London:20240320T180000
-DTEND;TZID=Europe/London:20240320T195500
-DTSTAMP:20240320T180000Z
-UID:40178
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/005/HO00014104/shadow-of-fire-japan-foundation-tour/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=005&txtSessionId=40178&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pictures of Ghosts (Retratos Fantasmas)
-DTSTART;TZID=Europe/London:20240130T180000
-DTEND;TZID=Europe/London:20240130T195500
-DTSTAMP:20240130T180000Z
-UID:40484
-DESCRIPTION:Duration: 1h 33m (93 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/005/HO00014188/pictures-of-ghosts-retratos-fantasmas/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=005&txtSessionId=40484&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Green Screen Tour : Six Inches of Soil + Panel
-DTSTART;TZID=Europe/London:20240410T180000
-DTEND;TZID=Europe/London:20240410T203000
-DTSTAMP:20240410T170000Z
-UID:40611
-DESCRIPTION:Duration: 2h 30m (150 min)\nScreen 3\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/005/HO00014212/green-screen-tour-six-inches-of-soil-panel/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&tx
- tSessionId=40611&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ice Cream Fever - Japan Foundation Tour
-DTSTART;TZID=Europe/London:20240313T180000
-DTEND;TZID=Europe/London:20240313T200500
-DTSTAMP:20240313T180000Z
-UID:40177
-DESCRIPTION:Duration: 1h 44m (104 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00014103/ice-cream-fever-japan-foundation-tour
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=005&txtSessionId=40177&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1203,33 +1925,18 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240326T191500
-DTEND;TZID=Europe/London:20240326T223000
-DTSTAMP:20240326T191500Z
-UID:36983
+SUMMARY:ROH Live: MacMillan Triple (2024)
+DTSTART;TZID=Europe/London:20240409T191500
+DTEND;TZID=Europe/London:20240409T223000
+DTSTAMP:20240409T181500Z
+UID:36985
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
+ e-details/005/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSess
- ionId=36983&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Live: Manon (2024)
-DTSTART;TZID=Europe/London:20240207T191500
-DTEND;TZID=Europe/London:20240207T223000
-DTSTAMP:20240207T191500Z
-UID:36981
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=36981
- &visLang=1
+ ionId=36985&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1248,18 +1955,18 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: MacMillan Triple (2024)
-DTSTART;TZID=Europe/London:20240409T191500
-DTEND;TZID=Europe/London:20240409T223000
-DTSTAMP:20240409T181500Z
-UID:36985
+SUMMARY:ROH Live: Manon (2024)
+DTSTART;TZID=Europe/London:20240207T191500
+DTEND;TZID=Europe/London:20240207T223000
+DTSTAMP:20240207T191500Z
+UID:36981
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSess
- ionId=36985&visLang=1
+ e-details/005/HO00013025/roh-live-manon-2024/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=36981
+ &visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1275,6 +1982,21 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  e-details/005/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
  ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
  sionId=36991&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240326T191500
+DTEND;TZID=Europe/London:20240326T223000
+DTSTAMP:20240326T191500Z
+UID:36983
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSess
+ ionId=36983&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1340,88 +2062,172 @@ DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240129T201000
-DTEND;TZID=Europe/London:20240129T224500
-DTSTAMP:20240129T201000Z
-UID:40528
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/005/HO00013914/the-hold
- overs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=005&txtSessionId=40528&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240130T150000
-DTEND;TZID=Europe/London:20240130T173500
-DTSTAMP:20240130T150000Z
-UID:40525
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =40525&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240130T203000
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240130T202000
 DTEND;TZID=Europe/London:20240130T230500
-DTSTAMP:20240130T203000Z
-UID:40523
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =40523&visLang=1
+DTSTAMP:20240130T202000Z
+UID:40524
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0524&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240131T113000
-DTEND;TZID=Europe/London:20240131T140500
-DTSTAMP:20240131T113000Z
-UID:40567
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =40567&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240131T152500
+DTEND;TZID=Europe/London:20240131T181000
+DTSTAMP:20240131T152500Z
+UID:40530
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0530&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240131T171500
-DTEND;TZID=Europe/London:20240131T195000
-DTSTAMP:20240131T171500Z
-UID:40529
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =40529&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240131T170000
+DTEND;TZID=Europe/London:20240131T194500
+DTSTAMP:20240131T170000Z
+UID:40575
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0575&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240201T150000
-DTEND;TZID=Europe/London:20240201T173500
-DTSTAMP:20240201T150000Z
-UID:40565
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =40565&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240131T201500
+DTEND;TZID=Europe/London:20240131T230000
+DTSTAMP:20240131T201500Z
+UID:40544
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0544&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240201T195500
-DTEND;TZID=Europe/London:20240201T223000
-DTSTAMP:20240201T195500Z
-UID:40531
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =40531&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240201T123000
+DTEND;TZID=Europe/London:20240201T151500
+DTSTAMP:20240201T123000Z
+UID:40564
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0564&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240201T165000
+DTEND;TZID=Europe/London:20240201T193500
+DTSTAMP:20240201T165000Z
+UID:40576
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0576&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240201T190000
+DTEND;TZID=Europe/London:20240201T214500
+DTSTAMP:20240201T190000Z
+UID:40532
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/005/HO00013711/poor-thi
+ ngs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=005&txtSessionId=40532&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240202T173000
+DTEND;TZID=Europe/London:20240202T201500
+DTSTAMP:20240202T173000Z
+UID:40619
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0619&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240203T203000
+DTEND;TZID=Europe/London:20240203T231500
+DTSTAMP:20240203T203000Z
+UID:40621
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0621&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240204T170000
+DTEND;TZID=Europe/London:20240204T194500
+DTSTAMP:20240204T170000Z
+UID:40623
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0623&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240205T144000
+DTEND;TZID=Europe/London:20240205T172500
+DTSTAMP:20240205T144000Z
+UID:40634
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0634&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240206T143500
+DTEND;TZID=Europe/London:20240206T172000
+DTSTAMP:20240206T143500Z
+UID:40642
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0642&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240207T121500
+DTEND;TZID=Europe/London:20240207T150000
+DTSTAMP:20240207T121500Z
+UID:40650
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0650&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240208T151500
+DTEND;TZID=Europe/London:20240208T180000
+DTSTAMP:20240208T151500Z
+UID:40656
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0656&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1434,20 +2240,6 @@ DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/005/HO00014210/it-happened-one-night-90th-anniversar
  y/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
  nemacode=005&txtSessionId=40549&visLang=1
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PET SHOP BOYS DREAMWORLD: THE GREATEST HITS LIVE AT THE ROYAL AREN
- A COPENHAGEN
-DTSTART;TZID=Europe/London:20240131T203000
-DTEND;TZID=Europe/London:20240131T224500
-DTSTAMP:20240131T203000Z
-UID:39889
-DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00014069/pet-shop-boys-dreamworld-the-greatest
- -hits-live-at-the-royal-arena-copenhagen/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=39889&vis
- Lang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1487,15 +2279,30 @@ DESCRIPTION:Duration: 2h 12m (132 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paris\, Texas
-DTSTART;TZID=Europe/London:20240323T210000
-DTEND;TZID=Europe/London:20240323T234000
-DTSTAMP:20240323T210000Z
-UID:40510
-DESCRIPTION:Duration: 2h 19m (139 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00011788/paris-texas/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 0510&visLang=1
+SUMMARY:PET SHOP BOYS DREAMWORLD: THE GREATEST HITS LIVE AT THE ROYAL AREN
+ A COPENHAGEN
+DTSTART;TZID=Europe/London:20240131T203000
+DTEND;TZID=Europe/London:20240131T224500
+DTSTAMP:20240131T203000Z
+UID:39889
+DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014069/pet-shop-boys-dreamworld-the-greatest
+ -hits-live-at-the-royal-arena-copenhagen/\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=39889&vis
+ Lang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OUT: Weekend
+DTSTART;TZID=Europe/London:20240219T204500
+DTEND;TZID=Europe/London:20240219T224000
+DTSTAMP:20240219T204500Z
+UID:40663
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 3\n\nOut: Elevating and cele
+ brating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\nht
+ tps://www.picturehouses.com/movie-details/005/HO00014214/out-weekend/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=005&txtSessionId=40663&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1508,6 +2315,18 @@ DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/005/HO00014185/eternal-sunshine-of-the-spotless-mind
  /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
  emacode=005&txtSessionId=40471&visLang=1
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paris\, Texas
+DTSTART;TZID=Europe/London:20240323T210000
+DTEND;TZID=Europe/London:20240323T234000
+DTSTAMP:20240323T210000Z
+UID:40510
+DESCRIPTION:Duration: 2h 19m (139 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00011788/paris-texas/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 0510&visLang=1
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
