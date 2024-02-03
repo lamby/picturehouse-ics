@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240202T153432Z
+LAST-MODIFIED:20240203T155620Z
 NAME:Picture House Chester
 X-WR-CALNAME:Picture House Chester
-BEGIN:VEVENT
-SUMMARY:Buster Keaton: The General
-DTSTART;TZID=Europe/London:20240211T110000
-DTEND;TZID=Europe/London:20240211T124000
-DTSTAMP:20240211T110000Z
-UID:2015
-DESCRIPTION:Duration: 1h 19m (79 min)\nScreen 4\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/034/HO00014132/buster-keaton-the-general/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 015&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Werner Herzog: The Enigma of Kaspar Hauser
 DTSTART;TZID=Europe/London:20240303T110000
@@ -35,15 +20,18 @@ DESCRIPTION:Duration: 1h 49m (109 min)\nScreen 5\n\nreDiscover: Time to br
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wonka
-DTSTART;TZID=Europe/London:20240203T113000
-DTEND;TZID=Europe/London:20240203T135000
-DTSTAMP:20240203T113000Z
-UID:2253
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013953/wonka/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2253&vi
- sLang=1
+SUMMARY:Buster Keaton: The General
+DTSTART;TZID=Europe/London:20240211T110000
+DTEND;TZID=Europe/London:20240211T124000
+DTSTAMP:20240211T110000Z
+UID:2015
+DESCRIPTION:Duration: 1h 19m (79 min)\nScreen 4\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
+ details/034/HO00014132/buster-keaton-the-general/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 015&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -146,33 +134,6 @@ DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Werner Herzog: Aguirre\, The Wrath Of God
-DTSTART;TZID=Europe/London:20240218T133000
-DTEND;TZID=Europe/London:20240218T152500
-DTSTAMP:20240218T133000Z
-UID:2016
-DESCRIPTION:Duration: 1h 31m (91 min)\nScreen 4\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
- details/034/HO00014140/werner-herzog-aguirre-the-wrath-of-god/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&t
- xtSessionId=2016&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: Black Narcissus
-DTSTART;TZID=Europe/London:20240210T133000
-DTEND;TZID=Europe/London:20240210T153500
-DTSTAMP:20240210T133000Z
-UID:1372
-DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014072/powell-pressburger-black-narcissus/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=034&txtSessionId=1372&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Powell & Pressburger: A Canterbury Tale
 DTSTART;TZID=Europe/London:20240302T133000
 DTEND;TZID=Europe/London:20240302T155500
@@ -197,6 +158,21 @@ DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 2\n\nhttps://www.picturehous
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Werner Herzog: Aguirre\, The Wrath Of God
+DTSTART;TZID=Europe/London:20240218T133000
+DTEND;TZID=Europe/London:20240218T152500
+DTSTAMP:20240218T133000Z
+UID:2016
+DESCRIPTION:Duration: 1h 31m (91 min)\nScreen 4\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie-
+ details/034/HO00014140/werner-herzog-aguirre-the-wrath-of-god/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&t
+ xtSessionId=2016&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Werner Herzog: Nosferatu The Vampyre
 DTSTART;TZID=Europe/London:20240225T133000
 DTEND;TZID=Europe/London:20240225T154000
@@ -212,27 +188,75 @@ DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 4\n\nreDiscover: Time to br
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Powell & Pressburger: A Matter of Life and Death
-DTSTART;TZID=Europe/London:20240203T133000
-DTEND;TZID=Europe/London:20240203T153000
-DTSTAMP:20240203T133000Z
-UID:1371
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014071/powell-pressburger-a-matter-of-life-a
- nd-death/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=034&txtSessionId=1371&visLang=1
+SUMMARY:Powell & Pressburger: Black Narcissus
+DTSTART;TZID=Europe/London:20240210T133000
+DTEND;TZID=Europe/London:20240210T153500
+DTSTAMP:20240210T133000Z
+UID:1372
+DESCRIPTION:Duration: 1h 41m (101 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014072/powell-pressburger-black-narcissus/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=034&txtSessionId=1372&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NT Live 2024: Nye (Encore)
-DTSTART;TZID=Europe/London:20240512T150000
-DTEND;TZID=Europe/London:20240512T180000
-DTSTAMP:20240512T140000Z
-UID:2013
-DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014161/nt-live-2024-nye-encore/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&tx
- tSessionId=2013&visLang=1
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240204T141000
+DTEND;TZID=Europe/London:20240204T162500
+DTSTAMP:20240204T141000Z
+UID:2261
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
+ Id=2261&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240205T201000
+DTEND;TZID=Europe/London:20240205T222500
+DTSTAMP:20240205T201000Z
+UID:2314
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
+ Id=2314&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240206T201000
+DTEND;TZID=Europe/London:20240206T222500
+DTSTAMP:20240206T201000Z
+UID:2340
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
+ Id=2340&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240207T201000
+DTEND;TZID=Europe/London:20240207T222500
+DTSTAMP:20240207T201000Z
+UID:2361
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
+ Id=2361&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mean Girls (2024)
+DTSTART;TZID=Europe/London:20240208T201000
+DTEND;TZID=Europe/London:20240208T222500
+DTSTAMP:20240208T201000Z
+UID:2378
+DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
+ Id=2378&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -247,6 +271,18 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 2\n\nhttps://www.picturehou
  -hits-live-at-the-royal-arena-copenhagen/\nhttps://ticketing.picturehouses
  .com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=882&visLa
  ng=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Nye (Encore)
+DTSTART;TZID=Europe/London:20240512T150000
+DTEND;TZID=Europe/London:20240512T180000
+DTSTAMP:20240512T140000Z
+UID:2013
+DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014161/nt-live-2024-nye-encore/\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&tx
+ tSessionId=2013&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -288,160 +324,123 @@ DESCRIPTION:Duration: 2h 30m (150 min)\nScreen 4\n\nAd and Trailer Free: N
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Color Purple (2024)
-DTSTART;TZID=Europe/London:20240202T162000
-DTEND;TZID=Europe/London:20240202T190500
-DTSTAMP:20240202T162000Z
-UID:2308
-DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
- essionId=2308&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240203T160000
+DTEND;TZID=Europe/London:20240203T184500
+DTSTAMP:20240203T160000Z
+UID:2239
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 239&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Color Purple (2024)
-DTSTART;TZID=Europe/London:20240203T142000
-DTEND;TZID=Europe/London:20240203T170500
-DTSTAMP:20240203T142000Z
-UID:2238
-DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
- essionId=2238&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240203T192000
+DTEND;TZID=Europe/London:20240203T220500
+DTSTAMP:20240203T192000Z
+UID:2246
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 246&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Color Purple (2024)
-DTSTART;TZID=Europe/London:20240204T170000
-DTEND;TZID=Europe/London:20240204T194500
-DTSTAMP:20240204T170000Z
-UID:2263
-DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
- essionId=2263&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240204T165000
+DTEND;TZID=Europe/London:20240204T193500
+DTSTAMP:20240204T165000Z
+UID:2273
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 273&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Color Purple (2024)
-DTSTART;TZID=Europe/London:20240205T170000
-DTEND;TZID=Europe/London:20240205T194500
-DTSTAMP:20240205T170000Z
-UID:2326
-DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
- essionId=2326&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240204T190000
+DTEND;TZID=Europe/London:20240204T214500
+DTSTAMP:20240204T190000Z
+UID:2260
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 260&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Color Purple (2024)
-DTSTART;TZID=Europe/London:20240206T170000
-DTEND;TZID=Europe/London:20240206T194500
-DTSTAMP:20240206T170000Z
-UID:2347
-DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
- essionId=2347&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240205T134500
+DTEND;TZID=Europe/London:20240205T163000
+DTSTAMP:20240205T134500Z
+UID:2408
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 408&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Color Purple (2024)
-DTSTART;TZID=Europe/London:20240207T163000
-DTEND;TZID=Europe/London:20240207T191500
-DTSTAMP:20240207T163000Z
-UID:2390
-DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
- essionId=2390&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240205T201500
+DTEND;TZID=Europe/London:20240205T230000
+DTSTAMP:20240205T201500Z
+UID:2325
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 325&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Color Purple (2024)
-DTSTART;TZID=Europe/London:20240208T121500
-DTEND;TZID=Europe/London:20240208T150000
-DTSTAMP:20240208T121500Z
-UID:2385
-DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
- essionId=2385&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240206T201500
+DTEND;TZID=Europe/London:20240206T230000
+DTSTAMP:20240206T201500Z
+UID:2348
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 348&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Taste of Things + Recorded Q&A
-DTSTART;TZID=Europe/London:20240214T170000
-DTEND;TZID=Europe/London:20240214T195500
-DTSTAMP:20240214T170000Z
-UID:2009
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014190/the-taste-of-things-recorded-q-a/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=034&txtSessionId=2009&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240207T132000
+DTEND;TZID=Europe/London:20240207T160500
+DTSTAMP:20240207T132000Z
+UID:2391
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 391&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Iron Claw - Kia Preview
-DTSTART;TZID=Europe/London:20240203T170000
-DTEND;TZID=Europe/London:20240203T193500
-DTSTAMP:20240203T170000Z
-UID:2012
-DESCRIPTION:Duration: 2h 12m (132 min)\nScreen 3\n\nPreview: A special pre
- view screening of this film. See it before anyone else on the big screen!\
- n\nhttps://www.picturehouses.com/movie-details/034/HO00014182/the-iron-cla
- w-kia-preview/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=034&txtSessionId=2012&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240207T194500
+DTEND;TZID=Europe/London:20240207T223000
+DTSTAMP:20240207T194500Z
+UID:2389
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 389&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Boy And The Heron (English Language Version)
-DTSTART;TZID=Europe/London:20240207T171000
-DTEND;TZID=Europe/London:20240207T193500
-DTSTAMP:20240207T171000Z
-UID:2279
-DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013832/the-boy-and-the-heron-english-languag
- e-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=034&txtSessionId=2279&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Fiction
-DTSTART;TZID=Europe/London:20240202T171000
-DTEND;TZID=Europe/London:20240202T193000
-DTSTAMP:20240202T171000Z
-UID:2305
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014006/american-fiction/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=2305&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Fiction
-DTSTART;TZID=Europe/London:20240202T195000
-DTEND;TZID=Europe/London:20240202T221000
-DTSTAMP:20240202T195000Z
-UID:2306
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014006/american-fiction/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=2306&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Fiction
-DTSTART;TZID=Europe/London:20240203T133000
-DTEND;TZID=Europe/London:20240203T155000
-DTSTAMP:20240203T133000Z
-UID:2251
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014006/american-fiction/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=2251&visLang=1
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240208T201000
+DTEND;TZID=Europe/London:20240208T225500
+DTSTAMP:20240208T201000Z
+UID:2386
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
+ 386&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -650,39 +649,258 @@ DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 5\n\nhttps://www.picturehou
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:All of Us Strangers
-DTSTART;TZID=Europe/London:20240202T171500
-DTEND;TZID=Europe/London:20240202T192000
-DTSTAMP:20240202T171500Z
-UID:2302
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013713/all-of-us-strangers/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=2302&visLang=1
+SUMMARY:The Taste of Things + Recorded Q&A
+DTSTART;TZID=Europe/London:20240214T170000
+DTEND;TZID=Europe/London:20240214T195500
+DTSTAMP:20240214T170000Z
+UID:2009
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014190/the-taste-of-things-recorded-q-a/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=034&txtSessionId=2009&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:All of Us Strangers
-DTSTART;TZID=Europe/London:20240202T194500
-DTEND;TZID=Europe/London:20240202T215000
-DTSTAMP:20240202T194500Z
-UID:2303
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013713/all-of-us-strangers/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=2303&visLang=1
+SUMMARY:The Color Purple (2024)
+DTSTART;TZID=Europe/London:20240204T170000
+DTEND;TZID=Europe/London:20240204T194500
+DTSTAMP:20240204T170000Z
+UID:2263
+DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
+ essionId=2263&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:All of Us Strangers
-DTSTART;TZID=Europe/London:20240203T123000
-DTEND;TZID=Europe/London:20240203T143500
-DTSTAMP:20240203T123000Z
-UID:2248
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013713/all-of-us-strangers/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=2248&visLang=1
+SUMMARY:The Color Purple (2024)
+DTSTART;TZID=Europe/London:20240205T170000
+DTEND;TZID=Europe/London:20240205T194500
+DTSTAMP:20240205T170000Z
+UID:2326
+DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
+ essionId=2326&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Color Purple (2024)
+DTSTART;TZID=Europe/London:20240206T170000
+DTEND;TZID=Europe/London:20240206T194500
+DTSTAMP:20240206T170000Z
+UID:2347
+DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
+ essionId=2347&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Color Purple (2024)
+DTSTART;TZID=Europe/London:20240207T163000
+DTEND;TZID=Europe/London:20240207T191500
+DTSTAMP:20240207T163000Z
+UID:2390
+DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
+ essionId=2390&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Color Purple (2024)
+DTSTART;TZID=Europe/London:20240208T164000
+DTEND;TZID=Europe/London:20240208T192500
+DTSTAMP:20240208T164000Z
+UID:2385
+DESCRIPTION:Duration: 2h 21m (141 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014168/the-color-purple-2024/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
+ essionId=2385&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Iron Claw - Kia Preview
+DTSTART;TZID=Europe/London:20240203T170000
+DTEND;TZID=Europe/London:20240203T193500
+DTSTAMP:20240203T170000Z
+UID:2012
+DESCRIPTION:Duration: 2h 12m (132 min)\nScreen 3\n\nPreview: A special pre
+ view screening of this film. See it before anyone else on the big screen!\
+ n\nhttps://www.picturehouses.com/movie-details/034/HO00014182/the-iron-cla
+ w-kia-preview/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=034&txtSessionId=2012&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Boy And The Heron (English Language Version)
+DTSTART;TZID=Europe/London:20240207T171000
+DTEND;TZID=Europe/London:20240207T193500
+DTSTAMP:20240207T171000Z
+UID:2279
+DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013832/the-boy-and-the-heron-english-languag
+ e-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=034&txtSessionId=2279&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Werner Herzog - Radical Dreamer
+DTSTART;TZID=Europe/London:20240206T172000
+DTEND;TZID=Europe/London:20240206T191000
+DTSTAMP:20240206T172000Z
+UID:2278
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nDiscover: Discover stun
+ ning cinema. Each week\, the Picturehouse film team champion one must-see 
+ film.\n\nhttps://www.picturehouses.com/movie-details/034/HO00014096/werner
+ -herzog-radical-dreamer/\nhttps://ticketing.picturehouses.com/Ticketing/vi
+ sSelectTickets.aspx?cinemacode=034&txtSessionId=2278&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240203T173000
+DTEND;TZID=Europe/London:20240203T200500
+DTSTAMP:20240203T173000Z
+UID:2250
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2250&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240203T191000
+DTEND;TZID=Europe/London:20240203T214500
+DTSTAMP:20240203T191000Z
+UID:2237
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2237&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240204T140000
+DTEND;TZID=Europe/London:20240204T163500
+DTSTAMP:20240204T140000Z
+UID:2276
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 6\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/034/HO00013914/the-hold
+ overs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=034&txtSessionId=2276&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240204T200000
+DTEND;TZID=Europe/London:20240204T223500
+DTSTAMP:20240204T200000Z
+UID:2264
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2264&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240205T134500
+DTEND;TZID=Europe/London:20240205T162000
+DTSTAMP:20240205T134500Z
+UID:2287
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2287&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240205T164500
+DTEND;TZID=Europe/London:20240205T192000
+DTSTAMP:20240205T164500Z
+UID:2282
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2282&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240206T142000
+DTEND;TZID=Europe/London:20240206T165500
+DTSTAMP:20240206T142000Z
+UID:2288
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2288&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240206T194000
+DTEND;TZID=Europe/London:20240206T221500
+DTSTAMP:20240206T194000Z
+UID:2283
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2283&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240207T140000
+DTEND;TZID=Europe/London:20240207T163500
+DTSTAMP:20240207T140000Z
+UID:2289
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2289&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240207T200000
+DTEND;TZID=Europe/London:20240207T223500
+DTSTAMP:20240207T200000Z
+UID:2284
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2284&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240208T130000
+DTEND;TZID=Europe/London:20240208T153500
+DTSTAMP:20240208T130000Z
+UID:2290
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2290&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240208T160000
+DTEND;TZID=Europe/London:20240208T183500
+DTSTAMP:20240208T160000Z
+UID:2285
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =2285&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -891,6 +1109,18 @@ LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:All of Us Strangers
+DTSTART;TZID=Europe/London:20240208T130000
+DTEND;TZID=Europe/London:20240208T150500
+DTSTAMP:20240208T130000Z
+UID:2446
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013713/all-of-us-strangers/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=2446&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:All of Us Strangers
 DTSTART;TZID=Europe/London:20240208T133000
 DTEND;TZID=Europe/London:20240208T153500
 DTSTAMP:20240208T133000Z
@@ -936,343 +1166,6 @@ DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 3\n\nSubtitled (Captioned):
  ss.\n\nhttps://www.picturehouses.com/movie-details/034/HO00013713/all-of-u
  s-strangers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
  ts.aspx?cinemacode=034&txtSessionId=2370&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werner Herzog - Radical Dreamer
-DTSTART;TZID=Europe/London:20240206T172000
-DTEND;TZID=Europe/London:20240206T191000
-DTSTAMP:20240206T172000Z
-UID:2278
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nDiscover: Discover stun
- ning cinema. Each week\, the Picturehouse film team champion one must-see 
- film.\n\nhttps://www.picturehouses.com/movie-details/034/HO00014096/werner
- -herzog-radical-dreamer/\nhttps://ticketing.picturehouses.com/Ticketing/vi
- sSelectTickets.aspx?cinemacode=034&txtSessionId=2278&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240202T173000
-DTEND;TZID=Europe/London:20240202T193500
-DTSTAMP:20240202T173000Z
-UID:2294
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2294&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240202T200000
-DTEND;TZID=Europe/London:20240202T220500
-DTSTAMP:20240202T200000Z
-UID:2295
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2295&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240203T123000
-DTEND;TZID=Europe/London:20240203T143500
-DTSTAMP:20240203T123000Z
-UID:2245
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2245&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240203T151000
-DTEND;TZID=Europe/London:20240203T171500
-DTSTAMP:20240203T151000Z
-UID:2232
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2232&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240203T202000
-DTEND;TZID=Europe/London:20240203T222500
-DTSTAMP:20240203T202000Z
-UID:2241
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2241&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240204T154000
-DTEND;TZID=Europe/London:20240204T174500
-DTSTAMP:20240204T154000Z
-UID:2270
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2270&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240204T181000
-DTEND;TZID=Europe/London:20240204T201500
-DTSTAMP:20240204T181000Z
-UID:2269
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2269&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240204T204000
-DTEND;TZID=Europe/London:20240204T224500
-DTSTAMP:20240204T204000Z
-UID:2256
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2256&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240205T121500
-DTEND;TZID=Europe/London:20240205T142000
-DTSTAMP:20240205T121500Z
-UID:2321
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2321&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240205T144500
-DTEND;TZID=Europe/London:20240205T165000
-DTSTAMP:20240205T144500Z
-UID:2320
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2320&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240205T173000
-DTEND;TZID=Europe/London:20240205T193500
-DTSTAMP:20240205T173000Z
-UID:2319
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2319&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240205T200000
-DTEND;TZID=Europe/London:20240205T220500
-DTSTAMP:20240205T200000Z
-UID:2318
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2318&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240206T121500
-DTEND;TZID=Europe/London:20240206T142000
-DTSTAMP:20240206T121500Z
-UID:2333
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2333&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240206T144500
-DTEND;TZID=Europe/London:20240206T165000
-DTSTAMP:20240206T144500Z
-UID:2334
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2334&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240206T173000
-DTEND;TZID=Europe/London:20240206T193500
-DTSTAMP:20240206T173000Z
-UID:2335
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2335&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240206T200000
-DTEND;TZID=Europe/London:20240206T220500
-DTSTAMP:20240206T200000Z
-UID:2336
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2336&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240207T121500
-DTEND;TZID=Europe/London:20240207T142000
-DTSTAMP:20240207T121500Z
-UID:2356
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2356&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240207T144500
-DTEND;TZID=Europe/London:20240207T165000
-DTSTAMP:20240207T144500Z
-UID:2355
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2355&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240207T173000
-DTEND;TZID=Europe/London:20240207T193500
-DTSTAMP:20240207T173000Z
-UID:2354
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2354&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240207T200000
-DTEND;TZID=Europe/London:20240207T220500
-DTSTAMP:20240207T200000Z
-UID:2353
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2353&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240208T121500
-DTEND;TZID=Europe/London:20240208T142000
-DTSTAMP:20240208T121500Z
-UID:2371
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2371&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240208T144500
-DTEND;TZID=Europe/London:20240208T165000
-DTSTAMP:20240208T144500Z
-UID:2372
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2372&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240208T173000
-DTEND;TZID=Europe/London:20240208T193500
-DTSTAMP:20240208T173000Z
-UID:2373
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2373&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240208T200000
-DTEND;TZID=Europe/London:20240208T220500
-DTSTAMP:20240208T200000Z
-UID:2374
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
- ssionId=2374&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anyone But You
-DTSTART;TZID=Europe/London:20240202T173000
-DTEND;TZID=Europe/London:20240202T193500
-DTSTAMP:20240202T173000Z
-UID:2280
-DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014125/anyone-but-you/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
- d=2280&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anyone But You
-DTSTART;TZID=Europe/London:20240203T203000
-DTEND;TZID=Europe/London:20240203T223500
-DTSTAMP:20240203T203000Z
-UID:2240
-DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014125/anyone-but-you/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
- d=2240&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anyone But You
-DTSTART;TZID=Europe/London:20240204T205000
-DTEND;TZID=Europe/London:20240204T225500
-DTSTAMP:20240204T205000Z
-UID:2262
-DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014125/anyone-but-you/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
- d=2262&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -1479,54 +1372,6 @@ DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/034/HO00014017/wicked-little-letters/\nhttps://ticke
  ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
  essionId=2220&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration
-DTSTART;TZID=Europe/London:20240202T175000
-DTEND;TZID=Europe/London:20240202T194500
-DTSTAMP:20240202T175000Z
-UID:2403
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/034/HO00014196/migration/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2403
- &visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration
-DTSTART;TZID=Europe/London:20240203T110000
-DTEND;TZID=Europe/London:20240203T125500
-DTSTAMP:20240203T110000Z
-UID:2243
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 2\n\nhttps://www.picturehous
- es.com/movie-details/034/HO00014196/migration/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2243
- &visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration
-DTSTART;TZID=Europe/London:20240203T120000
-DTEND;TZID=Europe/London:20240203T135500
-DTSTAMP:20240203T120000Z
-UID:2242
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/034/HO00014196/migration/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2242
- &visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Migration
-DTSTART;TZID=Europe/London:20240203T143000
-DTEND;TZID=Europe/London:20240203T162500
-DTSTAMP:20240203T143000Z
-UID:2234
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
- es.com/movie-details/034/HO00014196/migration/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2234
- &visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -1927,19 +1772,6 @@ DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 3\n\nhttps://www.picturehous
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OUT: Weekend
-DTSTART;TZID=Europe/London:20240219T180000
-DTEND;TZID=Europe/London:20240219T195500
-DTSTAMP:20240219T180000Z
-UID:2418
-DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 4\n\nOut: Elevating and cele
- brating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\nht
- tps://www.picturehouses.com/movie-details/034/HO00014214/out-weekend/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=034&txtSessionId=2418&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Monty Python and the Holy Grail: The 48th ½ Anniversary
 DTSTART;TZID=Europe/London:20240221T180000
 DTEND;TZID=Europe/London:20240221T195500
@@ -1964,63 +1796,16 @@ DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 5\n\nhttps://www.picturehous
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:42nd Street The Musical
-DTSTART;TZID=Europe/London:20240516T190000
-DTEND;TZID=Europe/London:20240516T214500
-DTSTAMP:20240516T180000Z
-UID:1368
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014059/42nd-street-the-musical/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&tx
- tSessionId=1368&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:42nd Street The Musical
-DTSTART;TZID=Europe/London:20240519T133000
-DTEND;TZID=Europe/London:20240519T161500
-DTSTAMP:20240519T123000Z
-UID:1369
-DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014059/42nd-street-the-musical/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&tx
- tSessionId=1369&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Vanya
-DTSTART;TZID=Europe/London:20240222T190000
-DTEND;TZID=Europe/London:20240222T212000
-DTSTAMP:20240222T190000Z
-UID:7
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013791/nt-live-2024-vanya/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSess
- ionId=7&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Vanya
-DTSTART;TZID=Europe/London:20240225T150000
-DTEND;TZID=Europe/London:20240225T172000
-DTSTAMP:20240225T150000Z
-UID:177
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013791/nt-live-2024-vanya/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSess
- ionId=177&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live 2024: Vanya
-DTSTART;TZID=Europe/London:20240227T120000
-DTEND;TZID=Europe/London:20240227T142000
-DTSTAMP:20240227T120000Z
-UID:178
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013791/nt-live-2024-vanya/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSess
- ionId=178&visLang=1
+SUMMARY:OUT: Weekend
+DTSTART;TZID=Europe/London:20240219T180000
+DTEND;TZID=Europe/London:20240219T195500
+DTSTAMP:20240219T180000Z
+UID:2418
+DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 4\n\nOut: Elevating and cele
+ brating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\nht
+ tps://www.picturehouses.com/movie-details/034/HO00014214/out-weekend/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=034&txtSessionId=2418&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2084,6 +1869,42 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NT Live 2024: Vanya
+DTSTART;TZID=Europe/London:20240222T190000
+DTEND;TZID=Europe/London:20240222T212000
+DTSTAMP:20240222T190000Z
+UID:7
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013791/nt-live-2024-vanya/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSess
+ ionId=7&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Vanya
+DTSTART;TZID=Europe/London:20240225T150000
+DTEND;TZID=Europe/London:20240225T172000
+DTSTAMP:20240225T150000Z
+UID:177
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013791/nt-live-2024-vanya/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSess
+ ionId=177&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NT Live 2024: Vanya
+DTSTART;TZID=Europe/London:20240227T120000
+DTEND;TZID=Europe/London:20240227T142000
+DTSTAMP:20240227T120000Z
+UID:178
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00013791/nt-live-2024-vanya/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSess
+ ionId=178&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Titanic - The Musical
 DTSTART;TZID=Europe/London:20240307T190000
 DTEND;TZID=Europe/London:20240307T220000
@@ -2108,6 +1929,30 @@ DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 5\n\nhttps://www.picturehou
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:42nd Street The Musical
+DTSTART;TZID=Europe/London:20240516T190000
+DTEND;TZID=Europe/London:20240516T214500
+DTSTAMP:20240516T180000Z
+UID:1368
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014059/42nd-street-the-musical/\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&tx
+ tSessionId=1368&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:42nd Street The Musical
+DTSTART;TZID=Europe/London:20240519T133000
+DTEND;TZID=Europe/London:20240519T161500
+DTSTAMP:20240519T123000Z
+UID:1369
+DESCRIPTION:Duration: 2h 24m (144 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014059/42nd-street-the-musical/\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&tx
+ tSessionId=1369&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hamlet + Recorded Q&A
 DTSTART;TZID=Europe/London:20240227T190000
 DTEND;TZID=Europe/London:20240227T213500
@@ -2117,42 +1962,6 @@ DESCRIPTION:Duration: 2h 12m (132 min)\nScreen 4\n\nhttps://www.picturehou
  ses.com/movie-details/034/HO00014160/hamlet-recorded-q-a/\nhttps://ticketi
  ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
  sionId=1624&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune
-DTSTART;TZID=Europe/London:20240209T191500
-DTEND;TZID=Europe/London:20240209T221000
-DTSTAMP:20240209T191500Z
-UID:2421
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00011079/dune/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2421&vis
- Lang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune
-DTSTART;TZID=Europe/London:20240210T191500
-DTEND;TZID=Europe/London:20240210T221000
-DTSTAMP:20240210T191500Z
-UID:2432
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00011079/dune/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2432&vis
- Lang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune
-DTSTART;TZID=Europe/London:20240211T191500
-DTEND;TZID=Europe/London:20240211T221000
-DTSTAMP:20240211T191500Z
-UID:2439
-DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00011079/dune/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2439&vis
- Lang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2170,6 +1979,42 @@ DESCRIPTION:Duration: 3h 02m (182 min)\nScreen 4\n\nSubtitled (Captioned):
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dune (Re-Release)
+DTSTART;TZID=Europe/London:20240209T191500
+DTEND;TZID=Europe/London:20240209T221000
+DTSTAMP:20240209T191500Z
+UID:2421
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00011079/dune-re-release/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
+ Id=2421&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune (Re-Release)
+DTSTART;TZID=Europe/London:20240210T191500
+DTEND;TZID=Europe/London:20240210T221000
+DTSTAMP:20240210T191500Z
+UID:2432
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00011079/dune-re-release/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
+ Id=2432&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune (Re-Release)
+DTSTART;TZID=Europe/London:20240211T191500
+DTEND;TZID=Europe/London:20240211T221000
+DTSTAMP:20240211T191500Z
+UID:2439
+DESCRIPTION:Duration: 2h 35m (155 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00011079/dune-re-release/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
+ Id=2439&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Anatomy of a Fall
 DTSTART;TZID=Europe/London:20240212T193000
 DTEND;TZID=Europe/London:20240212T222500
@@ -2179,138 +2024,6 @@ DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 4\n\nhttps://www.picturehou
  ses.com/movie-details/034/HO00013367/anatomy-of-a-fall/\nhttps://ticketing
  .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessi
  onId=2419&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240202T193000
-DTEND;TZID=Europe/London:20240202T221500
-DTSTAMP:20240202T193000Z
-UID:2309
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 309&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240203T160000
-DTEND;TZID=Europe/London:20240203T184500
-DTSTAMP:20240203T160000Z
-UID:2239
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 239&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240203T192000
-DTEND;TZID=Europe/London:20240203T220500
-DTSTAMP:20240203T192000Z
-UID:2246
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 246&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240204T165000
-DTEND;TZID=Europe/London:20240204T193500
-DTSTAMP:20240204T165000Z
-UID:2273
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 273&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240204T190000
-DTEND;TZID=Europe/London:20240204T214500
-DTSTAMP:20240204T190000Z
-UID:2260
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 260&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240205T134500
-DTEND;TZID=Europe/London:20240205T163000
-DTSTAMP:20240205T134500Z
-UID:2408
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 408&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240205T201500
-DTEND;TZID=Europe/London:20240205T230000
-DTSTAMP:20240205T201500Z
-UID:2325
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 325&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240206T201500
-DTEND;TZID=Europe/London:20240206T230000
-DTSTAMP:20240206T201500Z
-UID:2348
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 348&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240207T132000
-DTEND;TZID=Europe/London:20240207T160500
-DTSTAMP:20240207T132000Z
-UID:2391
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 391&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240207T194500
-DTEND;TZID=Europe/London:20240207T223000
-DTSTAMP:20240207T194500Z
-UID:2389
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 389&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240208T201000
-DTEND;TZID=Europe/London:20240208T225500
-DTSTAMP:20240208T201000Z
-UID:2386
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=2
- 386&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2352,244 +2065,267 @@ DESCRIPTION:Duration: 2h 34m (154 min)\nScreen 5\n\nhttps://www.picturehou
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240202T200000
-DTEND;TZID=Europe/London:20240202T223500
-DTSTAMP:20240202T200000Z
-UID:2281
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2281&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240203T202000
+DTEND;TZID=Europe/London:20240203T222500
+DTSTAMP:20240203T202000Z
+UID:2241
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2241&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240203T173000
-DTEND;TZID=Europe/London:20240203T200500
-DTSTAMP:20240203T173000Z
-UID:2250
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2250&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240204T154000
+DTEND;TZID=Europe/London:20240204T174500
+DTSTAMP:20240204T154000Z
+UID:2270
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2270&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240203T191000
-DTEND;TZID=Europe/London:20240203T214500
-DTSTAMP:20240203T191000Z
-UID:2237
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2237&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240204T181000
+DTEND;TZID=Europe/London:20240204T201500
+DTSTAMP:20240204T181000Z
+UID:2269
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2269&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240204T140000
-DTEND;TZID=Europe/London:20240204T163500
-DTSTAMP:20240204T140000Z
-UID:2276
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 6\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/034/HO00013914/the-hold
- overs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=034&txtSessionId=2276&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240204T204000
+DTEND;TZID=Europe/London:20240204T224500
+DTSTAMP:20240204T204000Z
+UID:2256
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2256&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240204T200000
-DTEND;TZID=Europe/London:20240204T223500
-DTSTAMP:20240204T200000Z
-UID:2264
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2264&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240205T121500
+DTEND;TZID=Europe/London:20240205T142000
+DTSTAMP:20240205T121500Z
+UID:2321
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2321&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240205T134500
-DTEND;TZID=Europe/London:20240205T162000
-DTSTAMP:20240205T134500Z
-UID:2287
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2287&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240205T144500
+DTEND;TZID=Europe/London:20240205T165000
+DTSTAMP:20240205T144500Z
+UID:2320
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2320&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240205T164500
-DTEND;TZID=Europe/London:20240205T192000
-DTSTAMP:20240205T164500Z
-UID:2282
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2282&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240205T173000
+DTEND;TZID=Europe/London:20240205T193500
+DTSTAMP:20240205T173000Z
+UID:2319
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2319&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240206T142000
-DTEND;TZID=Europe/London:20240206T165500
-DTSTAMP:20240206T142000Z
-UID:2288
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2288&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240205T200000
+DTEND;TZID=Europe/London:20240205T220500
+DTSTAMP:20240205T200000Z
+UID:2318
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2318&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240206T194000
-DTEND;TZID=Europe/London:20240206T221500
-DTSTAMP:20240206T194000Z
-UID:2283
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2283&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240206T121500
+DTEND;TZID=Europe/London:20240206T142000
+DTSTAMP:20240206T121500Z
+UID:2333
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2333&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240207T140000
-DTEND;TZID=Europe/London:20240207T163500
-DTSTAMP:20240207T140000Z
-UID:2289
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2289&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240206T144500
+DTEND;TZID=Europe/London:20240206T165000
+DTSTAMP:20240206T144500Z
+UID:2334
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2334&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240206T173000
+DTEND;TZID=Europe/London:20240206T193500
+DTSTAMP:20240206T173000Z
+UID:2335
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2335&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240206T200000
+DTEND;TZID=Europe/London:20240206T220500
+DTSTAMP:20240206T200000Z
+UID:2336
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2336&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240207T121500
+DTEND;TZID=Europe/London:20240207T142000
+DTSTAMP:20240207T121500Z
+UID:2356
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2356&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240207T144500
+DTEND;TZID=Europe/London:20240207T165000
+DTSTAMP:20240207T144500Z
+UID:2355
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2355&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240207T173000
+DTEND;TZID=Europe/London:20240207T193500
+DTSTAMP:20240207T173000Z
+UID:2354
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2354&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Zone of Interest
 DTSTART;TZID=Europe/London:20240207T200000
-DTEND;TZID=Europe/London:20240207T223500
+DTEND;TZID=Europe/London:20240207T220500
 DTSTAMP:20240207T200000Z
-UID:2284
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2284&visLang=1
+UID:2353
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2353&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240208T130000
-DTEND;TZID=Europe/London:20240208T153500
-DTSTAMP:20240208T130000Z
-UID:2290
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2290&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240208T121500
+DTEND;TZID=Europe/London:20240208T142000
+DTSTAMP:20240208T121500Z
+UID:2371
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2371&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240208T160000
-DTEND;TZID=Europe/London:20240208T183500
-DTSTAMP:20240208T160000Z
-UID:2285
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =2285&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240208T144500
+DTEND;TZID=Europe/London:20240208T165000
+DTSTAMP:20240208T144500Z
+UID:2372
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2372&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240202T201000
-DTEND;TZID=Europe/London:20240202T222500
-DTSTAMP:20240202T201000Z
-UID:2299
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=2299&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240208T173000
+DTEND;TZID=Europe/London:20240208T193500
+DTSTAMP:20240208T173000Z
+UID:2373
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2373&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240203T150000
-DTEND;TZID=Europe/London:20240203T171500
-DTSTAMP:20240203T150000Z
-UID:2236
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=2236&visLang=1
+SUMMARY:The Zone of Interest
+DTSTART;TZID=Europe/London:20240208T200000
+DTEND;TZID=Europe/London:20240208T220500
+DTSTAMP:20240208T200000Z
+UID:2374
+DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014011/the-zone-of-interest/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSe
+ ssionId=2374&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240204T141000
-DTEND;TZID=Europe/London:20240204T162500
-DTSTAMP:20240204T141000Z
-UID:2261
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=2261&visLang=1
+SUMMARY:Anyone But You: The Valentine Encore
+DTSTART;TZID=Europe/London:20240213T202000
+DTEND;TZID=Europe/London:20240213T223000
+DTSTAMP:20240213T202000Z
+UID:2444
+DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014264/anyone-but-you-the-valentine-encore/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=034&txtSessionId=2444&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240205T201000
-DTEND;TZID=Europe/London:20240205T222500
-DTSTAMP:20240205T201000Z
-UID:2314
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=2314&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240206T201000
-DTEND;TZID=Europe/London:20240206T222500
-DTSTAMP:20240206T201000Z
-UID:2340
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=2340&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240207T201000
-DTEND;TZID=Europe/London:20240207T222500
-DTSTAMP:20240207T201000Z
-UID:2361
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=2361&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mean Girls (2024)
-DTSTART;TZID=Europe/London:20240208T201000
-DTEND;TZID=Europe/London:20240208T222500
-DTSTAMP:20240208T201000Z
-UID:2378
-DESCRIPTION:Duration: 1h 52m (112 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014143/mean-girls-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=2378&visLang=1
+SUMMARY:Anyone But You: The Valentine Encore
+DTSTART;TZID=Europe/London:20240214T180000
+DTEND;TZID=Europe/London:20240214T201000
+DTSTAMP:20240214T180000Z
+UID:2445
+DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014264/anyone-but-you-the-valentine-encore/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=034&txtSessionId=2445&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2602,6 +2338,30 @@ DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 4\n\nhttps://www.picturehou
  ses.com/movie-details/034/HO00014185/eternal-sunshine-of-the-spotless-mind
  /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
  emacode=034&txtSessionId=2010&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anyone But You
+DTSTART;TZID=Europe/London:20240203T203000
+DTEND;TZID=Europe/London:20240203T223500
+DTSTAMP:20240203T203000Z
+UID:2240
+DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014125/anyone-but-you/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
+ d=2240&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anyone But You
+DTSTART;TZID=Europe/London:20240204T205000
+DTEND;TZID=Europe/London:20240204T225500
+DTSTAMP:20240204T205000Z
+UID:2262
+DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00014125/anyone-but-you/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
+ d=2262&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 END:VCALENDAR
