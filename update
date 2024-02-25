@@ -5,6 +5,7 @@
 import click
 import icalendar
 import logging
+import re
 import requests
 import slugify
 import yaml
@@ -162,6 +163,10 @@ class PictureHouseICS:
                 if x["RunTime"] in ("TBC", "???"):
                     # Some films don't have one yet, so assume 2 hours
                     x["RunTime"] = "120"
+
+                m = re.match(r'^(?P<a>\d+)\s+mins?\s+\+\s+Q\&A\s+(?P<b>\d+)$', x["RunTime"])
+                if m is not None:
+                    x["RunTime"] = str(sum(int(m) for m in m.groups()))
 
                 runtime = int(x["RunTime"])
                 if "Ad and Trailer Free" not in all_attributes:
