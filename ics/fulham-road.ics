@@ -1,21 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240312T083953Z
+LAST-MODIFIED:20240313T090146Z
 NAME:Picture House London - Fulham Road
 X-WR-CALNAME:Picture House London - Fulham Road
-BEGIN:VEVENT
-SUMMARY:Soul
-DTSTART;TZID=Europe/London:20240330T113000
-DTEND;TZID=Europe/London:20240330T134000
-DTSTAMP:20240330T113000Z
-UID:30002
-DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014234/soul/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30002&vi
- sLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Family Special: Pip and Posy and Friends
 DTSTART;TZID=Europe/London:20240317T113000
@@ -32,6 +20,18 @@ DESCRIPTION:Duration: 1h 00m (60 min)\nScreen 5\n\nAd and Trailer Free: No
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Soul
+DTSTART;TZID=Europe/London:20240330T113000
+DTEND;TZID=Europe/London:20240330T134000
+DTSTAMP:20240330T113000Z
+UID:30002
+DESCRIPTION:Duration: 1h 48m (108 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00014234/soul/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30002&vi
+ sLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wish
 DTSTART;TZID=Europe/London:20240323T113000
 DTEND;TZID=Europe/London:20240323T132500
@@ -41,44 +41,6 @@ DESCRIPTION:Duration: 1h 35m (95 min)\nScreen 4\n\nhttps://www.picturehous
  es.com/movie-details/030/HO00013852/wish/\nhttps://ticketing.picturehouses
  .com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30001&vis
  Lang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240315T120000
-DTEND;TZID=Europe/London:20240315T143500
-DTSTAMP:20240315T120000Z
-UID:30258
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013914/the-holdovers/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30258&vi
- sLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240316T140000
-DTEND;TZID=Europe/London:20240316T163500
-DTSTAMP:20240316T140000Z
-UID:30349
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013914/the-holdovers/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30349&vi
- sLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Holdovers
-DTSTART;TZID=Europe/London:20240319T193000
-DTEND;TZID=Europe/London:20240319T220500
-DTSTAMP:20240319T193000Z
-UID:30315
-DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013914/the-holdovers/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId
- =30315&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -117,6 +79,44 @@ DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 6\n\nhttps://www.picturehou
  ses.com/movie-details/030/HO00013972/the-boy-and-the-heron-original-langua
  ge-version/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
  s.aspx?cinemacode=030&txtSessionId=30323&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240315T120000
+DTEND;TZID=Europe/London:20240315T143500
+DTSTAMP:20240315T120000Z
+UID:30258
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 4\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013914/the-holdovers/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30258&vi
+ sLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240316T140000
+DTEND;TZID=Europe/London:20240316T163500
+DTSTAMP:20240316T140000Z
+UID:30349
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013914/the-holdovers/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30349&vi
+ sLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Holdovers
+DTSTART;TZID=Europe/London:20240319T193000
+DTEND;TZID=Europe/London:20240319T220500
+DTSTAMP:20240319T193000Z
+UID:30315
+DESCRIPTION:Duration: 2h 13m (133 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013914/the-holdovers/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId
+ =30315&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -500,15 +500,43 @@ DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 6\n\nhttps://www.picturehou
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La Rondine (2024)
-DTSTART;TZID=Europe/London:20240423T140000
-DTEND;TZID=Europe/London:20240423T171000
-DTSTAMP:20240423T130000Z
-UID:23619
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013178/met-opera-encore-la-rondine-2024/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=030&txtSessionId=23619&visLang=1
+SUMMARY:Roméo et Juliette (2024)
+DTSTART;TZID=Europe/London:20240327T140000
+DTEND;TZID=Europe/London:20240327T175500
+DTSTAMP:20240327T140000Z
+UID:23617
+DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013177/met-opera-encore-romeo-et-juliette-20
+ 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=030&txtSessionId=23617&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Andrea Chenier (2024)
+DTSTART;TZID=Europe/London:20240618T140000
+DTEND;TZID=Europe/London:20240618T171500
+DTSTAMP:20240618T130000Z
+UID:23390
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/030/HO00013120/roh-encore-andrea-chenier-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=2
+ 3390&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Message in a Bottle (Encore)
+DTSTART;TZID=Europe/London:20240604T140000
+DTEND;TZID=Europe/London:20240604T152500
+DTSTAMP:20240604T130000Z
+UID:24223
+DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 5\n\nAd and Trailer Free: No
+  advertisements or trailers will play ahead of this screening. You are rec
+ ommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detail
+ s/030/HO00013119/message-in-a-bottle-encore/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=24223&
+ visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -538,46 +566,6 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Carmen (2024)
-DTSTART;TZID=Europe/London:20240507T140000
-DTEND;TZID=Europe/London:20240507T174500
-DTSTAMP:20240507T130000Z
-UID:23384
-DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 5\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/030/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23384&vis
- Lang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Macmillan Triple (2024)
-DTSTART;TZID=Europe/London:20240416T140000
-DTEND;TZID=Europe/London:20240416T171500
-DTSTAMP:20240416T130000Z
-UID:23380
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/030/HO00013115/roh-encore-macmillan-triple-2024/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId
- =23380&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Roméo et Juliette (2024)
-DTSTART;TZID=Europe/London:20240327T140000
-DTEND;TZID=Europe/London:20240327T175500
-DTSTAMP:20240327T140000Z
-UID:23617
-DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013177/met-opera-encore-romeo-et-juliette-20
- 24/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=030&txtSessionId=23617&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Encore: Madama Butterfly (2024)
 DTSTART;TZID=Europe/London:20240402T140000
 DTEND;TZID=Europe/London:20240402T171500
@@ -592,17 +580,31 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Message in a Bottle (Encore)
-DTSTART;TZID=Europe/London:20240604T140000
-DTEND;TZID=Europe/London:20240604T152500
-DTSTAMP:20240604T130000Z
-UID:24223
-DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 5\n\nAd and Trailer Free: No
-  advertisements or trailers will play ahead of this screening. You are rec
- ommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detail
- s/030/HO00013119/message-in-a-bottle-encore/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=24223&
+SUMMARY:ROH Encore: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240430T140000
+DTEND;TZID=Europe/London:20240430T172000
+DTSTAMP:20240430T130000Z
+UID:23382
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/030/HO00013116/roh-encore-swan-lake-2024/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23382&
  visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Macmillan Triple (2024)
+DTSTART;TZID=Europe/London:20240416T140000
+DTEND;TZID=Europe/London:20240416T171500
+DTSTAMP:20240416T130000Z
+UID:23380
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/030/HO00013115/roh-encore-macmillan-triple-2024/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId
+ =23380&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -630,17 +632,29 @@ DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 5\n\nhttps://www.picturehou
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Encore: Andrea Chenier (2024)
-DTSTART;TZID=Europe/London:20240618T140000
-DTEND;TZID=Europe/London:20240618T171500
-DTSTAMP:20240618T130000Z
-UID:23390
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
+SUMMARY:La Rondine (2024)
+DTSTART;TZID=Europe/London:20240423T140000
+DTEND;TZID=Europe/London:20240423T171000
+DTSTAMP:20240423T130000Z
+UID:23619
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013178/met-opera-encore-la-rondine-2024/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=030&txtSessionId=23619&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Encore: Carmen (2024)
+DTSTART;TZID=Europe/London:20240507T140000
+DTEND;TZID=Europe/London:20240507T174500
+DTSTAMP:20240507T130000Z
+UID:23384
+DESCRIPTION:Duration: 3h 45m (225 min)\nScreen 5\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/030/HO00013120/roh-encore-andrea-chenier-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=2
- 3390&visLang=1
+ ls/030/HO00013117/roh-encore-carmen-2024/\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23384&vis
+ Lang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -656,880 +670,6 @@ DESCRIPTION:Duration: 4h 22m (262 min)\nScreen 5\n\nAd and Trailer Free: N
  00013176/met-opera-encore-la-forza-del-destino-2024/\nhttps://ticketing.pi
  cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionI
  d=23615&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROH Encore: Swan Lake (2024)
-DTSTART;TZID=Europe/London:20240430T140000
-DTEND;TZID=Europe/London:20240430T172000
-DTSTAMP:20240430T130000Z
-UID:23382
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/030/HO00013116/roh-encore-swan-lake-2024/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23382&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=Europe/London:20240315T151500
-DTEND;TZID=Europe/London:20240315T181000
-DTSTAMP:20240315T151500Z
-UID:30257
-DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 4\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013367/anatomy-of-a-fall/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3025
- 7&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=Europe/London:20240316T150000
-DTEND;TZID=Europe/London:20240316T175500
-DTSTAMP:20240316T150000Z
-UID:30266
-DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 4\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013367/anatomy-of-a-fall/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3026
- 6&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=Europe/London:20240317T133000
-DTEND;TZID=Europe/London:20240317T162500
-DTSTAMP:20240317T133000Z
-UID:30291
-DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013367/anatomy-of-a-fall/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3029
- 1&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=Europe/London:20240318T193000
-DTEND;TZID=Europe/London:20240318T222500
-DTSTAMP:20240318T193000Z
-UID:30298
-DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013367/anatomy-of-a-fall/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessi
- onId=30298&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=Europe/London:20240321T143000
-DTEND;TZID=Europe/London:20240321T172500
-DTSTAMP:20240321T143000Z
-UID:30347
-DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 4\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013367/anatomy-of-a-fall/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3034
- 7&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20240315T151500
-DTEND;TZID=Europe/London:20240315T183500
-DTSTAMP:20240315T151500Z
-UID:30254
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0254&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20240316T151500
-DTEND;TZID=Europe/London:20240316T183500
-DTSTAMP:20240316T151500Z
-UID:30264
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0264&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20240317T141500
-DTEND;TZID=Europe/London:20240317T173500
-DTSTAMP:20240317T141500Z
-UID:30277
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0277&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20240320T190000
-DTEND;TZID=Europe/London:20240320T222000
-DTSTAMP:20240320T190000Z
-UID:30330
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0330&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oppenheimer
-DTSTART;TZID=Europe/London:20240321T190000
-DTEND;TZID=Europe/London:20240321T222000
-DTSTAMP:20240321T190000Z
-UID:30334
-DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013205/oppenheimer/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0334&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COPA 71
-DTSTART;TZID=Europe/London:20240312T153000
-DTEND;TZID=Europe/London:20240312T172000
-DTSTAMP:20240312T153000Z
-UID:30170
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 6\n\nhttps://www.picturehous
- es.com/movie-details/030/HO00014080/copa-71/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30170&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COPA 71
-DTSTART;TZID=Europe/London:20240313T204500
-DTEND;TZID=Europe/London:20240313T223500
-DTSTAMP:20240313T204500Z
-UID:30182
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nStep-Free: This screen 
- has street to screen step-free access.\n\nhttps://www.picturehouses.com/mo
- vie-details/030/HO00014080/copa-71/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30182&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COPA 71
-DTSTART;TZID=Europe/London:20240314T150000
-DTEND;TZID=Europe/London:20240314T165000
-DTSTAMP:20240314T150000Z
-UID:30200
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 6\n\nhttps://www.picturehous
- es.com/movie-details/030/HO00014080/copa-71/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30200&
- visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:COPA 71
-DTSTART;TZID=Europe/London:20240314T203000
-DTEND;TZID=Europe/London:20240314T222000
-DTSTAMP:20240314T203000Z
-UID:30190
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 5\n\nStep-Free: This screen 
- has street to screen step-free access.\n\nhttps://www.picturehouses.com/mo
- vie-details/030/HO00014080/copa-71/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30190&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240312T153000
-DTEND;TZID=Europe/London:20240312T173000
-DTSTAMP:20240312T153000Z
-UID:30173
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nStep-Free: This screen has street to screen step-free access.\n\nht
- tps://www.picturehouses.com/movie-details/030/HO00014017/wicked-little-let
- ters/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=030&txtSessionId=30173&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240312T180000
-DTEND;TZID=Europe/London:20240312T200000
-DTSTAMP:20240312T180000Z
-UID:30172
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014017/wicked-little-letters/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=30172&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240312T203000
-DTEND;TZID=Europe/London:20240312T223000
-DTSTAMP:20240312T203000Z
-UID:30180
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014017/wicked-little-letters/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=30180&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240313T153000
-DTEND;TZID=Europe/London:20240313T173000
-DTSTAMP:20240313T153000Z
-UID:30188
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014017/wicked-little-letters/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=30188&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240313T181500
-DTEND;TZID=Europe/London:20240313T201500
-DTSTAMP:20240313T181500Z
-UID:30189
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 4\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30189&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240314T153000
-DTEND;TZID=Europe/London:20240314T173000
-DTSTAMP:20240314T153000Z
-UID:30197
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30197&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240314T180000
-DTEND;TZID=Europe/London:20240314T200000
-DTSTAMP:20240314T180000Z
-UID:30198
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 6\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/030/HO00014017/wicked-l
- ittle-letters/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=030&txtSessionId=30198&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240315T120000
-DTEND;TZID=Europe/London:20240315T140000
-DTSTAMP:20240315T120000Z
-UID:30249
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30249&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240315T201500
-DTEND;TZID=Europe/London:20240315T221500
-DTSTAMP:20240315T201500Z
-UID:30250
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30250&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240316T113000
-DTEND;TZID=Europe/London:20240316T133000
-DTSTAMP:20240316T113000Z
-UID:30271
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30271&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240316T203000
-DTEND;TZID=Europe/London:20240316T223000
-DTSTAMP:20240316T203000Z
-UID:30273
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30273&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240317T120000
-DTEND;TZID=Europe/London:20240317T140000
-DTSTAMP:20240317T120000Z
-UID:30286
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 4\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30286&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240317T170000
-DTEND;TZID=Europe/London:20240317T190000
-DTSTAMP:20240317T170000Z
-UID:30284
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nStep-Free: This screen has street to screen step-free access.\n\nht
- tps://www.picturehouses.com/movie-details/030/HO00014017/wicked-little-let
- ters/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=030&txtSessionId=30284&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240318T153000
-DTEND;TZID=Europe/London:20240318T173000
-DTSTAMP:20240318T153000Z
-UID:30361
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014017/wicked-little-letters/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=30361&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240318T180000
-DTEND;TZID=Europe/London:20240318T200000
-DTSTAMP:20240318T180000Z
-UID:30302
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014017/wicked-little-letters/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
- essionId=30302&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240319T151500
-DTEND;TZID=Europe/London:20240319T171500
-DTSTAMP:20240319T151500Z
-UID:30360
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30360&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240319T174500
-DTEND;TZID=Europe/London:20240319T194500
-DTSTAMP:20240319T174500Z
-UID:30309
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30309&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240320T151500
-DTEND;TZID=Europe/London:20240320T171500
-DTSTAMP:20240320T151500Z
-UID:30359
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30359&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240320T174500
-DTEND;TZID=Europe/London:20240320T194500
-DTSTAMP:20240320T174500Z
-UID:30332
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30332&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240321T143000
-DTEND;TZID=Europe/London:20240321T163000
-DTSTAMP:20240321T143000Z
-UID:30346
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nStep-Free: This screen has street to screen step-free access.\n\nht
- tps://www.picturehouses.com/movie-details/030/HO00014017/wicked-little-let
- ters/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=030&txtSessionId=30346&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240321T170000
-DTEND;TZID=Europe/London:20240321T190000
-DTSTAMP:20240321T170000Z
-UID:30333
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
- 30333&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240312T153000
-DTEND;TZID=Europe/London:20240312T180500
-DTSTAMP:20240312T153000Z
-UID:30177
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30177&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240313T151500
-DTEND;TZID=Europe/London:20240313T175000
-DTSTAMP:20240313T151500Z
-UID:30184
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30184&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240313T183000
-DTEND;TZID=Europe/London:20240313T210500
-DTSTAMP:20240313T183000Z
-UID:30185
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30185&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240314T153000
-DTEND;TZID=Europe/London:20240314T180500
-DTSTAMP:20240314T153000Z
-UID:30193
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30193&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240314T184500
-DTEND;TZID=Europe/London:20240314T212000
-DTSTAMP:20240314T184500Z
-UID:30194
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30194&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240315T163000
-DTEND;TZID=Europe/London:20240315T190500
-DTSTAMP:20240315T163000Z
-UID:30243
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30243&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240315T194500
-DTEND;TZID=Europe/London:20240315T222000
-DTSTAMP:20240315T194500Z
-UID:30245
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30245&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240316T163000
-DTEND;TZID=Europe/London:20240316T190500
-DTSTAMP:20240316T163000Z
-UID:30262
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30262&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240316T194500
-DTEND;TZID=Europe/London:20240316T222000
-DTSTAMP:20240316T194500Z
-UID:30260
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30260&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240317T153000
-DTEND;TZID=Europe/London:20240317T180500
-DTSTAMP:20240317T153000Z
-UID:30279
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30279&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240317T184500
-DTEND;TZID=Europe/London:20240317T212000
-DTSTAMP:20240317T184500Z
-UID:30281
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30281&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240318T163000
-DTEND;TZID=Europe/London:20240318T190500
-DTSTAMP:20240318T163000Z
-UID:30297
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30297&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240319T163000
-DTEND;TZID=Europe/London:20240319T190500
-DTSTAMP:20240319T163000Z
-UID:30312
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30312&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240319T203000
-DTEND;TZID=Europe/London:20240319T230500
-DTSTAMP:20240319T203000Z
-UID:30317
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 4\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30
- 317&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240320T163000
-DTEND;TZID=Europe/London:20240320T190500
-DTSTAMP:20240320T163000Z
-UID:30329
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30329&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20240321T193000
-DTEND;TZID=Europe/London:20240321T220500
-DTSTAMP:20240321T193000Z
-UID:30340
-DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=30340&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240312T160000
-DTEND;TZID=Europe/London:20240312T184500
-DTSTAMP:20240312T160000Z
-UID:30215
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0215&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240312T193000
-DTEND;TZID=Europe/London:20240312T221500
-DTSTAMP:20240312T193000Z
-UID:30179
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0179&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240313T160000
-DTEND;TZID=Europe/London:20240313T184500
-DTSTAMP:20240313T160000Z
-UID:30183
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0183&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240314T160000
-DTEND;TZID=Europe/London:20240314T184500
-DTSTAMP:20240314T160000Z
-UID:30217
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0217&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240314T193000
-DTEND;TZID=Europe/London:20240314T221500
-DTSTAMP:20240314T193000Z
-UID:30191
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0191&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240315T131500
-DTEND;TZID=Europe/London:20240315T160000
-DTSTAMP:20240315T131500Z
-UID:30351
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/030/HO00013711/poor-thi
- ngs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=030&txtSessionId=30351&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240315T170000
-DTEND;TZID=Europe/London:20240315T194500
-DTSTAMP:20240315T170000Z
-UID:30251
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30251&visL
- ang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240316T131500
-DTEND;TZID=Europe/London:20240316T160000
-DTSTAMP:20240316T131500Z
-UID:30352
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0352&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240316T170000
-DTEND;TZID=Europe/London:20240316T194500
-DTSTAMP:20240316T170000Z
-UID:30272
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30272&visL
- ang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240317T121500
-DTEND;TZID=Europe/London:20240317T150000
-DTSTAMP:20240317T121500Z
-UID:30353
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0353&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240317T194500
-DTEND;TZID=Europe/London:20240317T223000
-DTSTAMP:20240317T194500Z
-UID:30285
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30285&visL
- ang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240318T193000
-DTEND;TZID=Europe/London:20240318T221500
-DTSTAMP:20240318T193000Z
-UID:30301
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30301&visL
- ang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240319T201500
-DTEND;TZID=Europe/London:20240319T230000
-DTSTAMP:20240319T201500Z
-UID:30310
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30310&visL
- ang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240320T201500
-DTEND;TZID=Europe/London:20240320T230000
-DTSTAMP:20240320T201500Z
-UID:30331
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30331&visL
- ang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poor Things
-DTSTART;TZID=Europe/London:20240321T150000
-DTEND;TZID=Europe/London:20240321T174500
-DTSTAMP:20240321T150000Z
-UID:30364
-DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0364&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240312T161500
-DTEND;TZID=Europe/London:20240312T192500
-DTSTAMP:20240312T161500Z
-UID:30106
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014231/dune-part-two/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId
- =30106&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240312T190000
-DTEND;TZID=Europe/London:20240312T221000
-DTSTAMP:20240312T190000Z
-UID:30174
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 4\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014231/dune-part-two/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30174&vi
- sLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune: Part Two
-DTSTART;TZID=Europe/London:20240312T200000
-DTEND;TZID=Europe/London:20240312T231000
-DTSTAMP:20240312T200000Z
-UID:30105
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014231/dune-part-two/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId
- =30105&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -1861,16 +1001,541 @@ DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American Fiction
-DTSTART;TZID=Europe/London:20240312T161500
-DTEND;TZID=Europe/London:20240312T183500
-DTSTAMP:20240312T161500Z
-UID:30171
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 4\n\nStep-Free: This screen
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240313T151500
+DTEND;TZID=Europe/London:20240313T175000
+DTSTAMP:20240313T151500Z
+UID:30184
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30184&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240313T183000
+DTEND;TZID=Europe/London:20240313T210500
+DTSTAMP:20240313T183000Z
+UID:30185
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30185&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240314T153000
+DTEND;TZID=Europe/London:20240314T180500
+DTSTAMP:20240314T153000Z
+UID:30193
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30193&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240314T184500
+DTEND;TZID=Europe/London:20240314T212000
+DTSTAMP:20240314T184500Z
+UID:30194
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30194&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240315T163000
+DTEND;TZID=Europe/London:20240315T190500
+DTSTAMP:20240315T163000Z
+UID:30243
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30243&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240315T194500
+DTEND;TZID=Europe/London:20240315T222000
+DTSTAMP:20240315T194500Z
+UID:30245
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30245&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240316T163000
+DTEND;TZID=Europe/London:20240316T190500
+DTSTAMP:20240316T163000Z
+UID:30262
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30262&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240316T194500
+DTEND;TZID=Europe/London:20240316T222000
+DTSTAMP:20240316T194500Z
+UID:30260
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30260&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240317T153000
+DTEND;TZID=Europe/London:20240317T180500
+DTSTAMP:20240317T153000Z
+UID:30279
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30279&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240317T184500
+DTEND;TZID=Europe/London:20240317T212000
+DTSTAMP:20240317T184500Z
+UID:30281
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30281&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240318T163000
+DTEND;TZID=Europe/London:20240318T190500
+DTSTAMP:20240318T163000Z
+UID:30297
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30297&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240319T163000
+DTEND;TZID=Europe/London:20240319T190500
+DTSTAMP:20240319T163000Z
+UID:30312
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30312&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240319T203000
+DTEND;TZID=Europe/London:20240319T230500
+DTSTAMP:20240319T203000Z
+UID:30317
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 4\n\nStep-Free: This screen
   has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014006/american-fiction/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30171
- &visLang=1
+ ovie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30
+ 317&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240320T163000
+DTEND;TZID=Europe/London:20240320T190500
+DTSTAMP:20240320T163000Z
+UID:30329
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30329&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20240321T193000
+DTEND;TZID=Europe/London:20240321T220500
+DTSTAMP:20240321T193000Z
+UID:30340
+DESCRIPTION:Duration: 2h 15m (135 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013368/the-taste-of-things/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=30340&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20240315T151500
+DTEND;TZID=Europe/London:20240315T183500
+DTSTAMP:20240315T151500Z
+UID:30254
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0254&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20240316T151500
+DTEND;TZID=Europe/London:20240316T183500
+DTSTAMP:20240316T151500Z
+UID:30264
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0264&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20240317T141500
+DTEND;TZID=Europe/London:20240317T173500
+DTSTAMP:20240317T141500Z
+UID:30277
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0277&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20240320T190000
+DTEND;TZID=Europe/London:20240320T222000
+DTSTAMP:20240320T190000Z
+UID:30330
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0330&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oppenheimer
+DTSTART;TZID=Europe/London:20240321T190000
+DTEND;TZID=Europe/London:20240321T222000
+DTSTAMP:20240321T190000Z
+UID:30334
+DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013205/oppenheimer/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0334&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=Europe/London:20240315T151500
+DTEND;TZID=Europe/London:20240315T181000
+DTSTAMP:20240315T151500Z
+UID:30257
+DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 4\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013367/anatomy-of-a-fall/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3025
+ 7&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=Europe/London:20240316T150000
+DTEND;TZID=Europe/London:20240316T175500
+DTSTAMP:20240316T150000Z
+UID:30266
+DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 4\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013367/anatomy-of-a-fall/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3026
+ 6&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=Europe/London:20240317T133000
+DTEND;TZID=Europe/London:20240317T162500
+DTSTAMP:20240317T133000Z
+UID:30291
+DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013367/anatomy-of-a-fall/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3029
+ 1&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=Europe/London:20240318T193000
+DTEND;TZID=Europe/London:20240318T222500
+DTSTAMP:20240318T193000Z
+UID:30298
+DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013367/anatomy-of-a-fall/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessi
+ onId=30298&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=Europe/London:20240321T143000
+DTEND;TZID=Europe/London:20240321T172500
+DTSTAMP:20240321T143000Z
+UID:30347
+DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 4\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013367/anatomy-of-a-fall/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3034
+ 7&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240313T153000
+DTEND;TZID=Europe/London:20240313T173000
+DTSTAMP:20240313T153000Z
+UID:30188
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00014017/wicked-little-letters/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=30188&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240313T181500
+DTEND;TZID=Europe/London:20240313T201500
+DTSTAMP:20240313T181500Z
+UID:30189
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 4\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30189&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240314T153000
+DTEND;TZID=Europe/London:20240314T173000
+DTSTAMP:20240314T153000Z
+UID:30197
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30197&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240314T180000
+DTEND;TZID=Europe/London:20240314T200000
+DTSTAMP:20240314T180000Z
+UID:30198
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 6\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/030/HO00014017/wicked-l
+ ittle-letters/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=030&txtSessionId=30198&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240315T120000
+DTEND;TZID=Europe/London:20240315T140000
+DTSTAMP:20240315T120000Z
+UID:30249
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30249&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240315T201500
+DTEND;TZID=Europe/London:20240315T221500
+DTSTAMP:20240315T201500Z
+UID:30250
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30250&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240316T113000
+DTEND;TZID=Europe/London:20240316T133000
+DTSTAMP:20240316T113000Z
+UID:30271
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30271&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240316T203000
+DTEND;TZID=Europe/London:20240316T223000
+DTSTAMP:20240316T203000Z
+UID:30273
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30273&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240317T120000
+DTEND;TZID=Europe/London:20240317T140000
+DTSTAMP:20240317T120000Z
+UID:30286
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 4\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30286&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240317T170000
+DTEND;TZID=Europe/London:20240317T190000
+DTSTAMP:20240317T170000Z
+UID:30284
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nStep-Free: This screen has street to screen step-free access.\n\nht
+ tps://www.picturehouses.com/movie-details/030/HO00014017/wicked-little-let
+ ters/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=030&txtSessionId=30284&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240318T153000
+DTEND;TZID=Europe/London:20240318T173000
+DTSTAMP:20240318T153000Z
+UID:30361
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00014017/wicked-little-letters/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=30361&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240318T180000
+DTEND;TZID=Europe/London:20240318T200000
+DTSTAMP:20240318T180000Z
+UID:30302
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00014017/wicked-little-letters/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtS
+ essionId=30302&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240319T151500
+DTEND;TZID=Europe/London:20240319T171500
+DTSTAMP:20240319T151500Z
+UID:30360
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30360&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240319T174500
+DTEND;TZID=Europe/London:20240319T194500
+DTSTAMP:20240319T174500Z
+UID:30309
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30309&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240320T151500
+DTEND;TZID=Europe/London:20240320T171500
+DTSTAMP:20240320T151500Z
+UID:30359
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30359&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240320T174500
+DTEND;TZID=Europe/London:20240320T194500
+DTSTAMP:20240320T174500Z
+UID:30332
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30332&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240321T143000
+DTEND;TZID=Europe/London:20240321T163000
+DTSTAMP:20240321T143000Z
+UID:30346
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nStep-Free: This screen has street to screen step-free access.\n\nht
+ tps://www.picturehouses.com/movie-details/030/HO00014017/wicked-little-let
+ ters/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=030&txtSessionId=30346&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240321T170000
+DTEND;TZID=Europe/London:20240321T190000
+DTSTAMP:20240321T170000Z
+UID:30333
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014017/wicked-little-letters/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=
+ 30333&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -1926,6 +1591,169 @@ DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 4\n\nStep-Free: This screen
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240313T160000
+DTEND;TZID=Europe/London:20240313T184500
+DTSTAMP:20240313T160000Z
+UID:30183
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0183&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240314T160000
+DTEND;TZID=Europe/London:20240314T184500
+DTSTAMP:20240314T160000Z
+UID:30217
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0217&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240314T193000
+DTEND;TZID=Europe/London:20240314T221500
+DTSTAMP:20240314T193000Z
+UID:30191
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0191&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240315T131500
+DTEND;TZID=Europe/London:20240315T160000
+DTSTAMP:20240315T131500Z
+UID:30351
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/030/HO00013711/poor-thi
+ ngs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=030&txtSessionId=30351&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240315T170000
+DTEND;TZID=Europe/London:20240315T194500
+DTSTAMP:20240315T170000Z
+UID:30251
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30251&visL
+ ang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240316T131500
+DTEND;TZID=Europe/London:20240316T160000
+DTSTAMP:20240316T131500Z
+UID:30352
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0352&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240316T170000
+DTEND;TZID=Europe/London:20240316T194500
+DTSTAMP:20240316T170000Z
+UID:30272
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30272&visL
+ ang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240317T121500
+DTEND;TZID=Europe/London:20240317T150000
+DTSTAMP:20240317T121500Z
+UID:30353
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0353&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240317T194500
+DTEND;TZID=Europe/London:20240317T223000
+DTSTAMP:20240317T194500Z
+UID:30285
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30285&visL
+ ang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240318T193000
+DTEND;TZID=Europe/London:20240318T221500
+DTSTAMP:20240318T193000Z
+UID:30301
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30301&visL
+ ang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240319T201500
+DTEND;TZID=Europe/London:20240319T230000
+DTSTAMP:20240319T201500Z
+UID:30310
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30310&visL
+ ang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240320T201500
+DTEND;TZID=Europe/London:20240320T230000
+DTSTAMP:20240320T201500Z
+UID:30331
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 5\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00013711/poor-things/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30331&visL
+ ang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poor Things
+DTSTART;TZID=Europe/London:20240321T150000
+DTEND;TZID=Europe/London:20240321T174500
+DTSTAMP:20240321T150000Z
+UID:30364
+DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 6\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00013711/poor-things/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
+ 0364&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Met Opera Live: Roméo et Juliette (2024)
 DTSTART;TZID=Europe/London:20240323T165500
 DTEND;TZID=Europe/London:20240323T203000
@@ -1941,16 +1769,73 @@ DESCRIPTION:Duration: 3h 31m (211 min)\nScreen 5\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Zone of Interest
-DTSTART;TZID=Europe/London:20240312T174500
-DTEND;TZID=Europe/London:20240312T195000
-DTSTAMP:20240312T174500Z
-UID:30178
-DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 5\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014011/the-zone-of-interest/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=3
- 0178&visLang=1
+SUMMARY:Met Opera Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240511T175500
+DTEND;TZID=Europe/London:20240511T211000
+DTSTAMP:20240511T165500Z
+UID:23620
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/030/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&t
+ xtSessionId=23620&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: La Rondine (2024)
+DTSTART;TZID=Europe/London:20240420T175500
+DTEND;TZID=Europe/London:20240420T204500
+DTSTAMP:20240420T165500Z
+UID:23618
+DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 5\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/030/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSess
+ ionId=23618&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: John Singer Sargent: Fashion and Swagger
+DTSTART;TZID=Europe/London:20240416T180000
+DTEND;TZID=Europe/London:20240416T195000
+DTSTAMP:20240416T170000Z
+UID:29328
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 5\n\nStep-Free: This screen 
+ has street to screen step-free access.\n\nhttps://www.picturehouses.com/mo
+ vie-details/030/HO00013570/eos-john-singer-sargent-fashion-and-swagger/\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=030&txtSessionId=29328&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OUT: Drive-Away Dolls
+DTSTART;TZID=Europe/London:20240313T180000
+DTEND;TZID=Europe/London:20240313T194500
+DTSTAMP:20240313T180000Z
+UID:30115
+DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 6\n\nPreview: A special prev
+ iew screening of this film. See it before anyone else on the big screen!\n
+ \nOut: Elevating and celebrating LGBTQ+ cinema\, from reclaimed classics t
+ o the cutting edge.\n\nhttps://www.picturehouses.com/movie-details/030/HO0
+ 0014332/out-drive-away-dolls/\nhttps://ticketing.picturehouses.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=030&txtSessionId=30115&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: My National Gallery\, London
+DTSTART;TZID=Europe/London:20240604T180000
+DTEND;TZID=Europe/London:20240604T195000
+DTSTAMP:20240604T170000Z
+UID:29330
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 5\n\nStep-Free: This screen 
+ has street to screen step-free access.\n\nhttps://www.picturehouses.com/mo
+ vie-details/030/HO00013571/eos-my-national-gallery-london/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSe
+ ssionId=29330&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -2058,113 +1943,6 @@ DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 4\n\nStep-Free: This screen
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240511T175500
-DTEND;TZID=Europe/London:20240511T211000
-DTSTAMP:20240511T165500Z
-UID:23620
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00013170/met-opera-live-madama-butterfly-2024/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&t
- xtSessionId=23620&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: La Rondine (2024)
-DTSTART;TZID=Europe/London:20240420T175500
-DTEND;TZID=Europe/London:20240420T204500
-DTSTAMP:20240420T165500Z
-UID:23618
-DESCRIPTION:Duration: 2h 47m (167 min)\nScreen 5\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00013168/met-opera-live-la-rondine-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSess
- ionId=23618&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: John Singer Sargent: Fashion and Swagger
-DTSTART;TZID=Europe/London:20240416T180000
-DTEND;TZID=Europe/London:20240416T195000
-DTSTAMP:20240416T170000Z
-UID:29328
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 5\n\nStep-Free: This screen 
- has street to screen step-free access.\n\nhttps://www.picturehouses.com/mo
- vie-details/030/HO00013570/eos-john-singer-sargent-fashion-and-swagger/\nh
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=030&txtSessionId=29328&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OUT: Drive-Away Dolls
-DTSTART;TZID=Europe/London:20240313T180000
-DTEND;TZID=Europe/London:20240313T194500
-DTSTAMP:20240313T180000Z
-UID:30115
-DESCRIPTION:Duration: 1h 24m (84 min)\nScreen 6\n\nPreview: A special prev
- iew screening of this film. See it before anyone else on the big screen!\n
- \nOut: Elevating and celebrating LGBTQ+ cinema\, from reclaimed classics t
- o the cutting edge.\n\nhttps://www.picturehouses.com/movie-details/030/HO0
- 0014332/out-drive-away-dolls/\nhttps://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=030&txtSessionId=30115&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: My National Gallery\, London
-DTSTART;TZID=Europe/London:20240604T180000
-DTEND;TZID=Europe/London:20240604T195000
-DTSTAMP:20240604T170000Z
-UID:29330
-DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 5\n\nStep-Free: This screen 
- has street to screen step-free access.\n\nhttps://www.picturehouses.com/mo
- vie-details/030/HO00013571/eos-my-national-gallery-london/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSe
- ssionId=29330&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:High & Low – John Galliano
-DTSTART;TZID=Europe/London:20240312T184500
-DTEND;TZID=Europe/London:20240312T210500
-DTSTAMP:20240312T184500Z
-UID:30214
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014310/high-low-john-galliano/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txt
- SessionId=30214&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:High & Low – John Galliano
-DTSTART;TZID=Europe/London:20240313T193000
-DTEND;TZID=Europe/London:20240313T215000
-DTSTAMP:20240313T193000Z
-UID:30216
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014310/high-low-john-galliano/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txt
- SessionId=30216&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:High & Low – John Galliano
-DTSTART;TZID=Europe/London:20240314T154500
-DTEND;TZID=Europe/London:20240314T180500
-DTSTAMP:20240314T154500Z
-UID:30218
-DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 4\n\nStep-Free: This screen
-  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
- ovie-details/030/HO00014310/high-low-john-galliano/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId
- =30218&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: Carmen (2024)
 DTSTART;TZID=Europe/London:20240501T184500
 DTEND;TZID=Europe/London:20240501T223000
@@ -2210,18 +1988,18 @@ DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 5\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: The Winter's Tale (2024)
-DTSTART;TZID=Europe/London:20240522T191500
-DTEND;TZID=Europe/London:20240522T223000
-DTSTAMP:20240522T181500Z
-UID:23385
+SUMMARY:ROH Live: Madama Butterfly (2024)
+DTSTART;TZID=Europe/London:20240326T191500
+DTEND;TZID=Europe/London:20240326T223000
+DTSTAMP:20240326T191500Z
+UID:23377
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
- sionId=23385&visLang=1
+ e-details/030/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSess
+ ionId=23377&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -2239,18 +2017,18 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Madama Butterfly (2024)
-DTSTART;TZID=Europe/London:20240326T191500
-DTEND;TZID=Europe/London:20240326T223000
-DTSTAMP:20240326T191500Z
-UID:23377
+SUMMARY:ROH Live: The Winter's Tale (2024)
+DTSTART;TZID=Europe/London:20240522T191500
+DTEND;TZID=Europe/London:20240522T223000
+DTSTAMP:20240522T181500Z
+UID:23385
 DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 5\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/030/HO00013026/roh-live-madama-butterfly-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSess
- ionId=23377&visLang=1
+ e-details/030/HO00013041/roh-live-the-winter-s-tale-2024/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSes
+ sionId=23385&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -2280,6 +2058,31 @@ DESCRIPTION:Duration: 1h 25m (85 min)\nScreen 5\n\nAd and Trailer Free: No
  s/030/HO00013042/message-in-a-bottle/\nhttps://ticketing.picturehouses.com
  /Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=23387&visLang
  =1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:High & Low – John Galliano
+DTSTART;TZID=Europe/London:20240313T193000
+DTEND;TZID=Europe/London:20240313T215000
+DTSTAMP:20240313T193000Z
+UID:30216
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00014310/high-low-john-galliano/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txt
+ SessionId=30216&visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:High & Low – John Galliano
+DTSTART;TZID=Europe/London:20240314T154500
+DTEND;TZID=Europe/London:20240314T180500
+DTSTAMP:20240314T154500Z
+UID:30218
+DESCRIPTION:Duration: 1h 57m (117 min)\nScreen 4\n\nStep-Free: This screen
+  has street to screen step-free access.\n\nhttps://www.picturehouses.com/m
+ ovie-details/030/HO00014310/high-low-john-galliano/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId
+ =30218&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -2352,22 +2155,6 @@ DESCRIPTION:Duration: 2h 10m (130 min)\nScreen 6\n\nreDiscover: Time to br
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILM CLUB: Do the Right Thing
-DTSTART;TZID=Europe/London:20240418T201500
-DTEND;TZID=Europe/London:20240418T223000
-DTSTAMP:20240418T191500Z
-UID:30235
-DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 6\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
-  to watch the hand-picked films in our Film Club for just £1 (Terms and C
- onditions apply)\n\nhttps://www.picturehouses.com/movie-details/030/HO0000
- 9831/film-club-do-the-right-thing/\nhttps://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30235&visLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FILM CLUB: Set It Off
 DTSTART;TZID=Europe/London:20240325T201500
 DTEND;TZID=Europe/London:20240325T224500
@@ -2384,35 +2171,19 @@ DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 6\n\nreDiscover: Time to br
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Our Little Sister
-DTSTART;TZID=Europe/London:20240314T201500
-DTEND;TZID=Europe/London:20240314T224500
-DTSTAMP:20240314T201500Z
-UID:30090
-DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 6\n\nreDiscover: Time to br
+SUMMARY:FILM CLUB: Do the Right Thing
+DTSTART;TZID=Europe/London:20240418T201500
+DTEND;TZID=Europe/London:20240418T223000
+DTSTAMP:20240418T191500Z
+UID:30235
+DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 6\n\nreDiscover: Time to br
  oaden your cinematic horizons: you'll find the best of what's next with Di
  scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/030/HO00014259/our-little-sister/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30090&vi
- sLang=1
-LOCATION:Picture House London - Fulham Road
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILM CLUB: Monster
-DTSTART;TZID=Europe/London:20240312T201500
-DTEND;TZID=Europe/London:20240312T224500
-DTSTAMP:20240312T201500Z
-UID:30114
-DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 5\n\nDiscover: Discover stu
- nning cinema. Each week\, the Picturehouse film team champion one must-see
-  film.\n\nPreview: A special preview screening of this film. See it before
-  anyone else on the big screen!\n\nStep-Free: This screen has street to sc
- reen step-free access.\n\nFilm Club: Picturehouse Members get to watch the
-  hand-picked films in our Film Club for just £1 (Terms and Conditions app
- ly)\n\nhttps://www.picturehouses.com/movie-details/030/HO00014316/film-clu
- b-monster/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=030&txtSessionId=30114&visLang=1
+ with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
+  to watch the hand-picked films in our Film Club for just £1 (Terms and C
+ onditions apply)\n\nhttps://www.picturehouses.com/movie-details/030/HO0000
+ 9831/film-club-do-the-right-thing/\nhttps://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30235&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -2432,15 +2203,35 @@ DESCRIPTION:Duration: 2h 02m (122 min)\nScreen 6\n\nreDiscover: Time to br
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20240328T203000
-DTEND;TZID=Europe/London:20240328T223500
-DTSTAMP:20240328T203000Z
-UID:30231
-DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/030/HO00014360/opus/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30231&vi
+SUMMARY:Our Little Sister
+DTSTART;TZID=Europe/London:20240314T201500
+DTEND;TZID=Europe/London:20240314T224500
+DTSTAMP:20240314T201500Z
+UID:30090
+DESCRIPTION:Duration: 2h 08m (128 min)\nScreen 6\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/030/HO00014259/our-little-sister/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30090&vi
  sLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FILM CLUB: Late Night with the Devil
+DTSTART;TZID=Europe/London:20240319T203000
+DTEND;TZID=Europe/London:20240319T222000
+DTSTAMP:20240319T203000Z
+UID:30275
+DESCRIPTION:Duration: 1h 26m (86 min)\nScreen 6\n\nDiscover: Discover stun
+ ning cinema. Each week\, the Picturehouse film team champion one must-see 
+ film.\n\nPreview: A special preview screening of this film. See it before 
+ anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to w
+ atch the hand-picked films in our Film Club for just £1 (Terms and Condit
+ ions apply)\n\nhttps://www.picturehouses.com/movie-details/030/HO00014359/
+ film-club-late-night-with-the-devil/\nhttps://ticketing.picturehouses.com/
+ Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30275&visLang=
+ 1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -2476,6 +2267,18 @@ DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 6\n\nPreview: A special prev
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20240328T203000
+DTEND;TZID=Europe/London:20240328T223500
+DTSTAMP:20240328T203000Z
+UID:30231
+DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/030/HO00014360/opus/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30231&vi
+ sLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Battle Royale
 DTSTART;TZID=Europe/London:20240411T203000
 DTEND;TZID=Europe/London:20240411T224500
@@ -2488,6 +2291,22 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 6\n\nreDiscover: Time to br
  -details/030/HO00001191/battle-royale/\nhttps://ticketing.picturehouses.co
  m/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30234&visLan
  g=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FILM CLUB: Zola
+DTSTART;TZID=Europe/London:20240320T203000
+DTEND;TZID=Europe/London:20240320T222000
+DTSTAMP:20240320T203000Z
+UID:29994
+DESCRIPTION:Duration: 1h 26m (86 min)\nScreen 6\n\nreDiscover: Time to bro
+ aden your cinematic horizons: you'll find the best of what's next with Dis
+ cover's under-the-radar releases\, and return to favourites of yesterday w
+ ith our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get 
+ to watch the hand-picked films in our Film Club for just £1 (Terms and Co
+ nditions apply)\n\nhttps://www.picturehouses.com/movie-details/030/HO00014
+ 087/film-club-zola/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=030&txtSessionId=29994&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
@@ -2521,36 +2340,39 @@ DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 6\n\nreDiscover: Time to br
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILM CLUB: Zola
-DTSTART;TZID=Europe/London:20240320T203000
-DTEND;TZID=Europe/London:20240320T222000
-DTSTAMP:20240320T203000Z
-UID:29994
-DESCRIPTION:Duration: 1h 26m (86 min)\nScreen 6\n\nreDiscover: Time to bro
- aden your cinematic horizons: you'll find the best of what's next with Dis
- cover's under-the-radar releases\, and return to favourites of yesterday w
- ith our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get 
- to watch the hand-picked films in our Film Club for just £1 (Terms and Co
- nditions apply)\n\nhttps://www.picturehouses.com/movie-details/030/HO00014
- 087/film-club-zola/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=030&txtSessionId=29994&visLang=1
+SUMMARY:COPA 71
+DTSTART;TZID=Europe/London:20240313T204500
+DTEND;TZID=Europe/London:20240313T223500
+DTSTAMP:20240313T204500Z
+UID:30182
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 4\n\nStep-Free: This screen 
+ has street to screen step-free access.\n\nhttps://www.picturehouses.com/mo
+ vie-details/030/HO00014080/copa-71/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30182&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILM CLUB: Late Night with the Devil
-DTSTART;TZID=Europe/London:20240319T203000
-DTEND;TZID=Europe/London:20240319T222000
-DTSTAMP:20240319T203000Z
-UID:30275
-DESCRIPTION:Duration: 1h 26m (86 min)\nScreen 6\n\nDiscover: Discover stun
- ning cinema. Each week\, the Picturehouse film team champion one must-see 
- film.\n\nPreview: A special preview screening of this film. See it before 
- anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to w
- atch the hand-picked films in our Film Club for just £1 (Terms and Condit
- ions apply)\n\nhttps://www.picturehouses.com/movie-details/030/HO00014359/
- film-club-late-night-with-the-devil/\nhttps://ticketing.picturehouses.com/
- Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30275&visLang=
- 1
+SUMMARY:COPA 71
+DTSTART;TZID=Europe/London:20240314T150000
+DTEND;TZID=Europe/London:20240314T165000
+DTSTAMP:20240314T150000Z
+UID:30200
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 6\n\nhttps://www.picturehous
+ es.com/movie-details/030/HO00014080/copa-71/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30200&
+ visLang=1
+LOCATION:Picture House London - Fulham Road
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:COPA 71
+DTSTART;TZID=Europe/London:20240314T203000
+DTEND;TZID=Europe/London:20240314T222000
+DTSTAMP:20240314T203000Z
+UID:30190
+DESCRIPTION:Duration: 1h 30m (90 min)\nScreen 5\n\nStep-Free: This screen 
+ has street to screen step-free access.\n\nhttps://www.picturehouses.com/mo
+ vie-details/030/HO00014080/copa-71/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=030&txtSessionId=30190&visLang=1
 LOCATION:Picture House London - Fulham Road
 END:VEVENT
 END:VCALENDAR
