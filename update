@@ -227,7 +227,7 @@ class PictureHouseICS:
 
 
 @click.command()
-@click.option("--padding", type=int, default=20)
+@click.option("--padding", type=int, default=25)
 def main(padding):
     PictureHouseICS(padding).main()
 
