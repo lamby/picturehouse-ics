@@ -1,13 +1,26 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240327T095249Z
+LAST-MODIFIED:20240328T082816Z
 NAME:Picture House London - The Gate
 X-WR-CALNAME:Picture House London - The Gate
 BEGIN:VEVENT
+SUMMARY:Monster
+DTSTART;TZID=Europe/London:20240330T120000
+DTEND;TZID=Europe/London:20240330T143500
+DTSTAMP:20240330T120000Z
+UID:15300
+DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00013385/monster/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=016&txtSessionId=15300&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OUT: Orlando\, My Political Biography
 DTSTART;TZID=Europe/London:20240331T120000
-DTEND;TZID=Europe/London:20240331T140000
+DTEND;TZID=Europe/London:20240331T140500
 DTSTAMP:20240331T110000Z
 UID:15246
 DESCRIPTION:Duration: 1h 38m (98 min)\nScreen 1\n\nPreview: A special prev
@@ -22,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART;TZID=Europe/London:20240329T143000
-DTEND;TZID=Europe/London:20240329T165500
+DTEND;TZID=Europe/London:20240329T170000
 DTSTAMP:20240329T143000Z
 UID:15316
 DESCRIPTION:Duration: 2h 03m (123 min)\nScreen 1\n\nhttps://www.picturehou
@@ -34,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART;TZID=Europe/London:20240330T174000
-DTEND;TZID=Europe/London:20240330T200500
+DTEND;TZID=Europe/London:20240330T201000
 DTSTAMP:20240330T174000Z
 UID:15304
 DESCRIPTION:Duration: 2h 03m (123 min)\nScreen 1\n\nhttps://www.picturehou
@@ -46,7 +59,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART;TZID=Europe/London:20240331T142000
-DTEND;TZID=Europe/London:20240331T164500
+DTEND;TZID=Europe/London:20240331T165000
 DTSTAMP:20240331T132000Z
 UID:15317
 DESCRIPTION:Duration: 2h 03m (123 min)\nScreen 1\n\nhttps://www.picturehou
@@ -58,7 +71,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART;TZID=Europe/London:20240401T120000
-DTEND;TZID=Europe/London:20240401T142500
+DTEND;TZID=Europe/London:20240401T143000
 DTSTAMP:20240401T110000Z
 UID:15323
 DESCRIPTION:Duration: 2h 03m (123 min)\nScreen 1\n\nhttps://www.picturehou
@@ -70,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART;TZID=Europe/London:20240402T151000
-DTEND;TZID=Europe/London:20240402T173500
+DTEND;TZID=Europe/London:20240402T174000
 DTSTAMP:20240402T141000Z
 UID:15327
 DESCRIPTION:Duration: 2h 03m (123 min)\nScreen 1\n\nhttps://www.picturehou
@@ -82,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART;TZID=Europe/London:20240403T175500
-DTEND;TZID=Europe/London:20240403T202000
+DTEND;TZID=Europe/London:20240403T202500
 DTSTAMP:20240403T165500Z
 UID:15330
 DESCRIPTION:Duration: 2h 03m (123 min)\nScreen 1\n\nhttps://www.picturehou
@@ -94,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Origin of Evil
 DTSTART;TZID=Europe/London:20240404T164500
-DTEND;TZID=Europe/London:20240404T191000
+DTEND;TZID=Europe/London:20240404T191500
 DTSTAMP:20240404T154500Z
 UID:15332
 DESCRIPTION:Duration: 2h 03m (123 min)\nScreen 1\n\nhttps://www.picturehou
@@ -106,7 +119,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Boy And The Heron (English Language Version)
 DTSTART;TZID=Europe/London:20240401T145000
-DTEND;TZID=Europe/London:20240401T171500
+DTEND;TZID=Europe/London:20240401T172000
 DTSTAMP:20240401T135000Z
 UID:15334
 DESCRIPTION:Duration: 2h 04m (124 min)\nScreen 1\n\nhttps://www.picturehou
@@ -118,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Battle Royale
 DTSTART;TZID=Europe/London:20240406T150000
-DTEND;TZID=Europe/London:20240406T171500
+DTEND;TZID=Europe/London:20240406T172000
 DTSTAMP:20240406T140000Z
 UID:15306
 DESCRIPTION:Duration: 1h 54m (114 min)\nScreen 1\n\nreDiscover: Time to br
@@ -133,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Haine
 DTSTART;TZID=Europe/London:20240420T150000
-DTEND;TZID=Europe/London:20240420T170000
+DTEND;TZID=Europe/London:20240420T170500
 DTSTAMP:20240420T140000Z
 UID:15309
 DESCRIPTION:Duration: 1h 36m (96 min)\nScreen 1\n\nreDiscover: Time to bro
@@ -161,58 +174,9 @@ DESCRIPTION:Duration: 2h 10m (130 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240327T153000
-DTEND;TZID=Europe/London:20240327T173000
-DTSTAMP:20240327T153000Z
-UID:15288
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/016/HO00014017/wicked-little-letters/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtS
- essionId=15288&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240328T182000
-DTEND;TZID=Europe/London:20240328T202000
-DTSTAMP:20240328T182000Z
-UID:15289
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/016/HO00014017/wicked-little-letters/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtS
- essionId=15289&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240329T120000
-DTEND;TZID=Europe/London:20240329T140000
-DTSTAMP:20240329T120000Z
-UID:15302
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/016/HO00014017/wicked-little-letters/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtS
- essionId=15302&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wicked Little Letters
-DTSTART;TZID=Europe/London:20240404T141500
-DTEND;TZID=Europe/London:20240404T161500
-DTSTAMP:20240404T131500Z
-UID:15333
-DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00014017/wicked-l
- ittle-letters/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=016&txtSessionId=15333&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Perfect Days
 DTSTART;TZID=Europe/London:20240328T153000
-DTEND;TZID=Europe/London:20240328T175500
+DTEND;TZID=Europe/London:20240328T180000
 DTSTAMP:20240328T153000Z
 UID:15290
 DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 1\n\nhttps://www.picturehou
@@ -224,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Perfect Days
 DTSTART;TZID=Europe/London:20240329T203000
-DTEND;TZID=Europe/London:20240329T225500
+DTEND;TZID=Europe/London:20240329T230000
 DTSTAMP:20240329T203000Z
 UID:15315
 DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 1\n\nhttps://www.picturehou
@@ -236,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Perfect Days
 DTSTART;TZID=Europe/London:20240330T203000
-DTEND;TZID=Europe/London:20240330T225500
+DTEND;TZID=Europe/London:20240330T230000
 DTSTAMP:20240330T203000Z
 UID:15303
 DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 1\n\nhttps://www.picturehou
@@ -248,7 +212,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Perfect Days
 DTSTART;TZID=Europe/London:20240331T171000
-DTEND;TZID=Europe/London:20240331T193500
+DTEND;TZID=Europe/London:20240331T194000
 DTSTAMP:20240331T161000Z
 UID:15318
 DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 1\n\nhttps://www.picturehou
@@ -260,7 +224,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Perfect Days
 DTSTART;TZID=Europe/London:20240401T174000
-DTEND;TZID=Europe/London:20240401T200500
+DTEND;TZID=Europe/London:20240401T201000
 DTSTAMP:20240401T164000Z
 UID:15322
 DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 1\n\nhttps://www.picturehou
@@ -272,7 +236,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Perfect Days
 DTSTART;TZID=Europe/London:20240402T180000
-DTEND;TZID=Europe/London:20240402T202500
+DTEND;TZID=Europe/London:20240402T203000
 DTSTAMP:20240402T170000Z
 UID:15328
 DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 1\n\nhttps://www.picturehou
@@ -284,7 +248,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Perfect Days
 DTSTART;TZID=Europe/London:20240403T150000
-DTEND;TZID=Europe/London:20240403T172500
+DTEND;TZID=Europe/London:20240403T173000
 DTSTAMP:20240403T140000Z
 UID:15331
 DESCRIPTION:Duration: 2h 05m (125 min)\nScreen 1\n\nhttps://www.picturehou
@@ -296,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Poor Things
 DTSTART;TZID=Europe/London:20240329T172000
-DTEND;TZID=Europe/London:20240329T200500
+DTEND;TZID=Europe/London:20240329T201000
 DTSTAMP:20240329T172000Z
 UID:15326
 DESCRIPTION:Duration: 2h 22m (142 min)\nScreen 1\n\nhttps://www.picturehou
@@ -320,19 +284,40 @@ DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILM CLUB: Disco Boy
-DTSTART;TZID=Europe/London:20240327T180000
-DTEND;TZID=Europe/London:20240327T195500
-DTSTAMP:20240327T180000Z
-UID:15268
-DESCRIPTION:Duration: 1h 32m (92 min)\nScreen 1\n\nDiscover: Discover stun
- ning cinema. Each week\, the Picturehouse film team champion one must-see 
- film.\n\nPreview: A special preview screening of this film. See it before 
- anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to w
- atch the hand-picked films in our Film Club for just £1 (Terms and Condit
- ions apply)\n\nhttps://www.picturehouses.com/movie-details/016/HO00014394/
- film-club-disco-boy/\nhttps://ticketing.picturehouses.com/Ticketing/visSel
- ectTickets.aspx?cinemacode=016&txtSessionId=15268&visLang=1
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240328T182000
+DTEND;TZID=Europe/London:20240328T202500
+DTSTAMP:20240328T182000Z
+UID:15289
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/016/HO00014017/wicked-little-letters/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtS
+ essionId=15289&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240329T120000
+DTEND;TZID=Europe/London:20240329T140500
+DTSTAMP:20240329T120000Z
+UID:15302
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/016/HO00014017/wicked-little-letters/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtS
+ essionId=15302&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wicked Little Letters
+DTSTART;TZID=Europe/London:20240404T141500
+DTEND;TZID=Europe/London:20240404T162000
+DTSTAMP:20240404T131500Z
+UID:15333
+DESCRIPTION:Duration: 1h 40m (100 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00014017/wicked-l
+ ittle-letters/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=016&txtSessionId=15333&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -366,21 +351,6 @@ DESCRIPTION:Duration: 2h 40m (160 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: Swan Lake (2024)
-DTSTART;TZID=Europe/London:20240424T191500
-DTEND;TZID=Europe/London:20240424T223500
-DTSTAMP:20240424T181500Z
-UID:13919
-DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nLive via Satellite: This screening will b
- e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/016/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtSessionId=1
- 3919&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROH Live: The Winter's Tale (2024)
 DTSTART;TZID=Europe/London:20240522T191500
 DTEND;TZID=Europe/London:20240522T223000
@@ -396,18 +366,18 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROH Live: MacMillan Triple (2024)
-DTSTART;TZID=Europe/London:20240409T191500
-DTEND;TZID=Europe/London:20240409T223000
-DTSTAMP:20240409T181500Z
-UID:13918
-DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+SUMMARY:ROH Live: Swan Lake (2024)
+DTSTART;TZID=Europe/London:20240424T191500
+DTEND;TZID=Europe/London:20240424T223500
+DTSTAMP:20240424T181500Z
+UID:13919
+DESCRIPTION:Duration: 3h 20m (200 min)\nScreen 1\n\nAd and Trailer Free: N
  o advertisements or trailers will play ahead of this screening. You are re
  commended to arrive promptly.\n\nLive via Satellite: This screening will b
  e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
- e-details/016/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtSess
- ionId=13918&visLang=1
+ e-details/016/HO00013039/roh-live-swan-lake-2024/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtSessionId=1
+ 3919&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -423,6 +393,21 @@ DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
  e-details/016/HO00013043/roh-live-andrea-chenier-2024/\nhttps://ticketing.
  picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtSessio
  nId=13923&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROH Live: MacMillan Triple (2024)
+DTSTART;TZID=Europe/London:20240409T191500
+DTEND;TZID=Europe/London:20240409T223000
+DTSTAMP:20240409T181500Z
+UID:13918
+DESCRIPTION:Duration: 3h 15m (195 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nLive via Satellite: This screening will b
+ e streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/movi
+ e-details/016/HO00013038/roh-live-macmillan-triple-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtSess
+ ionId=13918&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -442,7 +427,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NT Live 2024: The Motive and the Cue
 DTSTART;TZID=Europe/London:20240404T194500
-DTEND;TZID=Europe/London:20240404T230500
+DTEND;TZID=Europe/London:20240404T231000
 DTSTAMP:20240404T184500Z
 UID:15314
 DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
@@ -452,9 +437,22 @@ DESCRIPTION:Duration: 3h 00m (180 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Anatomy of a Fall
+DTSTART;TZID=Europe/London:20240331T200000
+DTEND;TZID=Europe/London:20240331T230000
+DTSTAMP:20240331T190000Z
+UID:15324
+DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00013367/anatomy-
+ of-a-fall/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
+ .aspx?cinemacode=016&txtSessionId=15324&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Macbeth: Ralph Fiennes & Indira Varma
 DTSTART;TZID=Europe/London:20240502T200000
-DTEND;TZID=Europe/London:20240502T225000
+DTEND;TZID=Europe/London:20240502T225500
 DTSTAMP:20240502T190000Z
 UID:15299
 DESCRIPTION:Duration: 2h 30m (150 min)\nScreen 1\n\nhttps://www.picturehou
@@ -464,16 +462,17 @@ DESCRIPTION:Duration: 2h 30m (150 min)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anatomy of a Fall
-DTSTART;TZID=Europe/London:20240331T200000
-DTEND;TZID=Europe/London:20240331T225500
-DTSTAMP:20240331T190000Z
-UID:15324
-DESCRIPTION:Duration: 2h 32m (152 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00013367/anatomy-
- of-a-fall/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
- .aspx?cinemacode=016&txtSessionId=15324&visLang=1
+SUMMARY:On Resistance Street + Q&A
+DTSTART;TZID=Europe/London:20240417T201500
+DTEND;TZID=Europe/London:20240417T225000
+DTSTAMP:20240417T191500Z
+UID:14937
+DESCRIPTION:Duration: 2h 31m (151 min)\nScreen 1\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nQ&A: This screening will be followed by a
+  Q&A.\n\nhttps://www.picturehouses.com/movie-details/016/HO00014136/on-res
+ istance-street-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=016&txtSessionId=14937&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
@@ -493,64 +492,9 @@ DESCRIPTION:Duration: 2h 00m (120 min)\nScreen 1\n\nAd and Trailer Free: N
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On Resistance Street + Q&A
-DTSTART;TZID=Europe/London:20240417T201500
-DTEND;TZID=Europe/London:20240417T225000
-DTSTAMP:20240417T191500Z
-UID:14937
-DESCRIPTION:Duration: 2h 31m (151 min)\nScreen 1\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nQ&A: This screening will be followed by a
-  Q&A.\n\nhttps://www.picturehouses.com/movie-details/016/HO00014136/on-res
- istance-street-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=016&txtSessionId=14937&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monster
-DTSTART;TZID=Europe/London:20240327T202000
-DTEND;TZID=Europe/London:20240327T225000
-DTSTAMP:20240327T202000Z
-UID:15287
-DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/016/HO00013385/monster/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=016&txtSessionId=15287
- &visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monster
-DTSTART;TZID=Europe/London:20240330T120000
-DTEND;TZID=Europe/London:20240330T143000
-DTSTAMP:20240330T120000Z
-UID:15300
-DESCRIPTION:Duration: 2h 07m (127 min)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/016/HO00013385/monster/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=016&txtSessionId=15300&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILM CLUB: Girls Trip
-DTSTART;TZID=Europe/London:20240401T203000
-DTEND;TZID=Europe/London:20240401T225500
-DTSTAMP:20240401T193000Z
-UID:15226
-DESCRIPTION:Duration: 2h 02m (122 min)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
-  to watch the hand-picked films in our Film Club for just £1 (Terms and C
- onditions apply)\n\nhttps://www.picturehouses.com/movie-details/016/HO0001
- 4090/film-club-girls-trip/\nhttps://ticketing.picturehouses.com/Ticketing/
- visSelectTickets.aspx?cinemacode=016&txtSessionId=15226&visLang=1
-LOCATION:Picture House London - The Gate
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILM CLUB: Do the Right Thing
+SUMMARY:Do the Right Thing
 DTSTART;TZID=Europe/London:20240415T203000
-DTEND;TZID=Europe/London:20240415T224500
+DTEND;TZID=Europe/London:20240415T225000
 DTSTAMP:20240415T193000Z
 UID:15245
 DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 1\n\nreDiscover: Time to br
@@ -564,24 +508,25 @@ DESCRIPTION:Duration: 1h 55m (115 min)\nScreen 1\n\nreDiscover: Time to br
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILM CLUB: Evil Does Not Exist
-DTSTART;TZID=Europe/London:20240403T204500
-DTEND;TZID=Europe/London:20240403T225500
-DTSTAMP:20240403T194500Z
-UID:15292
-DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 1\n\nPreview: A special pre
- view screening of this film. See it before anyone else on the big screen!\
- n\nFilm Club: Picturehouse Members get to watch the hand-picked films in o
- ur Film Club for just £1 (Terms and Conditions apply)\n\nhttps://www.pict
- urehouses.com/movie-details/016/HO00014395/film-club-evil-does-not-exist/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=016&txtSessionId=15292&visLang=1
+SUMMARY:Girls Trip
+DTSTART;TZID=Europe/London:20240401T203000
+DTEND;TZID=Europe/London:20240401T230000
+DTSTAMP:20240401T193000Z
+UID:15226
+DESCRIPTION:Duration: 2h 02m (122 min)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
+  to watch the hand-picked films in our Film Club for just £1 (Terms and C
+ onditions apply)\n\nhttps://www.picturehouses.com/movie-details/016/HO0001
+ 4090/film-club-girls-trip/\nhttps://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=016&txtSessionId=15226&visLang=1
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ryuichi Sakamoto | Opus
 DTSTART;TZID=Europe/London:20240328T204500
-DTEND;TZID=Europe/London:20240328T225000
+DTEND;TZID=Europe/London:20240328T225500
 DTSTAMP:20240328T204500Z
 UID:15243
 DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 1\n\nPreview: A special pre
@@ -592,9 +537,9 @@ DESCRIPTION:Duration: 1h 43m (103 min)\nScreen 1\n\nPreview: A special pre
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FILM CLUB: Blood Simple
+SUMMARY:Blood Simple
 DTSTART;TZID=Europe/London:20240422T204500
-DTEND;TZID=Europe/London:20240422T224500
+DTEND;TZID=Europe/London:20240422T225000
 DTSTAMP:20240422T194500Z
 UID:15267
 DESCRIPTION:Duration: 1h 39m (99 min)\nScreen 1\n\nCulture Shock: Dedicate
@@ -609,9 +554,24 @@ DESCRIPTION:Duration: 1h 39m (99 min)\nScreen 1\n\nCulture Shock: Dedicate
 LOCATION:Picture House London - The Gate
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Evil Does Not Exist
+DTSTART;TZID=Europe/London:20240403T204500
+DTEND;TZID=Europe/London:20240403T230000
+DTSTAMP:20240403T194500Z
+UID:15292
+DESCRIPTION:Duration: 1h 46m (106 min)\nScreen 1\n\nPreview: A special pre
+ view screening of this film. See it before anyone else on the big screen!\
+ n\nFilm Club: Picturehouse Members get to watch the hand-picked films in o
+ ur Film Club for just £1 (Terms and Conditions apply)\n\nhttps://www.pict
+ urehouses.com/movie-details/016/HO00014395/film-club-evil-does-not-exist/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=016&txtSessionId=15292&visLang=1
+LOCATION:Picture House London - The Gate
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Zone of Interest
 DTSTART;TZID=Europe/London:20240402T205000
-DTEND;TZID=Europe/London:20240402T225500
+DTEND;TZID=Europe/London:20240402T230000
 DTSTAMP:20240402T195000Z
 UID:15329
 DESCRIPTION:Duration: 1h 45m (105 min)\nScreen 1\n\nhttps://www.picturehou
