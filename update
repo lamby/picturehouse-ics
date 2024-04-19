@@ -189,7 +189,7 @@ class PictureHouseICS:
 
                 hours, minutes = divmod(int(x["RunTime"]), 60)
                 description.append(
-                    f"Duration: {hours}h {minutes:02d}m ({x['RunTime']} min)"
+                    f"Duration: {hours}h {minutes:02d}m ({x['RunTime']} mins)"
                 )
                 description.append(y["ScreenName"])
                 skip_entry = False
