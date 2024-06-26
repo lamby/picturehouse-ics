@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240624T143001Z
+LAST-MODIFIED:20240626T140957Z
 NAME:Picture House London - Greenwich
 X-WR-CALNAME:Picture House London - Greenwich
+BEGIN:VEVENT
+SUMMARY:Furiosa: A Mad Max Saga
+DTSTART;TZID=Europe/London:20240627T112000
+DTEND;TZID=Europe/London:20240627T141500
+DTSTAMP:20240627T102000Z
+UID:77635
+DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014610/furiosa-a-mad-max-saga/\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&tx
+ tSessionId=77635&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deadpool & Wolverine
 DTSTART;TZID=Europe/London:20240725T113000
@@ -395,82 +407,6 @@ DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Treasure
-DTSTART;TZID=Europe/London:20240625T113000
-DTEND;TZID=Europe/London:20240625T135000
-DTSTAMP:20240625T103000Z
-UID:77643
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014653/treasure/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=776
- 43&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasure
-DTSTART;TZID=Europe/London:20240625T170000
-DTEND;TZID=Europe/London:20240625T192000
-DTSTAMP:20240625T160000Z
-UID:77590
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014653/treasure/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=775
- 90&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasure
-DTSTART;TZID=Europe/London:20240626T142000
-DTEND;TZID=Europe/London:20240626T164000
-DTSTAMP:20240626T132000Z
-UID:77608
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014653/treasure/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=776
- 08&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Treasure
-DTSTART;TZID=Europe/London:20240627T150000
-DTEND;TZID=Europe/London:20240627T172000
-DTSTAMP:20240627T140000Z
-UID:77626
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014653/treasure/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=776
- 26&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Encore: Turandot (2025)
-DTSTART;TZID=Europe/London:20250408T120000
-DTEND;TZID=Europe/London:20250408T152500
-DTSTAMP:20250408T110000Z
-UID:77480
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/021/HO00014795/rb-o-encore-turandot-2025/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77480
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Encore: Die Walkure (2025)
-DTSTART;TZID=Europe/London:20250520T120000
-DTEND;TZID=Europe/London:20250520T180500
-DTSTAMP:20250520T110000Z
-UID:77483
-DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/021/HO00014796/rb-o-encore-die-walkure-2025/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77
- 483&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RB&O Encore: Ballet To Broadway: Wheeldon Works (2025)
 DTSTART;TZID=Europe/London:20250527T120000
 DTEND;TZID=Europe/London:20250527T150000
@@ -499,17 +435,31 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Encore: Cinderella (2024)
-DTSTART;TZID=Europe/London:20241216T120000
-DTEND;TZID=Europe/London:20241216T151500
-DTSTAMP:20241216T120000Z
-UID:77463
-DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 2\n\nAd and Trailer Free: 
+SUMMARY:RB&O Encore: The Marriage of Figaro (2024)
+DTSTART;TZID=Europe/London:20240913T120000
+DTEND;TZID=Europe/London:20240913T160000
+DTSTAMP:20240913T110000Z
+UID:77459
+DESCRIPTION:Duration: 4h 00m (240 mins)\nScreen 2\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/021/HO00014793/rb-o-encore-cinderella-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=774
- 63&visLang=1
+ ils/021/HO00014791/rb-o-encore-the-marriage-of-figaro-2024/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77459&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Encore: Die Walkure (2025)
+DTSTART;TZID=Europe/London:20250520T120000
+DTEND;TZID=Europe/London:20250520T180500
+DTSTAMP:20250520T110000Z
+UID:77483
+DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/021/HO00014796/rb-o-encore-die-walkure-2025/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77
+ 483&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -527,816 +477,298 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Encore: The Marriage of Figaro (2024)
-DTSTART;TZID=Europe/London:20240913T120000
-DTEND;TZID=Europe/London:20240913T160000
-DTSTAMP:20240913T110000Z
-UID:77459
-DESCRIPTION:Duration: 4h 00m (240 mins)\nScreen 2\n\nAd and Trailer Free: 
+SUMMARY:RB&O Encore: Cinderella (2024)
+DTSTART;TZID=Europe/London:20241216T120000
+DTEND;TZID=Europe/London:20241216T151500
+DTSTAMP:20241216T120000Z
+UID:77463
+DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 2\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/021/HO00014791/rb-o-encore-the-marriage-of-figaro-2024/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
- essionId=77459&visLang=1
+ ils/021/HO00014793/rb-o-encore-cinderella-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=774
+ 63&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Princess Bride
-DTSTART;TZID=Europe/London:20240728T141500
-DTEND;TZID=Europe/London:20240728T161500
-DTSTAMP:20240728T131500Z
-UID:77290
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/021/HO00014771/the-princess-bride/\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77290&v
- isLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Challengers
-DTSTART;TZID=Europe/London:20240625T142000
-DTEND;TZID=Europe/London:20240625T170000
-DTSTAMP:20240625T132000Z
-UID:77589
-DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014497/challengers/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77589&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Challengers
-DTSTART;TZID=Europe/London:20240626T200000
-DTEND;TZID=Europe/London:20240626T224000
-DTSTAMP:20240626T190000Z
-UID:77607
-DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 5\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014497/challen
- gers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=021&txtSessionId=77607&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Challengers
-DTSTART;TZID=Europe/London:20240627T143000
-DTEND;TZID=Europe/London:20240627T171000
-DTSTAMP:20240627T133000Z
-UID:77625
-DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014497/challengers/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77625&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coraline (15th Anniversary)
-DTSTART;TZID=Europe/London:20240817T150000
-DTEND;TZID=Europe/London:20240817T171500
-DTSTAMP:20240817T140000Z
-UID:77649
-DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014763/coraline-15th-anniversary/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021
- &txtSessionId=77649&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freud's Last Session
-DTSTART;TZID=Europe/London:20240625T153000
-DTEND;TZID=Europe/London:20240625T174500
-DTSTAMP:20240625T143000Z
-UID:77593
-DESCRIPTION:Duration: 1h 49m (109 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014652/freud-s-last-session/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
- essionId=77593&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freud's Last Session
-DTSTART;TZID=Europe/London:20240626T121000
-DTEND;TZID=Europe/London:20240626T142500
-DTSTAMP:20240626T111000Z
-UID:77645
-DESCRIPTION:Duration: 1h 49m (109 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014652/freud-s-last-session/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
- essionId=77645&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freud's Last Session
-DTSTART;TZID=Europe/London:20240626T145000
-DTEND;TZID=Europe/London:20240626T170500
-DTSTAMP:20240626T135000Z
-UID:77611
-DESCRIPTION:Duration: 1h 49m (109 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014652/freud-s-last-session/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
- essionId=77611&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freud's Last Session
-DTSTART;TZID=Europe/London:20240627T144000
-DTEND;TZID=Europe/London:20240627T165500
-DTSTAMP:20240627T134000Z
-UID:77629
-DESCRIPTION:Duration: 1h 49m (109 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014652/freud-s-last-session/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
- essionId=77629&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Before Sunset
-DTSTART;TZID=Europe/London:20240721T160000
-DTEND;TZID=Europe/London:20240721T174500
-DTSTAMP:20240721T150000Z
-UID:76889
-DESCRIPTION:Duration: 1h 20m (80 mins)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/021/HO00014674/before-sunset/\nhttps://ticketing.picturehouses.co
- m/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=76889&visLan
- g=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Shop of Horrors
-DTSTART;TZID=Europe/London:20240818T160000
-DTEND;TZID=Europe/London:20240818T181000
-DTSTAMP:20240818T150000Z
-UID:77288
-DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00014787/little-shop-of-horrors/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77
- 288&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amelie
-DTSTART;TZID=Europe/London:20240714T160000
-DTEND;TZID=Europe/London:20240714T183000
-DTSTAMP:20240714T150000Z
-UID:76888
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00014671/amelie/\nhttps://ticketing.picturehouses.com/Tick
- eting/visSelectTickets.aspx?cinemacode=021&txtSessionId=76888&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The 400 Blows
-DTSTART;TZID=Europe/London:20240630T160000
-DTEND;TZID=Europe/London:20240630T180000
-DTSTAMP:20240630T150000Z
-UID:76886
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 4\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
-  to watch the hand-picked films in our Film Club for just £1 (Terms and C
- onditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO0001
- 4670/film-club-the-400-blows/\nhttps://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=021&txtSessionId=76886&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Breathless
-DTSTART;TZID=Europe/London:20240707T160000
-DTEND;TZID=Europe/London:20240707T175500
-DTSTAMP:20240707T150000Z
-UID:76887
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
-  to watch the hand-picked films in our Film Club for just £1 (Terms and C
- onditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO0001
- 4673/film-club-breathless/\nhttps://ticketing.picturehouses.com/Ticketing/
- visSelectTickets.aspx?cinemacode=021&txtSessionId=76887&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moonstruck
-DTSTART;TZID=Europe/London:20240804T160000
-DTEND;TZID=Europe/London:20240804T181000
-DTSTAMP:20240804T150000Z
-UID:77291
-DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 3\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00014783/moonstruck/\nhttps://ticketing.picturehouses.com/
- Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77291&visLang=
- 1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Broadcast News
-DTSTART;TZID=Europe/London:20240825T163000
-DTEND;TZID=Europe/London:20240825T191000
-DTSTAMP:20240825T153000Z
-UID:77299
-DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00014788/broadcast-news/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77299&visL
- ang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Top Gun
-DTSTART;TZID=Europe/London:20240811T163000
-DTEND;TZID=Europe/London:20240811T185000
-DTSTAMP:20240811T153000Z
-UID:77297
-DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00001507/top-gun/\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=021&txtSessionId=77297&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240624T163000
-DTEND;TZID=Europe/London:20240624T183500
-DTSTAMP:20240624T153000Z
-UID:77584
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77584&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240624T190000
-DTEND;TZID=Europe/London:20240624T210500
-DTSTAMP:20240624T180000Z
-UID:77580
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014655/inside-o
- ut-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=021&txtSessionId=77580&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240625T114000
-DTEND;TZID=Europe/London:20240625T134500
-DTSTAMP:20240625T104000Z
-UID:77602
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77602&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240625T141000
-DTEND;TZID=Europe/London:20240625T161500
-DTSTAMP:20240625T131000Z
-UID:77603
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014655/inside-o
- ut-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=021&txtSessionId=77603&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240625T163000
-DTEND;TZID=Europe/London:20240625T183500
-DTSTAMP:20240625T153000Z
-UID:77604
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77604&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240625T190000
-DTEND;TZID=Europe/London:20240625T210500
-DTSTAMP:20240625T180000Z
-UID:77595
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77595&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240626T114000
-DTEND;TZID=Europe/London:20240626T134500
-DTSTAMP:20240626T104000Z
-UID:77620
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014655/inside-o
- ut-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=021&txtSessionId=77620&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240626T141000
-DTEND;TZID=Europe/London:20240626T161500
-DTSTAMP:20240626T131000Z
-UID:77621
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77621&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240626T163000
-DTEND;TZID=Europe/London:20240626T183500
-DTSTAMP:20240626T153000Z
-UID:77622
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77622&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240626T190000
-DTEND;TZID=Europe/London:20240626T210500
-DTSTAMP:20240626T180000Z
-UID:77644
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77644&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240627T115000
-DTEND;TZID=Europe/London:20240627T135500
-DTSTAMP:20240627T105000Z
-UID:77638
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77638&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240627T141000
-DTEND;TZID=Europe/London:20240627T161500
-DTSTAMP:20240627T131000Z
-UID:77639
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77639&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240627T163000
-DTEND;TZID=Europe/London:20240627T183500
-DTSTAMP:20240627T153000Z
-UID:77640
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77640&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240627T190000
-DTEND;TZID=Europe/London:20240627T210500
-DTSTAMP:20240627T180000Z
-UID:77631
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014655/inside-o
- ut-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
- ?cinemacode=021&txtSessionId=77631&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240629T123000
-DTEND;TZID=Europe/London:20240629T143500
-DTSTAMP:20240629T113000Z
-UID:77657
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77657&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240629T150000
-DTEND;TZID=Europe/London:20240629T170500
-DTSTAMP:20240629T140000Z
-UID:77656
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77656&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240629T173000
-DTEND;TZID=Europe/London:20240629T193500
-DTSTAMP:20240629T163000Z
-UID:77658
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77658&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240630T120000
-DTEND;TZID=Europe/London:20240630T140500
-DTSTAMP:20240630T110000Z
-UID:77659
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77659&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240630T143000
-DTEND;TZID=Europe/London:20240630T163500
-DTSTAMP:20240630T133000Z
-UID:77660
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77660&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240630T170000
-DTEND;TZID=Europe/London:20240630T190500
-DTSTAMP:20240630T160000Z
-UID:77661
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77661&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Live: Die Walkure (2025)
-DTSTART;TZID=Europe/London:20250514T170000
-DTEND;TZID=Europe/London:20250514T230500
-DTSTAMP:20250514T160000Z
-UID:77481
-DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 2\n\nAd and Trailer Free: 
+SUMMARY:RB&O Encore: Turandot (2025)
+DTSTART;TZID=Europe/London:20250408T120000
+DTEND;TZID=Europe/London:20250408T152500
+DTSTAMP:20250408T110000Z
+UID:77480
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 2\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/021/HO00014746/rb-o-live-die-walkure-2025/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77481&visLang=1
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/021/HO00014795/rb-o-encore-turandot-2025/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77480
+ &visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bad Boys: Ride Or Die
-DTSTART;TZID=Europe/London:20240624T170000
-DTEND;TZID=Europe/London:20240624T192000
-DTSTAMP:20240624T160000Z
-UID:77543
-DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014639/bad-boys-ride-or-die/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
- essionId=77543&visLang=1
+SUMMARY:Bye Bye Tiberias
+DTSTART;TZID=Europe/London:20240628T131000
+DTEND;TZID=Europe/London:20240628T150500
+DTSTAMP:20240628T121000Z
+UID:77669
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014815/bye-bye-tiberias/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
+ nId=77669&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bad Boys: Ride Or Die
-DTSTART;TZID=Europe/London:20240625T202000
-DTEND;TZID=Europe/London:20240625T224000
-DTSTAMP:20240625T192000Z
-UID:77600
-DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014639/bad-boys-ride-or-die/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
- essionId=77600&visLang=1
+SUMMARY:Bye Bye Tiberias
+DTSTART;TZID=Europe/London:20240629T153000
+DTEND;TZID=Europe/London:20240629T172500
+DTSTAMP:20240629T143000Z
+UID:77686
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014815/bye-bye-tiberias/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
+ nId=77686&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bad Boys: Ride Or Die
-DTSTART;TZID=Europe/London:20240626T200000
-DTEND;TZID=Europe/London:20240626T222000
-DTSTAMP:20240626T190000Z
-UID:77618
-DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 2\n\nSubtitled (Captioned)
+SUMMARY:Bye Bye Tiberias
+DTSTART;TZID=Europe/London:20240630T153000
+DTEND;TZID=Europe/London:20240630T172500
+DTSTAMP:20240630T143000Z
+UID:77701
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014815/bye-bye-tiberias/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
+ nId=77701&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bye Bye Tiberias
+DTSTART;TZID=Europe/London:20240701T133000
+DTEND;TZID=Europe/London:20240701T152500
+DTSTAMP:20240701T123000Z
+UID:77718
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014815/bye-bye-tiberias/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
+ nId=77718&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bye Bye Tiberias
+DTSTART;TZID=Europe/London:20240702T155000
+DTEND;TZID=Europe/London:20240702T174500
+DTSTAMP:20240702T145000Z
+UID:77732
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014815/bye-bye-tiberias/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
+ nId=77732&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bye Bye Tiberias
+DTSTART;TZID=Europe/London:20240703T163000
+DTEND;TZID=Europe/London:20240703T182500
+DTSTAMP:20240703T153000Z
+UID:77742
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014815/bye-bye-tiberias/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
+ nId=77742&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bye Bye Tiberias
+DTSTART;TZID=Europe/London:20240704T131000
+DTEND;TZID=Europe/London:20240704T150500
+DTSTAMP:20240704T121000Z
+UID:77748
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014815/bye-bye-tiberias/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
+ nId=77748&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240628T134500
+DTEND;TZID=Europe/London:20240628T154500
+DTSTAMP:20240628T124500Z
+UID:77677
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7677&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240628T180000
+DTEND;TZID=Europe/London:20240628T200000
+DTSTAMP:20240628T170000Z
+UID:77666
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7666&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240629T121000
+DTEND;TZID=Europe/London:20240629T141000
+DTSTAMP:20240629T111000Z
+UID:77684
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7684&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240629T171500
+DTEND;TZID=Europe/London:20240629T191500
+DTSTAMP:20240629T161500Z
+UID:77689
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7689&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240630T130000
+DTEND;TZID=Europe/London:20240630T150000
+DTSTAMP:20240630T120000Z
+UID:77697
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7697&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240630T174500
+DTEND;TZID=Europe/London:20240630T194500
+DTSTAMP:20240630T164500Z
+UID:77700
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 5\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014768/fancy-da
+ nce/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=77700&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240701T153000
+DTEND;TZID=Europe/London:20240701T173000
+DTSTAMP:20240701T143000Z
+UID:77707
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7707&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240701T171500
+DTEND;TZID=Europe/London:20240701T191500
+DTSTAMP:20240701T161500Z
+UID:77717
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7717&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240702T133000
+DTEND;TZID=Europe/London:20240702T153000
+DTSTAMP:20240702T123000Z
+UID:77782
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014768/fancy-da
+ nce/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=021&txtSessionId=77782&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240702T181000
+DTEND;TZID=Europe/London:20240702T201000
+DTSTAMP:20240702T171000Z
+UID:77724
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7724&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240703T153000
+DTEND;TZID=Europe/London:20240703T173000
+DTSTAMP:20240703T143000Z
+UID:77743
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7743&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240703T180000
+DTEND;TZID=Europe/London:20240703T200000
+DTSTAMP:20240703T170000Z
+UID:77739
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7739&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240704T154500
+DTEND;TZID=Europe/London:20240704T174500
+DTSTAMP:20240704T144500Z
+UID:77765
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7765&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fancy Dance
+DTSTART;TZID=Europe/London:20240704T181500
+DTEND;TZID=Europe/London:20240704T201500
+DTSTAMP:20240704T171500Z
+UID:77761
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014768/fancy-dance/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7761&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240628T140000
+DTEND;TZID=Europe/London:20240628T171000
+DTSTAMP:20240628T130000Z
+UID:77682
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nSubtitled (Captioned)
  : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014639/bad-boy
- s-ride-or-die/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=021&txtSessionId=77618&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bad Boys: Ride Or Die
-DTSTART;TZID=Europe/London:20240627T171500
-DTEND;TZID=Europe/London:20240627T193500
-DTSTAMP:20240627T161500Z
-UID:77636
-DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 4\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014639/bad-boy
- s-ride-or-die/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=021&txtSessionId=77636&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Gigolo
-DTSTART;TZID=Europe/London:20240728T170000
-DTEND;TZID=Europe/London:20240728T192500
-DTSTAMP:20240728T160000Z
-UID:77285
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 3\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
- t to watch the hand-picked films in our Film Club for just £1 (Terms and 
- Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO000
- 14784/film-club-american-gigolo/\nhttps://ticketing.picturehouses.com/Tick
- eting/visSelectTickets.aspx?cinemacode=021&txtSessionId=77285&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chimera
-DTSTART;TZID=Europe/London:20240624T171000
-DTEND;TZID=Europe/London:20240624T195000
-DTSTAMP:20240624T161000Z
-UID:77540
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014562/la-chimera/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 7540&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chimera
-DTSTART;TZID=Europe/London:20240625T114500
-DTEND;TZID=Europe/London:20240625T142500
-DTSTAMP:20240625T104500Z
-UID:77594
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014562/la-chimera/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 7594&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chimera
-DTSTART;TZID=Europe/London:20240625T173000
-DTEND;TZID=Europe/London:20240625T201000
-DTSTAMP:20240625T163000Z
-UID:77588
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014562/la-chimera/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 7588&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chimera
-DTSTART;TZID=Europe/London:20240626T115000
-DTEND;TZID=Europe/London:20240626T143000
-DTSTAMP:20240626T105000Z
-UID:77612
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014562/la-chimera/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 7612&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chimera
-DTSTART;TZID=Europe/London:20240626T170000
-DTEND;TZID=Europe/London:20240626T194000
-DTSTAMP:20240626T160000Z
-UID:77606
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014562/la-chimera/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 7606&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chimera
-DTSTART;TZID=Europe/London:20240627T120000
-DTEND;TZID=Europe/London:20240627T144000
-DTSTAMP:20240627T110000Z
-UID:77630
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014562/la-chimera/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 7630&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chimera
-DTSTART;TZID=Europe/London:20240627T174500
-DTEND;TZID=Europe/London:20240627T202500
-DTSTAMP:20240627T164500Z
-UID:77624
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014562/la-chimera/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
- 7624&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240624T173000
-DTEND;TZID=Europe/London:20240624T195500
-DTSTAMP:20240624T163000Z
-UID:77582
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014201/the-bik
- eriders/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=021&txtSessionId=77582&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240624T201000
-DTEND;TZID=Europe/London:20240624T223500
-DTSTAMP:20240624T191000Z
-UID:77569
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77569&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240625T120000
-DTEND;TZID=Europe/London:20240625T142500
-DTSTAMP:20240625T110000Z
-UID:77601
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77601&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240625T144000
-DTEND;TZID=Europe/London:20240625T170500
-DTSTAMP:20240625T134000Z
-UID:77605
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77605&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240625T173000
-DTEND;TZID=Europe/London:20240625T195500
-DTSTAMP:20240625T163000Z
-UID:77591
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77591&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240625T201000
-DTEND;TZID=Europe/London:20240625T223500
-DTSTAMP:20240625T191000Z
-UID:77597
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77597&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240626T144000
-DTEND;TZID=Europe/London:20240626T170500
-DTSTAMP:20240626T134000Z
-UID:77623
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77623&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240626T173000
-DTEND;TZID=Europe/London:20240626T195500
-DTSTAMP:20240626T163000Z
-UID:77609
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77609&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240626T201000
-DTEND;TZID=Europe/London:20240626T223500
-DTSTAMP:20240626T191000Z
-UID:77615
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014201/the-bik
- eriders/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=021&txtSessionId=77615&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240627T125000
-DTEND;TZID=Europe/London:20240627T151500
-DTSTAMP:20240627T115000Z
-UID:77637
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77637&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240627T153000
-DTEND;TZID=Europe/London:20240627T175500
-DTSTAMP:20240627T143000Z
-UID:77641
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77641&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240627T173000
-DTEND;TZID=Europe/London:20240627T195500
-DTSTAMP:20240627T163000Z
-UID:77627
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77627&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240627T201000
-DTEND;TZID=Europe/London:20240627T223500
-DTSTAMP:20240627T191000Z
-UID:77633
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
- Id=77633&visLang=1
+ oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014736/kinds-o
+ f-kindness/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=021&txtSessionId=77682&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1437,6 +869,30 @@ LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240701T123000
+DTEND;TZID=Europe/London:20240701T154000
+DTSTAMP:20240701T113000Z
+UID:77710
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=77710&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240701T161000
+DTEND;TZID=Europe/London:20240701T192000
+DTSTAMP:20240701T151000Z
+UID:76985
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=76985&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
 DTSTART;TZID=Europe/London:20240701T194500
 DTEND;TZID=Europe/London:20240701T225500
 DTSTAMP:20240701T184500Z
@@ -1445,6 +901,1275 @@ DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
  ionId=76986&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240702T120000
+DTEND;TZID=Europe/London:20240702T151000
+DTSTAMP:20240702T110000Z
+UID:77730
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=77730&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240702T141500
+DTEND;TZID=Europe/London:20240702T172500
+DTSTAMP:20240702T131500Z
+UID:77728
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=77728&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240702T173000
+DTEND;TZID=Europe/London:20240702T204000
+DTSTAMP:20240702T163000Z
+UID:76987
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=76987&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240702T194500
+DTEND;TZID=Europe/London:20240702T225500
+DTSTAMP:20240702T184500Z
+UID:76988
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=76988&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240703T121000
+DTEND;TZID=Europe/London:20240703T152000
+DTSTAMP:20240703T111000Z
+UID:77736
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 3\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014736/kinds-o
+ f-kindness/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=021&txtSessionId=77736&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240703T140000
+DTEND;TZID=Europe/London:20240703T171000
+DTSTAMP:20240703T130000Z
+UID:77734
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=77734&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240703T173000
+DTEND;TZID=Europe/London:20240703T204000
+DTSTAMP:20240703T163000Z
+UID:76989
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=76989&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240703T194500
+DTEND;TZID=Europe/London:20240703T225500
+DTSTAMP:20240703T184500Z
+UID:76990
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=76990&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240704T120000
+DTEND;TZID=Europe/London:20240704T151000
+DTSTAMP:20240704T110000Z
+UID:77750
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=77750&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240704T142000
+DTEND;TZID=Europe/London:20240704T173000
+DTSTAMP:20240704T132000Z
+UID:77752
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=77752&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240704T173000
+DTEND;TZID=Europe/London:20240704T204000
+DTSTAMP:20240704T163000Z
+UID:77758
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014736/kinds-o
+ f-kindness/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=021&txtSessionId=77758&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240704T194500
+DTEND;TZID=Europe/London:20240704T225500
+DTSTAMP:20240704T184500Z
+UID:77756
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=77756&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Princess Bride
+DTSTART;TZID=Europe/London:20240728T141500
+DTEND;TZID=Europe/London:20240728T161500
+DTSTAMP:20240728T131500Z
+UID:77290
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/021/HO00014771/the-princess-bride/\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77290&v
+ isLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Freud's Last Session
+DTSTART;TZID=Europe/London:20240627T144000
+DTEND;TZID=Europe/London:20240627T165500
+DTSTAMP:20240627T134000Z
+UID:77629
+DESCRIPTION:Duration: 1h 49m (109 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014652/freud-s-last-session/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77629&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Treasure
+DTSTART;TZID=Europe/London:20240627T150000
+DTEND;TZID=Europe/London:20240627T172000
+DTSTAMP:20240627T140000Z
+UID:77626
+DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014653/treasure/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=776
+ 26&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coraline (15th Anniversary)
+DTSTART;TZID=Europe/London:20240817T150000
+DTEND;TZID=Europe/London:20240817T171500
+DTSTAMP:20240817T140000Z
+UID:77649
+DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014763/coraline-15th-anniversary/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021
+ &txtSessionId=77649&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moonstruck
+DTSTART;TZID=Europe/London:20240804T160000
+DTEND;TZID=Europe/London:20240804T181000
+DTSTAMP:20240804T150000Z
+UID:77291
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 3\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00014783/moonstruck/\nhttps://ticketing.picturehouses.com/
+ Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77291&visLang=
+ 1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Before Sunset
+DTSTART;TZID=Europe/London:20240721T160000
+DTEND;TZID=Europe/London:20240721T174500
+DTSTAMP:20240721T150000Z
+UID:76889
+DESCRIPTION:Duration: 1h 20m (80 mins)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/021/HO00014674/before-sunset/\nhttps://ticketing.picturehouses.co
+ m/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=76889&visLan
+ g=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 400 Blows
+DTSTART;TZID=Europe/London:20240630T160000
+DTEND;TZID=Europe/London:20240630T180000
+DTSTAMP:20240630T150000Z
+UID:76886
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 4\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
+  to watch the hand-picked films in our Film Club for just £1 (Terms and C
+ onditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO0001
+ 4670/film-club-the-400-blows/\nhttps://ticketing.picturehouses.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=021&txtSessionId=76886&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Shop of Horrors
+DTSTART;TZID=Europe/London:20240818T160000
+DTEND;TZID=Europe/London:20240818T181000
+DTSTAMP:20240818T150000Z
+UID:77288
+DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00014787/little-shop-of-horrors/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77
+ 288&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amelie
+DTSTART;TZID=Europe/London:20240714T160000
+DTEND;TZID=Europe/London:20240714T183000
+DTSTAMP:20240714T150000Z
+UID:76888
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00014671/amelie/\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=021&txtSessionId=76888&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breathless
+DTSTART;TZID=Europe/London:20240707T160000
+DTEND;TZID=Europe/London:20240707T175500
+DTSTAMP:20240707T150000Z
+UID:76887
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
+  to watch the hand-picked films in our Film Club for just £1 (Terms and C
+ onditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO0001
+ 4673/film-club-breathless/\nhttps://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=021&txtSessionId=76887&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horizon: An American Saga - Chapter One
+DTSTART;TZID=Europe/London:20240628T161000
+DTEND;TZID=Europe/London:20240628T194000
+DTSTAMP:20240628T151000Z
+UID:77668
+DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014859/horizon-an-american-saga-chapter-one
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=021&txtSessionId=77668&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horizon: An American Saga - Chapter One
+DTSTART;TZID=Europe/London:20240629T193000
+DTEND;TZID=Europe/London:20240629T230000
+DTSTAMP:20240629T183000Z
+UID:77672
+DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014859/horizon-an-american-saga-chapter-one
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=021&txtSessionId=77672&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horizon: An American Saga - Chapter One
+DTSTART;TZID=Europe/London:20240630T185000
+DTEND;TZID=Europe/London:20240630T222000
+DTSTAMP:20240630T175000Z
+UID:77695
+DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014859/horizon-an-american-saga-chapter-one
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=021&txtSessionId=77695&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horizon: An American Saga - Chapter One
+DTSTART;TZID=Europe/London:20240701T193000
+DTEND;TZID=Europe/London:20240701T230000
+DTSTAMP:20240701T183000Z
+UID:77704
+DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014859/horizon-an-american-saga-chapter-one
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=021&txtSessionId=77704&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horizon: An American Saga - Chapter One
+DTSTART;TZID=Europe/London:20240702T193000
+DTEND;TZID=Europe/London:20240702T230000
+DTSTAMP:20240702T183000Z
+UID:77723
+DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014859/horizon-an-american-saga-chapter-one
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=021&txtSessionId=77723&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horizon: An American Saga - Chapter One
+DTSTART;TZID=Europe/London:20240703T190000
+DTEND;TZID=Europe/London:20240703T223000
+DTSTAMP:20240703T180000Z
+UID:77740
+DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014859/horizon-an-american-saga-chapter-one
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=021&txtSessionId=77740&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Horizon: An American Saga - Chapter One
+DTSTART;TZID=Europe/London:20240704T190000
+DTEND;TZID=Europe/London:20240704T223000
+DTSTAMP:20240704T180000Z
+UID:77762
+DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014859/horizon-an-american-saga-chapter-one
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=021&txtSessionId=77762&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Top Gun
+DTSTART;TZID=Europe/London:20240811T163000
+DTEND;TZID=Europe/London:20240811T185000
+DTSTAMP:20240811T153000Z
+UID:77297
+DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00001507/top-gun/\nhttps://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=021&txtSessionId=77297&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Broadcast News
+DTSTART;TZID=Europe/London:20240825T163000
+DTEND;TZID=Europe/London:20240825T191000
+DTSTAMP:20240825T153000Z
+UID:77299
+DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00014788/broadcast-news/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77299&visL
+ ang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240626T163000
+DTEND;TZID=Europe/London:20240626T183500
+DTSTAMP:20240626T153000Z
+UID:77622
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77622&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240626T190000
+DTEND;TZID=Europe/London:20240626T210500
+DTSTAMP:20240626T180000Z
+UID:77644
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77644&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240627T115000
+DTEND;TZID=Europe/London:20240627T135500
+DTSTAMP:20240627T105000Z
+UID:77638
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77638&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240627T141000
+DTEND;TZID=Europe/London:20240627T161500
+DTSTAMP:20240627T131000Z
+UID:77639
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77639&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240627T163000
+DTEND;TZID=Europe/London:20240627T183500
+DTSTAMP:20240627T153000Z
+UID:77640
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77640&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240627T190000
+DTEND;TZID=Europe/London:20240627T210500
+DTSTAMP:20240627T180000Z
+UID:77631
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014655/inside-o
+ ut-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=021&txtSessionId=77631&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240628T114000
+DTEND;TZID=Europe/London:20240628T134500
+DTSTAMP:20240628T104000Z
+UID:77676
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77676&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240628T153000
+DTEND;TZID=Europe/London:20240628T173500
+DTSTAMP:20240628T143000Z
+UID:77675
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77675&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240628T172000
+DTEND;TZID=Europe/London:20240628T192500
+DTSTAMP:20240628T162000Z
+UID:77673
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77673&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240628T201500
+DTEND;TZID=Europe/London:20240628T222000
+DTSTAMP:20240628T191500Z
+UID:77667
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014655/inside-o
+ ut-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=021&txtSessionId=77667&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240629T111000
+DTEND;TZID=Europe/London:20240629T131500
+DTSTAMP:20240629T101000Z
+UID:77683
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77683&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240629T123000
+DTEND;TZID=Europe/London:20240629T143500
+DTSTAMP:20240629T113000Z
+UID:77657
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77657&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240629T150000
+DTEND;TZID=Europe/London:20240629T170500
+DTSTAMP:20240629T140000Z
+UID:77656
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77656&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240629T173000
+DTEND;TZID=Europe/London:20240629T193500
+DTSTAMP:20240629T163000Z
+UID:77658
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77658&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240629T201500
+DTEND;TZID=Europe/London:20240629T222000
+DTSTAMP:20240629T191500Z
+UID:77691
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77691&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240630T104000
+DTEND;TZID=Europe/London:20240630T124500
+DTSTAMP:20240630T094000Z
+UID:77719
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77719&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240630T120000
+DTEND;TZID=Europe/London:20240630T140500
+DTSTAMP:20240630T110000Z
+UID:77659
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014655/inside-o
+ ut-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=021&txtSessionId=77659&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240630T143000
+DTEND;TZID=Europe/London:20240630T163500
+DTSTAMP:20240630T133000Z
+UID:77660
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77660&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240630T170000
+DTEND;TZID=Europe/London:20240630T190500
+DTSTAMP:20240630T160000Z
+UID:77661
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77661&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240630T193000
+DTEND;TZID=Europe/London:20240630T213500
+DTSTAMP:20240630T183000Z
+UID:77703
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77703&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240701T130000
+DTEND;TZID=Europe/London:20240701T150500
+DTSTAMP:20240701T120000Z
+UID:77713
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77713&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240701T155000
+DTEND;TZID=Europe/London:20240701T175500
+DTSTAMP:20240701T145000Z
+UID:77767
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014655/inside-o
+ ut-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=021&txtSessionId=77767&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240701T181000
+DTEND;TZID=Europe/London:20240701T201500
+DTSTAMP:20240701T171000Z
+UID:77709
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77709&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240701T201500
+DTEND;TZID=Europe/London:20240701T222000
+DTSTAMP:20240701T191500Z
+UID:77779
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77779&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240702T123000
+DTEND;TZID=Europe/London:20240702T143500
+DTSTAMP:20240702T113000Z
+UID:77769
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77769&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240702T144500
+DTEND;TZID=Europe/London:20240702T165000
+DTSTAMP:20240702T134500Z
+UID:77768
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77768&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240702T170000
+DTEND;TZID=Europe/London:20240702T190500
+DTSTAMP:20240702T160000Z
+UID:77783
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77783&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240702T204000
+DTEND;TZID=Europe/London:20240702T224500
+DTSTAMP:20240702T194000Z
+UID:77780
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77780&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240703T130000
+DTEND;TZID=Europe/London:20240703T150500
+DTSTAMP:20240703T120000Z
+UID:77737
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77737&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240703T154000
+DTEND;TZID=Europe/London:20240703T174500
+DTSTAMP:20240703T144000Z
+UID:77770
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77770&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240703T174500
+DTEND;TZID=Europe/London:20240703T195000
+DTSTAMP:20240703T164500Z
+UID:77744
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014655/inside-o
+ ut-2/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=021&txtSessionId=77744&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240703T200000
+DTEND;TZID=Europe/London:20240703T220500
+DTSTAMP:20240703T190000Z
+UID:77781
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77781&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240704T131500
+DTEND;TZID=Europe/London:20240704T152000
+DTSTAMP:20240704T121500Z
+UID:77759
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77759&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240704T155000
+DTEND;TZID=Europe/London:20240704T175500
+DTSTAMP:20240704T145000Z
+UID:77771
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77771&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240704T181000
+DTEND;TZID=Europe/London:20240704T201500
+DTSTAMP:20240704T171000Z
+UID:77749
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77749&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Out 2
+DTSTART;TZID=Europe/London:20240704T203000
+DTEND;TZID=Europe/London:20240704T223500
+DTSTAMP:20240704T193000Z
+UID:77785
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014655/inside-out-2/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77785&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Live: Die Walkure (2025)
+DTSTART;TZID=Europe/London:20250514T170000
+DTEND;TZID=Europe/London:20250514T230500
+DTSTAMP:20250514T160000Z
+UID:77481
+DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/021/HO00014746/rb-o-live-die-walkure-2025/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77481&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American Gigolo
+DTSTART;TZID=Europe/London:20240728T170000
+DTEND;TZID=Europe/London:20240728T192500
+DTSTAMP:20240728T160000Z
+UID:77285
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 3\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
+ t to watch the hand-picked films in our Film Club for just £1 (Terms and 
+ Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO000
+ 14784/film-club-american-gigolo/\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=021&txtSessionId=77285&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chimera
+DTSTART;TZID=Europe/London:20240626T170000
+DTEND;TZID=Europe/London:20240626T194000
+DTSTAMP:20240626T160000Z
+UID:77606
+DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014562/la-chimera/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7606&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chimera
+DTSTART;TZID=Europe/London:20240627T120000
+DTEND;TZID=Europe/London:20240627T144000
+DTSTAMP:20240627T110000Z
+UID:77630
+DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014562/la-chimera/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7630&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chimera
+DTSTART;TZID=Europe/London:20240627T174500
+DTEND;TZID=Europe/London:20240627T202500
+DTSTAMP:20240627T164500Z
+UID:77624
+DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014562/la-chimera/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=7
+ 7624&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240626T173000
+DTEND;TZID=Europe/London:20240626T195500
+DTSTAMP:20240626T163000Z
+UID:77609
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77609&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240626T201000
+DTEND;TZID=Europe/London:20240626T223500
+DTSTAMP:20240626T191000Z
+UID:77615
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014201/the-bik
+ eriders/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=021&txtSessionId=77615&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240627T125000
+DTEND;TZID=Europe/London:20240627T151500
+DTSTAMP:20240627T115000Z
+UID:77637
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77637&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240627T153000
+DTEND;TZID=Europe/London:20240627T175500
+DTSTAMP:20240627T143000Z
+UID:77641
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77641&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240627T173000
+DTEND;TZID=Europe/London:20240627T195500
+DTSTAMP:20240627T163000Z
+UID:77627
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77627&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240627T201000
+DTEND;TZID=Europe/London:20240627T223500
+DTSTAMP:20240627T191000Z
+UID:77633
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77633&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240628T151000
+DTEND;TZID=Europe/London:20240628T173500
+DTSTAMP:20240628T141000Z
+UID:77680
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77680&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240628T203000
+DTEND;TZID=Europe/London:20240628T225500
+DTSTAMP:20240628T193000Z
+UID:76993
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=76993&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240629T144000
+DTEND;TZID=Europe/London:20240629T170500
+DTSTAMP:20240629T134000Z
+UID:77685
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77685&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240629T174000
+DTEND;TZID=Europe/London:20240629T200500
+DTSTAMP:20240629T164000Z
+UID:77690
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 5\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014201/the-bik
+ eriders/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=021&txtSessionId=77690&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240630T133000
+DTEND;TZID=Europe/London:20240630T155500
+DTSTAMP:20240630T123000Z
+UID:77702
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77702&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240630T200000
+DTEND;TZID=Europe/London:20240630T222500
+DTSTAMP:20240630T190000Z
+UID:77699
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77699&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240701T144000
+DTEND;TZID=Europe/London:20240701T170500
+DTSTAMP:20240701T134000Z
+UID:77716
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77716&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240701T174500
+DTEND;TZID=Europe/London:20240701T201000
+DTSTAMP:20240701T164500Z
+UID:77705
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 5\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014201/the-bik
+ eriders/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=021&txtSessionId=77705&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240702T124500
+DTEND;TZID=Europe/London:20240702T151000
+DTSTAMP:20240702T114500Z
+UID:77784
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 5\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014201/the-bik
+ eriders/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=021&txtSessionId=77784&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240702T152000
+DTEND;TZID=Europe/London:20240702T174500
+DTSTAMP:20240702T142000Z
+UID:77733
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77733&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240702T180000
+DTEND;TZID=Europe/London:20240702T202500
+DTSTAMP:20240702T170000Z
+UID:77722
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77722&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240703T135000
+DTEND;TZID=Europe/London:20240703T161500
+DTSTAMP:20240703T125000Z
+UID:77745
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77745&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240703T202000
+DTEND;TZID=Europe/London:20240703T224500
+DTSTAMP:20240703T192000Z
+UID:77741
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77741&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240704T142000
+DTEND;TZID=Europe/London:20240704T164500
+DTSTAMP:20240704T132000Z
+UID:77747
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77747&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240704T203000
+DTEND;TZID=Europe/London:20240704T225500
+DTSTAMP:20240704T193000Z
+UID:77763
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSession
+ Id=77763&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilding
+DTSTART;TZID=Europe/London:20240626T173000
+DTEND;TZID=Europe/London:20240626T191000
+DTSTAMP:20240626T163000Z
+UID:77614
+DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77614
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilding
+DTSTART;TZID=Europe/London:20240627T123000
+DTEND;TZID=Europe/London:20240627T141000
+DTSTAMP:20240627T113000Z
+UID:77628
+DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77628
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilding
+DTSTART;TZID=Europe/London:20240627T204000
+DTEND;TZID=Europe/London:20240627T222000
+DTSTAMP:20240627T194000Z
+UID:77632
+DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77632
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilding
+DTSTART;TZID=Europe/London:20240628T130000
+DTEND;TZID=Europe/London:20240628T144000
+DTSTAMP:20240628T120000Z
+UID:77671
+DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77671
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilding
+DTSTART;TZID=Europe/London:20240629T132000
+DTEND;TZID=Europe/London:20240629T150000
+DTSTAMP:20240629T122000Z
+UID:77687
+DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77687
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilding
+DTSTART;TZID=Europe/London:20240630T113000
+DTEND;TZID=Europe/London:20240630T131000
+DTSTAMP:20240630T103000Z
+UID:77696
+DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77696
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilding
+DTSTART;TZID=Europe/London:20240701T124000
+DTEND;TZID=Europe/London:20240701T142000
+DTSTAMP:20240701T114000Z
+UID:77708
+DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77708
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilding
+DTSTART;TZID=Europe/London:20240704T121500
+DTEND;TZID=Europe/London:20240704T135500
+DTSTAMP:20240704T111500Z
+UID:77774
+DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77774
+ &visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilding
+DTSTART;TZID=Europe/London:20240704T170000
+DTEND;TZID=Europe/London:20240704T184000
+DTSTAMP:20240704T160000Z
+UID:77772
+DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77772
+ &visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1484,18 +2209,354 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Live: The Marriage of Figaro (2024)
-DTSTART;TZID=Europe/London:20240910T183000
-DTEND;TZID=Europe/London:20240910T223000
-DTSTAMP:20240910T173000Z
-UID:77458
-DESCRIPTION:Duration: 4h 00m (240 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/021/HO00014704/rb-o-live-the-marriage-of-figaro-2024/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021
- &txtSessionId=77458&visLang=1
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240628T132000
+DTEND;TZID=Europe/London:20240628T152000
+DTSTAMP:20240628T122000Z
+UID:77679
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77679&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240628T154000
+DTEND;TZID=Europe/London:20240628T174000
+DTSTAMP:20240628T144000Z
+UID:77678
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77678&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240628T181000
+DTEND;TZID=Europe/London:20240628T201000
+DTSTAMP:20240628T171000Z
+UID:76959
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76959&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240628T211000
+DTEND;TZID=Europe/London:20240628T231000
+DTSTAMP:20240628T201000Z
+UID:76960
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76960&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240629T135000
+DTEND;TZID=Europe/London:20240629T155000
+DTSTAMP:20240629T125000Z
+UID:76961
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76961&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240629T161000
+DTEND;TZID=Europe/London:20240629T181000
+DTSTAMP:20240629T151000Z
+UID:76962
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014721/a-quiet-
+ place-day-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=021&txtSessionId=76962&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240629T183000
+DTEND;TZID=Europe/London:20240629T203000
+DTSTAMP:20240629T173000Z
+UID:76963
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76963&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240629T205000
+DTEND;TZID=Europe/London:20240629T225000
+DTSTAMP:20240629T195000Z
+UID:76964
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76964&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240630T130000
+DTEND;TZID=Europe/London:20240630T150000
+DTSTAMP:20240630T120000Z
+UID:77693
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77693&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240630T152000
+DTEND;TZID=Europe/London:20240630T172000
+DTSTAMP:20240630T142000Z
+UID:77694
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77694&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240630T174000
+DTEND;TZID=Europe/London:20240630T194000
+DTSTAMP:20240630T164000Z
+UID:76967
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76967&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240630T201000
+DTEND;TZID=Europe/London:20240630T221000
+DTSTAMP:20240630T191000Z
+UID:76968
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76968&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240701T114500
+DTEND;TZID=Europe/London:20240701T134500
+DTSTAMP:20240701T104500Z
+UID:77712
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77712&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240701T140000
+DTEND;TZID=Europe/London:20240701T160000
+DTSTAMP:20240701T130000Z
+UID:77714
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77714&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240701T161500
+DTEND;TZID=Europe/London:20240701T181500
+DTSTAMP:20240701T151500Z
+UID:77711
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77711&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240701T183000
+DTEND;TZID=Europe/London:20240701T203000
+DTSTAMP:20240701T173000Z
+UID:76969
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014721/a-quiet-
+ place-day-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=021&txtSessionId=76969&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240701T205000
+DTEND;TZID=Europe/London:20240701T225000
+DTSTAMP:20240701T195000Z
+UID:76970
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76970&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240702T121000
+DTEND;TZID=Europe/London:20240702T141000
+DTSTAMP:20240702T111000Z
+UID:77729
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77729&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240702T152000
+DTEND;TZID=Europe/London:20240702T172000
+DTSTAMP:20240702T142000Z
+UID:77727
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77727&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240702T174000
+DTEND;TZID=Europe/London:20240702T194000
+DTSTAMP:20240702T164000Z
+UID:76971
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76971&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240702T205000
+DTEND;TZID=Europe/London:20240702T225000
+DTSTAMP:20240702T195000Z
+UID:76972
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76972&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240703T124000
+DTEND;TZID=Europe/London:20240703T144000
+DTSTAMP:20240703T114000Z
+UID:76973
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76973&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240703T150000
+DTEND;TZID=Europe/London:20240703T170000
+DTSTAMP:20240703T140000Z
+UID:77665
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77665&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240703T172000
+DTEND;TZID=Europe/London:20240703T192000
+DTSTAMP:20240703T162000Z
+UID:77735
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77735&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240703T205000
+DTEND;TZID=Europe/London:20240703T225000
+DTSTAMP:20240703T195000Z
+UID:76974
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=76974&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240704T121000
+DTEND;TZID=Europe/London:20240704T141000
+DTSTAMP:20240704T111000Z
+UID:77751
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77751&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240704T152000
+DTEND;TZID=Europe/London:20240704T172000
+DTSTAMP:20240704T142000Z
+UID:77753
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014721/a-quiet-
+ place-day-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=021&txtSessionId=77753&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240704T174000
+DTEND;TZID=Europe/London:20240704T194000
+DTSTAMP:20240704T164000Z
+UID:77757
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77757&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240704T205000
+DTEND;TZID=Europe/London:20240704T225000
+DTSTAMP:20240704T195000Z
+UID:77754
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtS
+ essionId=77754&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1510,6 +2571,21 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\nScreen 2\n\nreDiscover: Time to b
   with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
  e-details/021/HO00014772/hardcore/\nhttps://ticketing.picturehouses.com/Ti
  cketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77284&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Live: The Marriage of Figaro (2024)
+DTSTART;TZID=Europe/London:20240910T183000
+DTEND;TZID=Europe/London:20240910T223000
+DTSTAMP:20240910T173000Z
+UID:77458
+DESCRIPTION:Duration: 4h 00m (240 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/021/HO00014704/rb-o-live-the-marriage-of-figaro-2024/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021
+ &txtSessionId=77458&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1592,51 +2668,6 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Live: Ballet To Broadway: Wheeldon Works (2025)
-DTSTART;TZID=Europe/London:20250522T191500
-DTEND;TZID=Europe/London:20250522T221500
-DTSTAMP:20250522T181500Z
-UID:77484
-DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/021/HO00014747/rb-o-live-ballet-to-broadway-wheeldon-works-2025
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=021&txtSessionId=77484&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Live: Cinderella (2024)
-DTSTART;TZID=Europe/London:20241210T191500
-DTEND;TZID=Europe/London:20241210T223000
-DTSTAMP:20241210T191500Z
-UID:77462
-DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/021/HO00014706/rb-o-live-cinderella-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionI
- d=77462&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Live: Romeo & Juliet (2025)
-DTSTART;TZID=Europe/London:20250320T191500
-DTEND;TZID=Europe/London:20250320T224500
-DTSTAMP:20250320T191500Z
-UID:77474
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/021/HO00014743/rb-o-live-romeo-juliet-2025/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
- nId=77474&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RB&O: Swan Lake (Captured Live 2024)
 DTSTART;TZID=Europe/London:20250227T191500
 DTEND;TZID=Europe/London:20250227T224500
@@ -1665,6 +2696,36 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RB&O Live: Romeo & Juliet (2025)
+DTSTART;TZID=Europe/London:20250320T191500
+DTEND;TZID=Europe/London:20250320T224500
+DTSTAMP:20250320T191500Z
+UID:77474
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/021/HO00014743/rb-o-live-romeo-juliet-2025/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessio
+ nId=77474&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Live: Ballet To Broadway: Wheeldon Works (2025)
+DTSTART;TZID=Europe/London:20250522T191500
+DTEND;TZID=Europe/London:20250522T221500
+DTSTAMP:20250522T181500Z
+UID:77484
+DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/021/HO00014747/rb-o-live-ballet-to-broadway-wheeldon-works-2025
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=021&txtSessionId=77484&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RB&O Live: Alice's Adventures in Wonderland (2024)
 DTSTART;TZID=Europe/London:20241015T191500
 DTEND;TZID=Europe/London:20241015T224000
@@ -1680,39 +2741,18 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outdoor: Jaws
-DTSTART;TZID=Europe/London:20240728T193000
-DTEND;TZID=Europe/London:20240728T220000
-DTSTAMP:20240728T183000Z
-UID:76879
-DESCRIPTION:Duration: 2h 04m (124 mins)\nOutdoor Venue\n\nhttps://www.pict
- urehouses.com/movie-details/021/HO00013052/outdoor-jaws/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
- ionId=76879&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Green Border
-DTSTART;TZID=Europe/London:20240624T193000
-DTEND;TZID=Europe/London:20240624T223000
-DTSTAMP:20240624T183000Z
-UID:77545
-DESCRIPTION:Duration: 2h 32m (152 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014730/green-border/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
- =77545&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Green Border
-DTSTART;TZID=Europe/London:20240625T121000
-DTEND;TZID=Europe/London:20240625T151000
-DTSTAMP:20240625T111000Z
-UID:77598
-DESCRIPTION:Duration: 2h 32m (152 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014730/green-border/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
- =77598&visLang=1
+SUMMARY:RB&O Live: Cinderella (2024)
+DTSTART;TZID=Europe/London:20241210T191500
+DTEND;TZID=Europe/London:20241210T223000
+DTSTAMP:20241210T191500Z
+UID:77462
+DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/021/HO00014706/rb-o-live-cinderella-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionI
+ d=77462&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1740,6 +2780,44 @@ DESCRIPTION:Duration: 2h 32m (152 mins)\nScreen 4\n\nhttps://www.pictureho
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coraline (15th Anniversary) (3D)
+DTSTART;TZID=Europe/London:20240815T193000
+DTEND;TZID=Europe/London:20240815T214500
+DTSTAMP:20240815T183000Z
+UID:77648
+DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 2\n\n3D: Please note\, for
+  non-members there will be an additional £1 charge for 3D glasses - which
+  can be purchased from any till point at the cinema\n\nhttps://www.picture
+ houses.com/movie-details/021/HO00014764/coraline-15th-anniversary-3d/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=021&txtSessionId=77648&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor: Barbie
+DTSTART;TZID=Europe/London:20240802T193000
+DTEND;TZID=Europe/London:20240802T215000
+DTSTAMP:20240802T183000Z
+UID:76880
+DESCRIPTION:Duration: 1h 54m (114 mins)\nOutdoor Venue\n\nhttps://www.pict
+ urehouses.com/movie-details/021/HO00013418/outdoor-barbie/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSe
+ ssionId=76880&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Outdoor: Romeo + Juliet
+DTSTART;TZID=Europe/London:20240726T193000
+DTEND;TZID=Europe/London:20240726T215500
+DTSTAMP:20240726T183000Z
+UID:76877
+DESCRIPTION:Duration: 2h 00m (120 mins)\nOutdoor Venue\n\nhttps://www.pict
+ urehouses.com/movie-details/021/HO00013051/outdoor-romeo-juliet/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021
+ &txtSessionId=76877&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Outdoor: Mamma Mia!
 DTSTART;TZID=Europe/London:20240727T193000
 DTEND;TZID=Europe/London:20240727T214500
@@ -1752,68 +2830,27 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\nOutdoor Venue\n\nhttps://www.pict
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Excalibur
-DTSTART;TZID=Europe/London:20240825T193000
-DTEND;TZID=Europe/London:20240825T221500
-DTSTAMP:20240825T183000Z
-UID:77294
-DESCRIPTION:Duration: 2h 20m (140 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
- t to watch the hand-picked films in our Film Club for just £1 (Terms and 
- Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO000
- 14789/film-club-excalibur/\nhttps://ticketing.picturehouses.com/Ticketing/
- visSelectTickets.aspx?cinemacode=021&txtSessionId=77294&visLang=1
+SUMMARY:Outdoor: La La Land
+DTSTART;TZID=Europe/London:20240804T193000
+DTEND;TZID=Europe/London:20240804T220500
+DTSTAMP:20240804T183000Z
+UID:76882
+DESCRIPTION:Duration: 2h 08m (128 mins)\nOutdoor Venue\n\nhttps://www.pict
+ urehouses.com/movie-details/021/HO00014680/outdoor-la-la-land/\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&t
+ xtSessionId=76882&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga
-DTSTART;TZID=Europe/London:20240625T193000
-DTEND;TZID=Europe/London:20240625T222500
-DTSTAMP:20240625T183000Z
-UID:77599
-DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 4\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014610/furiosa
- -a-mad-max-saga/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=021&txtSessionId=77599&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga
-DTSTART;TZID=Europe/London:20240626T145000
-DTEND;TZID=Europe/London:20240626T174500
-DTSTAMP:20240626T135000Z
-UID:77617
-DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014610/furiosa-a-mad-max-saga/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&tx
- tSessionId=77617&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Furiosa: A Mad Max Saga
-DTSTART;TZID=Europe/London:20240627T112000
-DTEND;TZID=Europe/London:20240627T141500
-DTSTAMP:20240627T102000Z
-UID:77635
-DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/021/HO00014610/furiosa-a-mad-max-saga/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&tx
- tSessionId=77635&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Outdoor: Back To The Future
-DTSTART;TZID=Europe/London:20240803T193000
-DTEND;TZID=Europe/London:20240803T215500
-DTSTAMP:20240803T183000Z
-UID:76881
-DESCRIPTION:Duration: 1h 56m (116 mins)\nOutdoor Venue\n\nhttps://www.pict
- urehouses.com/movie-details/021/HO00011764/outdoor-back-to-the-future/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=021&txtSessionId=76881&visLang=1
+SUMMARY:Outdoor: Jaws
+DTSTART;TZID=Europe/London:20240728T193000
+DTEND;TZID=Europe/London:20240728T220000
+DTSTAMP:20240728T183000Z
+UID:76879
+DESCRIPTION:Duration: 2h 04m (124 mins)\nOutdoor Venue\n\nhttps://www.pict
+ urehouses.com/movie-details/021/HO00013052/outdoor-jaws/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSess
+ ionId=76879&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1853,53 +2890,162 @@ DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outdoor: La La Land
-DTSTART;TZID=Europe/London:20240804T193000
-DTEND;TZID=Europe/London:20240804T220500
-DTSTAMP:20240804T183000Z
-UID:76882
-DESCRIPTION:Duration: 2h 08m (128 mins)\nOutdoor Venue\n\nhttps://www.pict
- urehouses.com/movie-details/021/HO00014680/outdoor-la-la-land/\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&t
- xtSessionId=76882&visLang=1
+SUMMARY:Excalibur
+DTSTART;TZID=Europe/London:20240825T193000
+DTEND;TZID=Europe/London:20240825T221500
+DTSTAMP:20240825T183000Z
+UID:77294
+DESCRIPTION:Duration: 2h 20m (140 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
+ t to watch the hand-picked films in our Film Club for just £1 (Terms and 
+ Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO000
+ 14789/film-club-excalibur/\nhttps://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=021&txtSessionId=77294&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outdoor: Barbie
-DTSTART;TZID=Europe/London:20240802T193000
-DTEND;TZID=Europe/London:20240802T215000
-DTSTAMP:20240802T183000Z
-UID:76880
-DESCRIPTION:Duration: 1h 54m (114 mins)\nOutdoor Venue\n\nhttps://www.pict
- urehouses.com/movie-details/021/HO00013418/outdoor-barbie/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSe
- ssionId=76880&visLang=1
+SUMMARY:Outdoor: Back To The Future
+DTSTART;TZID=Europe/London:20240803T193000
+DTEND;TZID=Europe/London:20240803T215500
+DTSTAMP:20240803T183000Z
+UID:76881
+DESCRIPTION:Duration: 1h 56m (116 mins)\nOutdoor Venue\n\nhttps://www.pict
+ urehouses.com/movie-details/021/HO00011764/outdoor-back-to-the-future/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=021&txtSessionId=76881&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Outdoor: Romeo + Juliet
-DTSTART;TZID=Europe/London:20240726T193000
-DTEND;TZID=Europe/London:20240726T215500
-DTSTAMP:20240726T183000Z
-UID:76877
-DESCRIPTION:Duration: 2h 00m (120 mins)\nOutdoor Venue\n\nhttps://www.pict
- urehouses.com/movie-details/021/HO00013051/outdoor-romeo-juliet/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021
- &txtSessionId=76877&visLang=1
+SUMMARY:Desperately Seeking Susan
+DTSTART;TZID=Europe/London:20240830T200000
+DTEND;TZID=Europe/London:20240830T221000
+DTSTAMP:20240830T190000Z
+UID:77300
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 4\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00014790/desperately-seeking-susan/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
+ =77300&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coraline (15th Anniversary) (3D)
-DTSTART;TZID=Europe/London:20240815T193000
-DTEND;TZID=Europe/London:20240815T214500
-DTSTAMP:20240815T183000Z
-UID:77648
-DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 2\n\n3D: Please note\, for
-  non-members there will be an additional £1 charge for 3D glasses - which
-  can be purchased from any till point at the cinema\n\nhttps://www.picture
- houses.com/movie-details/021/HO00014764/coraline-15th-anniversary-3d/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=021&txtSessionId=77648&visLang=1
+SUMMARY:Challengers
+DTSTART;TZID=Europe/London:20240626T200000
+DTEND;TZID=Europe/London:20240626T224000
+DTSTAMP:20240626T190000Z
+UID:77607
+DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 5\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014497/challen
+ gers/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx
+ ?cinemacode=021&txtSessionId=77607&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Challengers
+DTSTART;TZID=Europe/London:20240627T143000
+DTEND;TZID=Europe/London:20240627T171000
+DTSTAMP:20240627T133000Z
+UID:77625
+DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/021/HO00014497/challengers/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77625&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fly (1986)
+DTSTART;TZID=Europe/London:20240823T200000
+DTEND;TZID=Europe/London:20240823T220000
+DTSTAMP:20240823T190000Z
+UID:77289
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/021/HO00009221/the-fly-1986/\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77289&visLang
+ =1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beverly Hills Cop
+DTSTART;TZID=Europe/London:20240816T200000
+DTEND;TZID=Europe/London:20240816T221000
+DTSTAMP:20240816T190000Z
+UID:77298
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
+ t to watch the hand-picked films in our Film Club for just £1 (Terms and 
+ Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO000
+ 14786/film-club-beverly-hills-cop/\nhttps://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77298&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Blues Brothers
+DTSTART;TZID=Europe/London:20240817T200000
+DTEND;TZID=Europe/London:20240817T224000
+DTSTAMP:20240817T190000Z
+UID:77293
+DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00004641/the-blues-brothers/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77293&
+ visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ferris Bueller's Day Off
+DTSTART;TZID=Europe/London:20240809T200000
+DTEND;TZID=Europe/London:20240809T221000
+DTSTAMP:20240809T190000Z
+UID:77292
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00001265/ferris-bueller-s-day-off/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
+ 77292&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heathers
+DTSTART;TZID=Europe/London:20240805T200000
+DTEND;TZID=Europe/London:20240805T221000
+DTSTAMP:20240805T190000Z
+UID:77296
+DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
+ t to watch the hand-picked films in our Film Club for just £1 (Terms and 
+ Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO000
+ 14782/film-club-heathers/\nhttps://ticketing.picturehouses.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=021&txtSessionId=77296&visLang=1
+LOCATION:Picture House London - Greenwich
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Predator
+DTSTART;TZID=Europe/London:20240802T200000
+DTEND;TZID=Europe/London:20240802T221500
+DTSTAMP:20240802T190000Z
+UID:77286
+DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/021/HO00013125/predator/\nhttps://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77286&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1916,21 +3062,6 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\nScreen 2\n\nreDiscover: Time to br
  onditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO0001
  4666/film-club-the-warriors/\nhttps://ticketing.picturehouses.com/Ticketin
  g/visSelectTickets.aspx?cinemacode=021&txtSessionId=76747&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Johnny Guitar
-DTSTART;TZID=Europe/London:20240705T200000
-DTEND;TZID=Europe/London:20240705T221500
-DTSTAMP:20240705T190000Z
-UID:76751
-DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 3\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00003816/johnny-guitar/\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=76751&visLa
- ng=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1951,18 +3082,18 @@ DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ferris Bueller's Day Off
-DTSTART;TZID=Europe/London:20240809T200000
-DTEND;TZID=Europe/London:20240809T221000
-DTSTAMP:20240809T190000Z
-UID:77292
-DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nreDiscover: Time to b
+SUMMARY:Johnny Guitar
+DTSTART;TZID=Europe/London:20240705T200000
+DTEND;TZID=Europe/London:20240705T221500
+DTSTAMP:20240705T190000Z
+UID:76751
+DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 3\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
  iscover's under-the-radar releases\, and return to favourites of yesterday
   with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00001265/ferris-bueller-s-day-off/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=
- 77292&visLang=1
+ e-details/021/HO00003816/johnny-guitar/\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=76751&visLa
+ ng=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -1981,124 +3112,29 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 3\n\nreDiscover: Time to b
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Predator
-DTSTART;TZID=Europe/London:20240802T200000
-DTEND;TZID=Europe/London:20240802T221500
-DTSTAMP:20240802T190000Z
-UID:77286
-DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00013125/predator/\nhttps://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77286&visLang=1
+SUMMARY:Bad Boys: Ride Or Die
+DTSTART;TZID=Europe/London:20240626T200000
+DTEND;TZID=Europe/London:20240626T222000
+DTSTAMP:20240626T190000Z
+UID:77618
+DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 2\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014639/bad-boy
+ s-ride-or-die/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=021&txtSessionId=77618&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Blues Brothers
-DTSTART;TZID=Europe/London:20240817T200000
-DTEND;TZID=Europe/London:20240817T224000
-DTSTAMP:20240817T190000Z
-UID:77293
-DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00004641/the-blues-brothers/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77293&
- visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OUT: Pride (10th anniversary)
-DTSTART;TZID=Europe/London:20240803T200000
-DTEND;TZID=Europe/London:20240803T222500
-DTSTAMP:20240803T190000Z
-UID:76892
-DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 4\n\nOut: Elevating and ce
- lebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\n
- https://www.picturehouses.com/movie-details/021/HO00014691/out-pride-10th-
- anniversary/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=021&txtSessionId=76892&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beverly Hills Cop
-DTSTART;TZID=Europe/London:20240816T200000
-DTEND;TZID=Europe/London:20240816T221000
-DTSTAMP:20240816T190000Z
-UID:77298
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
- t to watch the hand-picked films in our Film Club for just £1 (Terms and 
- Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO000
- 14786/film-club-beverly-hills-cop/\nhttps://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77298&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fly (1986)
-DTSTART;TZID=Europe/London:20240823T200000
-DTEND;TZID=Europe/London:20240823T220000
-DTSTAMP:20240823T190000Z
-UID:77289
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/021/HO00009221/the-fly-1986/\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77289&visLang
- =1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers
-DTSTART;TZID=Europe/London:20240805T200000
-DTEND;TZID=Europe/London:20240805T221000
-DTSTAMP:20240805T190000Z
-UID:77296
-DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
- t to watch the hand-picked films in our Film Club for just £1 (Terms and 
- Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO000
- 14782/film-club-heathers/\nhttps://ticketing.picturehouses.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=021&txtSessionId=77296&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Desperately Seeking Susan
-DTSTART;TZID=Europe/London:20240830T200000
-DTEND;TZID=Europe/London:20240830T221000
-DTSTAMP:20240830T190000Z
-UID:77300
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 4\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/021/HO00014790/desperately-seeking-susan/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
- =77300&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fancy Dance + recorded Q&A
-DTSTART;TZID=Europe/London:20240625T200000
-DTEND;TZID=Europe/London:20240625T222000
-DTSTAMP:20240625T190000Z
-UID:77302
-DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 3\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nPreview: A special preview screening of this film. See it befor
- e anyone else on the big screen!\n\nQ&A: This screening will be followed b
- y a Q&A.\n\nFilm Club: Picturehouse Members get to watch the hand-picked f
- ilms in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps:/
- /www.picturehouses.com/movie-details/021/HO00014810/film-club-fancy-dance-
- recorded-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=021&txtSessionId=77302&visLang=1
+SUMMARY:Bad Boys: Ride Or Die
+DTSTART;TZID=Europe/London:20240627T171500
+DTEND;TZID=Europe/London:20240627T193500
+DTSTAMP:20240627T161500Z
+UID:77636
+DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 4\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/021/HO00014639/bad-boy
+ s-ride-or-die/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=021&txtSessionId=77636&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -2116,16 +3152,16 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 4\n\nreDiscover: Time to b
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:OUT: Adventures of Priscilla\, Queen of the Desert
-DTSTART;TZID=Europe/London:20240624T200000
-DTEND;TZID=Europe/London:20240624T221000
-DTSTAMP:20240624T190000Z
-UID:76891
-DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 3\n\nOut: Elevating and ce
+SUMMARY:OUT: Pride (10th anniversary)
+DTSTART;TZID=Europe/London:20240803T200000
+DTEND;TZID=Europe/London:20240803T222500
+DTSTAMP:20240803T190000Z
+UID:76892
+DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 4\n\nOut: Elevating and ce
  lebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\n
- https://www.picturehouses.com/movie-details/021/HO00014692/out-adventures-
- of-priscilla-queen-of-the-desert/\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=021&txtSessionId=76891&visLang=1
+ https://www.picturehouses.com/movie-details/021/HO00014691/out-pride-10th-
+ anniversary/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=021&txtSessionId=76892&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -2158,30 +3194,19 @@ DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:It's Such A Beautiful Day + Short Film ME
-DTSTART;TZID=Europe/London:20240701T203000
-DTEND;TZID=Europe/London:20240701T223000
-DTSTAMP:20240701T193000Z
-UID:77488
-DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014699/it-s-such-a-beautiful-day-short-film-
- me/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=021&txtSessionId=77488&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bye Bye Tiberias
-DTSTART;TZID=Europe/London:20240702T203000
-DTEND;TZID=Europe/London:20240702T222500
-DTSTAMP:20240702T193000Z
-UID:77524
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nDiscover: Discover stu
- nning cinema. Each week\, the Picturehouse film team champion one must-see
-  film.\n\nFilm Club: Picturehouse Members get to watch the hand-picked fil
- ms in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps://w
- ww.picturehouses.com/movie-details/021/HO00014774/film-club-bye-bye-tiberi
- as/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=021&txtSessionId=77524&visLang=1
+SUMMARY:Polyester
+DTSTART;TZID=Europe/London:20240810T203000
+DTEND;TZID=Europe/London:20240810T222500
+DTSTAMP:20240810T193000Z
+UID:77287
+DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen 3\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
+  to watch the hand-picked films in our Film Club for just £1 (Terms and C
+ onditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO0001
+ 4785/film-club-polyester/\nhttps://ticketing.picturehouses.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=021&txtSessionId=77287&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -2197,22 +3222,6 @@ DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 2\n\nreDiscover: Time to br
  -details/021/HO00014433/after-hours-4k-restoration/\nhttps://ticketing.pic
  turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId
  =76746&visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polyester
-DTSTART;TZID=Europe/London:20240810T203000
-DTEND;TZID=Europe/London:20240810T222500
-DTSTAMP:20240810T193000Z
-UID:77287
-DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen 3\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
-  to watch the hand-picked films in our Film Club for just £1 (Terms and C
- onditions apply)\n\nhttps://www.picturehouses.com/movie-details/021/HO0001
- 4785/film-club-polyester/\nhttps://ticketing.picturehouses.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=021&txtSessionId=77287&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
@@ -2252,87 +3261,30 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 4\n\nhttps://www.picturehou
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wilding
-DTSTART;TZID=Europe/London:20240624T204500
-DTEND;TZID=Europe/London:20240624T222500
-DTSTAMP:20240624T194500Z
-UID:77539
-DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77539
- &visLang=1
+SUMMARY:Bye Bye Tiberias
+DTSTART;TZID=Europe/London:20240702T203000
+DTEND;TZID=Europe/London:20240702T222500
+DTSTAMP:20240702T193000Z
+UID:77524
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nDiscover: Discover stu
+ nning cinema. Each week\, the Picturehouse film team champion one must-see
+  film.\n\nFilm Club: Picturehouse Members get to watch the hand-picked fil
+ ms in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps://w
+ ww.picturehouses.com/movie-details/021/HO00014774/film-club-bye-bye-tiberi
+ as/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=021&txtSessionId=77524&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wilding
-DTSTART;TZID=Europe/London:20240625T145000
-DTEND;TZID=Europe/London:20240625T163000
-DTSTAMP:20240625T135000Z
-UID:77596
-DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77596
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wilding
-DTSTART;TZID=Europe/London:20240625T180000
-DTEND;TZID=Europe/London:20240625T194000
-DTSTAMP:20240625T170000Z
-UID:77592
-DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77592
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wilding
-DTSTART;TZID=Europe/London:20240626T122000
-DTEND;TZID=Europe/London:20240626T140000
-DTSTAMP:20240626T112000Z
-UID:77610
-DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77610
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wilding
-DTSTART;TZID=Europe/London:20240626T173000
-DTEND;TZID=Europe/London:20240626T191000
-DTSTAMP:20240626T163000Z
-UID:77614
-DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77614
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wilding
-DTSTART;TZID=Europe/London:20240627T123000
-DTEND;TZID=Europe/London:20240627T141000
-DTSTAMP:20240627T113000Z
-UID:77628
-DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77628
- &visLang=1
-LOCATION:Picture House London - Greenwich
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wilding
-DTSTART;TZID=Europe/London:20240627T204000
-DTEND;TZID=Europe/London:20240627T222000
-DTSTAMP:20240627T194000Z
-UID:77632
-DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/021/HO00014583/wilding/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=021&txtSessionId=77632
- &visLang=1
+SUMMARY:It's Such A Beautiful Day + Short Film ME
+DTSTART;TZID=Europe/London:20240701T203000
+DTEND;TZID=Europe/London:20240701T223000
+DTSTAMP:20240701T193000Z
+UID:77488
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/021/HO00014699/it-s-such-a-beautiful-day-short-film-
+ me/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=021&txtSessionId=77488&visLang=1
 LOCATION:Picture House London - Greenwich
 END:VEVENT
 END:VCALENDAR
