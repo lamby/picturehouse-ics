@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240630T151804Z
+LAST-MODIFIED:20240701T141207Z
 NAME:Picture House London - Clapham
 X-WR-CALNAME:Picture House London - Clapham
+BEGIN:VEVENT
+SUMMARY:Dog-Friendly Screening: Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240804T110000
+DTEND;TZID=Europe/London:20240804T134000
+DTSTAMP:20240804T100000Z
+UID:66622
+DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014900/dog-friendly-screening-deadpool-wolv
+ erine/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=020&txtSessionId=66622&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RB&O Encore: The Marriage of Figaro (2024)
 DTSTART;TZID=Europe/London:20240915T113000
@@ -33,6 +45,20 @@ DESCRIPTION:Duration: 4h 00m (240 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RB&O Encore: Die Walkure (2025)
+DTSTART;TZID=Europe/London:20250519T120000
+DTEND;TZID=Europe/London:20250519T180500
+DTSTAMP:20250519T110000Z
+UID:66036
+DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/020/HO00014796/rb-o-encore-die-walkure-2025/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=66
+ 036&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Excalibur
 DTSTART;TZID=Europe/London:20240825T120000
 DTEND;TZID=Europe/London:20240825T144500
@@ -46,20 +72,6 @@ DESCRIPTION:Duration: 2h 20m (140 mins)\nScreen 4\n\nreDiscover: Time to b
  Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/020/HO000
  14789/film-club-excalibur/\nhttps://ticketing.picturehouses.com/Ticketing/
  visSelectTickets.aspx?cinemacode=020&txtSessionId=66154&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Encore: Die Walkure (2025)
-DTSTART;TZID=Europe/London:20250519T120000
-DTEND;TZID=Europe/London:20250519T180500
-DTSTAMP:20250519T110000Z
-UID:66036
-DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/020/HO00014796/rb-o-encore-die-walkure-2025/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=66
- 036&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -77,22 +89,6 @@ DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 4\n\nreDiscover: Time to b
  14651/film-club-what-ever-happened-to-baby-jane/\nhttps://ticketing.pictur
  ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=65
  775&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heathers
-DTSTART;TZID=Europe/London:20240803T123000
-DTEND;TZID=Europe/London:20240803T144000
-DTSTAMP:20240803T113000Z
-UID:66145
-DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 4\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
- t to watch the hand-picked films in our Film Club for just £1 (Terms and 
- Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/020/HO000
- 14782/film-club-heathers/\nhttps://ticketing.picturehouses.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=020&txtSessionId=66145&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -142,17 +138,19 @@ DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen 4\n\nreDiscover: Time to br
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Encore: Ballet To Broadway: Wheeldon Works (2025)
-DTSTART;TZID=Europe/London:20250526T130000
-DTEND;TZID=Europe/London:20250526T160000
-DTSTAMP:20250526T120000Z
-UID:66038
-DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/020/HO00014797/rb-o-encore-ballet-to-broadway-wheeldon-works-2025/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=020&txtSessionId=66038&visLang=1
+SUMMARY:Heathers
+DTSTART;TZID=Europe/London:20240803T123000
+DTEND;TZID=Europe/London:20240803T144000
+DTSTAMP:20240803T113000Z
+UID:66145
+DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 4\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
+ t to watch the hand-picked films in our Film Club for just £1 (Terms and 
+ Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/020/HO000
+ 14782/film-club-heathers/\nhttps://ticketing.picturehouses.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=020&txtSessionId=66145&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -184,20 +182,6 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Encore: Cinderella (2024)
-DTSTART;TZID=Europe/London:20241216T130000
-DTEND;TZID=Europe/London:20241216T161500
-DTSTAMP:20241216T130000Z
-UID:66023
-DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/020/HO00014793/rb-o-encore-cinderella-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=660
- 23&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RB&O Encore: Alice's Adventures in Wonderland (2024)
 DTSTART;TZID=Europe/London:20241021T130000
 DTEND;TZID=Europe/London:20241021T162500
@@ -212,15 +196,31 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Coraline (15th Anniversary)
-DTSTART;TZID=Europe/London:20240818T133000
-DTEND;TZID=Europe/London:20240818T154500
-DTSTAMP:20240818T123000Z
-UID:66309
-DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014763/coraline-15th-anniversary/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020
- &txtSessionId=66309&visLang=1
+SUMMARY:RB&O Encore: Cinderella (2024)
+DTSTART;TZID=Europe/London:20241216T130000
+DTEND;TZID=Europe/London:20241216T161500
+DTSTAMP:20241216T130000Z
+UID:66023
+DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/020/HO00014793/rb-o-encore-cinderella-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=660
+ 23&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Encore: Ballet To Broadway: Wheeldon Works (2025)
+DTSTART;TZID=Europe/London:20250526T130000
+DTEND;TZID=Europe/London:20250526T160000
+DTSTAMP:20250526T120000Z
+UID:66038
+DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/020/HO00014797/rb-o-encore-ballet-to-broadway-wheeldon-works-2025/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=020&txtSessionId=66038&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -240,19 +240,31 @@ DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nreDiscover: Time to b
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Breathless
-DTSTART;TZID=Europe/London:20240707T140000
-DTEND;TZID=Europe/London:20240707T155500
-DTSTAMP:20240707T130000Z
-UID:65731
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 4\n\nreDiscover: Time to br
+SUMMARY:Coraline (15th Anniversary)
+DTSTART;TZID=Europe/London:20240818T133000
+DTEND;TZID=Europe/London:20240818T154500
+DTSTAMP:20240818T123000Z
+UID:66309
+DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014763/coraline-15th-anniversary/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020
+ &txtSessionId=66309&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Warriors
+DTSTART;TZID=Europe/London:20240721T140000
+DTEND;TZID=Europe/London:20240721T160000
+DTSTAMP:20240721T130000Z
+UID:65769
+DESCRIPTION:Duration: 1h 33m (93 mins)\nScreen 4\n\nreDiscover: Time to br
  oaden your cinematic horizons: you'll find the best of what's next with Di
  scover's under-the-radar releases\, and return to favourites of yesterday 
  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
   to watch the hand-picked films in our Film Club for just £1 (Terms and C
  onditions apply)\n\nhttps://www.picturehouses.com/movie-details/020/HO0001
- 4673/film-club-breathless/\nhttps://ticketing.picturehouses.com/Ticketing/
- visSelectTickets.aspx?cinemacode=020&txtSessionId=65731&visLang=1
+ 4666/film-club-the-warriors/\nhttps://ticketing.picturehouses.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=020&txtSessionId=65769&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -289,18 +301,6 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/020/HO00014865/despicable-me-4/\nhttps://ticketing.p
  icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
  Id=66198&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Despicable Me 4
-DTSTART;TZID=Europe/London:20240713T113000
-DTEND;TZID=Europe/London:20240713T133000
-DTSTAMP:20240713T103000Z
-UID:66268
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014865/despicable-me-4/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66268&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -520,33 +520,19 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Warriors
-DTSTART;TZID=Europe/London:20240721T140000
-DTEND;TZID=Europe/London:20240721T160000
-DTSTAMP:20240721T130000Z
-UID:65769
-DESCRIPTION:Duration: 1h 33m (93 mins)\nScreen 4\n\nreDiscover: Time to br
+SUMMARY:Breathless
+DTSTART;TZID=Europe/London:20240707T140000
+DTEND;TZID=Europe/London:20240707T155500
+DTSTAMP:20240707T130000Z
+UID:65731
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 4\n\nreDiscover: Time to br
  oaden your cinematic horizons: you'll find the best of what's next with Di
  scover's under-the-radar releases\, and return to favourites of yesterday 
  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members get
   to watch the hand-picked films in our Film Club for just £1 (Terms and C
  onditions apply)\n\nhttps://www.picturehouses.com/movie-details/020/HO0001
- 4666/film-club-the-warriors/\nhttps://ticketing.picturehouses.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=020&txtSessionId=65769&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coraline (15th Anniversary) (3D)
-DTSTART;TZID=Europe/London:20240817T141500
-DTEND;TZID=Europe/London:20240817T163000
-DTSTAMP:20240817T131500Z
-UID:66307
-DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 2\n\n3D: Please note\, for
-  non-members there will be an additional £1 charge for 3D glasses - which
-  can be purchased from any till point at the cinema\n\nhttps://www.picture
- houses.com/movie-details/020/HO00014764/coraline-15th-anniversary-3d/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=020&txtSessionId=66307&visLang=1
+ 4673/film-club-breathless/\nhttps://ticketing.picturehouses.com/Ticketing/
+ visSelectTickets.aspx?cinemacode=020&txtSessionId=65731&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -566,10 +552,24 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 4\n\nreDiscover: Time to b
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coraline (15th Anniversary) (3D)
+DTSTART;TZID=Europe/London:20240817T141500
+DTEND;TZID=Europe/London:20240817T163000
+DTSTAMP:20240817T131500Z
+UID:66307
+DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 2\n\n3D: Please note\, for
+  non-members there will be an additional £1 charge for 3D glasses - which
+  can be purchased from any till point at the cinema\n\nhttps://www.picture
+ houses.com/movie-details/020/HO00014764/coraline-15th-anniversary-3d/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=020&txtSessionId=66307&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Good Time
-DTSTART;TZID=Europe/London:20240706T151000
-DTEND;TZID=Europe/London:20240706T172000
-DTSTAMP:20240706T141000Z
+DTSTART;TZID=Europe/London:20240706T150000
+DTEND;TZID=Europe/London:20240706T171000
+DTSTAMP:20240706T140000Z
 UID:65770
 DESCRIPTION:Duration: 1h 41m (101 mins)\nScreen 4\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
@@ -594,6 +594,295 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nreDiscover: Time to b
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240701T152000
+DTEND;TZID=Europe/London:20240701T174500
+DTSTAMP:20240701T142000Z
+UID:66317
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66317&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240701T180000
+DTEND;TZID=Europe/London:20240701T202500
+DTSTAMP:20240701T170000Z
+UID:66319
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66319&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240701T204000
+DTEND;TZID=Europe/London:20240701T230500
+DTSTAMP:20240701T194000Z
+UID:66318
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66318&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240702T154500
+DTEND;TZID=Europe/London:20240702T181000
+DTSTAMP:20240702T144500Z
+UID:66322
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66322&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240702T204000
+DTEND;TZID=Europe/London:20240702T230500
+DTSTAMP:20240702T194000Z
+UID:66321
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66321&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240703T152000
+DTEND;TZID=Europe/London:20240703T174500
+DTSTAMP:20240703T142000Z
+UID:66328
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66328&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240703T180000
+DTEND;TZID=Europe/London:20240703T202500
+DTSTAMP:20240703T170000Z
+UID:66326
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66326&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240703T204000
+DTEND;TZID=Europe/London:20240703T230500
+DTSTAMP:20240703T194000Z
+UID:66327
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66327&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240704T153000
+DTEND;TZID=Europe/London:20240704T175500
+DTSTAMP:20240704T143000Z
+UID:66335
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66335&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240704T181000
+DTEND;TZID=Europe/London:20240704T203500
+DTSTAMP:20240704T171000Z
+UID:66337
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66337&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Bikeriders
+DTSTART;TZID=Europe/London:20240704T205000
+DTEND;TZID=Europe/London:20240704T231500
+DTSTAMP:20240704T195000Z
+UID:66336
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66336&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240701T153000
+DTEND;TZID=Europe/London:20240701T173000
+DTSTAMP:20240701T143000Z
+UID:65812
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65812&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240701T180000
+DTEND;TZID=Europe/London:20240701T200000
+DTSTAMP:20240701T170000Z
+UID:65815
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65815&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240701T211000
+DTEND;TZID=Europe/London:20240701T231000
+DTSTAMP:20240701T201000Z
+UID:65816
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65816&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240702T151500
+DTEND;TZID=Europe/London:20240702T171500
+DTSTAMP:20240702T141500Z
+UID:65822
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65822&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240702T180000
+DTEND;TZID=Europe/London:20240702T200000
+DTSTAMP:20240702T170000Z
+UID:65820
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65820&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240702T205000
+DTEND;TZID=Europe/London:20240702T225000
+DTSTAMP:20240702T195000Z
+UID:65818
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65818&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240703T151500
+DTEND;TZID=Europe/London:20240703T171500
+DTSTAMP:20240703T141500Z
+UID:65825
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65825&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240703T180000
+DTEND;TZID=Europe/London:20240703T200000
+DTSTAMP:20240703T170000Z
+UID:65827
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65827&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240703T205000
+DTEND;TZID=Europe/London:20240703T225000
+DTSTAMP:20240703T195000Z
+UID:65829
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65829&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240704T131000
+DTEND;TZID=Europe/London:20240704T151000
+DTSTAMP:20240704T121000Z
+UID:65838
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65838&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240704T152000
+DTEND;TZID=Europe/London:20240704T172000
+DTSTAMP:20240704T142000Z
+UID:65834
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65834&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240704T180000
+DTEND;TZID=Europe/London:20240704T200000
+DTSTAMP:20240704T170000Z
+UID:65832
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/020/HO00014721/a-quiet-
+ place-day-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=020&txtSessionId=65832&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Quiet Place: Day One
+DTSTART;TZID=Europe/London:20240704T205000
+DTEND;TZID=Europe/London:20240704T225000
+DTSTAMP:20240704T195000Z
+UID:65830
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
+ essionId=65830&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Blues Brothers
 DTSTART;TZID=Europe/London:20240818T164500
 DTEND;TZID=Europe/London:20240818T192500
@@ -609,39 +898,46 @@ DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 4\n\nreDiscover: Time to b
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240630T164500
-DTEND;TZID=Europe/London:20240630T185000
-DTSTAMP:20240630T154500Z
-UID:66195
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=
- 66195&visLang=1
+SUMMARY:RB&O Live: Die Walkure (2025)
+DTSTART;TZID=Europe/London:20250514T170000
+DTEND;TZID=Europe/London:20250514T230500
+DTSTAMP:20250514T160000Z
+UID:66035
+DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/020/HO00014746/rb-o-live-die-walkure-2025/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66035&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240630T185000
-DTEND;TZID=Europe/London:20240630T205500
-DTSTAMP:20240630T175000Z
-UID:66247
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=
- 66247&visLang=1
+SUMMARY:Top Gun
+DTSTART;TZID=Europe/London:20240811T171500
+DTEND;TZID=Europe/London:20240811T193500
+DTSTAMP:20240811T161500Z
+UID:66155
+DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 3\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/020/HO00001507/top-gun/\nhttps://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=020&txtSessionId=66155&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inside Out 2
-DTSTART;TZID=Europe/London:20240701T150000
-DTEND;TZID=Europe/London:20240701T170500
-DTSTAMP:20240701T140000Z
-UID:66316
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014655/inside-out-2/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=
- 66316&visLang=1
+SUMMARY:Predator
+DTSTART;TZID=Europe/London:20240804T171500
+DTEND;TZID=Europe/London:20240804T193000
+DTSTAMP:20240804T161500Z
+UID:66147
+DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 4\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/020/HO00013125/predator/\nhttps://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=66147&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -834,410 +1130,6 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/020/HO00014655/inside-out-2/\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=
  66388&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240630T164500
-DTEND;TZID=Europe/London:20240630T195500
-DTSTAMP:20240630T154500Z
-UID:65805
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65805&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240630T190000
-DTEND;TZID=Europe/London:20240630T221000
-DTSTAMP:20240630T180000Z
-UID:65808
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65808&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240701T144000
-DTEND;TZID=Europe/London:20240701T175000
-DTSTAMP:20240701T134000Z
-UID:65813
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65813&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240701T174500
-DTEND;TZID=Europe/London:20240701T205500
-DTSTAMP:20240701T164500Z
-UID:65817
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65817&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240701T201500
-DTEND;TZID=Europe/London:20240701T232500
-DTSTAMP:20240701T191500Z
-UID:65814
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65814&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240702T144000
-DTEND;TZID=Europe/London:20240702T175000
-DTSTAMP:20240702T134000Z
-UID:65823
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65823&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240702T173000
-DTEND;TZID=Europe/London:20240702T204000
-DTSTAMP:20240702T163000Z
-UID:65821
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65821&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240702T201500
-DTEND;TZID=Europe/London:20240702T232500
-DTSTAMP:20240702T191500Z
-UID:65819
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65819&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240703T144000
-DTEND;TZID=Europe/London:20240703T175000
-DTSTAMP:20240703T134000Z
-UID:65824
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65824&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240703T173000
-DTEND;TZID=Europe/London:20240703T204000
-DTSTAMP:20240703T163000Z
-UID:65826
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65826&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240703T201500
-DTEND;TZID=Europe/London:20240703T232500
-DTSTAMP:20240703T191500Z
-UID:65828
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65828&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240704T120000
-DTEND;TZID=Europe/London:20240704T151000
-DTSTAMP:20240704T110000Z
-UID:66338
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=66338&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240704T143000
-DTEND;TZID=Europe/London:20240704T174000
-DTSTAMP:20240704T133000Z
-UID:65835
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65835&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240704T173000
-DTEND;TZID=Europe/London:20240704T204000
-DTSTAMP:20240704T163000Z
-UID:65833
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65833&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinds of Kindness
-DTSTART;TZID=Europe/London:20240704T201500
-DTEND;TZID=Europe/London:20240704T232500
-DTSTAMP:20240704T191500Z
-UID:65831
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
- ionId=65831&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240630T170000
-DTEND;TZID=Europe/London:20240630T190000
-DTSTAMP:20240630T160000Z
-UID:65807
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65807&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240630T201000
-DTEND;TZID=Europe/London:20240630T221000
-DTSTAMP:20240630T191000Z
-UID:65806
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65806&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240701T153000
-DTEND;TZID=Europe/London:20240701T173000
-DTSTAMP:20240701T143000Z
-UID:65812
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65812&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240701T180000
-DTEND;TZID=Europe/London:20240701T200000
-DTSTAMP:20240701T170000Z
-UID:65815
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65815&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240701T211000
-DTEND;TZID=Europe/London:20240701T231000
-DTSTAMP:20240701T201000Z
-UID:65816
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65816&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240702T151500
-DTEND;TZID=Europe/London:20240702T171500
-DTSTAMP:20240702T141500Z
-UID:65822
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65822&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240702T180000
-DTEND;TZID=Europe/London:20240702T200000
-DTSTAMP:20240702T170000Z
-UID:65820
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65820&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240702T205000
-DTEND;TZID=Europe/London:20240702T225000
-DTSTAMP:20240702T195000Z
-UID:65818
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65818&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240703T151500
-DTEND;TZID=Europe/London:20240703T171500
-DTSTAMP:20240703T141500Z
-UID:65825
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65825&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240703T180000
-DTEND;TZID=Europe/London:20240703T200000
-DTSTAMP:20240703T170000Z
-UID:65827
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65827&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240703T205000
-DTEND;TZID=Europe/London:20240703T225000
-DTSTAMP:20240703T195000Z
-UID:65829
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65829&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240704T131000
-DTEND;TZID=Europe/London:20240704T151000
-DTSTAMP:20240704T121000Z
-UID:65838
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65838&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240704T152000
-DTEND;TZID=Europe/London:20240704T172000
-DTSTAMP:20240704T142000Z
-UID:65834
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65834&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240704T180000
-DTEND;TZID=Europe/London:20240704T200000
-DTSTAMP:20240704T170000Z
-UID:65832
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/020/HO00014721/a-quiet-
- place-day-one/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=020&txtSessionId=65832&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Quiet Place: Day One
-DTSTART;TZID=Europe/London:20240704T205000
-DTEND;TZID=Europe/London:20240704T225000
-DTSTAMP:20240704T195000Z
-UID:65830
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/020/HO00014721/a-quiet-place-day-one/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtS
- essionId=65830&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Live: Die Walkure (2025)
-DTSTART;TZID=Europe/London:20250514T170000
-DTEND;TZID=Europe/London:20250514T230500
-DTSTAMP:20250514T160000Z
-UID:66035
-DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/020/HO00014746/rb-o-live-die-walkure-2025/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66035&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Predator
-DTSTART;TZID=Europe/London:20240804T171500
-DTEND;TZID=Europe/London:20240804T193000
-DTSTAMP:20240804T161500Z
-UID:66147
-DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 4\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/020/HO00013125/predator/\nhttps://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=66147&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Top Gun
-DTSTART;TZID=Europe/London:20240811T171500
-DTEND;TZID=Europe/London:20240811T193500
-DTSTAMP:20240811T161500Z
-UID:66155
-DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 3\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/020/HO00001507/top-gun/\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=020&txtSessionId=66155&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -1529,6 +1421,150 @@ DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240701T174500
+DTEND;TZID=Europe/London:20240701T205500
+DTSTAMP:20240701T164500Z
+UID:65817
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65817&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240701T201500
+DTEND;TZID=Europe/London:20240701T232500
+DTSTAMP:20240701T191500Z
+UID:65814
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65814&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240702T144000
+DTEND;TZID=Europe/London:20240702T175000
+DTSTAMP:20240702T134000Z
+UID:65823
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65823&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240702T173000
+DTEND;TZID=Europe/London:20240702T204000
+DTSTAMP:20240702T163000Z
+UID:65821
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65821&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240702T201500
+DTEND;TZID=Europe/London:20240702T232500
+DTSTAMP:20240702T191500Z
+UID:65819
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65819&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240703T144000
+DTEND;TZID=Europe/London:20240703T175000
+DTSTAMP:20240703T134000Z
+UID:65824
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65824&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240703T173000
+DTEND;TZID=Europe/London:20240703T204000
+DTSTAMP:20240703T163000Z
+UID:65826
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65826&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240703T201500
+DTEND;TZID=Europe/London:20240703T232500
+DTSTAMP:20240703T191500Z
+UID:65828
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65828&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240704T120000
+DTEND;TZID=Europe/London:20240704T151000
+DTSTAMP:20240704T110000Z
+UID:66338
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=66338&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240704T143000
+DTEND;TZID=Europe/London:20240704T174000
+DTSTAMP:20240704T133000Z
+UID:65835
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65835&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240704T173000
+DTEND;TZID=Europe/London:20240704T204000
+DTSTAMP:20240704T163000Z
+UID:65833
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65833&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kinds of Kindness
+DTSTART;TZID=Europe/London:20240704T201500
+DTEND;TZID=Europe/London:20240704T232500
+DTSTAMP:20240704T191500Z
+UID:65831
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/020/HO00014736/kinds-of-kindness/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSess
+ ionId=65831&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:After Hours (4K Restoration)
 DTSTART;TZID=Europe/London:20240713T180000
 DTEND;TZID=Europe/London:20240713T200500
@@ -1559,21 +1595,6 @@ DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 4\n\nreDiscover: Time to b
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Live: The Marriage of Figaro (2024)
-DTSTART;TZID=Europe/London:20240910T183000
-DTEND;TZID=Europe/London:20240910T223000
-DTSTAMP:20240910T173000Z
-UID:66018
-DESCRIPTION:Duration: 4h 00m (240 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/020/HO00014704/rb-o-live-the-marriage-of-figaro-2024/\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020
- &txtSessionId=66018&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bye Bye Tiberias
 DTSTART;TZID=Europe/London:20240702T183000
 DTEND;TZID=Europe/London:20240702T202500
@@ -1586,6 +1607,21 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 4\n\nDiscover: Discover stu
  ww.picturehouses.com/movie-details/020/HO00014774/film-club-bye-bye-tiberi
  as/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
  inemacode=020&txtSessionId=66344&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Live: The Marriage of Figaro (2024)
+DTSTART;TZID=Europe/London:20240910T183000
+DTEND;TZID=Europe/London:20240910T223000
+DTSTAMP:20240910T173000Z
+UID:66018
+DESCRIPTION:Duration: 4h 00m (240 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/020/HO00014704/rb-o-live-the-marriage-of-figaro-2024/\nhttps://
+ ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020
+ &txtSessionId=66018&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -1689,208 +1725,6 @@ DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240630T191500
-DTEND;TZID=Europe/London:20240630T214000
-DTSTAMP:20240630T181500Z
-UID:66345
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66345&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240701T152000
-DTEND;TZID=Europe/London:20240701T174500
-DTSTAMP:20240701T142000Z
-UID:66317
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66317&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240701T180000
-DTEND;TZID=Europe/London:20240701T202500
-DTSTAMP:20240701T170000Z
-UID:66319
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66319&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240701T204000
-DTEND;TZID=Europe/London:20240701T230500
-DTSTAMP:20240701T194000Z
-UID:66318
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66318&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240702T154500
-DTEND;TZID=Europe/London:20240702T181000
-DTSTAMP:20240702T144500Z
-UID:66322
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66322&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240702T204000
-DTEND;TZID=Europe/London:20240702T230500
-DTSTAMP:20240702T194000Z
-UID:66321
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66321&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240703T152000
-DTEND;TZID=Europe/London:20240703T174500
-DTSTAMP:20240703T142000Z
-UID:66328
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66328&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240703T180000
-DTEND;TZID=Europe/London:20240703T202500
-DTSTAMP:20240703T170000Z
-UID:66326
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66326&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240703T204000
-DTEND;TZID=Europe/London:20240703T230500
-DTSTAMP:20240703T194000Z
-UID:66327
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66327&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240704T153000
-DTEND;TZID=Europe/London:20240704T175500
-DTSTAMP:20240704T143000Z
-UID:66335
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66335&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240704T181000
-DTEND;TZID=Europe/London:20240704T203500
-DTSTAMP:20240704T171000Z
-UID:66337
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66337&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bikeriders
-DTSTART;TZID=Europe/London:20240704T205000
-DTEND;TZID=Europe/London:20240704T231500
-DTSTAMP:20240704T195000Z
-UID:66336
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/020/HO00014201/the-bikeriders/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66336&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Live: Turandot (2025)
-DTSTART;TZID=Europe/London:20250401T191500
-DTEND;TZID=Europe/London:20250401T224000
-DTSTAMP:20250401T181500Z
-UID:66033
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/020/HO00014744/rb-o-live-turandot-2025/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=
- 66033&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Live: Romeo & Juliet (2025)
-DTSTART;TZID=Europe/London:20250320T191500
-DTEND;TZID=Europe/London:20250320T224500
-DTSTAMP:20250320T191500Z
-UID:66031
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/020/HO00014743/rb-o-live-romeo-juliet-2025/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessio
- nId=66031&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O: Swan Lake (Captured Live 2024)
-DTSTART;TZID=Europe/London:20250227T191500
-DTEND;TZID=Europe/London:20250227T224500
-DTSTAMP:20250227T191500Z
-UID:66029
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/020/HO00014742/rb-o-swan-lake-captured-live-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66029&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O: Swan Lake (Captured Live 2024)
-DTSTART;TZID=Europe/London:20250303T130000
-DTEND;TZID=Europe/London:20250303T163000
-DTSTAMP:20250303T130000Z
-UID:66030
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/020/HO00014742/rb-o-swan-lake-captured-live-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
- Id=66030&visLang=1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RB&O Live: Alice's Adventures in Wonderland (2024)
 DTSTART;TZID=Europe/London:20241015T191500
 DTEND;TZID=Europe/London:20241015T224000
@@ -1903,6 +1737,21 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 4\n\nAd and Trailer Free:
  ie-details/020/HO00014705/rb-o-live-alice-s-adventures-in-wonderland-2024/
  \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
  macode=020&txtSessionId=66020&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Live: Cinderella (2024)
+DTSTART;TZID=Europe/London:20241210T191500
+DTEND;TZID=Europe/London:20241210T223000
+DTSTAMP:20241210T191500Z
+UID:66022
+DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/020/HO00014706/rb-o-live-cinderella-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionI
+ d=66022&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -1942,18 +1791,46 @@ DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 4\n\nhttps://www.pictureho
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Live: Cinderella (2024)
-DTSTART;TZID=Europe/London:20241210T191500
-DTEND;TZID=Europe/London:20241210T223000
-DTSTAMP:20241210T191500Z
-UID:66022
-DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 4\n\nAd and Trailer Free: 
+SUMMARY:RB&O: Swan Lake (Captured Live 2024)
+DTSTART;TZID=Europe/London:20250227T191500
+DTEND;TZID=Europe/London:20250227T224500
+DTSTAMP:20250227T191500Z
+UID:66029
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/020/HO00014742/rb-o-swan-lake-captured-live-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66029&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O: Swan Lake (Captured Live 2024)
+DTSTART;TZID=Europe/London:20250303T130000
+DTEND;TZID=Europe/London:20250303T163000
+DTSTAMP:20250303T130000Z
+UID:66030
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/020/HO00014742/rb-o-swan-lake-captured-live-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSession
+ Id=66030&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Live: Romeo & Juliet (2025)
+DTSTART;TZID=Europe/London:20250320T191500
+DTEND;TZID=Europe/London:20250320T224500
+DTSTAMP:20250320T191500Z
+UID:66031
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/020/HO00014706/rb-o-live-cinderella-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionI
- d=66022&visLang=1
+ ie-details/020/HO00014743/rb-o-live-romeo-juliet-2025/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessio
+ nId=66031&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -1969,6 +1846,21 @@ DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 4\n\nAd and Trailer Free:
  ie-details/020/HO00014747/rb-o-live-ballet-to-broadway-wheeldon-works-2025
  /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
  emacode=020&txtSessionId=66037&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Live: Turandot (2025)
+DTSTART;TZID=Europe/London:20250401T191500
+DTEND;TZID=Europe/London:20250401T224000
+DTSTAMP:20250401T181500Z
+UID:66033
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/020/HO00014744/rb-o-live-turandot-2025/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=
+ 66033&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
@@ -2002,6 +1894,19 @@ DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OUT: Indigo Girls: It's Only Life After All
+DTSTART;TZID=Europe/London:20240722T200000
+DTEND;TZID=Europe/London:20240722T223000
+DTSTAMP:20240722T190000Z
+UID:66540
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nOut: Elevating and ce
+ lebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\n
+ https://www.picturehouses.com/movie-details/020/HO00014901/out-indigo-girl
+ s-it-s-only-life-after-all/\nhttps://ticketing.picturehouses.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=020&txtSessionId=66540&visLang=1
+LOCATION:Picture House London - Clapham
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spider-Man
 DTSTART;TZID=Europe/London:20240802T200000
 DTEND;TZID=Europe/London:20240802T223000
@@ -2029,19 +1934,6 @@ DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 2\n\nreDiscover: Time to b
  e-details/020/HO00014683/spider-man/\nhttps://ticketing.picturehouses.com/
  Ticketing/visSelectTickets.aspx?cinemacode=020&txtSessionId=65776&visLang=
  1
-LOCATION:Picture House London - Clapham
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:OUT: Indigo Girls: It's Only Life After All
-DTSTART;TZID=Europe/London:20240722T200000
-DTEND;TZID=Europe/London:20240722T223000
-DTSTAMP:20240722T190000Z
-UID:66540
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nOut: Elevating and ce
- lebrating LGBTQ+ cinema\, from reclaimed classics to the cutting edge.\n\n
- https://www.picturehouses.com/movie-details/020/HO00014901/out-indigo-girl
- s-it-s-only-life-after-all/\nhttps://ticketing.picturehouses.com/Ticketing
- /visSelectTickets.aspx?cinemacode=020&txtSessionId=66540&visLang=1
 LOCATION:Picture House London - Clapham
 END:VEVENT
 BEGIN:VEVENT
