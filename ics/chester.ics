@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240822T111111Z
+LAST-MODIFIED:20240823T075553Z
 NAME:Picture House Chester
 X-WR-CALNAME:Picture House Chester
+BEGIN:VEVENT
+SUMMARY:Dog-Friendly: My Neighbour Totoro
+DTSTART;TZID=Europe/London:20240825T110000
+DTEND;TZID=Europe/London:20240825T125500
+DTSTAMP:20240825T100000Z
+UID:7342
+DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00015022/dog-friendly-my-neighbour-totoro-subb
+ ed/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=034&txtSessionId=7342&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RB&O: Wolf Witch Giant Fairy
 DTSTART;TZID=Europe/London:20241027T110000
@@ -26,18 +38,6 @@ DESCRIPTION:Duration: 1h 05m (65 mins)\nScreen 5\n\nhttps://www.picturehou
  ses.com/movie-details/034/HO00015021/rb-o-wolf-witch-giant-fairy/\nhttps:/
  /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=03
  4&txtSessionId=7056&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dog-Friendly: My Neighbour Totoro
-DTSTART;TZID=Europe/London:20240825T110000
-DTEND;TZID=Europe/London:20240825T125500
-DTSTAMP:20240825T100000Z
-UID:7342
-DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00015022/dog-friendly-my-neighbour-totoro-subb
- ed/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=034&txtSessionId=7342&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -146,31 +146,17 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\nScreen 2\n\nFilm Club: Picturehous
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Encore: Cinderella (2024)
-DTSTART;TZID=Europe/London:20241216T130000
-DTEND;TZID=Europe/London:20241216T161500
-DTSTAMP:20241216T130000Z
-UID:5782
-DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 4\n\nAd and Trailer Free: 
+SUMMARY:RB&O Encore: Alice's Adventures in Wonderland (2024)
+DTSTART;TZID=Europe/London:20241021T130000
+DTEND;TZID=Europe/London:20241021T162500
+DTSTAMP:20241021T120000Z
+UID:5780
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 4\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00014793/rb-o-encore-cinderella-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=578
- 2&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Encore: Romeo & Juliet (2025)
-DTSTART;TZID=Europe/London:20250324T130000
-DTEND;TZID=Europe/London:20250324T163000
-DTSTAMP:20250324T130000Z
-UID:5791
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00014794/rb-o-encore-romeo-juliet-2025/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=5
- 791&visLang=1
+ ils/034/HO00014792/rb-o-encore-alice-s-adventures-in-wonderland-2024/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=034&txtSessionId=5780&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -216,6 +202,20 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RB&O Encore: Romeo & Juliet (2025)
+DTSTART;TZID=Europe/London:20250324T130000
+DTEND;TZID=Europe/London:20250324T163000
+DTSTAMP:20250324T130000Z
+UID:5791
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00014794/rb-o-encore-romeo-juliet-2025/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=5
+ 791&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RB&O Encore: The Marriage of Figaro (2024)
 DTSTART;TZID=Europe/London:20240916T130000
 DTEND;TZID=Europe/London:20240916T170000
@@ -230,17 +230,17 @@ DESCRIPTION:Duration: 4h 00m (240 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Encore: Alice's Adventures in Wonderland (2024)
-DTSTART;TZID=Europe/London:20241021T130000
-DTEND;TZID=Europe/London:20241021T162500
-DTSTAMP:20241021T120000Z
-UID:5780
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 4\n\nAd and Trailer Free: 
+SUMMARY:RB&O Encore: Cinderella (2024)
+DTSTART;TZID=Europe/London:20241216T130000
+DTEND;TZID=Europe/London:20241216T161500
+DTSTAMP:20241216T130000Z
+UID:5782
+DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 4\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00014792/rb-o-encore-alice-s-adventures-in-wonderland-2024/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=034&txtSessionId=5780&visLang=1
+ ils/034/HO00014793/rb-o-encore-cinderella-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=578
+ 2&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -259,39 +259,15 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 4\n\nreDiscover: Time to b
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Billy Elliot the Musical Live (20th Anniversary)
-DTSTART;TZID=Europe/London:20250330T133000
-DTEND;TZID=Europe/London:20250330T164000
-DTSTAMP:20250330T123000Z
-UID:6948
-DESCRIPTION:Duration: 2h 43m (163 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014993/billy-elliot-the-musical-live-20th-a
- nniversary/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
- s.aspx?cinemacode=034&txtSessionId=6948&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Girl From The North Country
-DTSTART;TZID=Europe/London:20241121T133000
-DTEND;TZID=Europe/London:20241121T162000
-DTSTAMP:20241121T133000Z
-UID:6945
-DESCRIPTION:Duration: 2h 25m (145 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014990/girl-from-the-north-country/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 34&txtSessionId=6945&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jesus Christ Superstar Live
-DTSTART;TZID=Europe/London:20250302T133000
-DTEND;TZID=Europe/London:20250302T155000
-DTSTAMP:20250302T133000Z
-UID:6947
-DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014992/jesus-christ-superstar-live/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 34&txtSessionId=6947&visLang=1
+SUMMARY:The Phantom of the Opera at the Royal Albert Hall
+DTSTART;TZID=Europe/London:20241103T133000
+DTEND;TZID=Europe/London:20241103T163500
+DTSTAMP:20241103T133000Z
+UID:6944
+DESCRIPTION:Duration: 2h 40m (160 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014989/the-phantom-of-the-opera-at-the-roya
+ l-albert-hall/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
+ kets.aspx?cinemacode=034&txtSessionId=6944&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -307,15 +283,27 @@ DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 5\n\nhttps://www.pictureho
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Phantom of the Opera at the Royal Albert Hall
-DTSTART;TZID=Europe/London:20241103T133000
-DTEND;TZID=Europe/London:20241103T163500
-DTSTAMP:20241103T133000Z
-UID:6944
-DESCRIPTION:Duration: 2h 40m (160 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014989/the-phantom-of-the-opera-at-the-roya
- l-albert-hall/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=034&txtSessionId=6944&visLang=1
+SUMMARY:Girl From The North Country
+DTSTART;TZID=Europe/London:20241121T133000
+DTEND;TZID=Europe/London:20241121T162000
+DTSTAMP:20241121T133000Z
+UID:6945
+DESCRIPTION:Duration: 2h 25m (145 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014990/girl-from-the-north-country/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 34&txtSessionId=6945&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Elliot the Musical Live (20th Anniversary)
+DTSTART;TZID=Europe/London:20250330T133000
+DTEND;TZID=Europe/London:20250330T164000
+DTSTAMP:20250330T123000Z
+UID:6948
+DESCRIPTION:Duration: 2h 43m (163 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014993/billy-elliot-the-musical-live-20th-a
+ nniversary/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=034&txtSessionId=6948&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -328,6 +316,18 @@ DESCRIPTION:Duration: 3h 07m (187 mins)\nScreen 5\n\nhttps://www.pictureho
  uses.com/movie-details/034/HO00014988/miss-saigon-25th-anniversary-show/\n
  https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
  code=034&txtSessionId=6943&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jesus Christ Superstar Live
+DTSTART;TZID=Europe/London:20250302T133000
+DTEND;TZID=Europe/London:20250302T155000
+DTSTAMP:20250302T133000Z
+UID:6947
+DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014992/jesus-christ-superstar-live/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 34&txtSessionId=6947&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -347,20 +347,6 @@ DESCRIPTION:Duration: 2h 20m (140 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Little Miss Sunshine
-DTSTART;TZID=Europe/London:20241020T140000
-DTEND;TZID=Europe/London:20241020T160500
-DTSTAMP:20241020T130000Z
-UID:7460
-DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nFilm Club: Picturehou
- se Members get to watch the hand-picked films in our Film Club for just £
- 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00015099/little-miss-sunshine/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7460&visLa
- ng=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chimes at Midnight
 DTSTART;TZID=Europe/London:20241012T140000
 DTEND;TZID=Europe/London:20241012T162500
@@ -376,30 +362,17 @@ DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 5\n\nreDiscover: Time to b
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fidelio (2025)
-DTSTART;TZID=Europe/London:20250319T140000
-DTEND;TZID=Europe/London:20250319T174500
-DTSTAMP:20250319T140000Z
-UID:6645
-DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00014963/met-opera-encore-fidelio-2025/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=6
- 645&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sunshine
-DTSTART;TZID=Europe/London:20241117T140000
-DTEND;TZID=Europe/London:20241117T161500
-DTSTAMP:20241117T140000Z
-UID:7464
-DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nFilm Club: Picturehou
+SUMMARY:Little Miss Sunshine
+DTSTART;TZID=Europe/London:20241020T140000
+DTEND;TZID=Europe/London:20241020T160500
+DTSTAMP:20241020T130000Z
+UID:7460
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nFilm Club: Picturehou
  se Members get to watch the hand-picked films in our Film Club for just £
  1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00015103/sunshine/\nhttps://ticketing.picturehouses.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=034&txtSessionId=7464&visLang=1
+ ils/034/HO00015099/little-miss-sunshine/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7460&visLa
+ ng=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -413,34 +386,6 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nFilm Club: Picturehou
  1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
  ils/034/HO00015098/nomadland/\nhttps://ticketing.picturehouses.com/Ticketi
  ng/visSelectTickets.aspx?cinemacode=034&txtSessionId=7459&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Grand Budapest Hotel
-DTSTART;TZID=Europe/London:20241124T140000
-DTEND;TZID=Europe/London:20241124T160500
-DTSTAMP:20241124T140000Z
-UID:7465
-DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nFilm Club: Picturehou
- se Members get to watch the hand-picked films in our Film Club for just £
- 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00000296/the-grand-budapest-hotel/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7465&v
- isLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Nozze di Figaro (2025)
-DTSTART;TZID=Europe/London:20250502T140000
-DTEND;TZID=Europe/London:20250502T175500
-DTSTAMP:20250502T130000Z
-UID:6647
-DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00014965/met-opera-encore-le-nozze-di-figaro-2025/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txt
- SessionId=6647&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -458,17 +403,17 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grounded (2024)
-DTSTART;TZID=Europe/London:20241025T140000
-DTEND;TZID=Europe/London:20241025T164500
-DTSTAMP:20241025T130000Z
-UID:6516
-DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00014955/met-opera-encore-grounded-2024/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=
- 6516&visLang=1
+SUMMARY:The Grand Budapest Hotel
+DTSTART;TZID=Europe/London:20241124T140000
+DTEND;TZID=Europe/London:20241124T160500
+DTSTAMP:20241124T140000Z
+UID:7465
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nFilm Club: Picturehou
+ se Members get to watch the hand-picked films in our Film Club for just £
+ 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00000296/the-grand-budapest-hotel/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7465&v
+ isLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -499,17 +444,231 @@ DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 2\n\nFilm Club: Picturehou
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Il Barbiere di Siviglia (2025)
-DTSTART;TZID=Europe/London:20250606T140000
-DTEND;TZID=Europe/London:20250606T173500
-DTSTAMP:20250606T130000Z
-UID:6651
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00014969/met-opera-encore-il-barbiere-di-siviglia-2025/\nhttps:/
- /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=03
- 4&txtSessionId=6651&visLang=1
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240823T140000
+DTEND;TZID=Europe/London:20240823T163500
+DTSTAMP:20240823T130000Z
+UID:7378
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7378&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240823T165000
+DTEND;TZID=Europe/London:20240823T192500
+DTSTAMP:20240823T155000Z
+UID:7379
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7379&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240823T194500
+DTEND;TZID=Europe/London:20240823T222000
+DTSTAMP:20240823T184500Z
+UID:7409
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7409&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240824T131500
+DTEND;TZID=Europe/London:20240824T155000
+DTSTAMP:20240824T121500Z
+UID:7210
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7210&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240824T161500
+DTEND;TZID=Europe/London:20240824T185000
+DTSTAMP:20240824T151500Z
+UID:7216
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7216&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240824T191500
+DTEND;TZID=Europe/London:20240824T215000
+DTSTAMP:20240824T181500Z
+UID:7412
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7412&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240825T132000
+DTEND;TZID=Europe/London:20240825T155500
+DTSTAMP:20240825T122000Z
+UID:7211
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7211&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240825T162000
+DTEND;TZID=Europe/London:20240825T185500
+DTSTAMP:20240825T152000Z
+UID:7217
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7217&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240825T192000
+DTEND;TZID=Europe/London:20240825T215500
+DTSTAMP:20240825T182000Z
+UID:7223
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7223&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240826T163000
+DTEND;TZID=Europe/London:20240826T190500
+DTSTAMP:20240826T153000Z
+UID:7218
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7218&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240826T193000
+DTEND;TZID=Europe/London:20240826T220500
+DTSTAMP:20240826T183000Z
+UID:7224
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7224&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240827T140000
+DTEND;TZID=Europe/London:20240827T163500
+DTSTAMP:20240827T130000Z
+UID:7399
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 6\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7399&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240827T171500
+DTEND;TZID=Europe/London:20240827T195000
+DTSTAMP:20240827T161500Z
+UID:7219
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 6\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7219&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240828T140000
+DTEND;TZID=Europe/London:20240828T163500
+DTSTAMP:20240828T130000Z
+UID:7214
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 6\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7214&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240828T170000
+DTEND;TZID=Europe/London:20240828T193500
+DTSTAMP:20240828T160000Z
+UID:7220
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 6\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7220&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240828T195000
+DTEND;TZID=Europe/London:20240828T222500
+DTSTAMP:20240828T185000Z
+UID:7424
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7424&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240829T142000
+DTEND;TZID=Europe/London:20240829T165500
+DTSTAMP:20240829T132000Z
+UID:7221
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7221&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240829T194000
+DTEND;TZID=Europe/London:20240829T221500
+DTSTAMP:20240829T184000Z
+UID:7227
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7227&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deadpool & Wolverine
+DTSTART;TZID=Europe/London:20240830T194500
+DTEND;TZID=Europe/London:20240830T222000
+DTSTAMP:20240830T184500Z
+UID:7488
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
+ sionId=7488&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -526,268 +685,72 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 2\n\nFilm Club: Picturehous
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240822T140000
-DTEND;TZID=Europe/London:20240822T163000
-DTSTAMP:20240822T130000Z
-UID:7344
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7344&visLang=1
+SUMMARY:Le Nozze di Figaro (2025)
+DTSTART;TZID=Europe/London:20250502T140000
+DTEND;TZID=Europe/London:20250502T175500
+DTSTAMP:20250502T130000Z
+UID:6647
+DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00014965/met-opera-encore-le-nozze-di-figaro-2025/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txt
+ SessionId=6647&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240822T170000
-DTEND;TZID=Europe/London:20240822T193000
-DTSTAMP:20240822T160000Z
-UID:7351
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7351&visLang=1
+SUMMARY:Grounded (2024)
+DTSTART;TZID=Europe/London:20241025T140000
+DTEND;TZID=Europe/London:20241025T164500
+DTSTAMP:20241025T130000Z
+UID:6516
+DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00014955/met-opera-encore-grounded-2024/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=
+ 6516&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240822T192000
-DTEND;TZID=Europe/London:20240822T215000
-DTSTAMP:20240822T182000Z
-UID:7359
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7359&visLang=1
+SUMMARY:Sunshine
+DTSTART;TZID=Europe/London:20241117T140000
+DTEND;TZID=Europe/London:20241117T161500
+DTSTAMP:20241117T140000Z
+UID:7464
+DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nFilm Club: Picturehou
+ se Members get to watch the hand-picked films in our Film Club for just £
+ 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00015103/sunshine/\nhttps://ticketing.picturehouses.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=034&txtSessionId=7464&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240823T142000
-DTEND;TZID=Europe/London:20240823T165000
-DTSTAMP:20240823T132000Z
-UID:7374
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/034/HO00014978/it-ends
- -with-us/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=034&txtSessionId=7374&visLang=1
+SUMMARY:Fidelio (2025)
+DTSTART;TZID=Europe/London:20250319T140000
+DTEND;TZID=Europe/London:20250319T174500
+DTSTAMP:20250319T140000Z
+UID:6645
+DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00014963/met-opera-encore-fidelio-2025/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=6
+ 645&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240823T164000
-DTEND;TZID=Europe/London:20240823T191000
-DTSTAMP:20240823T154000Z
-UID:7373
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7373&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240823T194000
-DTEND;TZID=Europe/London:20240823T221000
-DTSTAMP:20240823T184000Z
-UID:7381
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7381&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240824T140000
-DTEND;TZID=Europe/London:20240824T163000
-DTSTAMP:20240824T130000Z
-UID:7252
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7252&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240824T165000
-DTEND;TZID=Europe/London:20240824T192000
-DTSTAMP:20240824T155000Z
-UID:7258
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7258&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240824T194000
-DTEND;TZID=Europe/London:20240824T221000
-DTSTAMP:20240824T184000Z
-UID:7264
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7264&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240825T140000
-DTEND;TZID=Europe/London:20240825T163000
-DTSTAMP:20240825T130000Z
-UID:7253
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7253&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240825T170000
-DTEND;TZID=Europe/London:20240825T193000
-DTSTAMP:20240825T160000Z
-UID:7259
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7259&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240825T200000
-DTEND;TZID=Europe/London:20240825T223000
-DTSTAMP:20240825T190000Z
-UID:7265
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7265&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240826T140000
-DTEND;TZID=Europe/London:20240826T163000
-DTSTAMP:20240826T130000Z
-UID:7254
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7254&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240826T165000
-DTEND;TZID=Europe/London:20240826T192000
-DTSTAMP:20240826T155000Z
-UID:7260
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7260&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240826T194000
-DTEND;TZID=Europe/London:20240826T221000
-DTSTAMP:20240826T184000Z
-UID:7266
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7266&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240827T164500
-DTEND;TZID=Europe/London:20240827T191500
-DTSTAMP:20240827T154500Z
-UID:7255
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7255&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240827T194500
-DTEND;TZID=Europe/London:20240827T221500
-DTSTAMP:20240827T184500Z
-UID:7421
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7421&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240828T141500
-DTEND;TZID=Europe/London:20240828T164500
-DTSTAMP:20240828T131500Z
-UID:7262
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7262&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240828T171500
-DTEND;TZID=Europe/London:20240828T194500
-DTSTAMP:20240828T161500Z
-UID:7256
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7256&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240829T140000
-DTEND;TZID=Europe/London:20240829T163000
-DTSTAMP:20240829T130000Z
-UID:7257
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7257&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240829T165000
-DTEND;TZID=Europe/London:20240829T192000
-DTSTAMP:20240829T155000Z
-UID:7263
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7263&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:It Ends With Us
-DTSTART;TZID=Europe/London:20240829T194000
-DTEND;TZID=Europe/London:20240829T221000
-DTSTAMP:20240829T184000Z
-UID:7269
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=7269&visLang=1
+SUMMARY:Il Barbiere di Siviglia (2025)
+DTSTART;TZID=Europe/London:20250606T140000
+DTEND;TZID=Europe/London:20250606T173500
+DTSTAMP:20250606T130000Z
+UID:6651
+DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00014969/met-opera-encore-il-barbiere-di-siviglia-2025/\nhttps:/
+ /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=03
+ 4&txtSessionId=6651&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -816,42 +779,6 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nFilm Club: Picturehou
  ils/034/HO00015095/the-shape-of-water/\nhttps://ticketing.picturehouses.co
  m/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7455&visLang
  =1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=Europe/London:20240822T140000
-DTEND;TZID=Europe/London:20240822T162500
-DTSTAMP:20240822T130000Z
-UID:7346
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014997/alien-romulus/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
- d=7346&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=Europe/London:20240822T165000
-DTEND;TZID=Europe/London:20240822T191500
-DTSTAMP:20240822T155000Z
-UID:7352
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014997/alien-romulus/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
- d=7352&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=Europe/London:20240822T194000
-DTEND;TZID=Europe/London:20240822T220500
-DTSTAMP:20240822T184000Z
-UID:7360
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014997/alien-romulus/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
- d=7360&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -1107,27 +1034,15 @@ DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ozi: Voice of the Forest
-DTSTART;TZID=Europe/London:20240822T141000
-DTEND;TZID=Europe/London:20240822T160500
-DTSTAMP:20240822T131000Z
-UID:7343
-DESCRIPTION:Duration: 1h 27m (87 mins)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00015042/ozi-voice-of-the-forest/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&tx
- tSessionId=7343&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ozi: Voice of the Forest
-DTSTART;TZID=Europe/London:20240822T163000
-DTEND;TZID=Europe/London:20240822T182500
-DTSTAMP:20240822T153000Z
-UID:7353
-DESCRIPTION:Duration: 1h 27m (87 mins)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00015042/ozi-voice-of-the-forest/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&tx
- tSessionId=7353&visLang=1
+SUMMARY:Alien: Romulus
+DTSTART;TZID=Europe/London:20240830T200000
+DTEND;TZID=Europe/London:20240830T222500
+DTSTAMP:20240830T190000Z
+UID:7486
+DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014997/alien-romulus/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
+ d=7486&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -1318,6 +1233,247 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240823T142000
+DTEND;TZID=Europe/London:20240823T165000
+DTSTAMP:20240823T132000Z
+UID:7374
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nSubtitled (Captioned)
+ : Everyone welcome. This screening has subtitles for people with hearing l
+ oss.\n\nhttps://www.picturehouses.com/movie-details/034/HO00014978/it-ends
+ -with-us/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=034&txtSessionId=7374&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240823T164000
+DTEND;TZID=Europe/London:20240823T191000
+DTSTAMP:20240823T154000Z
+UID:7373
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7373&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240823T194000
+DTEND;TZID=Europe/London:20240823T221000
+DTSTAMP:20240823T184000Z
+UID:7381
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7381&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240824T140000
+DTEND;TZID=Europe/London:20240824T163000
+DTSTAMP:20240824T130000Z
+UID:7252
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7252&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240824T165000
+DTEND;TZID=Europe/London:20240824T192000
+DTSTAMP:20240824T155000Z
+UID:7258
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7258&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240824T194000
+DTEND;TZID=Europe/London:20240824T221000
+DTSTAMP:20240824T184000Z
+UID:7264
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7264&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240825T140000
+DTEND;TZID=Europe/London:20240825T163000
+DTSTAMP:20240825T130000Z
+UID:7253
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7253&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240825T170000
+DTEND;TZID=Europe/London:20240825T193000
+DTSTAMP:20240825T160000Z
+UID:7259
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7259&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240825T200000
+DTEND;TZID=Europe/London:20240825T223000
+DTSTAMP:20240825T190000Z
+UID:7265
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7265&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240826T140000
+DTEND;TZID=Europe/London:20240826T163000
+DTSTAMP:20240826T130000Z
+UID:7254
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7254&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240826T165000
+DTEND;TZID=Europe/London:20240826T192000
+DTSTAMP:20240826T155000Z
+UID:7260
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7260&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240826T194000
+DTEND;TZID=Europe/London:20240826T221000
+DTSTAMP:20240826T184000Z
+UID:7266
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7266&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240827T164500
+DTEND;TZID=Europe/London:20240827T191500
+DTSTAMP:20240827T154500Z
+UID:7255
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7255&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240827T194500
+DTEND;TZID=Europe/London:20240827T221500
+DTSTAMP:20240827T184500Z
+UID:7421
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7421&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240828T141500
+DTEND;TZID=Europe/London:20240828T164500
+DTSTAMP:20240828T131500Z
+UID:7262
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7262&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240828T171500
+DTEND;TZID=Europe/London:20240828T194500
+DTSTAMP:20240828T161500Z
+UID:7256
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7256&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240829T140000
+DTEND;TZID=Europe/London:20240829T163000
+DTSTAMP:20240829T130000Z
+UID:7257
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7257&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240829T165000
+DTEND;TZID=Europe/London:20240829T192000
+DTSTAMP:20240829T155000Z
+UID:7263
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7263&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240829T194000
+DTEND;TZID=Europe/London:20240829T221000
+DTSTAMP:20240829T184000Z
+UID:7269
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7269&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:It Ends With Us
+DTSTART;TZID=Europe/London:20240830T193000
+DTEND;TZID=Europe/London:20240830T220000
+DTSTAMP:20240830T183000Z
+UID:7489
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014978/it-ends-with-us/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=7489&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pulp Fiction (30th Anniversary)
 DTSTART;TZID=Europe/London:20240825T143000
 DTEND;TZID=Europe/London:20240825T173000
@@ -1462,27 +1618,17 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Despicable Me 4
-DTSTART;TZID=Europe/London:20240822T145000
-DTEND;TZID=Europe/London:20240822T165000
-DTSTAMP:20240822T135000Z
-UID:7356
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014865/despicable-me-4/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=7356&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Despicable Me 4
-DTSTART;TZID=Europe/London:20240822T172000
-DTEND;TZID=Europe/London:20240822T192000
-DTSTAMP:20240822T162000Z
-UID:7350
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014865/despicable-me-4/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=7350&visLang=1
+SUMMARY:Salome (2025)
+DTSTART;TZID=Europe/London:20250523T150000
+DTEND;TZID=Europe/London:20250523T171500
+DTSTAMP:20250523T140000Z
+UID:6649
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00014967/met-opera-encore-salome-2025/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=66
+ 49&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -1570,20 +1716,6 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 6\n\nhttps://www.picturehou
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salome (2025)
-DTSTART;TZID=Europe/London:20250523T150000
-DTEND;TZID=Europe/London:20250523T171500
-DTSTAMP:20250523T140000Z
-UID:6649
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00014967/met-opera-encore-salome-2025/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=66
- 49&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eric Ravilious: Drawn to War
 DTSTART;TZID=Europe/London:20240902T151000
 DTEND;TZID=Europe/London:20240902T170500
@@ -1605,30 +1737,6 @@ DESCRIPTION:Duration: 1h 28m (88 mins)\nScreen 4\n\nhttps://www.picturehou
  ses.com/movie-details/034/HO00011774/eric-ravilious-drawn-to-war/\nhttps:/
  /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=03
  4&txtSessionId=6949&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Only The River Flows
-DTSTART;TZID=Europe/London:20240822T152000
-DTEND;TZID=Europe/London:20240822T173000
-DTSTAMP:20240822T142000Z
-UID:7355
-DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014778/only-the-river-flows/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
- essionId=7355&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Only The River Flows
-DTSTART;TZID=Europe/London:20240822T201000
-DTEND;TZID=Europe/London:20240822T222000
-DTSTAMP:20240822T191000Z
-UID:7357
-DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014778/only-the-river-flows/\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtS
- essionId=7357&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -1783,246 +1891,6 @@ DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240822T162000
-DTEND;TZID=Europe/London:20240822T185500
-DTSTAMP:20240822T152000Z
-UID:7354
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7354&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240822T190000
-DTEND;TZID=Europe/London:20240822T213500
-DTSTAMP:20240822T180000Z
-UID:7347
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7347&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240823T140000
-DTEND;TZID=Europe/London:20240823T163500
-DTSTAMP:20240823T130000Z
-UID:7378
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7378&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240823T165000
-DTEND;TZID=Europe/London:20240823T192500
-DTSTAMP:20240823T155000Z
-UID:7379
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7379&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240823T194500
-DTEND;TZID=Europe/London:20240823T222000
-DTSTAMP:20240823T184500Z
-UID:7409
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7409&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240824T131500
-DTEND;TZID=Europe/London:20240824T155000
-DTSTAMP:20240824T121500Z
-UID:7210
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7210&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240824T161500
-DTEND;TZID=Europe/London:20240824T185000
-DTSTAMP:20240824T151500Z
-UID:7216
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7216&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240824T191500
-DTEND;TZID=Europe/London:20240824T215000
-DTSTAMP:20240824T181500Z
-UID:7412
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7412&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240825T132000
-DTEND;TZID=Europe/London:20240825T155500
-DTSTAMP:20240825T122000Z
-UID:7211
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7211&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240825T162000
-DTEND;TZID=Europe/London:20240825T185500
-DTSTAMP:20240825T152000Z
-UID:7217
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7217&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240825T192000
-DTEND;TZID=Europe/London:20240825T215500
-DTSTAMP:20240825T182000Z
-UID:7223
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7223&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240826T163000
-DTEND;TZID=Europe/London:20240826T190500
-DTSTAMP:20240826T153000Z
-UID:7218
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7218&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240826T193000
-DTEND;TZID=Europe/London:20240826T220500
-DTSTAMP:20240826T183000Z
-UID:7224
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7224&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240827T140000
-DTEND;TZID=Europe/London:20240827T163500
-DTSTAMP:20240827T130000Z
-UID:7399
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7399&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240827T171500
-DTEND;TZID=Europe/London:20240827T195000
-DTSTAMP:20240827T161500Z
-UID:7219
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7219&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240828T140000
-DTEND;TZID=Europe/London:20240828T163500
-DTSTAMP:20240828T130000Z
-UID:7214
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7214&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240828T170000
-DTEND;TZID=Europe/London:20240828T193500
-DTSTAMP:20240828T160000Z
-UID:7220
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7220&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240828T195000
-DTEND;TZID=Europe/London:20240828T222500
-DTSTAMP:20240828T185000Z
-UID:7424
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7424&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240829T142000
-DTEND;TZID=Europe/London:20240829T165500
-DTSTAMP:20240829T132000Z
-UID:7221
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7221&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Deadpool & Wolverine
-DTSTART;TZID=Europe/London:20240829T194000
-DTEND;TZID=Europe/London:20240829T221500
-DTSTAMP:20240829T184000Z
-UID:7227
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014713/deadpool-wolverine/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSes
- sionId=7227&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Banshees of Inisherin
 DTSTART;TZID=Europe/London:20240929T162000
 DTEND;TZID=Europe/London:20240929T184000
@@ -2034,21 +1902,6 @@ DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nFilm Club: Picturehou
  ils/034/HO00014928/the-banshees-of-inisherin/\nhttps://ticketing.pictureho
  uses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7456&
  visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Fidelio (2025)
-DTSTART;TZID=Europe/London:20250315T170000
-DTEND;TZID=Europe/London:20250315T204500
-DTSTAMP:20250315T170000Z
-UID:6644
-DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/034/HO00014962/met-opera-live-fidelio-2025/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
- nId=6644&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2064,6 +1917,35 @@ DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 4\n\nAd and Trailer Free:
  ie-details/034/HO00014746/rb-o-live-die-walkure-2025/\nhttps://ticketing.p
  icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
  Id=5794&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Romeo + Juliet
+DTSTART;TZID=Europe/London:20240921T170000
+DTEND;TZID=Europe/London:20240921T192500
+DTSTAMP:20240921T160000Z
+UID:7334
+DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/034/HO00003821/romeo-juliet/\nhttps://ticketing.picturehouses.co
+ m/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7334&visLang
+ =1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(500) Days of Summer
+DTSTART;TZID=Europe/London:20241103T170000
+DTEND;TZID=Europe/London:20241103T190000
+DTSTAMP:20241103T170000Z
+UID:7462
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 4\n\nFilm Club: Picturehous
+ e Members get to watch the hand-picked films in our Film Club for just £1
+  (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-detai
+ ls/034/HO00015101/500-days-of-summer/\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7462&visLang=
+ 1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2099,32 +1981,18 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(500) Days of Summer
-DTSTART;TZID=Europe/London:20241103T170000
-DTEND;TZID=Europe/London:20241103T190000
-DTSTAMP:20241103T170000Z
-UID:7462
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 4\n\nFilm Club: Picturehous
- e Members get to watch the hand-picked films in our Film Club for just £1
-  (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-detai
- ls/034/HO00015101/500-days-of-summer/\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7462&visLang=
- 1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Romeo + Juliet
-DTSTART;TZID=Europe/London:20240921T170000
-DTEND;TZID=Europe/London:20240921T192500
-DTSTAMP:20240921T160000Z
-UID:7334
-DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/034/HO00003821/romeo-juliet/\nhttps://ticketing.picturehouses.co
- m/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7334&visLang
- =1
+SUMMARY:Met Opera Live: Fidelio (2025)
+DTSTART;TZID=Europe/London:20250315T170000
+DTEND;TZID=Europe/London:20250315T204500
+DTSTAMP:20250315T170000Z
+UID:6644
+DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/034/HO00014962/met-opera-live-fidelio-2025/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessio
+ nId=6644&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2344,6 +2212,21 @@ DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 4\n\nhttps://www.pictureho
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Met Opera Live: Aida (2025)
+DTSTART;TZID=Europe/London:20250125T173000
+DTEND;TZID=Europe/London:20250125T211000
+DTSTAMP:20250125T173000Z
+UID:6519
+DESCRIPTION:Duration: 3h 40m (220 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/034/HO00014960/met-opera-live-aida-2025/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
+ =6519&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chinatown
 DTSTART;TZID=Europe/London:20240930T173000
 DTEND;TZID=Europe/London:20240930T200500
@@ -2358,18 +2241,63 @@ DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 5\n\nreDiscover: Time to b
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Aida (2025)
-DTSTART;TZID=Europe/London:20250125T173000
-DTEND;TZID=Europe/London:20250125T211000
-DTSTAMP:20250125T173000Z
-UID:6519
-DESCRIPTION:Duration: 3h 40m (220 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/034/HO00014960/met-opera-live-aida-2025/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =6519&visLang=1
+SUMMARY:Sing Sing
+DTSTART;TZID=Europe/London:20240830T174000
+DTEND;TZID=Europe/London:20240830T195500
+DTSTAMP:20240830T164000Z
+UID:7482
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014946/sing-sing/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=74
+ 82&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=Europe/London:20240830T201500
+DTEND;TZID=Europe/London:20240830T223000
+DTSTAMP:20240830T191500Z
+UID:7484
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014946/sing-sing/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=74
+ 84&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=Europe/London:20240901T140000
+DTEND;TZID=Europe/London:20240901T161500
+DTSTAMP:20240901T130000Z
+UID:6952
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014946/sing-sing/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=69
+ 52&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=Europe/London:20240901T163500
+DTEND;TZID=Europe/London:20240901T185000
+DTSTAMP:20240901T153500Z
+UID:6951
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014946/sing-sing/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=69
+ 51&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Sing
+DTSTART;TZID=Europe/London:20240901T191000
+DTEND;TZID=Europe/London:20240901T212500
+DTSTAMP:20240901T181000Z
+UID:6950
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014946/sing-sing/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=69
+ 50&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2578,18 +2506,6 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hollywoodgate
-DTSTART;TZID=Europe/London:20240822T175000
-DTEND;TZID=Europe/London:20240822T195000
-DTSTAMP:20240822T165000Z
-UID:7349
-DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00014924/hollywoodgate/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId
- =7349&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Green Screen: X Trillion + Panel
 DTSTART;TZID=Europe/London:20240827T180000
 DTEND;TZID=Europe/London:20240827T201000
@@ -2601,6 +2517,36 @@ DESCRIPTION:Duration: 2h 10m (130 mins)\nScreen 3\n\nAd and Trailer Free:
  a Q&A.\n\nhttps://www.picturehouses.com/movie-details/034/HO00014825/green
  -screen-x-trillion-panel/\nhttps://ticketing.picturehouses.com/Ticketing/v
  isSelectTickets.aspx?cinemacode=034&txtSessionId=5986&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Queen of My Dreams + Recorded Introduction
+DTSTART;TZID=Europe/London:20240910T180000
+DTEND;TZID=Europe/London:20240910T201000
+DTSTAMP:20240910T170000Z
+UID:7497
+DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 3\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nFilm Club: Picturehouse Members get to watch the hand-picked fi
+ lms in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps://
+ www.picturehouses.com/movie-details/034/HO00015033/film-club-the-queen-of-
+ my-dreams-recorded-introduction/\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=034&txtSessionId=7497&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Grounded (2024)
+DTSTART;TZID=Europe/London:20241019T180000
+DTEND;TZID=Europe/London:20241019T204500
+DTSTAMP:20241019T170000Z
+UID:6515
+DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/034/HO00014954/met-opera-live-grounded-2024/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessi
+ onId=6515&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2634,48 +2580,18 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Les Contes d’Hoffmann (2024)
-DTSTART;TZID=Europe/London:20241005T180000
-DTEND;TZID=Europe/London:20241005T220500
-DTSTAMP:20241005T170000Z
-UID:6513
-DESCRIPTION:Duration: 4h 05m (245 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/034/HO00014952/met-opera-live-les-contes-dhoffmann-2024/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 034&txtSessionId=6513&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Il Barbiere di Siviglia (2025)
-DTSTART;TZID=Europe/London:20250531T180000
-DTEND;TZID=Europe/London:20250531T213500
-DTSTAMP:20250531T170000Z
-UID:6650
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/034/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=034&txtSessionId=6650&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Grounded (2024)
-DTSTART;TZID=Europe/London:20241019T180000
-DTEND;TZID=Europe/London:20241019T204500
-DTSTAMP:20241019T170000Z
-UID:6515
-DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/034/HO00014954/met-opera-live-grounded-2024/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessi
- onId=6515&visLang=1
+SUMMARY:Batman: Mask of the Phantasm
+DTSTART;TZID=Europe/London:20240902T180000
+DTEND;TZID=Europe/London:20240902T194000
+DTSTAMP:20240902T170000Z
+UID:7323
+DESCRIPTION:Duration: 1h 13m (73 mins)\nScreen 5\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/034/HO00015044/batman-mask-of-the-phantasm/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
+ d=7323&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2694,18 +2610,33 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Batman: Mask of the Phantasm
-DTSTART;TZID=Europe/London:20240902T180000
-DTEND;TZID=Europe/London:20240902T194000
-DTSTAMP:20240902T170000Z
-UID:7323
-DESCRIPTION:Duration: 1h 13m (73 mins)\nScreen 5\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/034/HO00015044/batman-mask-of-the-phantasm/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
- d=7323&visLang=1
+SUMMARY:Met Opera Live: Il Barbiere di Siviglia (2025)
+DTSTART;TZID=Europe/London:20250531T180000
+DTEND;TZID=Europe/London:20250531T213500
+DTSTAMP:20250531T170000Z
+UID:6650
+DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/034/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=034&txtSessionId=6650&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Les Contes d’Hoffmann (2024)
+DTSTART;TZID=Europe/London:20241005T180000
+DTEND;TZID=Europe/London:20241005T220500
+DTSTAMP:20241005T170000Z
+UID:6513
+DESCRIPTION:Duration: 4h 05m (245 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/034/HO00014952/met-opera-live-les-contes-dhoffmann-2024/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 034&txtSessionId=6513&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2776,6 +2707,21 @@ DESCRIPTION:Duration: 4h 05m (245 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Dark Knight Rises
+DTSTART;TZID=Europe/London:20240921T190000
+DTEND;TZID=Europe/London:20240921T221000
+DTSTAMP:20240921T180000Z
+UID:7327
+DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/034/HO00010748/the-dark-knight-rises/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=732
+ 7&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NT Live: Prima Facie (2024 Encore)
 DTSTART;TZID=Europe/London:20240912T190000
 DTEND;TZID=Europe/London:20240912T214000
@@ -2821,21 +2767,6 @@ DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/034/HO00014902/nt-live-prima-facie-2024-encore/\nht
  tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
  de=034&txtSessionId=6258&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Dark Knight Rises
-DTSTART;TZID=Europe/London:20240921T190000
-DTEND;TZID=Europe/London:20240921T221000
-DTSTAMP:20240921T180000Z
-UID:7327
-DESCRIPTION:Duration: 2h 44m (164 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/034/HO00010748/the-dark-knight-rises/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=732
- 7&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -2899,21 +2830,6 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Live: Ballet To Broadway: Wheeldon Works (2025)
-DTSTART;TZID=Europe/London:20250522T191500
-DTEND;TZID=Europe/London:20250522T221500
-DTSTAMP:20250522T181500Z
-UID:5796
-DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/034/HO00014747/rb-o-live-ballet-to-broadway-wheeldon-works-2025
- /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
- emacode=034&txtSessionId=5796&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RB&O Live: Cinderella (2024)
 DTSTART;TZID=Europe/London:20241210T191500
 DTEND;TZID=Europe/London:20241210T223000
@@ -2929,46 +2845,18 @@ DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O: Swan Lake (Captured Live 2024)
-DTSTART;TZID=Europe/London:20250227T191500
-DTEND;TZID=Europe/London:20250227T224500
-DTSTAMP:20250227T191500Z
-UID:5788
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00014742/rb-o-swan-lake-captured-live-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=5788&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O: Swan Lake (Captured Live 2024)
-DTSTART;TZID=Europe/London:20250303T130000
-DTEND;TZID=Europe/London:20250303T163000
-DTSTAMP:20250303T130000Z
-UID:5789
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00014742/rb-o-swan-lake-captured-live-2024/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
- Id=5789&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Live: Turandot (2025)
-DTSTART;TZID=Europe/London:20250401T191500
-DTEND;TZID=Europe/London:20250401T224000
-DTSTAMP:20250401T181500Z
-UID:5792
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 4\n\nAd and Trailer Free: 
+SUMMARY:RB&O Live: Ballet To Broadway: Wheeldon Works (2025)
+DTSTART;TZID=Europe/London:20250522T191500
+DTEND;TZID=Europe/London:20250522T221500
+DTSTAMP:20250522T181500Z
+UID:5796
+DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 4\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/034/HO00014744/rb-o-live-turandot-2025/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=
- 5792&visLang=1
+ ie-details/034/HO00014747/rb-o-live-ballet-to-broadway-wheeldon-works-2025
+ /\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cin
+ emacode=034&txtSessionId=5796&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -3023,55 +2911,46 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 4\n\nAd and Trailer Free:
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lee
-DTSTART;TZID=Europe/London:20240904T193000
-DTEND;TZID=Europe/London:20240904T215500
-DTSTAMP:20240904T183000Z
-UID:7341
-DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 2\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nPreview: A special preview screening of this film. See it befor
- e anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to
-  watch the hand-picked films in our Film Club for just £1 (Terms and Cond
- itions apply)\n\nhttps://www.picturehouses.com/movie-details/034/HO0001503
- 1/film-club-lee/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectT
- ickets.aspx?cinemacode=034&txtSessionId=7341&visLang=1
+SUMMARY:RB&O Live: Turandot (2025)
+DTSTART;TZID=Europe/London:20250401T191500
+DTEND;TZID=Europe/London:20250401T224000
+DTSTAMP:20250401T181500Z
+UID:5792
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/034/HO00014744/rb-o-live-turandot-2025/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=
+ 5792&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CFS: The Promised Land
-DTSTART;TZID=Europe/London:20240919T193000
-DTEND;TZID=Europe/London:20240919T220500
-DTSTAMP:20240919T183000Z
-UID:7034
-DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00015003/cfs-the-promised-land/\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txt
- SessionId=7034&visLang=1
+SUMMARY:RB&O: Swan Lake (Captured Live 2024)
+DTSTART;TZID=Europe/London:20250227T191500
+DTEND;TZID=Europe/London:20250227T224500
+DTSTAMP:20250227T191500Z
+UID:5788
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00014742/rb-o-swan-lake-captured-live-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
+ Id=5788&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CFS: The Origin of Evil
-DTSTART;TZID=Europe/London:20241010T193000
-DTEND;TZID=Europe/London:20241010T220000
-DTSTAMP:20241010T183000Z
-UID:7035
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00015004/cfs-the-origin-of-evil/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&tx
- tSessionId=7035&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CFS: Mami Wata
-DTSTART;TZID=Europe/London:20241121T193000
-DTEND;TZID=Europe/London:20241121T214500
-DTSTAMP:20241121T193000Z
-UID:7037
-DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00015006/cfs-mami-wata/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
- d=7037&visLang=1
+SUMMARY:RB&O: Swan Lake (Captured Live 2024)
+DTSTART;TZID=Europe/London:20250303T130000
+DTEND;TZID=Europe/London:20250303T163000
+DTSTAMP:20250303T130000Z
+UID:5789
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 4\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00014742/rb-o-swan-lake-captured-live-2024/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSession
+ Id=5789&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -3084,78 +2963,6 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\nScreen 2\n\nhttps://www.pictureho
  uses.com/movie-details/034/HO00015005/cfs-sorcery/\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=
  7036&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:blur: Live at Wembley Stadium
-DTSTART;TZID=Europe/London:20240906T193000
-DTEND;TZID=Europe/London:20240906T220500
-DTSTAMP:20240906T183000Z
-UID:6652
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014974/blur-live-at-wembley-stadium/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 034&txtSessionId=6652&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:blur: Live at Wembley Stadium
-DTSTART;TZID=Europe/London:20240907T170000
-DTEND;TZID=Europe/London:20240907T193500
-DTSTAMP:20240907T160000Z
-UID:6653
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014974/blur-live-at-wembley-stadium/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 034&txtSessionId=6653&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:blur: Live at Wembley Stadium
-DTSTART;TZID=Europe/London:20240911T193000
-DTEND;TZID=Europe/London:20240911T220500
-DTSTAMP:20240911T183000Z
-UID:6654
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014974/blur-live-at-wembley-stadium/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 034&txtSessionId=6654&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CFS: The Good Boss
-DTSTART;TZID=Europe/London:20241212T193000
-DTEND;TZID=Europe/London:20241212T215500
-DTSTAMP:20241212T193000Z
-UID:7038
-DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00015007/cfs-the-good-boss/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSess
- ionId=7038&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paul McCartney and Wings - One Hand Clapping
-DTSTART;TZID=Europe/London:20240926T193000
-DTEND;TZID=Europe/London:20240926T210000
-DTSTAMP:20240926T183000Z
-UID:7338
-DESCRIPTION:Duration: 1h 05m (65 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00015053/paul-mccartney-and-wings-one-hand-cla
- pping/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=034&txtSessionId=7338&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paul McCartney and Wings - One Hand Clapping
-DTSTART;TZID=Europe/London:20240928T150000
-DTEND;TZID=Europe/London:20240928T163000
-DTSTAMP:20240928T140000Z
-UID:7339
-DESCRIPTION:Duration: 1h 05m (65 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/034/HO00015053/paul-mccartney-and-wings-one-hand-cla
- pping/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=034&txtSessionId=7339&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -3219,6 +3026,146 @@ DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:blur: Live at Wembley Stadium
+DTSTART;TZID=Europe/London:20240906T193000
+DTEND;TZID=Europe/London:20240906T220500
+DTSTAMP:20240906T183000Z
+UID:6652
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014974/blur-live-at-wembley-stadium/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 034&txtSessionId=6652&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:blur: Live at Wembley Stadium
+DTSTART;TZID=Europe/London:20240907T170000
+DTEND;TZID=Europe/London:20240907T193500
+DTSTAMP:20240907T160000Z
+UID:6653
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014974/blur-live-at-wembley-stadium/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 034&txtSessionId=6653&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:blur: Live at Wembley Stadium
+DTSTART;TZID=Europe/London:20240911T193000
+DTEND;TZID=Europe/London:20240911T220500
+DTSTAMP:20240911T183000Z
+UID:6654
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00014974/blur-live-at-wembley-stadium/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 034&txtSessionId=6654&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CFS: The Promised Land
+DTSTART;TZID=Europe/London:20240919T193000
+DTEND;TZID=Europe/London:20240919T220500
+DTSTAMP:20240919T183000Z
+UID:7034
+DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00015003/cfs-the-promised-land/\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txt
+ SessionId=7034&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CFS: The Origin of Evil
+DTSTART;TZID=Europe/London:20241010T193000
+DTEND;TZID=Europe/London:20241010T220000
+DTSTAMP:20241010T183000Z
+UID:7035
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00015004/cfs-the-origin-of-evil/\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&tx
+ tSessionId=7035&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paul McCartney and Wings - One Hand Clapping
+DTSTART;TZID=Europe/London:20240926T193000
+DTEND;TZID=Europe/London:20240926T210000
+DTSTAMP:20240926T183000Z
+UID:7338
+DESCRIPTION:Duration: 1h 05m (65 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00015053/paul-mccartney-and-wings-one-hand-cla
+ pping/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=034&txtSessionId=7338&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paul McCartney and Wings - One Hand Clapping
+DTSTART;TZID=Europe/London:20240928T150000
+DTEND;TZID=Europe/London:20240928T163000
+DTSTAMP:20240928T140000Z
+UID:7339
+DESCRIPTION:Duration: 1h 05m (65 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/034/HO00015053/paul-mccartney-and-wings-one-hand-cla
+ pping/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=034&txtSessionId=7339&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CFS: Mami Wata
+DTSTART;TZID=Europe/London:20241121T193000
+DTEND;TZID=Europe/London:20241121T214500
+DTSTAMP:20241121T193000Z
+UID:7037
+DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00015006/cfs-mami-wata/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionI
+ d=7037&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lee
+DTSTART;TZID=Europe/London:20240904T193000
+DTEND;TZID=Europe/London:20240904T215500
+DTSTAMP:20240904T183000Z
+UID:7341
+DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 2\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nPreview: A special preview screening of this film. See it befor
+ e anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to
+  watch the hand-picked films in our Film Club for just £1 (Terms and Cond
+ itions apply)\n\nhttps://www.picturehouses.com/movie-details/034/HO0001503
+ 1/film-club-lee/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectT
+ ickets.aspx?cinemacode=034&txtSessionId=7341&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CFS: The Good Boss
+DTSTART;TZID=Europe/London:20241212T193000
+DTEND;TZID=Europe/London:20241212T215500
+DTSTAMP:20241212T193000Z
+UID:7038
+DESCRIPTION:Duration: 1h 56m (116 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/034/HO00015007/cfs-the-good-boss/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSess
+ ionId=7038&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Outrun + Recorded Q&A
+DTSTART;TZID=Europe/London:20240924T194000
+DTEND;TZID=Europe/London:20240924T222500
+DTSTAMP:20240924T184000Z
+UID:7499
+DESCRIPTION:Duration: 2h 17m (137 mins)\nScreen 3\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nPreview: A special preview screening of this film. See it befor
+ e anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to
+  watch the hand-picked films in our Film Club for just £1 (Terms and Cond
+ itions apply)\n\nhttps://www.picturehouses.com/movie-details/034/HO0001503
+ 6/film-club-the-outrun-recorded-q-a/\nhttps://ticketing.picturehouses.com/
+ Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7499&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OUT: Batman & Robin (4K Restoration)
 DTSTART;TZID=Europe/London:20240916T194500
 DTEND;TZID=Europe/London:20240916T221500
@@ -3265,6 +3212,21 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 4\n\nreDiscover: Time to b
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Bad Sleep Well
+DTSTART;TZID=Europe/London:20240909T195000
+DTEND;TZID=Europe/London:20240909T222500
+DTSTAMP:20240909T185000Z
+UID:7331
+DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 3\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/034/HO00015029/the-bad-sleep-well/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7331&v
+ isLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sing Sing
 DTSTART;TZID=Europe/London:20240827T195000
 DTEND;TZID=Europe/London:20240827T220500
@@ -3281,30 +3243,47 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 2\n\nDiscover: Discover st
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Twisters
-DTSTART;TZID=Europe/London:20240822T195000
-DTEND;TZID=Europe/London:20240822T222000
-DTSTAMP:20240822T185000Z
-UID:7348
-DESCRIPTION:Duration: 2h 02m (122 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/034/HO00014871/twisters/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=734
- 8&visLang=1
+SUMMARY:The Fly (1986)
+DTSTART;TZID=Europe/London:20240823T200000
+DTEND;TZID=Europe/London:20240823T220000
+DTSTAMP:20240823T190000Z
+UID:5973
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 4\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/034/HO00009221/the-fly-1986/\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=5973&visLang=
+ 1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Bad Sleep Well
-DTSTART;TZID=Europe/London:20240909T195000
-DTEND;TZID=Europe/London:20240909T222500
-DTSTAMP:20240909T185000Z
-UID:7331
-DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 3\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/034/HO00015029/the-bad-sleep-well/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7331&v
- isLang=1
+SUMMARY:Never Let Me Go
+DTSTART;TZID=Europe/London:20241002T200000
+DTEND;TZID=Europe/London:20241002T221000
+DTSTAMP:20241002T190000Z
+UID:7457
+DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 3\n\nFilm Club: Picturehou
+ se Members get to watch the hand-picked films in our Film Club for just £
+ 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
+ ils/034/HO00015096/never-let-me-go/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7457&visLang=1
+LOCATION:Picture House Chester
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=Europe/London:20240917T200000
+DTEND;TZID=Europe/London:20240917T222500
+DTSTAMP:20240917T190000Z
+UID:7498
+DESCRIPTION:Duration: 1h 58m (118 mins)\nScreen 3\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nPreview: A special preview screening of this film. See it befor
+ e anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to
+  watch the hand-picked films in our Film Club for just £1 (Terms and Cond
+ itions apply)\n\nhttps://www.picturehouses.com/movie-details/034/HO0001503
+ 4/film-club-girls-will-be-girls/\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=034&txtSessionId=7498&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
@@ -3349,44 +3328,18 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Chester
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Never Let Me Go
-DTSTART;TZID=Europe/London:20241002T200000
-DTEND;TZID=Europe/London:20241002T221000
-DTSTAMP:20241002T190000Z
-UID:7457
-DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 3\n\nFilm Club: Picturehou
- se Members get to watch the hand-picked films in our Film Club for just £
- 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/034/HO00015096/never-let-me-go/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=7457&visLang=1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fly (1986)
-DTSTART;TZID=Europe/London:20240823T200000
-DTEND;TZID=Europe/London:20240823T220000
-DTSTAMP:20240823T190000Z
-UID:5973
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 4\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/034/HO00009221/the-fly-1986/\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=034&txtSessionId=5973&visLang=
- 1
-LOCATION:Picture House Chester
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trap
-DTSTART;TZID=Europe/London:20240822T200000
-DTEND;TZID=Europe/London:20240822T221000
-DTSTAMP:20240822T190000Z
-UID:7358
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/034/HO00014975/trap/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=034&txtSessionId=7358&visLang=1
+SUMMARY:Black Dog
+DTSTART;TZID=Europe/London:20241001T200000
+DTEND;TZID=Europe/London:20241001T221500
+DTSTAMP:20241001T190000Z
+UID:7500
+DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 3\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nFilm Club: Picturehouse Members get to watch the hand-picked fi
+ lms in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps://
+ www.picturehouses.com/movie-details/034/HO00014948/film-club-black-dog/\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=034&txtSessionId=7500&visLang=1
 LOCATION:Picture House Chester
 END:VEVENT
 END:VCALENDAR
