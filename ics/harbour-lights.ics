@@ -1,9 +1,35 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20240903T081411Z
+LAST-MODIFIED:20240904T082453Z
 NAME:Picture House Southampton - Harbour Lights
 X-WR-CALNAME:Picture House Southampton - Harbour Lights
+BEGIN:VEVENT
+SUMMARY:The Critic - Free Members Kia Preview
+DTSTART;TZID=Europe/London:20240908T093000
+DTEND;TZID=Europe/London:20240908T114000
+DTSTAMP:20240908T083000Z
+UID:28898
+DESCRIPTION:Duration: 1h 41m (101 mins)\nScreen 1\n\nPreview: A special pr
+ eview screening of this film. See it before anyone else on the big screen!
+ \n\nMembers' Free Screening: A free preview exclusively for Picturehouse M
+ embers\n\nhttps://www.picturehouses.com/movie-details/017/HO00015161/the-c
+ ritic-free-members-kia-preview/\nhttps://ticketing.picturehouses.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=017&txtSessionId=28898&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Between The Temples
+DTSTART;TZID=Europe/London:20240905T121000
+DTEND;TZID=Europe/London:20240905T143000
+DTSTAMP:20240905T111000Z
+UID:28867
+DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00014985/between-the-temples/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSe
+ ssionId=28867&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Never Let Me Go
 DTSTART;TZID=Europe/London:20240928T123000
@@ -323,18 +349,6 @@ DESCRIPTION:Duration: 2h 20m (140 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Miss Saigon (25th Anniversary Show)
-DTSTART;TZID=Europe/London:20240922T133000
-DTEND;TZID=Europe/London:20240922T170500
-DTSTAMP:20240922T123000Z
-UID:28592
-DESCRIPTION:Duration: 3h 07m (187 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014988/miss-saigon-25th-anniversary-show/\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=017&txtSessionId=28592&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Phantom of the Opera at the Royal Albert Hall
 DTSTART;TZID=Europe/London:20241103T133000
 DTEND;TZID=Europe/London:20241103T163500
@@ -359,18 +373,6 @@ DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Billy Elliot the Musical Live (20th Anniversary)
-DTSTART;TZID=Europe/London:20250330T133000
-DTEND;TZID=Europe/London:20250330T164000
-DTSTAMP:20250330T123000Z
-UID:28597
-DESCRIPTION:Duration: 2h 43m (163 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014993/billy-elliot-the-musical-live-20th-a
- nniversary/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
- s.aspx?cinemacode=017&txtSessionId=28597&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jesus Christ Superstar Live
 DTSTART;TZID=Europe/London:20250302T133000
 DTEND;TZID=Europe/London:20250302T155000
@@ -383,27 +385,51 @@ DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sing Sing
-DTSTART;TZID=Europe/London:20240903T150000
-DTEND;TZID=Europe/London:20240903T171500
-DTSTAMP:20240903T140000Z
-UID:28852
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014946/sing-sing/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28
- 852&visLang=1
+SUMMARY:Billy Elliot the Musical Live (20th Anniversary)
+DTSTART;TZID=Europe/London:20250330T133000
+DTEND;TZID=Europe/London:20250330T164000
+DTSTAMP:20250330T123000Z
+UID:28597
+DESCRIPTION:Duration: 2h 43m (163 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00014993/billy-elliot-the-musical-live-20th-a
+ nniversary/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=017&txtSessionId=28597&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sing Sing
-DTSTART;TZID=Europe/London:20240903T173000
-DTEND;TZID=Europe/London:20240903T194500
-DTSTAMP:20240903T163000Z
-UID:28851
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014946/sing-sing/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28
- 851&visLang=1
+SUMMARY:Miss Saigon (25th Anniversary Show)
+DTSTART;TZID=Europe/London:20240922T133000
+DTEND;TZID=Europe/London:20240922T170500
+DTSTAMP:20240922T123000Z
+UID:28592
+DESCRIPTION:Duration: 3h 07m (187 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00014988/miss-saigon-25th-anniversary-show/\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=017&txtSessionId=28592&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=Europe/London:20240904T144500
+DTEND;TZID=Europe/London:20240904T165500
+DTSTAMP:20240904T134500Z
+UID:28853
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00014780/kneecap/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=2885
+ 3&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kneecap
+DTSTART;TZID=Europe/London:20240905T173000
+DTEND;TZID=Europe/London:20240905T194000
+DTSTAMP:20240905T163000Z
+UID:28858
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00014780/kneecap/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=2885
+ 8&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -491,30 +517,6 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Between The Temples
-DTSTART;TZID=Europe/London:20240903T151500
-DTEND;TZID=Europe/London:20240903T173500
-DTSTAMP:20240903T141500Z
-UID:28864
-DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014985/between-the-temples/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSe
- ssionId=28864&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Between The Temples
-DTSTART;TZID=Europe/London:20240905T121000
-DTEND;TZID=Europe/London:20240905T143000
-DTSTAMP:20240905T111000Z
-UID:28867
-DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014985/between-the-temples/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSe
- ssionId=28867&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Dark Knight
 DTSTART;TZID=Europe/London:20240921T161500
 DTEND;TZID=Europe/London:20240921T191500
@@ -527,21 +529,6 @@ DESCRIPTION:Duration: 2h 32m (152 mins)\nScreen 1\n\nreDiscover: Time to b
  e-details/017/HO00015047/the-dark-knight/\nhttps://ticketing.picturehouses
  .com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28653&vis
  Lang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Fidelio (2025)
-DTSTART;TZID=Europe/London:20250315T170000
-DTEND;TZID=Europe/London:20250315T204500
-DTSTAMP:20250315T170000Z
-UID:28585
-DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/017/HO00014962/met-opera-live-fidelio-2025/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessio
- nId=28585&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -560,6 +547,21 @@ DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 1\n\nAd and Trailer Free:
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Met Opera Live: Fidelio (2025)
+DTSTART;TZID=Europe/London:20250315T170000
+DTEND;TZID=Europe/London:20250315T204500
+DTSTAMP:20250315T170000Z
+UID:28585
+DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/017/HO00014962/met-opera-live-fidelio-2025/\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessio
+ nId=28585&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Girl From The North Country
 DTSTART;TZID=Europe/London:20241121T170000
 DTEND;TZID=Europe/London:20241121T195000
@@ -569,6 +571,78 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\nScreen 2\n\nhttps://www.pictureho
  uses.com/movie-details/017/HO00014990/girl-from-the-north-country/\nhttps:
  //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
  17&txtSessionId=28594&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Count of Monte Cristo (2024)
+DTSTART;TZID=Europe/London:20240904T171500
+DTEND;TZID=Europe/London:20240904T203500
+DTSTAMP:20240904T161500Z
+UID:28855
+DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=017&txtSessionId=28855&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Count of Monte Cristo (2024)
+DTSTART;TZID=Europe/London:20240905T195000
+DTEND;TZID=Europe/London:20240905T231000
+DTSTAMP:20240905T185000Z
+UID:28860
+DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=017&txtSessionId=28860&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Count of Monte Cristo (2024)
+DTSTART;TZID=Europe/London:20240906T134500
+DTEND;TZID=Europe/London:20240906T170500
+DTSTAMP:20240906T124500Z
+UID:28877
+DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=017&txtSessionId=28877&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Count of Monte Cristo (2024)
+DTSTART;TZID=Europe/London:20240907T134500
+DTEND;TZID=Europe/London:20240907T170500
+DTSTAMP:20240907T124500Z
+UID:28878
+DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=017&txtSessionId=28878&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Count of Monte Cristo (2024)
+DTSTART;TZID=Europe/London:20240911T141500
+DTEND;TZID=Europe/London:20240911T173500
+DTSTAMP:20240911T131500Z
+UID:28884
+DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=017&txtSessionId=28884&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Count of Monte Cristo (2024)
+DTSTART;TZID=Europe/London:20240912T131500
+DTEND;TZID=Europe/London:20240912T163500
+DTSTAMP:20240912T121500Z
+UID:28895
+DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=017&txtSessionId=28895&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -728,42 +802,63 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Salome (2025)
-DTSTART;TZID=Europe/London:20250517T180000
-DTEND;TZID=Europe/London:20250517T201500
-DTSTAMP:20250517T170000Z
-UID:28587
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nAd and Trailer Free: 
+SUMMARY:Met Opera Live: Il Barbiere di Siviglia (2025)
+DTSTART;TZID=Europe/London:20250531T180000
+DTEND;TZID=Europe/London:20250531T213500
+DTSTAMP:20250531T170000Z
+UID:28588
+DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 2\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/017/HO00014966/met-opera-live-salome-2025/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSession
- Id=28587&visLang=1
+ ie-details/017/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=017&txtSessionId=28588&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Michelangelo: Love and Death (Encore)
-DTSTART;TZID=Europe/London:20250520T180000
-DTEND;TZID=Europe/London:20250520T195500
-DTSTAMP:20250520T170000Z
-UID:28873
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00014996/exhibition-on-screen-michelangelo-lov
- e-and-death-encore/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=017&txtSessionId=28873&visLang=1
+SUMMARY:Met Opera Live: Tosca (2024)
+DTSTART;TZID=Europe/London:20241123T180000
+DTEND;TZID=Europe/London:20241123T213000
+DTSTAMP:20241123T180000Z
+UID:28583
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/017/HO00014956/met-opera-live-tosca-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
+ d=28583&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Michelangelo: Love and Death (Encore)
-DTSTART;TZID=Europe/London:20250527T140000
-DTEND;TZID=Europe/London:20250527T155500
-DTSTAMP:20250527T130000Z
-UID:28874
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00014996/exhibition-on-screen-michelangelo-lov
- e-and-death-encore/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=017&txtSessionId=28874&visLang=1
+SUMMARY:Met Opera Live: Les Contes d’Hoffmann (2024)
+DTSTART;TZID=Europe/London:20241005T180000
+DTEND;TZID=Europe/London:20241005T220500
+DTSTAMP:20241005T170000Z
+UID:28581
+DESCRIPTION:Duration: 4h 05m (245 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/017/HO00014952/met-opera-live-les-contes-dhoffmann-2024/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 017&txtSessionId=28581&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sing Street
+DTSTART;TZID=Europe/London:20240911T180000
+DTEND;TZID=Europe/London:20240911T201500
+DTSTAMP:20240911T170000Z
+UID:28642
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/017/HO00003484/sing-street/\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28642&visLang
+ =1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -806,33 +901,27 @@ DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Tosca (2024)
-DTSTART;TZID=Europe/London:20241123T180000
-DTEND;TZID=Europe/London:20241123T213000
-DTSTAMP:20241123T180000Z
-UID:28583
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/017/HO00014956/met-opera-live-tosca-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
- d=28583&visLang=1
+SUMMARY:Exhibition On Screen: Michelangelo: Love and Death (Encore)
+DTSTART;TZID=Europe/London:20250520T180000
+DTEND;TZID=Europe/London:20250520T195500
+DTSTAMP:20250520T170000Z
+UID:28873
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/017/HO00014996/exhibition-on-screen-michelangelo-lov
+ e-and-death-encore/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=017&txtSessionId=28873&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Grounded (2024)
-DTSTART;TZID=Europe/London:20241019T180000
-DTEND;TZID=Europe/London:20241019T204500
-DTSTAMP:20241019T170000Z
-UID:28582
-DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/017/HO00014954/met-opera-live-grounded-2024/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessi
- onId=28582&visLang=1
+SUMMARY:Exhibition On Screen: Michelangelo: Love and Death (Encore)
+DTSTART;TZID=Europe/London:20250527T140000
+DTEND;TZID=Europe/London:20250527T155500
+DTSTAMP:20250527T130000Z
+UID:28874
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/017/HO00014996/exhibition-on-screen-michelangelo-lov
+ e-and-death-encore/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=017&txtSessionId=28874&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -851,18 +940,18 @@ DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 2\n\nDiscover: Discover st
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Il Barbiere di Siviglia (2025)
-DTSTART;TZID=Europe/London:20250531T180000
-DTEND;TZID=Europe/London:20250531T213500
-DTSTAMP:20250531T170000Z
-UID:28588
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 2\n\nAd and Trailer Free: 
+SUMMARY:Met Opera Live: Salome (2025)
+DTSTART;TZID=Europe/London:20250517T180000
+DTEND;TZID=Europe/London:20250517T201500
+DTSTAMP:20250517T170000Z
+UID:28587
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/017/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=017&txtSessionId=28588&visLang=1
+ ie-details/017/HO00014966/met-opera-live-salome-2025/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSession
+ Id=28587&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -890,83 +979,18 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sing Street
-DTSTART;TZID=Europe/London:20240911T180000
-DTEND;TZID=Europe/London:20240911T201500
-DTSTAMP:20240911T170000Z
-UID:28642
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00003484/sing-street/\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28642&visLang
- =1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Les Contes d’Hoffmann (2024)
-DTSTART;TZID=Europe/London:20241005T180000
-DTEND;TZID=Europe/London:20241005T220500
-DTSTAMP:20241005T170000Z
-UID:28581
-DESCRIPTION:Duration: 4h 05m (245 mins)\nScreen 2\n\nAd and Trailer Free: 
+SUMMARY:Met Opera Live: Grounded (2024)
+DTSTART;TZID=Europe/London:20241019T180000
+DTEND;TZID=Europe/London:20241019T204500
+DTSTAMP:20241019T170000Z
+UID:28582
+DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 2\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/017/HO00014952/met-opera-live-les-contes-dhoffmann-2024/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 017&txtSessionId=28581&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kneecap
-DTSTART;TZID=Europe/London:20240903T180000
-DTEND;TZID=Europe/London:20240903T201000
-DTSTAMP:20240903T170000Z
-UID:28848
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014780/kneecap/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=2884
- 8&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kneecap
-DTSTART;TZID=Europe/London:20240904T144500
-DTEND;TZID=Europe/London:20240904T165500
-DTSTAMP:20240904T134500Z
-UID:28853
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014780/kneecap/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=2885
- 3&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kneecap
-DTSTART;TZID=Europe/London:20240905T173000
-DTEND;TZID=Europe/London:20240905T194000
-DTSTAMP:20240905T163000Z
-UID:28858
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014780/kneecap/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=2885
- 8&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Der Golem + Live Score
-DTSTART;TZID=Europe/London:20241023T183000
-DTEND;TZID=Europe/London:20241023T201000
-DTSTAMP:20241023T173000Z
-UID:28868
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nAd and Trailer Free: N
- o advertisements or trailers will play ahead of this screening. You are re
- commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
- ls/017/HO00013395/der-golem-live-score/\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28868&visLa
- ng=1
+ ie-details/017/HO00014954/met-opera-live-grounded-2024/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessi
+ onId=28582&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -985,6 +1009,20 @@ DESCRIPTION:Duration: 4h 00m (240 mins)\nScreen 1\n\nAd and Trailer Free:
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Der Golem + Live Score
+DTSTART;TZID=Europe/London:20241023T183000
+DTEND;TZID=Europe/London:20241023T201000
+DTSTAMP:20241023T173000Z
+UID:28868
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nAd and Trailer Free: N
+ o advertisements or trailers will play ahead of this screening. You are re
+ commended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-detai
+ ls/017/HO00013395/der-golem-live-score/\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28868&visLa
+ ng=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RB&O: The Tales of Hoffman (Captured Live 2024)
 DTSTART;TZID=Europe/London:20250115T184500
 DTEND;TZID=Europe/London:20250115T225000
@@ -996,6 +1034,36 @@ DESCRIPTION:Duration: 4h 05m (245 mins)\nScreen 1\n\nAd and Trailer Free:
  ils/017/HO00014741/rb-o-the-tales-of-hoffman-captured-live-2024/\nhttps://
  ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017
  &txtSessionId=28174&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Live: Cinderella (2024)
+DTSTART;TZID=Europe/London:20241210T191500
+DTEND;TZID=Europe/London:20241210T223000
+DTSTAMP:20241210T191500Z
+UID:28172
+DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/017/HO00014706/rb-o-live-cinderella-2024/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
+ d=28172&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RB&O Live: Alice's Adventures in Wonderland (2024)
+DTSTART;TZID=Europe/London:20241015T191500
+DTEND;TZID=Europe/London:20241015T224000
+DTSTAMP:20241015T181500Z
+UID:28171
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/017/HO00014705/rb-o-live-alice-s-adventures-in-wonderland-2024/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=017&txtSessionId=28171&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1029,21 +1097,6 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 1\n\nAd and Trailer Free:
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RB&O Live: Alice's Adventures in Wonderland (2024)
-DTSTART;TZID=Europe/London:20241015T191500
-DTEND;TZID=Europe/London:20241015T224000
-DTSTAMP:20241015T181500Z
-UID:28171
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/017/HO00014705/rb-o-live-alice-s-adventures-in-wonderland-2024/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=017&txtSessionId=28171&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RB&O: Swan Lake (Captured Live 2024)
 DTSTART;TZID=Europe/London:20250227T191500
 DTEND;TZID=Europe/London:20250227T224500
@@ -1055,21 +1108,6 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 1\n\nAd and Trailer Free:
  ils/017/HO00014742/rb-o-swan-lake-captured-live-2024/\nhttps://ticketing.p
  icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSession
  Id=28175&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O Live: Cinderella (2024)
-DTSTART;TZID=Europe/London:20241210T191500
-DTEND;TZID=Europe/London:20241210T223000
-DTSTAMP:20241210T191500Z
-UID:28172
-DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/017/HO00014706/rb-o-live-cinderella-2024/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
- d=28172&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1085,18 +1123,6 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 1\n\nAd and Trailer Free:
  ie-details/017/HO00014744/rb-o-live-turandot-2025/\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=
  28177&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RB&O: The Nutcracker (Captured Live in 2023)
-DTSTART;TZID=Europe/London:20241217T193000
-DTEND;TZID=Europe/London:20241217T224000
-DTSTAMP:20241217T193000Z
-UID:28173
-DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014740/rb-o-the-nutcracker-captured-live-in
- -2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=017&txtSessionId=28173&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1151,6 +1177,18 @@ DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RB&O: The Nutcracker (Captured Live in 2023)
+DTSTART;TZID=Europe/London:20241217T193000
+DTEND;TZID=Europe/London:20241217T224000
+DTSTAMP:20241217T193000Z
+UID:28173
+DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00014740/rb-o-the-nutcracker-captured-live-in
+ -2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=017&txtSessionId=28173&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Dark Knight Rises
 DTSTART;TZID=Europe/London:20240921T194000
 DTEND;TZID=Europe/London:20240921T225000
@@ -1179,20 +1217,128 @@ DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 2\n\nFilm Club: Picturehou
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:My Own Private Idaho
-DTSTART;TZID=Europe/London:20240918T200000
-DTEND;TZID=Europe/London:20240918T221000
-DTSTAMP:20240918T190000Z
-UID:28645
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nreDiscover: Time to b
+SUMMARY:The Conversation (50th Anniversary 4K Restoration)
+DTSTART;TZID=Europe/London:20240923T200000
+DTEND;TZID=Europe/London:20240923T222000
+DTSTAMP:20240923T190000Z
+UID:28816
+DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 2\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
  iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
- t to watch the hand-picked films in our Film Club for just £1 (Terms and 
- Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/017/HO000
- 15048/film-club-my-own-private-idaho/\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28645&visLang
- =1
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/017/HO00007734/the-conversation-50th-anniversary-4k-restoration/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=017&txtSessionId=28816&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=Europe/London:20240904T200000
+DTEND;TZID=Europe/London:20240904T222500
+DTSTAMP:20240904T190000Z
+UID:28854
+DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00014997/alien-romulus/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
+ d=28854&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alien: Romulus
+DTSTART;TZID=Europe/London:20240905T144500
+DTEND;TZID=Europe/London:20240905T171000
+DTSTAMP:20240905T134500Z
+UID:28859
+DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00014997/alien-romulus/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
+ d=28859&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn
+DTSTART;TZID=Europe/London:20240919T200000
+DTEND;TZID=Europe/London:20240919T221500
+DTSTAMP:20240919T190000Z
+UID:28643
+DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/017/HO00001860/brooklyn/\nhttps://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28643&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forbidden Planet
+DTSTART;TZID=Europe/London:20241002T200000
+DTEND;TZID=Europe/London:20241002T220000
+DTSTAMP:20241002T190000Z
+UID:28648
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/017/HO00015049/forbidden-planet/\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28648&vis
+ Lang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Girls Will Be Girls
+DTSTART;TZID=Europe/London:20240917T200000
+DTEND;TZID=Europe/London:20240917T222500
+DTSTAMP:20240917T190000Z
+UID:28810
+DESCRIPTION:Duration: 1h 58m (118 mins)\nScreen 2\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nPreview: A special preview screening of this film. See it befor
+ e anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to
+  watch the hand-picked films in our Film Club for just £1 (Terms and Cond
+ itions apply)\n\nhttps://www.picturehouses.com/movie-details/017/HO0001503
+ 4/film-club-girls-will-be-girls/\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=017&txtSessionId=28810&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stoker
+DTSTART;TZID=Europe/London:20241027T200000
+DTEND;TZID=Europe/London:20241027T220500
+DTSTAMP:20241027T200000Z
+UID:28828
+DESCRIPTION:Duration: 1h 39m (99 mins)\nScreen 2\n\nFilm Club: Picturehous
+ e Members get to watch the hand-picked films in our Film Club for just £1
+  (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-detai
+ ls/017/HO00015100/stoker/\nhttps://ticketing.picturehouses.com/Ticketing/v
+ isSelectTickets.aspx?cinemacode=017&txtSessionId=28828&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Banshees of Inisherin
+DTSTART;TZID=Europe/London:20240929T200000
+DTEND;TZID=Europe/London:20240929T222000
+DTSTAMP:20240929T190000Z
+UID:28823
+DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nFilm Club: Picturehou
+ se Members get to watch the hand-picked films in our Film Club for just £
+ 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
+ ils/017/HO00014928/the-banshees-of-inisherin/\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28823
+ &visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Little Miss Sunshine
+DTSTART;TZID=Europe/London:20241020T200000
+DTEND;TZID=Europe/London:20241020T220500
+DTSTAMP:20241020T190000Z
+UID:28827
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nFilm Club: Picturehou
+ se Members get to watch the hand-picked films in our Film Club for just £
+ 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
+ ils/017/HO00015099/little-miss-sunshine/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28827&visL
+ ang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1224,120 +1370,101 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brooklyn
-DTSTART;TZID=Europe/London:20240919T200000
-DTEND;TZID=Europe/London:20240919T221500
-DTSTAMP:20240919T190000Z
-UID:28643
-DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00001860/brooklyn/\nhttps://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28643&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Long Goodbye
-DTSTART;TZID=Europe/London:20240916T200000
-DTEND;TZID=Europe/London:20240916T222000
-DTSTAMP:20240916T190000Z
-UID:28815
-DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00000230/the-long-goodbye/\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28815&vi
- sLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Banshees of Inisherin
-DTSTART;TZID=Europe/London:20240929T200000
-DTEND;TZID=Europe/London:20240929T222000
-DTSTAMP:20240929T190000Z
-UID:28823
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nFilm Club: Picturehou
- se Members get to watch the hand-picked films in our Film Club for just £
- 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/017/HO00014928/the-banshees-of-inisherin/\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28823
- &visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Shape of Water
-DTSTART;TZID=Europe/London:20240922T200000
-DTEND;TZID=Europe/London:20240922T223000
-DTSTAMP:20240922T190000Z
-UID:28822
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nFilm Club: Picturehou
- se Members get to watch the hand-picked films in our Film Club for just £
- 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/017/HO00015095/the-shape-of-water/\nhttps://ticketing.picturehouses.co
- m/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28822&visLan
- g=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Forbidden Planet
-DTSTART;TZID=Europe/London:20241002T200000
-DTEND;TZID=Europe/London:20241002T220000
-DTSTAMP:20241002T190000Z
-UID:28648
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nreDiscover: Time to br
+SUMMARY:10 Things I Hate About You
+DTSTART;TZID=Europe/London:20241009T200000
+DTEND;TZID=Europe/London:20241009T220500
+DTSTAMP:20241009T190000Z
+UID:28647
+DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 2\n\nreDiscover: Time to br
  oaden your cinematic horizons: you'll find the best of what's next with Di
  scover's under-the-radar releases\, and return to favourites of yesterday 
  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/017/HO00015049/forbidden-planet/\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28648&vis
- Lang=1
+ -details/017/HO00003822/10-things-i-hate-about-you/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId
+ =28647&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Conversation (50th Anniversary 4K Restoration)
-DTSTART;TZID=Europe/London:20240923T200000
-DTEND;TZID=Europe/London:20240923T222000
-DTSTAMP:20240923T190000Z
-UID:28816
-DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00007734/the-conversation-50th-anniversary-4k-restoration/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=017&txtSessionId=28816&visLang=1
+SUMMARY:Nomadland
+DTSTART;TZID=Europe/London:20241013T200000
+DTEND;TZID=Europe/London:20241013T221500
+DTSTAMP:20241013T190000Z
+UID:28826
+DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nFilm Club: Picturehou
+ se Members get to watch the hand-picked films in our Film Club for just £
+ 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
+ ils/017/HO00015098/nomadland/\nhttps://ticketing.picturehouses.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=017&txtSessionId=28826&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(500) Days of Summer
-DTSTART;TZID=Europe/London:20241103T200000
-DTEND;TZID=Europe/London:20241103T220000
-DTSTAMP:20241103T200000Z
-UID:28829
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nFilm Club: Picturehous
+SUMMARY:The Full Monty
+DTSTART;TZID=Europe/London:20241006T200000
+DTEND;TZID=Europe/London:20241006T220000
+DTSTAMP:20241006T190000Z
+UID:28825
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 2\n\nFilm Club: Picturehous
  e Members get to watch the hand-picked films in our Film Club for just £1
   (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-detai
- ls/017/HO00015101/500-days-of-summer/\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28829&visLang
+ ls/017/HO00015097/the-full-monty/\nhttps://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=017&txtSessionId=28825&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunshine
+DTSTART;TZID=Europe/London:20241117T200000
+DTEND;TZID=Europe/London:20241117T221500
+DTSTAMP:20241117T200000Z
+UID:28831
+DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nFilm Club: Picturehou
+ se Members get to watch the hand-picked films in our Film Club for just £
+ 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
+ ils/017/HO00015103/sunshine/\nhttps://ticketing.picturehouses.com/Ticketin
+ g/visSelectTickets.aspx?cinemacode=017&txtSessionId=28831&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harbour Highlights: Yojimbo
+DTSTART;TZID=Europe/London:20241003T200000
+DTEND;TZID=Europe/London:20241003T222000
+DTSTAMP:20241003T190000Z
+UID:28785
+DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00015080/harbour-highlights-yojimbo/\nhttps:/
+ /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
+ 7&txtSessionId=28785&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Own Private Idaho
+DTSTART;TZID=Europe/London:20240918T200000
+DTEND;TZID=Europe/London:20240918T221000
+DTSTAMP:20240918T190000Z
+UID:28645
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nFilm Club: Picturehouse Members ge
+ t to watch the hand-picked films in our Film Club for just £1 (Terms and 
+ Conditions apply)\n\nhttps://www.picturehouses.com/movie-details/017/HO000
+ 15048/film-club-my-own-private-idaho/\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28645&visLang
  =1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Girls Will Be Girls
-DTSTART;TZID=Europe/London:20240917T200000
-DTEND;TZID=Europe/London:20240917T222500
-DTSTAMP:20240917T190000Z
-UID:28810
-DESCRIPTION:Duration: 1h 58m (118 mins)\nScreen 2\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nPreview: A special preview screening of this film. See it befor
- e anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to
-  watch the hand-picked films in our Film Club for just £1 (Terms and Cond
- itions apply)\n\nhttps://www.picturehouses.com/movie-details/017/HO0001503
- 4/film-club-girls-will-be-girls/\nhttps://ticketing.picturehouses.com/Tick
- eting/visSelectTickets.aspx?cinemacode=017&txtSessionId=28810&visLang=1
+SUMMARY:Chimes at Midnight
+DTSTART;TZID=Europe/London:20241014T200000
+DTEND;TZID=Europe/London:20241014T222500
+DTSTAMP:20241014T190000Z
+UID:28649
+DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/017/HO00015050/chimes-at-midnight/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28649&
+ visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1357,44 +1484,31 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Romeo + Juliet
-DTSTART;TZID=Europe/London:20240924T200000
-DTEND;TZID=Europe/London:20240924T222500
-DTSTAMP:20240924T190000Z
-UID:28646
-DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00003821/romeo-juliet/\nhttps://ticketing.picturehouses.co
- m/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28646&visLan
- g=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stoker
-DTSTART;TZID=Europe/London:20241027T200000
-DTEND;TZID=Europe/London:20241027T220500
-DTSTAMP:20241027T200000Z
-UID:28828
-DESCRIPTION:Duration: 1h 39m (99 mins)\nScreen 2\n\nFilm Club: Picturehous
+SUMMARY:(500) Days of Summer
+DTSTART;TZID=Europe/London:20241103T200000
+DTEND;TZID=Europe/London:20241103T220000
+DTSTAMP:20241103T200000Z
+UID:28829
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nFilm Club: Picturehous
  e Members get to watch the hand-picked films in our Film Club for just £1
   (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-detai
- ls/017/HO00015100/stoker/\nhttps://ticketing.picturehouses.com/Ticketing/v
- isSelectTickets.aspx?cinemacode=017&txtSessionId=28828&visLang=1
+ ls/017/HO00015101/500-days-of-summer/\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28829&visLang
+ =1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sunshine
-DTSTART;TZID=Europe/London:20241117T200000
-DTEND;TZID=Europe/London:20241117T221500
-DTSTAMP:20241117T200000Z
-UID:28831
-DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nFilm Club: Picturehou
+SUMMARY:The Shape of Water
+DTSTART;TZID=Europe/London:20240922T200000
+DTEND;TZID=Europe/London:20240922T223000
+DTSTAMP:20240922T190000Z
+UID:28822
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nFilm Club: Picturehou
  se Members get to watch the hand-picked films in our Film Club for just £
  1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/017/HO00015103/sunshine/\nhttps://ticketing.picturehouses.com/Ticketin
- g/visSelectTickets.aspx?cinemacode=017&txtSessionId=28831&visLang=1
+ ils/017/HO00015095/the-shape-of-water/\nhttps://ticketing.picturehouses.co
+ m/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28822&visLan
+ g=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1412,169 +1526,33 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nFilm Club: Picturehou
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Little Miss Sunshine
-DTSTART;TZID=Europe/London:20241020T200000
-DTEND;TZID=Europe/London:20241020T220500
-DTSTAMP:20241020T190000Z
-UID:28827
-DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nFilm Club: Picturehou
- se Members get to watch the hand-picked films in our Film Club for just £
- 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/017/HO00015099/little-miss-sunshine/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28827&visL
- ang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chimes at Midnight
-DTSTART;TZID=Europe/London:20241014T200000
-DTEND;TZID=Europe/London:20241014T222500
-DTSTAMP:20241014T190000Z
-UID:28649
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nreDiscover: Time to b
+SUMMARY:Romeo + Juliet
+DTSTART;TZID=Europe/London:20240924T200000
+DTEND;TZID=Europe/London:20240924T222500
+DTSTAMP:20240924T190000Z
+UID:28646
+DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 1\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
  iscover's under-the-radar releases\, and return to favourites of yesterday
   with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/017/HO00015050/chimes-at-midnight/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28649&
- visLang=1
+ e-details/017/HO00003821/romeo-juliet/\nhttps://ticketing.picturehouses.co
+ m/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28646&visLan
+ g=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Count of Monte Cristo (2024)
-DTSTART;TZID=Europe/London:20240903T200000
-DTEND;TZID=Europe/London:20240903T232000
-DTSTAMP:20240903T190000Z
-UID:28850
-DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=017&txtSessionId=28850&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Count of Monte Cristo (2024)
-DTSTART;TZID=Europe/London:20240904T171500
-DTEND;TZID=Europe/London:20240904T203500
-DTSTAMP:20240904T161500Z
-UID:28855
-DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=017&txtSessionId=28855&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Count of Monte Cristo (2024)
-DTSTART;TZID=Europe/London:20240905T195000
-DTEND;TZID=Europe/London:20240905T231000
-DTSTAMP:20240905T185000Z
-UID:28860
-DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=017&txtSessionId=28860&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Count of Monte Cristo (2024)
-DTSTART;TZID=Europe/London:20240906T134500
-DTEND;TZID=Europe/London:20240906T170500
-DTSTAMP:20240906T124500Z
-UID:28877
-DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=017&txtSessionId=28877&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Count of Monte Cristo (2024)
-DTSTART;TZID=Europe/London:20240907T134500
-DTEND;TZID=Europe/London:20240907T170500
-DTSTAMP:20240907T124500Z
-UID:28878
-DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=017&txtSessionId=28878&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Count of Monte Cristo (2024)
-DTSTART;TZID=Europe/London:20240911T141500
-DTEND;TZID=Europe/London:20240911T173500
-DTSTAMP:20240911T131500Z
-UID:28884
-DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=017&txtSessionId=28884&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Count of Monte Cristo (2024)
-DTSTART;TZID=Europe/London:20240912T131500
-DTEND;TZID=Europe/London:20240912T163500
-DTSTAMP:20240912T121500Z
-UID:28895
-DESCRIPTION:Duration: 2h 53m (173 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00015002/the-count-of-monte-cristo-2024/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=017&txtSessionId=28895&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nomadland
-DTSTART;TZID=Europe/London:20241013T200000
-DTEND;TZID=Europe/London:20241013T221500
-DTSTAMP:20241013T190000Z
-UID:28826
-DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nFilm Club: Picturehou
- se Members get to watch the hand-picked films in our Film Club for just £
- 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/017/HO00015098/nomadland/\nhttps://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=017&txtSessionId=28826&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:10 Things I Hate About You
-DTSTART;TZID=Europe/London:20241009T200000
-DTEND;TZID=Europe/London:20241009T220500
-DTSTAMP:20241009T190000Z
-UID:28647
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/017/HO00003822/10-things-i-hate-about-you/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId
- =28647&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Full Monty
-DTSTART;TZID=Europe/London:20241006T200000
-DTEND;TZID=Europe/London:20241006T220000
-DTSTAMP:20241006T190000Z
-UID:28825
-DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 2\n\nFilm Club: Picturehous
- e Members get to watch the hand-picked films in our Film Club for just £1
-  (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-detai
- ls/017/HO00015097/the-full-monty/\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=017&txtSessionId=28825&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harbour Highlights: Yojimbo
-DTSTART;TZID=Europe/London:20241003T200000
-DTEND;TZID=Europe/London:20241003T222000
-DTSTAMP:20241003T190000Z
-UID:28785
-DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00015080/harbour-highlights-yojimbo/\nhttps:/
- /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
- 7&txtSessionId=28785&visLang=1
+SUMMARY:The Long Goodbye
+DTSTART;TZID=Europe/London:20240916T200000
+DTEND;TZID=Europe/London:20240916T222000
+DTSTAMP:20240916T190000Z
+UID:28815
+DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/017/HO00000230/the-long-goodbye/\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionId=28815&vi
+ sLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
@@ -1608,6 +1586,57 @@ DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Harbour Highlights: Run Lola Run
+DTSTART;TZID=Europe/London:20241022T203000
+DTEND;TZID=Europe/London:20241022T222000
+DTSTAMP:20241022T193000Z
+UID:28786
+DESCRIPTION:Duration: 1h 21m (81 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/017/HO00015081/harbour-highlights-run-lola-run/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=017&txtSessionId=28786&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harbour Highlights: An American Werewolf in London
+DTSTART;TZID=Europe/London:20241030T203000
+DTEND;TZID=Europe/London:20241030T223500
+DTSTAMP:20241030T203000Z
+UID:28787
+DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/017/HO00015082/harbour-highlights-an-american-werewo
+ lf-in-london/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=017&txtSessionId=28787&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:blur: Live at Wembley Stadium
+DTSTART;TZID=Europe/London:20240906T203000
+DTEND;TZID=Europe/London:20240906T230500
+DTSTAMP:20240906T193000Z
+UID:28524
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/017/HO00014974/blur-live-at-wembley-stadium/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 017&txtSessionId=28524&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Dog
+DTSTART;TZID=Europe/London:20241001T203000
+DTEND;TZID=Europe/London:20241001T224500
+DTSTAMP:20241001T193000Z
+UID:28812
+DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 2\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nFilm Club: Picturehouse Members get to watch the hand-picked fi
+ lms in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps://
+ www.picturehouses.com/movie-details/017/HO00014948/film-club-black-dog/\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=017&txtSessionId=28812&visLang=1
+LOCATION:Picture House Southampton - Harbour Lights
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paul McCartney and Wings - One Hand Clapping
 DTSTART;TZID=Europe/London:20240926T203000
 DTEND;TZID=Europe/London:20240926T220000
@@ -1629,93 +1658,6 @@ DESCRIPTION:Duration: 1h 05m (65 mins)\nScreen 2\n\nhttps://www.picturehou
  ses.com/movie-details/017/HO00015053/paul-mccartney-and-wings-one-hand-cla
  pping/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
  x?cinemacode=017&txtSessionId=28656&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harbour Highlights: An American Werewolf in London
-DTSTART;TZID=Europe/London:20241030T203000
-DTEND;TZID=Europe/London:20241030T223500
-DTSTAMP:20241030T203000Z
-UID:28787
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00015082/harbour-highlights-an-american-werewo
- lf-in-london/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=017&txtSessionId=28787&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=Europe/London:20240903T203000
-DTEND;TZID=Europe/London:20240903T225500
-DTSTAMP:20240903T193000Z
-UID:28849
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014997/alien-romulus/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
- d=28849&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=Europe/London:20240904T200000
-DTEND;TZID=Europe/London:20240904T222500
-DTSTAMP:20240904T190000Z
-UID:28854
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014997/alien-romulus/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
- d=28854&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alien: Romulus
-DTSTART;TZID=Europe/London:20240905T144500
-DTEND;TZID=Europe/London:20240905T171000
-DTSTAMP:20240905T134500Z
-UID:28859
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014997/alien-romulus/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=017&txtSessionI
- d=28859&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harbour Highlights: Run Lola Run
-DTSTART;TZID=Europe/London:20241022T203000
-DTEND;TZID=Europe/London:20241022T222000
-DTSTAMP:20241022T193000Z
-UID:28786
-DESCRIPTION:Duration: 1h 21m (81 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/017/HO00015081/harbour-highlights-run-lola-run/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=017&txtSessionId=28786&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Dog
-DTSTART;TZID=Europe/London:20241001T203000
-DTEND;TZID=Europe/London:20241001T224500
-DTSTAMP:20241001T193000Z
-UID:28812
-DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 2\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nFilm Club: Picturehouse Members get to watch the hand-picked fi
- lms in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps://
- www.picturehouses.com/movie-details/017/HO00014948/film-club-black-dog/\nh
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=017&txtSessionId=28812&visLang=1
-LOCATION:Picture House Southampton - Harbour Lights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:blur: Live at Wembley Stadium
-DTSTART;TZID=Europe/London:20240906T203000
-DTEND;TZID=Europe/London:20240906T230500
-DTSTAMP:20240906T193000Z
-UID:28524
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/017/HO00014974/blur-live-at-wembley-stadium/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 017&txtSessionId=28524&visLang=1
 LOCATION:Picture House Southampton - Harbour Lights
 END:VEVENT
 END:VCALENDAR
