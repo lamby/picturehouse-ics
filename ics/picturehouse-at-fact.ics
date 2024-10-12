@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241010T151948Z
+LAST-MODIFIED:20241012T155112Z
 NAME:Picture House Liverpool - FACT
 X-WR-CALNAME:Picture House Liverpool - FACT
+BEGIN:VEVENT
+SUMMARY:Paddington (Rerelease) (Paddington Day)
+DTSTART;TZID=Europe/London:20241020T120000
+DTEND;TZID=Europe/London:20241020T141000
+DTSTAMP:20241020T110000Z
+UID:55880
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015238/paddington-rerelease-paddington-day/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=013&txtSessionId=55880&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RBO Encore: Ballet To Broadway: Wheeldon Works (2025)
 DTSTART;TZID=Europe/London:20250526T120000
@@ -47,6 +59,20 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 3\n\nAd and Trailer Free:
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RBO Encore: Turandot (2025)
+DTSTART;TZID=Europe/London:20250407T120000
+DTEND;TZID=Europe/London:20250407T152500
+DTSTAMP:20250407T110000Z
+UID:54136
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/013/HO00014795/rbo-encore-turandot-2025/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=54136&
+ visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Watership Down
 DTSTART;TZID=Europe/London:20241117T120000
 DTEND;TZID=Europe/London:20241117T140000
@@ -62,17 +88,17 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RBO Encore: Turandot (2025)
-DTSTART;TZID=Europe/London:20250407T120000
-DTEND;TZID=Europe/London:20250407T152500
-DTSTAMP:20250407T110000Z
-UID:54136
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 3\n\nAd and Trailer Free: 
+SUMMARY:RBO Encore: Romeo & Juliet (2025)
+DTSTART;TZID=Europe/London:20250324T120000
+DTEND;TZID=Europe/London:20250324T153000
+DTSTAMP:20250324T120000Z
+UID:54134
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 3\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/013/HO00014795/rbo-encore-turandot-2025/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=54136&
- visLang=1
+ ils/013/HO00014794/rbo-encore-romeo-juliet-2025/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=54
+ 134&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -87,20 +113,6 @@ DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 3\n\nAd and Trailer Free:
  ils/013/HO00014793/rbo-encore-cinderella-2024/\nhttps://ticketing.pictureh
  ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5412
  4&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Encore: Romeo & Juliet (2025)
-DTSTART;TZID=Europe/London:20250324T120000
-DTEND;TZID=Europe/London:20250324T153000
-DTSTAMP:20250324T120000Z
-UID:54134
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/013/HO00014794/rbo-encore-romeo-juliet-2025/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=54
- 134&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -128,18 +140,6 @@ DESCRIPTION:Duration: 1h 05m (65 mins)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paddington (Rerelease) (Paddington Day)
-DTSTART;TZID=Europe/London:20241020T120000
-DTEND;TZID=Europe/London:20241020T141000
-DTSTAMP:20241020T110000Z
-UID:55880
-DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015238/paddington-rerelease-paddington-day/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=013&txtSessionId=55880&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:In Restless Dreams: The Music Of Paul Simon
 DTSTART;TZID=Europe/London:20241013T121500
 DTEND;TZID=Europe/London:20241013T164000
@@ -152,161 +152,48 @@ DESCRIPTION:Duration: 4h 00m (240 mins)\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241011T122000
-DTEND;TZID=Europe/London:20241011T141500
-DTSTAMP:20241011T112000Z
-UID:56188
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6188&visLang=1
+SUMMARY:His Girl Friday
+DTSTART;TZID=Europe/London:20241126T123000
+DTEND;TZID=Europe/London:20241126T142500
+DTSTAMP:20241126T123000Z
+UID:55911
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/013/HO00004787/his-girl-friday/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55911&visL
+ ang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241011T182000
-DTEND;TZID=Europe/London:20241011T201500
-DTSTAMP:20241011T172000Z
-UID:56086
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6086&visLang=1
+SUMMARY:His Girl Friday
+DTSTART;TZID=Europe/London:20241127T123000
+DTEND;TZID=Europe/London:20241127T142500
+DTSTAMP:20241127T123000Z
+UID:55912
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/013/HO00004787/his-girl-friday/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55912&visL
+ ang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241012T151500
-DTEND;TZID=Europe/London:20241012T171000
-DTSTAMP:20241012T141500Z
-UID:56192
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6192&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241012T204000
-DTEND;TZID=Europe/London:20241012T223500
-DTSTAMP:20241012T194000Z
-UID:56100
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6100&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241013T120000
-DTEND;TZID=Europe/London:20241013T135500
-DTSTAMP:20241013T110000Z
-UID:56196
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/013/HO00015257/timestal
- ker/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=013&txtSessionId=56196&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241013T200000
-DTEND;TZID=Europe/London:20241013T215500
-DTSTAMP:20241013T190000Z
-UID:56108
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6108&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241014T130000
-DTEND;TZID=Europe/London:20241014T145500
-DTSTAMP:20241014T120000Z
-UID:56200
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6200&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241014T175000
-DTEND;TZID=Europe/London:20241014T194500
-DTSTAMP:20241014T165000Z
-UID:56199
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6199&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241015T143000
-DTEND;TZID=Europe/London:20241015T162500
-DTSTAMP:20241015T133000Z
-UID:56214
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6214&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241015T170000
-DTEND;TZID=Europe/London:20241015T185500
-DTSTAMP:20241015T160000Z
-UID:56213
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6213&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241016T174500
-DTEND;TZID=Europe/London:20241016T194000
-DTSTAMP:20241016T164500Z
-UID:56238
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6238&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241017T130000
-DTEND;TZID=Europe/London:20241017T145500
-DTSTAMP:20241017T120000Z
-UID:56233
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6233&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Timestalker
-DTSTART;TZID=Europe/London:20241017T174500
-DTEND;TZID=Europe/London:20241017T194000
-DTSTAMP:20241017T164500Z
-UID:56239
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/013/HO00015257/timestal
- ker/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=013&txtSessionId=56239&visLang=1
+SUMMARY:His Girl Friday
+DTSTART;TZID=Europe/London:20241128T123000
+DTEND;TZID=Europe/London:20241128T142500
+DTSTAMP:20241128T123000Z
+UID:55913
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/013/HO00004787/his-girl-friday/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55913&visL
+ ang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -659,11 +546,11 @@ LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Wild Robot
-DTSTART;TZID=Europe/London:20241018T181000
-DTEND;TZID=Europe/London:20241018T202000
-DTSTAMP:20241018T171000Z
+DTSTART;TZID=Europe/London:20241018T173000
+DTEND;TZID=Europe/London:20241018T194000
+DTSTAMP:20241018T163000Z
 UID:56110
-DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 3\n\nhttps://www.pictureho
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nhttps://www.pictureho
  uses.com/movie-details/013/HO00015245/the-wild-robot/\nhttps://ticketing.p
  icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
  Id=56110&visLang=1
@@ -711,10 +598,10 @@ DTSTART;TZID=Europe/London:20241019T173000
 DTEND;TZID=Europe/London:20241019T194000
 DTSTAMP:20241019T163000Z
 UID:56115
-DESCRIPTION:Duration: 1h 42m (102 mins)\nThe Box\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015245/the-wild-robot/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=56115&visLang=1
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015245/the-wild-robot/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
+ Id=56115&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -766,51 +653,6 @@ DESCRIPTION:Duration: 1h 42m (102 mins)\nThe Box\n\nhttps://www.picturehou
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:His Girl Friday
-DTSTART;TZID=Europe/London:20241126T123000
-DTEND;TZID=Europe/London:20241126T142500
-DTSTAMP:20241126T123000Z
-UID:55911
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/013/HO00004787/his-girl-friday/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55911&visL
- ang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:His Girl Friday
-DTSTART;TZID=Europe/London:20241127T123000
-DTEND;TZID=Europe/London:20241127T142500
-DTSTAMP:20241127T123000Z
-UID:55912
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/013/HO00004787/his-girl-friday/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55912&visL
- ang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:His Girl Friday
-DTSTART;TZID=Europe/London:20241128T123000
-DTEND;TZID=Europe/London:20241128T142500
-DTSTAMP:20241128T123000Z
-UID:55913
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/013/HO00004787/his-girl-friday/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55913&visL
- ang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Wrong Trousers
 DTSTART;TZID=Europe/London:20241130T133000
 DTEND;TZID=Europe/London:20241130T142500
@@ -852,20 +694,6 @@ DESCRIPTION:Duration: 2h 40m (160 mins)\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fidelio (2025)
-DTSTART;TZID=Europe/London:20250318T140000
-DTEND;TZID=Europe/London:20250318T174500
-DTSTAMP:20250318T140000Z
-UID:54964
-DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/013/HO00014963/met-opera-encore-fidelio-2025/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 4964&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Salome (2025)
 DTSTART;TZID=Europe/London:20250520T140000
 DTEND;TZID=Europe/London:20250520T161500
@@ -880,32 +708,17 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 3\n\nAd and Trailer Free:
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chimes at Midnight
-DTSTART;TZID=Europe/London:20241012T140000
-DTEND;TZID=Europe/London:20241012T162500
-DTSTAMP:20241012T130000Z
-UID:55145
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 3\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/013/HO00015050/chimes-at-midnight/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55145&
- visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tosca (2024)
-DTSTART;TZID=Europe/London:20241126T140000
-DTEND;TZID=Europe/London:20241126T173000
-DTSTAMP:20241126T140000Z
-UID:54960
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 3\n\nAd and Trailer Free: 
+SUMMARY:Grounded (2024)
+DTSTART;TZID=Europe/London:20241022T140000
+DTEND;TZID=Europe/London:20241022T164500
+DTSTAMP:20241022T130000Z
+UID:54958
+DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 3\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/013/HO00014957/met-opera-encore-tosca-2024/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=549
- 60&visLang=1
+ ils/013/HO00014955/met-opera-encore-grounded-2024/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=
+ 54958&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -937,17 +750,31 @@ DESCRIPTION:Duration: 3h 40m (220 mins)\nScreen 3\n\nAd and Trailer Free:
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grounded (2024)
-DTSTART;TZID=Europe/London:20241022T140000
-DTEND;TZID=Europe/London:20241022T164500
-DTSTAMP:20241022T130000Z
-UID:54958
-DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 3\n\nAd and Trailer Free: 
+SUMMARY:Tosca (2024)
+DTSTART;TZID=Europe/London:20241126T140000
+DTEND;TZID=Europe/London:20241126T173000
+DTSTAMP:20241126T140000Z
+UID:54960
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 3\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/013/HO00014955/met-opera-encore-grounded-2024/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=
- 54958&visLang=1
+ ils/013/HO00014957/met-opera-encore-tosca-2024/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=549
+ 60&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fidelio (2025)
+DTSTART;TZID=Europe/London:20250318T140000
+DTEND;TZID=Europe/London:20250318T174500
+DTSTAMP:20250318T140000Z
+UID:54964
+DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/013/HO00014963/met-opera-encore-fidelio-2025/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
+ 4964&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -960,68 +787,6 @@ DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 2\n\nhttps://www.pictureho
  uses.com/movie-details/013/HO00015239/paddington-2-rerelease-paddington-da
  y/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
  nemacode=013&txtSessionId=55879&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Miss Sunshine
-DTSTART;TZID=Europe/London:20241020T150000
-DTEND;TZID=Europe/London:20241020T170500
-DTSTAMP:20241020T140000Z
-UID:55403
-DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 3\n\nFilm Club: Picturehou
- se Members get to watch the hand-picked films in our Film Club for just £
- 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/013/HO00015099/little-miss-sunshine/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55403&visL
- ang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241018T150000
-DTEND;TZID=Europe/London:20241018T173000
-DTSTAMP:20241018T140000Z
-UID:56027
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015188/the-apprentice/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
- Id=56027&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241018T204000
-DTEND;TZID=Europe/London:20241018T231000
-DTSTAMP:20241018T194000Z
-UID:56028
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015188/the-apprentice/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
- Id=56028&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241019T143000
-DTEND;TZID=Europe/London:20241019T170000
-DTSTAMP:20241019T133000Z
-UID:55784
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015188/the-apprentice/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
- Id=55784&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241019T204000
-DTEND;TZID=Europe/London:20241019T231000
-DTSTAMP:20241019T194000Z
-UID:55785
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015188/the-apprentice/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
- Id=55785&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -1085,6 +850,140 @@ DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Little Miss Sunshine
+DTSTART;TZID=Europe/London:20241020T150000
+DTEND;TZID=Europe/London:20241020T170500
+DTSTAMP:20241020T140000Z
+UID:55403
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 3\n\nFilm Club: Picturehou
+ se Members get to watch the hand-picked films in our Film Club for just £
+ 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
+ ils/013/HO00015099/little-miss-sunshine/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55403&visL
+ ang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241018T150000
+DTEND;TZID=Europe/London:20241018T173000
+DTSTAMP:20241018T140000Z
+UID:56027
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015188/the-apprentice/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
+ Id=56027&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241018T204000
+DTEND;TZID=Europe/London:20241018T231000
+DTSTAMP:20241018T194000Z
+UID:56028
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015188/the-apprentice/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
+ Id=56028&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241019T143000
+DTEND;TZID=Europe/London:20241019T170000
+DTSTAMP:20241019T133000Z
+UID:55784
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015188/the-apprentice/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
+ Id=55784&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241019T200000
+DTEND;TZID=Europe/London:20241019T223000
+DTSTAMP:20241019T190000Z
+UID:55785
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015188/the-apprentice/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
+ Id=55785&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emilia Pérez
+DTSTART;TZID=Europe/London:20241025T150000
+DTEND;TZID=Europe/London:20241025T173500
+DTSTAMP:20241025T140000Z
+UID:56274
+DESCRIPTION:Duration: 2h 10m (130 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015359/emilia-perez/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId
+ =56274&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emilia Pérez
+DTSTART;TZID=Europe/London:20241025T203000
+DTEND;TZID=Europe/London:20241025T230500
+DTSTAMP:20241025T193000Z
+UID:56275
+DESCRIPTION:Duration: 2h 10m (130 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015359/emilia-perez/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId
+ =56275&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emilia Pérez
+DTSTART;TZID=Europe/London:20241026T150000
+DTEND;TZID=Europe/London:20241026T173500
+DTSTAMP:20241026T140000Z
+UID:56281
+DESCRIPTION:Duration: 2h 10m (130 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015359/emilia-perez/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId
+ =56281&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emilia Pérez
+DTSTART;TZID=Europe/London:20241026T204000
+DTEND;TZID=Europe/London:20241026T231500
+DTSTAMP:20241026T194000Z
+UID:56282
+DESCRIPTION:Duration: 2h 10m (130 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015359/emilia-perez/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId
+ =56282&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emilia Pérez
+DTSTART;TZID=Europe/London:20241027T135000
+DTEND;TZID=Europe/London:20241027T162500
+DTSTAMP:20241027T135000Z
+UID:56291
+DESCRIPTION:Duration: 2h 10m (130 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015359/emilia-perez/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId
+ =56291&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emilia Pérez
+DTSTART;TZID=Europe/London:20241027T193000
+DTEND;TZID=Europe/London:20241027T220500
+DTSTAMP:20241027T193000Z
+UID:56293
+DESCRIPTION:Duration: 2h 10m (130 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015359/emilia-perez/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId
+ =56293&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paddington 2 (Rerelease)
 DTSTART;TZID=Europe/London:20241014T152000
 DTEND;TZID=Europe/London:20241014T173000
@@ -1109,6 +1008,18 @@ DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paddington (Rerelease)
+DTSTART;TZID=Europe/London:20241016T154500
+DTEND;TZID=Europe/London:20241016T174500
+DTSTAMP:20241016T144500Z
+UID:55884
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015172/paddington-rerelease/\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSe
+ ssionId=55884&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Wild Robot (LFF Preview)
 DTSTART;TZID=Europe/London:20241013T160000
 DTEND;TZID=Europe/London:20241013T181000
@@ -1122,30 +1033,6 @@ DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 1\n\nPreview: A special pr
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paddington (Rerelease)
-DTSTART;TZID=Europe/London:20241011T160000
-DTEND;TZID=Europe/London:20241011T180000
-DTSTAMP:20241011T150000Z
-UID:55881
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015172/paddington-rerelease/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSe
- ssionId=55881&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paddington (Rerelease)
-DTSTART;TZID=Europe/London:20241016T154500
-DTEND;TZID=Europe/London:20241016T174500
-DTSTAMP:20241016T144500Z
-UID:55884
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015172/paddington-rerelease/\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSe
- ssionId=55884&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sideways
 DTSTART;TZID=Europe/London:20241110T163000
 DTEND;TZID=Europe/London:20241110T190500
@@ -1156,18 +1043,6 @@ DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 3\n\nFilm Club: Picturehou
  1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
  ils/013/HO00015102/sideways/\nhttps://ticketing.picturehouses.com/Ticketin
  g/visSelectTickets.aspx?cinemacode=013&txtSessionId=55407&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NT Live: Prima Facie (2024 Encore)
-DTSTART;TZID=Europe/London:20241012T164000
-DTEND;TZID=Europe/London:20241012T190000
-DTSTAMP:20241012T154000Z
-UID:56195
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00014902/nt-live-prima-facie-2024-encore/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=013&txtSessionId=56195&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -1199,29 +1074,18 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 3\n\nFilm Club: Picturehou
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Grand Budapest Hotel
-DTSTART;TZID=Europe/London:20241124T170000
-DTEND;TZID=Europe/London:20241124T190500
-DTSTAMP:20241124T170000Z
-UID:55409
-DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nFilm Club: Picturehou
- se Members get to watch the hand-picked films in our Film Club for just £
- 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
- ils/013/HO00000296/the-grand-budapest-hotel/\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55409&
- visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ali Plumb’s Untitled Film Quiz Project
-DTSTART;TZID=Europe/London:20241110T170000
-DTEND;TZID=Europe/London:20241110T192500
-DTSTAMP:20241110T170000Z
-UID:56067
-DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00014428/ali-plumbs-untitled-film-quiz-projec
- t/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=013&txtSessionId=56067&visLang=1
+SUMMARY:RBO Live: Die Walkure (2025)
+DTSTART;TZID=Europe/London:20250514T170000
+DTEND;TZID=Europe/London:20250514T230500
+DTSTAMP:20250514T160000Z
+UID:54137
+DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/013/HO00014746/rbo-live-die-walkure-2025/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
+ d=54137&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -1269,18 +1133,29 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 3\n\nFilm Club: Picturehous
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RBO Live: Die Walkure (2025)
-DTSTART;TZID=Europe/London:20250514T170000
-DTEND;TZID=Europe/London:20250514T230500
-DTSTAMP:20250514T160000Z
-UID:54137
-DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/013/HO00014746/rbo-live-die-walkure-2025/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=54137&visLang=1
+SUMMARY:Ali Plumb’s Untitled Film Quiz Project
+DTSTART;TZID=Europe/London:20241110T170000
+DTEND;TZID=Europe/London:20241110T192500
+DTSTAMP:20241110T170000Z
+UID:56067
+DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00014428/ali-plumbs-untitled-film-quiz-projec
+ t/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=013&txtSessionId=56067&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Grand Budapest Hotel
+DTSTART;TZID=Europe/London:20241124T170000
+DTEND;TZID=Europe/London:20241124T190500
+DTSTAMP:20241124T170000Z
+UID:55409
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nFilm Club: Picturehou
+ se Members get to watch the hand-picked films in our Film Club for just £
+ 1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
+ ils/013/HO00000296/the-grand-budapest-hotel/\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55409&
+ visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -1294,118 +1169,6 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 3\n\nFilm Club: Picturehou
  1 (Terms and Conditions apply)\n\nhttps://www.picturehouses.com/movie-deta
  ils/013/HO00015103/sunshine/\nhttps://ticketing.picturehouses.com/Ticketin
  g/visSelectTickets.aspx?cinemacode=013&txtSessionId=55408&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Aida (2025)
-DTSTART;TZID=Europe/London:20250125T173000
-DTEND;TZID=Europe/London:20250125T211000
-DTSTAMP:20250125T173000Z
-UID:54961
-DESCRIPTION:Duration: 3h 40m (220 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/013/HO00014960/met-opera-live-aida-2025/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId
- =54961&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241010T174500
-DTEND;TZID=Europe/London:20241010T203000
-DTSTAMP:20241010T164500Z
-UID:55654
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=55654&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241010T203000
-DTEND;TZID=Europe/London:20241010T231500
-DTSTAMP:20241010T193000Z
-UID:55655
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/013/HO00015109/joker-f
- olie-a-deux/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=013&txtSessionId=55655&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241011T130000
-DTEND;TZID=Europe/London:20241011T154500
-DTSTAMP:20241011T120000Z
-UID:56088
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=56088&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241011T144000
-DTEND;TZID=Europe/London:20241011T172500
-DTSTAMP:20241011T134000Z
-UID:56087
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=56087&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241011T174000
-DTEND;TZID=Europe/London:20241011T202500
-DTSTAMP:20241011T164000Z
-UID:56084
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=56084&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241011T204000
-DTEND;TZID=Europe/London:20241011T232500
-DTSTAMP:20241011T194000Z
-UID:56083
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=56083&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241012T121500
-DTEND;TZID=Europe/London:20241012T150000
-DTSTAMP:20241012T111500Z
-UID:56095
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=56095&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241012T144500
-DTEND;TZID=Europe/London:20241012T173000
-DTSTAMP:20241012T134500Z
-UID:56096
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=56096&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -1434,18 +1197,6 @@ LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241013T124500
-DTEND;TZID=Europe/London:20241013T153000
-DTSTAMP:20241013T114500Z
-UID:55402
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=55402&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
 DTSTART;TZID=Europe/London:20241013T170000
 DTEND;TZID=Europe/London:20241013T194500
 DTSTAMP:20241013T160000Z
@@ -1454,18 +1205,6 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 2\n\nhttps://www.pictureho
  uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
  ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
  sionId=56107&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241013T190000
-DTEND;TZID=Europe/London:20241013T214500
-DTSTAMP:20241013T180000Z
-UID:56106
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=56106&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -1536,18 +1275,6 @@ LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241015T194500
-DTEND;TZID=Europe/London:20241015T223000
-DTSTAMP:20241015T184500Z
-UID:56211
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=56211&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
 DTSTART;TZID=Europe/London:20241016T133000
 DTEND;TZID=Europe/London:20241016T161500
 DTSTAMP:20241016T123000Z
@@ -1607,63 +1334,18 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Joker: Folie à Deux
-DTSTART;TZID=Europe/London:20241017T195000
-DTEND;TZID=Europe/London:20241017T223500
-DTSTAMP:20241017T185000Z
-UID:56231
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015109/joker-folie-a-deux/\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSes
- sionId=56231&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Outrun
-DTSTART;TZID=Europe/London:20241010T175000
-DTEND;TZID=Europe/London:20241010T201500
-DTSTAMP:20241010T165000Z
-UID:55652
-DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015035/the-outrun/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 5652&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Outrun
-DTSTART;TZID=Europe/London:20241011T122000
-DTEND;TZID=Europe/London:20241011T144500
-DTSTAMP:20241011T112000Z
-UID:56189
-DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015035/the-outrun/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6189&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Outrun
-DTSTART;TZID=Europe/London:20241011T181000
-DTEND;TZID=Europe/London:20241011T203500
-DTSTAMP:20241011T171000Z
-UID:56190
-DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015035/the-outrun/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6190&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Outrun
-DTSTART;TZID=Europe/London:20241012T120000
-DTEND;TZID=Europe/London:20241012T142500
-DTSTAMP:20241012T110000Z
-UID:56193
-DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015035/the-outrun/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 6193&visLang=1
+SUMMARY:Met Opera Live: Aida (2025)
+DTSTART;TZID=Europe/London:20250125T173000
+DTEND;TZID=Europe/London:20250125T211000
+DTSTAMP:20250125T173000Z
+UID:54961
+DESCRIPTION:Duration: 3h 40m (220 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/013/HO00014960/met-opera-live-aida-2025/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId
+ =54961&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -1799,27 +1481,72 @@ DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EXHIBITION ON SCREEN: Van Gogh - Poets & Lovers
-DTSTART;TZID=Europe/London:20241106T180000
-DTEND;TZID=Europe/London:20241106T195500
-DTSTAMP:20241106T180000Z
-UID:55495
+SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
+DTSTART;TZID=Europe/London:20250318T180000
+DTEND;TZID=Europe/London:20250318T195500
+DTSTAMP:20250318T180000Z
+UID:55498
 DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00014994/exhibition-on-screen-van-gogh-poets-l
- overs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=013&txtSessionId=55495&visLang=1
+ ses.com/movie-details/013/HO00014995/exhibition-on-screen-dawn-of-impressi
+ onism-paris-1874/\nhttps://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=013&txtSessionId=55498&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:EXHIBITION ON SCREEN: Van Gogh - Poets & Lovers
-DTSTART;TZID=Europe/London:20241112T130000
-DTEND;TZID=Europe/London:20241112T145500
-DTSTAMP:20241112T130000Z
-UID:55496
+SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
+DTSTART;TZID=Europe/London:20250325T130000
+DTEND;TZID=Europe/London:20250325T145500
+DTSTAMP:20250325T130000Z
+UID:55497
 DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00014994/exhibition-on-screen-van-gogh-poets-l
- overs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=013&txtSessionId=55496&visLang=1
+ ses.com/movie-details/013/HO00014995/exhibition-on-screen-dawn-of-impressi
+ onism-paris-1874/\nhttps://ticketing.picturehouses.com/Ticketing/visSelect
+ Tickets.aspx?cinemacode=013&txtSessionId=55497&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Le Nozze di Figaro (2025)
+DTSTART;TZID=Europe/London:20250426T180000
+DTEND;TZID=Europe/London:20250426T215500
+DTSTAMP:20250426T170000Z
+UID:54965
+DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/013/HO00014964/met-opera-live-le-nozze-di-figaro-2025/\nhttps:/
+ /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
+ 3&txtSessionId=54965&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milisuthando
+DTSTART;TZID=Europe/London:20241024T180000
+DTEND;TZID=Europe/London:20241024T203500
+DTSTAMP:20241024T170000Z
+UID:56068
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nFilm Club: Picturehouse Members get to watch the hand-picked fi
+ lms in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps://
+ www.picturehouses.com/movie-details/013/HO00015317/film-club-milisuthando/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=013&txtSessionId=56068&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reclaim The Frame presents DAHOMEY: special screening + conversati
+ on
+DTSTART;TZID=Europe/London:20241025T180000
+DTEND;TZID=Europe/London:20241025T194000
+DTSTAMP:20241025T170000Z
+UID:56268
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/013/HO00015478/reclaim-the-frame-presents-dahomey-special-screening-co
+ nversation/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=013&txtSessionId=56268&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -1844,106 +1571,6 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
  ses.com/movie-details/013/HO00014996/exhibition-on-screen-michelangelo-lov
  e-and-death-encore/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
  ctTickets.aspx?cinemacode=013&txtSessionId=55500&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Le Nozze di Figaro (2025)
-DTSTART;TZID=Europe/London:20250426T180000
-DTEND;TZID=Europe/London:20250426T215500
-DTSTAMP:20250426T170000Z
-UID:54965
-DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/013/HO00014964/met-opera-live-le-nozze-di-figaro-2025/\nhttps:/
- /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
- 3&txtSessionId=54965&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Apprentice
-DTSTART;TZID=Europe/London:20241017T180000
-DTEND;TZID=Europe/London:20241017T203000
-DTSTAMP:20241017T170000Z
-UID:55926
-DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nPreview: A special preview screening of this film. See it befor
- e anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to
-  watch the hand-picked films in our Film Club for just £1 (Terms and Cond
- itions apply)\n\nhttps://www.picturehouses.com/movie-details/013/HO0001530
- 4/film-club-the-apprentice/\nhttps://ticketing.picturehouses.com/Ticketing
- /visSelectTickets.aspx?cinemacode=013&txtSessionId=55926&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Salome (2025)
-DTSTART;TZID=Europe/London:20250517T180000
-DTEND;TZID=Europe/London:20250517T201500
-DTSTAMP:20250517T170000Z
-UID:54967
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/013/HO00014966/met-opera-live-salome-2025/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
- Id=54967&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Milisuthando
-DTSTART;TZID=Europe/London:20241024T180000
-DTEND;TZID=Europe/London:20241024T203500
-DTSTAMP:20241024T170000Z
-UID:56068
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 2\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nFilm Club: Picturehouse Members get to watch the hand-picked fi
- lms in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps://
- www.picturehouses.com/movie-details/013/HO00015317/film-club-milisuthando/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=013&txtSessionId=56068&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Doc'n Roll Film Festival Presents: Hakeem + Q&A
-DTSTART;TZID=Europe/London:20241027T180000
-DTEND;TZID=Europe/London:20241027T195000
-DTSTAMP:20241027T180000Z
-UID:55793
-DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/013/HO00015145/doc-n
- -roll-film-festival-presents-hakeem-q-a/\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55793&visL
- ang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
-DTSTART;TZID=Europe/London:20250318T180000
-DTEND;TZID=Europe/London:20250318T195500
-DTSTAMP:20250318T180000Z
-UID:55498
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00014995/exhibition-on-screen-dawn-of-impressi
- onism-paris-1874/\nhttps://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=013&txtSessionId=55498&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
-DTSTART;TZID=Europe/London:20250325T130000
-DTEND;TZID=Europe/London:20250325T145500
-DTSTAMP:20250325T130000Z
-UID:55497
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00014995/exhibition-on-screen-dawn-of-impressi
- onism-paris-1874/\nhttps://ticketing.picturehouses.com/Ticketing/visSelect
- Tickets.aspx?cinemacode=013&txtSessionId=55497&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -1977,6 +1604,91 @@ DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 3\n\nreDiscover: Time to b
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Met Opera Live: Salome (2025)
+DTSTART;TZID=Europe/London:20250517T180000
+DTEND;TZID=Europe/London:20250517T201500
+DTSTAMP:20250517T170000Z
+UID:54967
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/013/HO00014966/met-opera-live-salome-2025/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
+ Id=54967&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXHIBITION ON SCREEN: Van Gogh - Poets & Lovers
+DTSTART;TZID=Europe/London:20241106T180000
+DTEND;TZID=Europe/London:20241106T195500
+DTSTAMP:20241106T180000Z
+UID:55495
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00014994/exhibition-on-screen-van-gogh-poets-l
+ overs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=013&txtSessionId=55495&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EXHIBITION ON SCREEN: Van Gogh - Poets & Lovers
+DTSTART;TZID=Europe/London:20241112T130000
+DTEND;TZID=Europe/London:20241112T145500
+DTSTAMP:20241112T130000Z
+UID:55496
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00014994/exhibition-on-screen-van-gogh-poets-l
+ overs/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=013&txtSessionId=55496&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Grounded (2024)
+DTSTART;TZID=Europe/London:20241019T180000
+DTEND;TZID=Europe/London:20241019T204500
+DTSTAMP:20241019T170000Z
+UID:54957
+DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/013/HO00014954/met-opera-live-grounded-2024/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessi
+ onId=54957&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Apprentice
+DTSTART;TZID=Europe/London:20241017T180000
+DTEND;TZID=Europe/London:20241017T203000
+DTSTAMP:20241017T170000Z
+UID:55926
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nPreview: A special preview screening of this film. See it befor
+ e anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to
+  watch the hand-picked films in our Film Club for just £1 (Terms and Cond
+ itions apply)\n\nhttps://www.picturehouses.com/movie-details/013/HO0001530
+ 4/film-club-the-apprentice/\nhttps://ticketing.picturehouses.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=013&txtSessionId=55926&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doc'n Roll Film Festival Presents: Hakeem + Q&A
+DTSTART;TZID=Europe/London:20241027T180000
+DTEND;TZID=Europe/London:20241027T195000
+DTSTAMP:20241027T180000Z
+UID:55793
+DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
+ a Q&A.\n\nhttps://www.picturehouses.com/movie-details/013/HO00015145/doc-n
+ -roll-film-festival-presents-hakeem-q-a/\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55793&visL
+ ang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dial M for Murder
 DTSTART;TZID=Europe/London:20241118T180000
 DTEND;TZID=Europe/London:20241118T201000
@@ -2007,18 +1719,18 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Grounded (2024)
-DTSTART;TZID=Europe/London:20241019T180000
-DTEND;TZID=Europe/London:20241019T204500
-DTSTAMP:20241019T170000Z
-UID:54957
-DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 3\n\nAd and Trailer Free: 
+SUMMARY:Met Opera Live: Il Barbiere di Siviglia (2025)
+DTSTART;TZID=Europe/London:20250531T180000
+DTEND;TZID=Europe/London:20250531T213500
+DTSTAMP:20250531T170000Z
+UID:54969
+DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 3\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
  be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/013/HO00014954/met-opera-live-grounded-2024/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessi
- onId=54957&visLang=1
+ ie-details/013/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=013&txtSessionId=54969&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -2034,21 +1746,6 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 3\n\nAd and Trailer Free:
  ie-details/013/HO00014956/met-opera-live-tosca-2024/\nhttps://ticketing.pi
  cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
  d=54959&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Met Opera Live: Il Barbiere di Siviglia (2025)
-DTSTART;TZID=Europe/London:20250531T180000
-DTEND;TZID=Europe/London:20250531T213500
-DTSTAMP:20250531T170000Z
-UID:54969
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/013/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=013&txtSessionId=54969&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -2184,6 +1881,18 @@ DESCRIPTION:Duration: 4h 05m (245 mins)\nScreen 3\n\nAd and Trailer Free:
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Paul McCartney and Wings - One Hand Clapping
+DTSTART;TZID=Europe/London:20241012T190000
+DTEND;TZID=Europe/London:20241012T203000
+DTSTAMP:20241012T180000Z
+UID:56104
+DESCRIPTION:Duration: 1h 05m (65 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015053/paul-mccartney-and-wings-one-hand-cla
+ pping/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=013&txtSessionId=56104&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seven Samurai (4K Restoration)
 DTSTART;TZID=Europe/London:20241125T190000
 DTEND;TZID=Europe/London:20241125T225500
@@ -2251,18 +1960,6 @@ DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paul McCartney and Wings - One Hand Clapping
-DTSTART;TZID=Europe/London:20241012T190000
-DTEND;TZID=Europe/London:20241012T203000
-DTSTAMP:20241012T180000Z
-UID:56104
-DESCRIPTION:Duration: 1h 05m (65 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/013/HO00015053/paul-mccartney-and-wings-one-hand-cla
- pping/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=013&txtSessionId=56104&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RBO Live: Romeo & Juliet (2025)
 DTSTART;TZID=Europe/London:20250320T191500
 DTEND;TZID=Europe/London:20250320T224500
@@ -2275,6 +1972,36 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 3\n\nAd and Trailer Free:
  ie-details/013/HO00014743/rbo-live-romeo-juliet-2025/\nhttps://ticketing.p
  icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
  Id=54133&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Live: Turandot (2025)
+DTSTART;TZID=Europe/London:20250401T191500
+DTEND;TZID=Europe/London:20250401T224000
+DTSTAMP:20250401T181500Z
+UID:54135
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/013/HO00014744/rbo-live-turandot-2025/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
+ 4135&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Live: Cinderella (2024)
+DTSTART;TZID=Europe/London:20241210T191500
+DTEND;TZID=Europe/London:20241210T223000
+DTSTAMP:20241210T191500Z
+UID:54123
+DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/013/HO00014706/rbo-live-cinderella-2024/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId
+ =54123&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -2314,51 +2041,6 @@ DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RBO Live: Turandot (2025)
-DTSTART;TZID=Europe/London:20250401T191500
-DTEND;TZID=Europe/London:20250401T224000
-DTSTAMP:20250401T181500Z
-UID:54135
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/013/HO00014744/rbo-live-turandot-2025/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
- 4135&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Live: Cinderella (2024)
-DTSTART;TZID=Europe/London:20241210T191500
-DTEND;TZID=Europe/London:20241210T223000
-DTSTAMP:20241210T191500Z
-UID:54123
-DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/013/HO00014706/rbo-live-cinderella-2024/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId
- =54123&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Live: Alice's Adventures in Wonderland (2024)
-DTSTART;TZID=Europe/London:20241015T191500
-DTEND;TZID=Europe/London:20241015T224000
-DTSTAMP:20241015T181500Z
-UID:54121
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/013/HO00014705/rbo-live-alice-s-adventures-in-wonderland-2024/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=013&txtSessionId=54121&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RBO: Swan Lake (Captured Live 2024)
 DTSTART;TZID=Europe/London:20250227T191500
 DTEND;TZID=Europe/London:20250227T224500
@@ -2387,6 +2069,21 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 3\n\nAd and Trailer Free:
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RBO Live: Alice's Adventures in Wonderland (2024)
+DTSTART;TZID=Europe/London:20241015T191500
+DTEND;TZID=Europe/London:20241015T224000
+DTSTAMP:20241015T181500Z
+UID:54121
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/013/HO00014705/rbo-live-alice-s-adventures-in-wonderland-2024/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=013&txtSessionId=54121&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RBO Live: Ballet To Broadway: Wheeldon Works (2025)
 DTSTART;TZID=Europe/London:20250522T191500
 DTEND;TZID=Europe/London:20250522T221500
@@ -2399,6 +2096,21 @@ DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 3\n\nAd and Trailer Free:
  ie-details/013/HO00014747/rbo-live-ballet-to-broadway-wheeldon-works-2025/
  \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
  macode=013&txtSessionId=54139&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gladiator (Re-release)
+DTSTART;TZID=Europe/London:20241023T193000
+DTEND;TZID=Europe/London:20241023T223000
+DTSTAMP:20241023T183000Z
+UID:55924
+DESCRIPTION:Duration: 2h 35m (155 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/013/HO00015244/gladiator-re-release/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5592
+ 4&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -2439,18 +2151,15 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\nScreen 2\n\nFilm Club: Picturehous
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gladiator (Re-release)
-DTSTART;TZID=Europe/London:20241023T193000
-DTEND;TZID=Europe/London:20241023T223000
-DTSTAMP:20241023T183000Z
-UID:55924
-DESCRIPTION:Duration: 2h 35m (155 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/013/HO00015244/gladiator-re-release/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5592
- 4&visLang=1
+SUMMARY:A Sudden Glimpse to Deeper Things
+DTSTART;TZID=Europe/London:20241021T193000
+DTEND;TZID=Europe/London:20241021T212500
+DTSTAMP:20241021T183000Z
+UID:56273
+DESCRIPTION:Duration: 1h 28m (88 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015407/a-sudden-glimpse-to-deeper-things/\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=013&txtSessionId=56273&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -2492,144 +2201,31 @@ DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 2\n\nPreview: A special pr
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241010T202000
-DTEND;TZID=Europe/London:20241010T231000
-DTSTAMP:20241010T192000Z
-UID:56011
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=56011&visLang=1
+SUMMARY:Endurance - BFI London Film Festival 2024 Preview
+DTSTART;TZID=Europe/London:20241015T200000
+DTEND;TZID=Europe/London:20241015T221000
+DTSTAMP:20241015T190000Z
+UID:56272
+DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 1\n\nPreview: A special pr
+ eview screening of this film. See it before anyone else on the big screen!
+ \n\nhttps://www.picturehouses.com/movie-details/013/HO00015201/endurance-b
+ fi-london-film-festival-2024-preview/\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=56272&visLang
+ =1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241011T150000
-DTEND;TZID=Europe/London:20241011T175000
-DTSTAMP:20241011T140000Z
-UID:56191
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=56191&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241011T203000
-DTEND;TZID=Europe/London:20241011T232000
-DTSTAMP:20241011T193000Z
-UID:56094
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=56094&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241012T203000
-DTEND;TZID=Europe/London:20241012T232000
-DTSTAMP:20241012T193000Z
-UID:56101
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=56101&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241014T194500
-DTEND;TZID=Europe/London:20241014T223500
-DTSTAMP:20241014T184500Z
-UID:56205
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=56205&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241015T194500
-DTEND;TZID=Europe/London:20241015T223500
-DTSTAMP:20241015T184500Z
-UID:56217
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=56217&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
-DTSTART;TZID=Europe/London:20241016T195000
-DTEND;TZID=Europe/London:20241016T224000
-DTSTAMP:20241016T185000Z
-UID:56226
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=56226&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Substance
+SUMMARY:Endurance - BFI London Film Festival 2024 Preview
 DTSTART;TZID=Europe/London:20241017T195000
-DTEND;TZID=Europe/London:20241017T224000
+DTEND;TZID=Europe/London:20241017T220000
 DTSTAMP:20241017T185000Z
-UID:56236
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=56236&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oxide Ghosts: The Brass Eye Tapes + Live Intro and Q&A
-DTSTART;TZID=Europe/London:20241109T203000
-DTEND;TZID=Europe/London:20241109T221000
-DTSTAMP:20241109T203000Z
-UID:55481
-DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/013/HO00006823/oxide
- -ghosts-the-brass-eye-tapes-live-intro-and-q-a/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=554
- 81&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blade Runner: The Final Cut
-DTSTART;TZID=Europe/London:20241115T203000
-DTEND;TZID=Europe/London:20241115T225500
-DTSTAMP:20241115T203000Z
-UID:55900
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/013/HO00000421/blade-runner-the-final-cut/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=55900&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blade Runner: The Final Cut
-DTSTART;TZID=Europe/London:20241116T203000
-DTEND;TZID=Europe/London:20241116T225500
-DTSTAMP:20241116T203000Z
-UID:55901
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/013/HO00000421/blade-runner-the-final-cut/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
- d=55901&visLang=1
+UID:56271
+DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 1\n\nPreview: A special pr
+ eview screening of this film. See it before anyone else on the big screen!
+ \n\nhttps://www.picturehouses.com/movie-details/013/HO00015201/endurance-b
+ fi-london-film-festival-2024-preview/\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=56271&visLang
+ =1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -2779,6 +2375,196 @@ DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20241029T203000
+DTEND;TZID=Europe/London:20241029T231500
+DTSTAMP:20241029T203000Z
+UID:56073
+DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 2\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nPreview: A special preview screening of this film. See it befor
+ e anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to
+  watch the hand-picked films in our Film Club for just £1 (Terms and Cond
+ itions apply)\n\nhttps://www.picturehouses.com/movie-details/013/HO0001544
+ 4/film-club-anora/\nhttps://ticketing.picturehouses.com/Ticketing/visSelec
+ tTickets.aspx?cinemacode=013&txtSessionId=56073&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oxide Ghosts: The Brass Eye Tapes + Live Intro and Q&A
+DTSTART;TZID=Europe/London:20241109T203000
+DTEND;TZID=Europe/London:20241109T221000
+DTSTAMP:20241109T203000Z
+UID:55481
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
+ a Q&A.\n\nhttps://www.picturehouses.com/movie-details/013/HO00006823/oxide
+ -ghosts-the-brass-eye-tapes-live-intro-and-q-a/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=554
+ 81&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blade Runner: The Final Cut
+DTSTART;TZID=Europe/London:20241115T203000
+DTEND;TZID=Europe/London:20241115T225500
+DTSTAMP:20241115T203000Z
+UID:55900
+DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/013/HO00000421/blade-runner-the-final-cut/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
+ d=55900&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blade Runner: The Final Cut
+DTSTART;TZID=Europe/London:20241116T203000
+DTEND;TZID=Europe/London:20241116T225500
+DTSTAMP:20241116T203000Z
+UID:55901
+DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/013/HO00000421/blade-runner-the-final-cut/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
+ d=55901&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241012T203000
+DTEND;TZID=Europe/London:20241012T232000
+DTSTAMP:20241012T193000Z
+UID:56101
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
+ d=56101&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241013T124500
+DTEND;TZID=Europe/London:20241013T153500
+DTSTAMP:20241013T114500Z
+UID:56270
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
+ d=56270&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241013T190000
+DTEND;TZID=Europe/London:20241013T215000
+DTSTAMP:20241013T180000Z
+UID:56269
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
+ d=56269&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241014T194500
+DTEND;TZID=Europe/London:20241014T223500
+DTSTAMP:20241014T184500Z
+UID:56205
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
+ d=56205&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241015T194500
+DTEND;TZID=Europe/London:20241015T223500
+DTSTAMP:20241015T184500Z
+UID:56217
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
+ d=56217&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241016T195000
+DTEND;TZID=Europe/London:20241016T224000
+DTSTAMP:20241016T185000Z
+UID:56226
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
+ d=56226&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Substance
+DTSTART;TZID=Europe/London:20241017T195000
+DTEND;TZID=Europe/London:20241017T224000
+DTSTAMP:20241017T185000Z
+UID:56236
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/013/HO00015203/the-substance/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionI
+ d=56236&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crouching Tiger\, Hidden Dragon
+DTSTART;TZID=Europe/London:20241101T203000
+DTEND;TZID=Europe/London:20241101T225500
+DTSTAMP:20241101T203000Z
+UID:55886
+DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/013/HO00009611/crouching-tiger-hidden-dragon/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessi
+ onId=55886&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crouching Tiger\, Hidden Dragon
+DTSTART;TZID=Europe/London:20241102T180000
+DTEND;TZID=Europe/London:20241102T202500
+DTSTAMP:20241102T180000Z
+UID:55887
+DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/013/HO00009611/crouching-tiger-hidden-dragon/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessi
+ onId=55887&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crouching Tiger\, Hidden Dragon
+DTSTART;TZID=Europe/London:20241103T143000
+DTEND;TZID=Europe/London:20241103T165500
+DTSTAMP:20241103T143000Z
+UID:55888
+DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/013/HO00009611/crouching-tiger-hidden-dragon/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessi
+ onId=55888&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Carrie (4K Restoration)
 DTSTART;TZID=Europe/London:20241019T203000
 DTEND;TZID=Europe/London:20241019T223500
@@ -2899,64 +2685,125 @@ DESCRIPTION:Duration: 2h 02m (122 mins)\nScreen 3\n\nreDiscover: Time to b
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=Europe/London:20241029T203000
-DTEND;TZID=Europe/London:20241029T231500
-DTSTAMP:20241029T203000Z
-UID:56073
-DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 2\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nPreview: A special preview screening of this film. See it befor
- e anyone else on the big screen!\n\nFilm Club: Picturehouse Members get to
-  watch the hand-picked films in our Film Club for just £1 (Terms and Cond
- itions apply)\n\nhttps://www.picturehouses.com/movie-details/013/HO0001544
- 4/film-club-anora/\nhttps://ticketing.picturehouses.com/Ticketing/visSelec
- tTickets.aspx?cinemacode=013&txtSessionId=56073&visLang=1
+SUMMARY:Timestalker
+DTSTART;TZID=Europe/London:20241012T204000
+DTEND;TZID=Europe/London:20241012T223500
+DTSTAMP:20241012T194000Z
+UID:56100
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
+ 6100&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crouching Tiger\, Hidden Dragon
-DTSTART;TZID=Europe/London:20241101T203000
-DTEND;TZID=Europe/London:20241101T225500
-DTSTAMP:20241101T203000Z
-UID:55886
-DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/013/HO00009611/crouching-tiger-hidden-dragon/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessi
- onId=55886&visLang=1
+SUMMARY:Timestalker
+DTSTART;TZID=Europe/London:20241013T120000
+DTEND;TZID=Europe/London:20241013T135500
+DTSTAMP:20241013T110000Z
+UID:56196
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/013/HO00015257/timestal
+ ker/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=013&txtSessionId=56196&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crouching Tiger\, Hidden Dragon
-DTSTART;TZID=Europe/London:20241102T180000
-DTEND;TZID=Europe/London:20241102T202500
-DTSTAMP:20241102T180000Z
-UID:55887
-DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/013/HO00009611/crouching-tiger-hidden-dragon/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessi
- onId=55887&visLang=1
+SUMMARY:Timestalker
+DTSTART;TZID=Europe/London:20241013T200000
+DTEND;TZID=Europe/London:20241013T215500
+DTSTAMP:20241013T190000Z
+UID:56108
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
+ 6108&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crouching Tiger\, Hidden Dragon
-DTSTART;TZID=Europe/London:20241103T143000
-DTEND;TZID=Europe/London:20241103T165500
-DTSTAMP:20241103T143000Z
-UID:55888
-DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/013/HO00009611/crouching-tiger-hidden-dragon/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessi
- onId=55888&visLang=1
+SUMMARY:Timestalker
+DTSTART;TZID=Europe/London:20241014T130000
+DTEND;TZID=Europe/London:20241014T145500
+DTSTAMP:20241014T120000Z
+UID:56200
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
+ 6200&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timestalker
+DTSTART;TZID=Europe/London:20241014T175000
+DTEND;TZID=Europe/London:20241014T194500
+DTSTAMP:20241014T165000Z
+UID:56199
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
+ 6199&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timestalker
+DTSTART;TZID=Europe/London:20241015T143000
+DTEND;TZID=Europe/London:20241015T162500
+DTSTAMP:20241015T133000Z
+UID:56214
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
+ 6214&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timestalker
+DTSTART;TZID=Europe/London:20241015T170000
+DTEND;TZID=Europe/London:20241015T185500
+DTSTAMP:20241015T160000Z
+UID:56213
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
+ 6213&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timestalker
+DTSTART;TZID=Europe/London:20241016T174500
+DTEND;TZID=Europe/London:20241016T194000
+DTSTAMP:20241016T164500Z
+UID:56238
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
+ 6238&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timestalker
+DTSTART;TZID=Europe/London:20241017T130000
+DTEND;TZID=Europe/London:20241017T145500
+DTSTAMP:20241017T120000Z
+UID:56233
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/013/HO00015257/timestalker/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
+ 6233&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Timestalker
+DTSTART;TZID=Europe/London:20241017T174500
+DTEND;TZID=Europe/London:20241017T194000
+DTSTAMP:20241017T164500Z
+UID:56239
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/013/HO00015257/timestal
+ ker/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=013&txtSessionId=56239&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -2988,18 +2835,6 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\nScreen 3\n\nreDiscover: Time to b
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Different Man
-DTSTART;TZID=Europe/London:20241010T204500
-DTEND;TZID=Europe/London:20241010T230500
-DTSTAMP:20241010T194500Z
-UID:56009
-DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/013/HO00015225/a-different-man/\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessio
- nId=56009&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Shining - Original Cut
 DTSTART;TZID=Europe/London:20241031T204500
 DTEND;TZID=Europe/London:20241031T231000
@@ -3012,20 +2847,6 @@ DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 1\n\nreDiscover: Time to b
  e-details/013/HO00013321/the-shining-original-cut/\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=
  55762&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Thing
-DTSTART;TZID=Europe/London:20241130T204500
-DTEND;TZID=Europe/London:20241130T230000
-DTSTAMP:20241130T204500Z
-UID:55915
-DESCRIPTION:Duration: 1h 49m (109 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/013/HO00015215/the-thing/\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55915&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -3044,6 +2865,35 @@ DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Thing
+DTSTART;TZID=Europe/London:20241130T204500
+DTEND;TZID=Europe/London:20241130T230000
+DTSTAMP:20241130T204500Z
+UID:55915
+DESCRIPTION:Duration: 1h 49m (109 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/013/HO00015215/the-thing/\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=55915&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Nightmare on Elm Street (40th Anniversary)
+DTSTART;TZID=Europe/London:20241028T210000
+DTEND;TZID=Europe/London:20241028T230000
+DTSTAMP:20241028T210000Z
+UID:55765
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/013/HO00015169/a-nightmare-on-elm-street-40th-anniversary/\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 013&txtSessionId=55765&visLang=1
+LOCATION:Picture House Liverpool - FACT
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Shaun of the Dead Re-release
 DTSTART;TZID=Europe/London:20241025T210000
 DTEND;TZID=Europe/London:20241025T230500
@@ -3056,21 +2906,6 @@ DESCRIPTION:Duration: 1h 39m (99 mins)\nScreen 1\n\nreDiscover: Time to br
  -details/013/HO00015167/shaun-of-the-dead-re-release/\nhttps://ticketing.p
  icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSession
  Id=55792&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Blair Witch Project
-DTSTART;TZID=Europe/London:20241011T210000
-DTEND;TZID=Europe/London:20241011T225000
-DTSTAMP:20241011T200000Z
-UID:55876
-DESCRIPTION:Duration: 1h 21m (81 mins)\nScreen 2\n\n35mm: Playing from a 3
- 5mm print\n\nreDiscover: Time to broaden your cinematic horizons: you'll f
- ind the best of what's next with Discover's under-the-radar releases\, and
-  return to favourites of yesterday with our ReDiscover retrospectives.\n\n
- https://www.picturehouses.com/movie-details/013/HO00015174/the-blair-witch
- -project/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=013&txtSessionId=55876&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 BEGIN:VEVENT
@@ -3101,21 +2936,6 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nreDiscover: Time to br
  -details/013/HO00015168/halloween-4k-restoration/\nhttps://ticketing.pictu
  rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=013&txtSessionId=5
  5768&visLang=1
-LOCATION:Picture House Liverpool - FACT
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Nightmare on Elm Street (40th Anniversary)
-DTSTART;TZID=Europe/London:20241028T210000
-DTEND;TZID=Europe/London:20241028T230000
-DTSTAMP:20241028T210000Z
-UID:55765
-DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/013/HO00015169/a-nightmare-on-elm-street-40th-anniversary/\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 013&txtSessionId=55765&visLang=1
 LOCATION:Picture House Liverpool - FACT
 END:VEVENT
 END:VCALENDAR
