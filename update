@@ -166,9 +166,7 @@ class PictureHouseICS:
                     # Some films don't have one yet, so assume 2 hours
                     x["RunTime"] = "120"
 
-                m = re.match(r'^(?P<a>\d+)\s+mins?\s+\+\s+Q\&A\s+(?P<b>\d+)$', x["RunTime"])
-                if m is not None:
-                    x["RunTime"] = str(sum(int(m) for m in m.groups()))
+                x["RunTime"] = str(sum(int(x) for x in re.findall(r"\d+", x["RunTime"])))
 
                 runtime = int(x["RunTime"])
                 if "Ad and Trailer Free" not in all_attributes:
