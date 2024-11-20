@@ -1,16 +1,45 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20241119T092441Z
+LAST-MODIFIED:20241120T112631Z
 NAME:Picture House York - City Screen
 X-WR-CALNAME:Picture House York - City Screen
 BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol
+DTSTART;TZID=Europe/London:20241207T143000
+DTEND;TZID=Europe/London:20241207T162500
+DTSTAMP:20241207T143000Z
+UID:21096
+DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen One\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00008902/the-muppet-christmas-carol/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 18&txtSessionId=21096&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Muppet Christmas Carol
+DTSTART;TZID=Europe/London:20241215T110000
+DTEND;TZID=Europe/London:20241215T123000
+DTSTAMP:20241215T110000Z
+UID:21303
+DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen Two\n\nAd and Trailer Free:
+  No advertisements or trailers will play ahead of this screening. You are 
+ recommended to arrive promptly.\n\nRelaxed: Designed to make cinema-going 
+ easier for those needing additional support\, including neurodivergent aud
+ iences and those living with dementia. Lights are left on low\, volume is 
+ reduced\, and the audience is free to move around.\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00008902/the-muppet-christmas-carol/\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 18&txtSessionId=21303&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CBeebies Panto 2024: Beauty and the Beast
 DTSTART;TZID=Europe/London:20241123T103000
-DTEND;TZID=Europe/London:20241123T121000
+DTEND;TZID=Europe/London:20241123T120500
 DTSTAMP:20241123T103000Z
 UID:21473
-DESCRIPTION:Duration: 1h 12m (72 mins)\nScreen Three\n\nhttps://www.pictur
+DESCRIPTION:Duration: 1h 10m (70 mins)\nScreen Three\n\nhttps://www.pictur
  ehouses.com/movie-details/018/HO00015616/cbeebies-panto-2024-beauty-and-th
  e-beast/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
  spx?cinemacode=018&txtSessionId=21473&visLang=1
@@ -429,20 +458,6 @@ DESCRIPTION:Duration: 1h 10m (70 mins)\nScreen Three\n\nhttps://www.pictur
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RBO Encore: Die Walkure (2025)
-DTSTART;TZID=Europe/London:20250520T110000
-DTEND;TZID=Europe/London:20250520T170500
-DTSTAMP:20250520T100000Z
-UID:18917
-DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014796/rbo-encore-die-walkure-2025/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId
- =18917&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:It's A Wonderful Life
 DTSTART;TZID=Europe/London:20241220T110000
 DTEND;TZID=Europe/London:20241220T131500
@@ -490,18 +505,17 @@ DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen Three\n\nreDiscover: Time
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Home Alone
-DTSTART;TZID=Europe/London:20241208T113000
-DTEND;TZID=Europe/London:20241208T134000
-DTSTAMP:20241208T113000Z
-UID:21097
-DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen One\n\nreDiscover: Time to
-  broaden your cinematic horizons: you'll find the best of what's next with
-  Discover's under-the-radar releases\, and return to favourites of yesterd
- ay with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mo
- vie-details/018/HO00011352/film-club-home-alone/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=21
- 097&visLang=1
+SUMMARY:RBO Encore: Die Walkure (2025)
+DTSTART;TZID=Europe/London:20250520T110000
+DTEND;TZID=Europe/London:20250520T170500
+DTSTAMP:20250520T100000Z
+UID:18917
+DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
+ details/018/HO00014796/rbo-encore-die-walkure-2025/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId
+ =18917&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -517,51 +531,90 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen Three\n\nhttps://www.pictur
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20241119T120000
-DTEND;TZID=Europe/London:20241119T141500
-DTSTAMP:20241119T120000Z
-UID:21332
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen Three\n\nhttps://www.pictu
- rehouses.com/movie-details/018/HO00015406/paddington-in-peru/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&tx
- tSessionId=21332&visLang=1
+SUMMARY:Home Alone
+DTSTART;TZID=Europe/London:20241208T113000
+DTEND;TZID=Europe/London:20241208T134000
+DTSTAMP:20241208T113000Z
+UID:21097
+DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen One\n\nreDiscover: Time to
+  broaden your cinematic horizons: you'll find the best of what's next with
+  Discover's under-the-radar releases\, and return to favourites of yesterd
+ ay with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/mo
+ vie-details/018/HO00011352/film-club-home-alone/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=21
+ 097&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20241119T143000
-DTEND;TZID=Europe/London:20241119T164500
-DTSTAMP:20241119T143000Z
-UID:21333
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen Three\n\nhttps://www.pictu
- rehouses.com/movie-details/018/HO00015406/paddington-in-peru/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&tx
- tSessionId=21333&visLang=1
+SUMMARY:The Taste of Things
+DTSTART;TZID=Europe/London:20241222T120000
+DTEND;TZID=Europe/London:20241222T144000
+DTSTAMP:20241222T120000Z
+UID:21239
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen Three\n\nDiscover: Discove
+ r stunning cinema. Each week\, the Picturehouse film team champion one mus
+ t-see film.\n\nFilm Club: Picturehouse Members get to watch the hand-picke
+ d films in our Film Club for just £1 (Terms and Conditions apply)\n\nhttp
+ s://www.picturehouses.com/movie-details/018/HO00015533/film-club-the-taste
+ -of-things/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
+ s.aspx?cinemacode=018&txtSessionId=21239&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20241119T170000
-DTEND;TZID=Europe/London:20241119T191500
-DTSTAMP:20241119T170000Z
-UID:21331
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen Three\n\nhttps://www.pictu
- rehouses.com/movie-details/018/HO00015406/paddington-in-peru/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&tx
- tSessionId=21331&visLang=1
+SUMMARY:Aida (2025)
+DTSTART;TZID=Europe/London:20250129T120000
+DTEND;TZID=Europe/London:20250129T154000
+DTSTAMP:20250129T120000Z
+UID:19793
+DESCRIPTION:Duration: 3h 40m (220 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
+ details/018/HO00014961/met-opera-encore-aida-2025/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=
+ 19793&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Paddington in Peru
-DTSTART;TZID=Europe/London:20241119T193000
-DTEND;TZID=Europe/London:20241119T214500
-DTSTAMP:20241119T193000Z
-UID:21326
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen Three\n\nhttps://www.pictu
- rehouses.com/movie-details/018/HO00015406/paddington-in-peru/\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&tx
- tSessionId=21326&visLang=1
+SUMMARY:RBO Encore: Ballet To Broadway: Wheeldon Works (2025)
+DTSTART;TZID=Europe/London:20250527T120000
+DTEND;TZID=Europe/London:20250527T150000
+DTSTAMP:20250527T110000Z
+UID:18919
+DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
+ details/018/HO00014797/rbo-encore-ballet-to-broadway-wheeldon-works-2025/\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=018&txtSessionId=18919&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salome (2025)
+DTSTART;TZID=Europe/London:20250521T120000
+DTEND;TZID=Europe/London:20250521T141500
+DTSTAMP:20250521T110000Z
+UID:19799
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
+ details/018/HO00014967/met-opera-encore-salome-2025/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionI
+ d=19799&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Chimera
+DTSTART;TZID=Europe/London:20241229T120000
+DTEND;TZID=Europe/London:20241229T144000
+DTSTAMP:20241229T120000Z
+UID:21240
+DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen Two\n\nDiscover: Discover 
+ stunning cinema. Each week\, the Picturehouse film team champion one must-
+ see film.\n\nFilm Club: Picturehouse Members get to watch the hand-picked 
+ films in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps:
+ //www.picturehouses.com/movie-details/018/HO00015550/film-club-la-chimera/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=018&txtSessionId=21240&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -942,17 +995,60 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\nScreen Three\n\nreDiscover: Time t
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RBO Encore: Turandot (2025)
-DTSTART;TZID=Europe/London:20250408T120000
-DTEND;TZID=Europe/London:20250408T152500
-DTSTAMP:20250408T110000Z
-UID:18914
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen Three\n\nAd and Trailer Fr
+SUMMARY:The Killers (1946)
+DTSTART;TZID=Europe/London:20250112T120000
+DTEND;TZID=Europe/London:20250112T140500
+DTSTAMP:20250112T120000Z
+UID:21367
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen Three\n\nreDiscover: Time 
+ to broaden your cinematic horizons: you'll find the best of what's next wi
+ th Discover's under-the-radar releases\, and return to favourites of yeste
+ rday with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/
+ movie-details/018/HO00015663/the-killers-1946/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=2136
+ 7&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Encore: Cinderella (2024)
+DTSTART;TZID=Europe/London:20241217T120000
+DTEND;TZID=Europe/London:20241217T151500
+DTSTAMP:20241217T120000Z
+UID:18903
+DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen Three\n\nAd and Trailer Fr
  ee: No advertisements or trailers will play ahead of this screening. You a
  re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014795/rbo-encore-turandot-2025/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=18
- 914&visLang=1
+ details/018/HO00014793/rbo-encore-cinderella-2024/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=
+ 18903&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tosca (2024)
+DTSTART;TZID=Europe/London:20241127T120000
+DTEND;TZID=Europe/London:20241127T153000
+DTSTAMP:20241127T120000Z
+UID:19791
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
+ details/018/HO00014957/met-opera-encore-tosca-2024/\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId
+ =19791&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Encore: Romeo & Juliet (2025)
+DTSTART;TZID=Europe/London:20250325T120000
+DTEND;TZID=Europe/London:20250325T153000
+DTSTAMP:20250325T120000Z
+UID:18912
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
+ details/018/HO00014794/rbo-encore-romeo-juliet-2025/\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionI
+ d=18912&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -971,63 +1067,6 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen Three\n\nreDiscover: Time
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Taste of Things
-DTSTART;TZID=Europe/London:20241222T120000
-DTEND;TZID=Europe/London:20241222T144000
-DTSTAMP:20241222T120000Z
-UID:21239
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen Three\n\nDiscover: Discove
- r stunning cinema. Each week\, the Picturehouse film team champion one mus
- t-see film.\n\nFilm Club: Picturehouse Members get to watch the hand-picke
- d films in our Film Club for just £1 (Terms and Conditions apply)\n\nhttp
- s://www.picturehouses.com/movie-details/018/HO00015533/film-club-the-taste
- -of-things/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicket
- s.aspx?cinemacode=018&txtSessionId=21239&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Encore: Cinderella (2024)
-DTSTART;TZID=Europe/London:20241217T120000
-DTEND;TZID=Europe/London:20241217T151500
-DTSTAMP:20241217T120000Z
-UID:18903
-DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014793/rbo-encore-cinderella-2024/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=
- 18903&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fidelio (2025)
-DTSTART;TZID=Europe/London:20250319T120000
-DTEND;TZID=Europe/London:20250319T154500
-DTSTAMP:20250319T120000Z
-UID:19795
-DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014963/met-opera-encore-fidelio-2025/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=19795&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Encore: Romeo & Juliet (2025)
-DTSTART;TZID=Europe/London:20250325T120000
-DTEND;TZID=Europe/London:20250325T153000
-DTSTAMP:20250325T120000Z
-UID:18912
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014794/rbo-encore-romeo-juliet-2025/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionI
- d=18912&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Le Nozze di Figaro (2025)
 DTSTART;TZID=Europe/London:20250430T120000
 DTEND;TZID=Europe/London:20250430T155500
@@ -1042,89 +1081,17 @@ DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen Three\n\nAd and Trailer Fr
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Killers (1946)
-DTSTART;TZID=Europe/London:20250112T120000
-DTEND;TZID=Europe/London:20250112T140500
-DTSTAMP:20250112T120000Z
-UID:21367
-DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen Three\n\nreDiscover: Time 
- to broaden your cinematic horizons: you'll find the best of what's next wi
- th Discover's under-the-radar releases\, and return to favourites of yeste
- rday with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/
- movie-details/018/HO00015663/the-killers-1946/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=2136
- 7&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Chimera
-DTSTART;TZID=Europe/London:20241229T120000
-DTEND;TZID=Europe/London:20241229T144000
-DTSTAMP:20241229T120000Z
-UID:21240
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen Two\n\nDiscover: Discover 
- stunning cinema. Each week\, the Picturehouse film team champion one must-
- see film.\n\nFilm Club: Picturehouse Members get to watch the hand-picked 
- films in our Film Club for just £1 (Terms and Conditions apply)\n\nhttps:
- //www.picturehouses.com/movie-details/018/HO00015550/film-club-la-chimera/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=018&txtSessionId=21240&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tosca (2024)
-DTSTART;TZID=Europe/London:20241127T120000
-DTEND;TZID=Europe/London:20241127T153000
-DTSTAMP:20241127T120000Z
-UID:19791
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen Three\n\nAd and Trailer Fr
+SUMMARY:Fidelio (2025)
+DTSTART;TZID=Europe/London:20250319T120000
+DTEND;TZID=Europe/London:20250319T154500
+DTSTAMP:20250319T120000Z
+UID:19795
+DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen Three\n\nAd and Trailer Fr
  ee: No advertisements or trailers will play ahead of this screening. You a
  re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014957/met-opera-encore-tosca-2024/\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId
- =19791&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salome (2025)
-DTSTART;TZID=Europe/London:20250521T120000
-DTEND;TZID=Europe/London:20250521T141500
-DTSTAMP:20250521T110000Z
-UID:19799
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014967/met-opera-encore-salome-2025/\nhttps://ticketing.pi
- cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionI
- d=19799&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aida (2025)
-DTSTART;TZID=Europe/London:20250129T120000
-DTEND;TZID=Europe/London:20250129T154000
-DTSTAMP:20250129T120000Z
-UID:19793
-DESCRIPTION:Duration: 3h 40m (220 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014961/met-opera-encore-aida-2025/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=
- 19793&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Encore: Ballet To Broadway: Wheeldon Works (2025)
-DTSTART;TZID=Europe/London:20250527T120000
-DTEND;TZID=Europe/London:20250527T150000
-DTSTAMP:20250527T110000Z
-UID:18919
-DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014797/rbo-encore-ballet-to-broadway-wheeldon-works-2025/\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=018&txtSessionId=18919&visLang=1
+ details/018/HO00014963/met-opera-encore-fidelio-2025/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=19795&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1143,27 +1110,17 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen Three\n\nreDiscover: Time t
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Small Things Like These
-DTSTART;TZID=Europe/London:20241119T124000
-DTEND;TZID=Europe/London:20241119T144500
-DTSTAMP:20241119T124000Z
-UID:21335
-DESCRIPTION:Duration: 1h 39m (99 mins)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00015451/small-things-like-these/\nhttps://t
- icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&
- txtSessionId=21335&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small Things Like These
-DTSTART;TZID=Europe/London:20241121T203000
-DTEND;TZID=Europe/London:20241121T223500
-DTSTAMP:20241121T203000Z
-UID:21350
-DESCRIPTION:Duration: 1h 39m (99 mins)\nScreen Three\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00015451/small-things-like-these/\nhttps:/
- /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
- 8&txtSessionId=21350&visLang=1
+SUMMARY:RBO Encore: Turandot (2025)
+DTSTART;TZID=Europe/London:20250408T120000
+DTEND;TZID=Europe/London:20250408T152500
+DTSTAMP:20250408T110000Z
+UID:18914
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
+ details/018/HO00014795/rbo-encore-turandot-2025/\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=18
+ 914&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1184,51 +1141,54 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen One\n\nreDiscover: Time to
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20241119T131500
-DTEND;TZID=Europe/London:20241119T161000
-DTSTAMP:20241119T131500Z
-UID:21330
-DESCRIPTION:Duration: 2h 28m (148 mins)\nScreen Two\n\nhttps://www.picture
- houses.com/movie-details/018/HO00015365/gladiator-ii/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=21330&visLang=1
+SUMMARY:Heretic
+DTSTART;TZID=Europe/London:20241121T124500
+DTEND;TZID=Europe/London:20241121T150500
+DTSTAMP:20241121T124500Z
+UID:21348
+DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen Three\n\nhttps://www.pictu
+ rehouses.com/movie-details/018/HO00015405/heretic/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=
+ 21348&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20241119T163000
-DTEND;TZID=Europe/London:20241119T192500
-DTSTAMP:20241119T163000Z
-UID:21329
-DESCRIPTION:Duration: 2h 28m (148 mins)\nScreen Two\n\nhttps://www.picture
- houses.com/movie-details/018/HO00015365/gladiator-ii/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=21329&visLang=1
+SUMMARY:Heretic
+DTSTART;TZID=Europe/London:20241128T204500
+DTEND;TZID=Europe/London:20241128T230500
+DTSTAMP:20241128T204500Z
+UID:21464
+DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen Three\n\nhttps://www.pictu
+ rehouses.com/movie-details/018/HO00015405/heretic/\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=
+ 21464&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20241119T194500
-DTEND;TZID=Europe/London:20241119T224000
-DTSTAMP:20241119T194500Z
-UID:21323
-DESCRIPTION:Duration: 2h 28m (148 mins)\nScreen Two\n\nhttps://www.picture
- houses.com/movie-details/018/HO00015365/gladiator-ii/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=21323&visLang=1
+SUMMARY:Bird
+DTSTART;TZID=Europe/London:20241120T134500
+DTEND;TZID=Europe/London:20241120T161000
+DTSTAMP:20241120T134500Z
+UID:21364
+DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen Three\n\nhttps://www.pictu
+ rehouses.com/movie-details/018/HO00015294/bird/\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=213
+ 64&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gladiator II
-DTSTART;TZID=Europe/London:20241120T104500
-DTEND;TZID=Europe/London:20241120T134000
-DTSTAMP:20241120T104500Z
-UID:21324
-DESCRIPTION:Duration: 2h 28m (148 mins)\nScreen Two\n\nhttps://www.picture
- houses.com/movie-details/018/HO00015365/gladiator-ii/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=21324&visLang=1
+SUMMARY:Double Indemnity
+DTSTART;TZID=Europe/London:20250302T140000
+DTEND;TZID=Europe/London:20250302T161000
+DTSTAMP:20250302T140000Z
+UID:21374
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen Three\n\nreDiscover: Time 
+ to broaden your cinematic horizons: you'll find the best of what's next wi
+ th Discover's under-the-radar releases\, and return to favourites of yeste
+ rday with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/
+ movie-details/018/HO00015667/double-indemnity/\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=2137
+ 4&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1534,30 +1494,32 @@ DESCRIPTION:Duration: 2h 28m (148 mins)\nScreen Two\n\nhttps://www.picture
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bird
-DTSTART;TZID=Europe/London:20241120T134500
-DTEND;TZID=Europe/London:20241120T161000
-DTSTAMP:20241120T134500Z
-UID:21364
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen Three\n\nhttps://www.pictu
- rehouses.com/movie-details/018/HO00015294/bird/\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=213
- 64&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Double Indemnity
-DTSTART;TZID=Europe/London:20250302T140000
-DTEND;TZID=Europe/London:20250302T161000
-DTSTAMP:20250302T140000Z
-UID:21374
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen Three\n\nreDiscover: Time 
+SUMMARY:Leave Her to Heaven
+DTSTART;TZID=Europe/London:20250126T140000
+DTEND;TZID=Europe/London:20250126T161500
+DTSTAMP:20250126T140000Z
+UID:21369
+DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen Three\n\nreDiscover: Time 
  to broaden your cinematic horizons: you'll find the best of what's next wi
  th Discover's under-the-radar releases\, and return to favourites of yeste
  rday with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/
- movie-details/018/HO00015667/double-indemnity/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=2137
- 4&visLang=1
+ movie-details/018/HO00014860/leave-her-to-heaven/\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=2
+ 1369&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elf
+DTSTART;TZID=Europe/London:20241215T140000
+DTEND;TZID=Europe/London:20241215T160000
+DTSTAMP:20241215T140000Z
+UID:21099
+DESCRIPTION:Duration: 1h 33m (93 mins)\nScreen Three\n\nreDiscover: Time t
+ o broaden your cinematic horizons: you'll find the best of what's next wit
+ h Discover's under-the-radar releases\, and return to favourites of yester
+ day with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/m
+ ovie-details/018/HO00002993/elf/\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=018&txtSessionId=21099&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1576,23 +1538,6 @@ DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen Three\n\nreDiscover: Time
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Full Monty
-DTSTART;TZID=Europe/London:20241129T140000
-DTEND;TZID=Europe/London:20241129T153500
-DTSTAMP:20241129T140000Z
-UID:20960
-DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen Three\n\nAd and Trailer Fre
- e: No advertisements or trailers will play ahead of this screening. You ar
- e recommended to arrive promptly.\n\nRelaxed: Designed to make cinema-goin
- g easier for those needing additional support\, including neurodivergent a
- udiences and those living with dementia. Lights are left on low\, volume i
- s reduced\, and the audience is free to move around.\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00015097/the-full-monty/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSess
- ionId=20960&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gilda (4K Restoration)
 DTSTART;TZID=Europe/London:20250119T140000
 DTEND;TZID=Europe/London:20250119T161500
@@ -1608,61 +1553,20 @@ DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen Three\n\nreDiscover: Time
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elf
-DTSTART;TZID=Europe/London:20241215T140000
-DTEND;TZID=Europe/London:20241215T160000
-DTSTAMP:20241215T140000Z
-UID:21099
-DESCRIPTION:Duration: 1h 33m (93 mins)\nScreen Three\n\nreDiscover: Time t
- o broaden your cinematic horizons: you'll find the best of what's next wit
- h Discover's under-the-radar releases\, and return to favourites of yester
- day with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/m
- ovie-details/018/HO00002993/elf/\nhttps://ticketing.picturehouses.com/Tick
- eting/visSelectTickets.aspx?cinemacode=018&txtSessionId=21099&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Leave Her to Heaven
-DTSTART;TZID=Europe/London:20250126T140000
-DTEND;TZID=Europe/London:20250126T161500
-DTSTAMP:20250126T140000Z
-UID:21369
-DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen Three\n\nreDiscover: Time 
- to broaden your cinematic horizons: you'll find the best of what's next wi
- th Discover's under-the-radar releases\, and return to favourites of yeste
- rday with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/
- movie-details/018/HO00014860/leave-her-to-heaven/\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=2
- 1369&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Muppet Christmas Carol
-DTSTART;TZID=Europe/London:20241207T143000
-DTEND;TZID=Europe/London:20241207T162500
-DTSTAMP:20241207T143000Z
-UID:21096
-DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00008902/the-muppet-christmas-carol/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 18&txtSessionId=21096&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Muppet Christmas Carol
-DTSTART;TZID=Europe/London:20241215T110000
-DTEND;TZID=Europe/London:20241215T123000
-DTSTAMP:20241215T110000Z
-UID:21303
-DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen Two\n\nAd and Trailer Free:
-  No advertisements or trailers will play ahead of this screening. You are 
- recommended to arrive promptly.\n\nRelaxed: Designed to make cinema-going 
- easier for those needing additional support\, including neurodivergent aud
- iences and those living with dementia. Lights are left on low\, volume is 
- reduced\, and the audience is free to move around.\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00008902/the-muppet-christmas-carol/\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 18&txtSessionId=21303&visLang=1
+SUMMARY:The Full Monty
+DTSTART;TZID=Europe/London:20241129T140000
+DTEND;TZID=Europe/London:20241129T153500
+DTSTAMP:20241129T140000Z
+UID:20960
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen Three\n\nAd and Trailer Fre
+ e: No advertisements or trailers will play ahead of this screening. You ar
+ e recommended to arrive promptly.\n\nRelaxed: Designed to make cinema-goin
+ g easier for those needing additional support\, including neurodivergent a
+ udiences and those living with dementia. Lights are left on low\, volume i
+ s reduced\, and the audience is free to move around.\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00015097/the-full-monty/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSess
+ ionId=20960&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1689,18 +1593,6 @@ DESCRIPTION:Duration: 1h 05m (65 mins)\nScreen One\n\nhttps://www.pictureh
  ouses.com/movie-details/018/HO00015487/iron-ladies-yorkshire-short-our-nei
  ghbours-ass/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
  ts.aspx?cinemacode=018&txtSessionId=20975&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blitz
-DTSTART;TZID=Europe/London:20241119T150000
-DTEND;TZID=Europe/London:20241119T173000
-DTSTAMP:20241119T150000Z
-UID:21334
-DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen One\n\nhttps://www.picture
- houses.com/movie-details/018/HO00015455/blitz/\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=2133
- 4&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -1842,36 +1734,6 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\nSt Saviourgate - YO1 8NQ\n\nreDisc
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Polar Express @ St Saviourgate
-DTSTART;TZID=Europe/London:20241217T160000
-DTEND;TZID=Europe/London:20241217T181000
-DTSTAMP:20241217T160000Z
-UID:20636
-DESCRIPTION:Duration: 1h 41m (101 mins)\nSt Saviourgate - YO1 8NQ\n\nreDis
- cover: Time to broaden your cinematic horizons: you'll find the best of wh
- at's next with Discover's under-the-radar releases\, and return to favouri
- tes of yesterday with our ReDiscover retrospectives.\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00015594/the-polar-express-st-saviourgate/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=018&txtSessionId=20636&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Polar Express @ St Saviourgate
-DTSTART;TZID=Europe/London:20241223T160000
-DTEND;TZID=Europe/London:20241223T181000
-DTSTAMP:20241223T160000Z
-UID:20648
-DESCRIPTION:Duration: 1h 41m (101 mins)\nSt Saviourgate - YO1 8NQ\n\nreDis
- cover: Time to broaden your cinematic horizons: you'll find the best of wh
- at's next with Discover's under-the-radar releases\, and return to favouri
- tes of yesterday with our ReDiscover retrospectives.\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00015594/the-polar-express-st-saviourgate/
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=018&txtSessionId=20648&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Harry Potter and the Philosopher's Stone @ St Saviourgate
 DTSTART;TZID=Europe/London:20241214T160000
 DTEND;TZID=Europe/London:20241214T185500
@@ -1899,6 +1761,36 @@ DESCRIPTION:Duration: 2h 26m (146 mins)\nSt Saviourgate - YO1 8NQ\n\nreDis
  ehouses.com/movie-details/018/HO00015574/harry-potter-and-the-philosopher-
  s-stone-st-saviourgate/\nhttps://ticketing.picturehouses.com/Ticketing/vis
  SelectTickets.aspx?cinemacode=018&txtSessionId=20639&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Polar Express @ St Saviourgate
+DTSTART;TZID=Europe/London:20241217T160000
+DTEND;TZID=Europe/London:20241217T181000
+DTSTAMP:20241217T160000Z
+UID:20636
+DESCRIPTION:Duration: 1h 41m (101 mins)\nSt Saviourgate - YO1 8NQ\n\nreDis
+ cover: Time to broaden your cinematic horizons: you'll find the best of wh
+ at's next with Discover's under-the-radar releases\, and return to favouri
+ tes of yesterday with our ReDiscover retrospectives.\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00015594/the-polar-express-st-saviourgate/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=018&txtSessionId=20636&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Polar Express @ St Saviourgate
+DTSTART;TZID=Europe/London:20241223T160000
+DTEND;TZID=Europe/London:20241223T181000
+DTSTAMP:20241223T160000Z
+UID:20648
+DESCRIPTION:Duration: 1h 41m (101 mins)\nSt Saviourgate - YO1 8NQ\n\nreDis
+ cover: Time to broaden your cinematic horizons: you'll find the best of wh
+ at's next with Discover's under-the-radar releases\, and return to favouri
+ tes of yesterday with our ReDiscover retrospectives.\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00015594/the-polar-express-st-saviourgate/
+ \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
+ macode=018&txtSessionId=20648&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2160,22 +2052,6 @@ DESCRIPTION:Duration: 1h 48m (108 mins)\nScreen Three\n\nDiscover: Discove
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20241119T174500
-DTEND;TZID=Europe/London:20241119T201000
-DTSTAMP:20241119T174500Z
-UID:20976
-DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen One\n\nDiscover: Discover 
- stunning cinema. Each week\, the Picturehouse film team champion one must-
- see film.\n\nPreview: A special preview screening of this film. See it bef
- ore anyone else on the big screen!\n\nFilm Club: Picturehouse Members get 
- to watch the hand-picked films in our Film Club for just £1 (Terms and Co
- nditions apply)\n\nhttps://www.picturehouses.com/movie-details/018/HO00015
- 475/film-club-conclave/\nhttps://ticketing.picturehouses.com/Ticketing/vis
- SelectTickets.aspx?cinemacode=018&txtSessionId=20976&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Grand Theft Hamlet + Q&A
 DTSTART;TZID=Europe/London:20241212T175000
 DTEND;TZID=Europe/London:20241212T195000
@@ -2187,6 +2063,30 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen Three\n\nAd and Trailer Fr
   by a Q&A.\n\nhttps://www.picturehouses.com/movie-details/018/HO00015661/g
  rand-theft-hamlet-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/visS
  electTickets.aspx?cinemacode=018&txtSessionId=21467&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
+DTSTART;TZID=Europe/London:20250318T180000
+DTEND;TZID=Europe/London:20250318T195500
+DTSTAMP:20250318T180000Z
+UID:20257
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen One\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00014995/exhibition-on-screen-dawn-of-impres
+ sionism-paris-1874/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=018&txtSessionId=20257&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
+DTSTART;TZID=Europe/London:20250325T120000
+DTEND;TZID=Europe/London:20250325T135500
+DTSTAMP:20250325T120000Z
+UID:20258
+DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen One\n\nhttps://www.pictureh
+ ouses.com/movie-details/018/HO00014995/exhibition-on-screen-dawn-of-impres
+ sionism-paris-1874/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=018&txtSessionId=20258&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2202,6 +2102,21 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen Three\n\nAd and Trailer Fr
  /movie-details/018/HO00014956/met-opera-live-tosca-2024/\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSess
  ionId=19790&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Met Opera Live: Le Nozze di Figaro (2025)
+DTSTART;TZID=Europe/London:20250426T180000
+DTEND;TZID=Europe/London:20250426T215500
+DTSTAMP:20250426T170000Z
+UID:19796
+DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nLive via Satellite: This screening w
+ ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
+ /movie-details/018/HO00014964/met-opera-live-le-nozze-di-figaro-2025/\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=018&txtSessionId=19796&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2244,21 +2159,6 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen One\n\nhttps://www.pictureh
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Met Opera Live: Le Nozze di Figaro (2025)
-DTSTART;TZID=Europe/London:20250426T180000
-DTEND;TZID=Europe/London:20250426T215500
-DTSTAMP:20250426T170000Z
-UID:19796
-DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nLive via Satellite: This screening w
- ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
- /movie-details/018/HO00014964/met-opera-live-le-nozze-di-figaro-2025/\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=018&txtSessionId=19796&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Met Opera Live: Il Barbiere di Siviglia (2025)
 DTSTART;TZID=Europe/London:20250531T180000
 DTEND;TZID=Europe/London:20250531T213500
@@ -2271,30 +2171,6 @@ DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen Three\n\nAd and Trailer Fr
  /movie-details/018/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/
  \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
  macode=018&txtSessionId=19800&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
-DTSTART;TZID=Europe/London:20250318T180000
-DTEND;TZID=Europe/London:20250318T195500
-DTSTAMP:20250318T180000Z
-UID:20257
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00014995/exhibition-on-screen-dawn-of-impres
- sionism-paris-1874/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=018&txtSessionId=20257&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
-DTSTART;TZID=Europe/London:20250325T120000
-DTEND;TZID=Europe/London:20250325T135500
-DTSTAMP:20250325T120000Z
-UID:20258
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen One\n\nhttps://www.pictureh
- ouses.com/movie-details/018/HO00014995/exhibition-on-screen-dawn-of-impres
- sionism-paris-1874/\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=018&txtSessionId=20258&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2364,15 +2240,33 @@ DESCRIPTION:Duration: 2h 30m (150 mins)\nScreen Two\n\nhttps://www.picture
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fist of Fury | City Screen York
-DTSTART;TZID=Europe/London:20241127T190000
-DTEND;TZID=Europe/London:20241127T211500
-DTSTAMP:20241127T190000Z
-UID:20496
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen Two\n\nhttps://www.picture
- houses.com/movie-details/018/HO00015195/fist-of-fury-city-screen-york/\nht
- tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=018&txtSessionId=20496&visLang=1
+SUMMARY:Die Hard @ St Saviourgate
+DTSTART;TZID=Europe/London:20241216T190000
+DTEND;TZID=Europe/London:20241216T214000
+DTSTAMP:20241216T190000Z
+UID:20635
+DESCRIPTION:Duration: 2h 12m (132 mins)\nSt Saviourgate - YO1 8NQ\n\nreDis
+ cover: Time to broaden your cinematic horizons: you'll find the best of wh
+ at's next with Discover's under-the-radar releases\, and return to favouri
+ tes of yesterday with our ReDiscover retrospectives.\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00015590/die-hard-st-saviourgate/\nhttps:/
+ /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
+ 8&txtSessionId=20635&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bridget Jones's Diary @ St Saviourgate
+DTSTART;TZID=Europe/London:20241212T190000
+DTEND;TZID=Europe/London:20241212T210500
+DTSTAMP:20241212T190000Z
+UID:21105
+DESCRIPTION:Duration: 1h 37m (97 mins)\nSt Saviourgate - YO1 8NQ\n\nreDisc
+ over: Time to broaden your cinematic horizons: you'll find the best of wha
+ t's next with Discover's under-the-radar releases\, and return to favourit
+ es of yesterday with our ReDiscover retrospectives.\n\nhttps://www.picture
+ houses.com/movie-details/018/HO00015619/bridget-jones-s-diary-st-saviourga
+ te/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=018&txtSessionId=21105&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2436,48 +2330,15 @@ DESCRIPTION:Duration: 1h 56m (116 mins)\nSt Saviourgate - YO1 8NQ\n\nhttps
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bridget Jones's Diary @ St Saviourgate
-DTSTART;TZID=Europe/London:20241212T190000
-DTEND;TZID=Europe/London:20241212T210500
-DTSTAMP:20241212T190000Z
-UID:21105
-DESCRIPTION:Duration: 1h 37m (97 mins)\nSt Saviourgate - YO1 8NQ\n\nreDisc
- over: Time to broaden your cinematic horizons: you'll find the best of wha
- t's next with Discover's under-the-radar releases\, and return to favourit
- es of yesterday with our ReDiscover retrospectives.\n\nhttps://www.picture
- houses.com/movie-details/018/HO00015619/bridget-jones-s-diary-st-saviourga
- te/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=018&txtSessionId=21105&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Love Actually @ St Saviourgate
-DTSTART;TZID=Europe/London:20241213T190000
-DTEND;TZID=Europe/London:20241213T214000
-DTSTAMP:20241213T190000Z
-UID:20629
-DESCRIPTION:Duration: 2h 15m (135 mins)\nSt Saviourgate - YO1 8NQ\n\nreDis
- cover: Time to broaden your cinematic horizons: you'll find the best of wh
- at's next with Discover's under-the-radar releases\, and return to favouri
- tes of yesterday with our ReDiscover retrospectives.\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00015573/love-actually-st-saviourgate/\nht
+SUMMARY:Fist of Fury | City Screen York
+DTSTART;TZID=Europe/London:20241127T190000
+DTEND;TZID=Europe/London:20241127T211500
+DTSTAMP:20241127T190000Z
+UID:20496
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen Two\n\nhttps://www.picture
+ houses.com/movie-details/018/HO00015195/fist-of-fury-city-screen-york/\nht
  tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
- de=018&txtSessionId=20629&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die Hard @ St Saviourgate
-DTSTART;TZID=Europe/London:20241216T190000
-DTEND;TZID=Europe/London:20241216T214000
-DTSTAMP:20241216T190000Z
-UID:20635
-DESCRIPTION:Duration: 2h 12m (132 mins)\nSt Saviourgate - YO1 8NQ\n\nreDis
- cover: Time to broaden your cinematic horizons: you'll find the best of wh
- at's next with Discover's under-the-radar releases\, and return to favouri
- tes of yesterday with our ReDiscover retrospectives.\n\nhttps://www.pictur
- ehouses.com/movie-details/018/HO00015590/die-hard-st-saviourgate/\nhttps:/
- /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
- 8&txtSessionId=20635&visLang=1
+ de=018&txtSessionId=20496&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2508,6 +2369,94 @@ DESCRIPTION:Duration: 2h 11m (131 mins)\nSt Saviourgate - YO1 8NQ\n\nreDis
  ehouses.com/movie-details/018/HO00015596/it-s-a-wonderful-life-st-saviourg
  ate/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
  cinemacode=018&txtSessionId=20649&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Love Actually @ St Saviourgate
+DTSTART;TZID=Europe/London:20241213T190000
+DTEND;TZID=Europe/London:20241213T214000
+DTSTAMP:20241213T190000Z
+UID:20629
+DESCRIPTION:Duration: 2h 15m (135 mins)\nSt Saviourgate - YO1 8NQ\n\nreDis
+ cover: Time to broaden your cinematic horizons: you'll find the best of wh
+ at's next with Discover's under-the-radar releases\, and return to favouri
+ tes of yesterday with our ReDiscover retrospectives.\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00015573/love-actually-st-saviourgate/\nht
+ tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
+ de=018&txtSessionId=20629&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Live: Cinderella (2024)
+DTSTART;TZID=Europe/London:20241210T191500
+DTEND;TZID=Europe/London:20241210T223000
+DTSTAMP:20241210T191500Z
+UID:18902
+DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nLive via Satellite: This screening w
+ ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
+ /movie-details/018/HO00014706/rbo-live-cinderella-2024/\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
+ onId=18902&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Live: Turandot (2025)
+DTSTART;TZID=Europe/London:20250401T191500
+DTEND;TZID=Europe/London:20250401T224000
+DTSTAMP:20250401T181500Z
+UID:18913
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nLive via Satellite: This screening w
+ ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
+ /movie-details/018/HO00014744/rbo-live-turandot-2025/\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
+ Id=18913&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Live: Ballet To Broadway: Wheeldon Works (2025)
+DTSTART;TZID=Europe/London:20250522T191500
+DTEND;TZID=Europe/London:20250522T221500
+DTSTAMP:20250522T181500Z
+UID:18918
+DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nLive via Satellite: This screening w
+ ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
+ /movie-details/018/HO00014747/rbo-live-ballet-to-broadway-wheeldon-works-2
+ 025/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=018&txtSessionId=18918&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO: Swan Lake (Captured Live 2024)
+DTSTART;TZID=Europe/London:20250227T191500
+DTEND;TZID=Europe/London:20250227T224500
+DTSTAMP:20250227T191500Z
+UID:18909
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
+ details/018/HO00014742/rbo-swan-lake-captured-live-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSess
+ ionId=18909&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO: Swan Lake (Captured Live 2024)
+DTSTART;TZID=Europe/London:20250304T120000
+DTEND;TZID=Europe/London:20250304T153000
+DTSTAMP:20250304T120000Z
+UID:18910
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen Three\n\nAd and Trailer Fr
+ ee: No advertisements or trailers will play ahead of this screening. You a
+ re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
+ details/018/HO00014742/rbo-swan-lake-captured-live-2024/\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSess
+ ionId=18910&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2559,79 +2508,6 @@ DESCRIPTION:Duration: 2h 45m (165 mins)\nScreen Three\n\nhttps://www.pictu
  rehouses.com/movie-details/018/HO00014740/rbo-the-nutcracker-captured-live
  -in-2023/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
  aspx?cinemacode=018&txtSessionId=18906&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO: Swan Lake (Captured Live 2024)
-DTSTART;TZID=Europe/London:20250227T191500
-DTEND;TZID=Europe/London:20250227T224500
-DTSTAMP:20250227T191500Z
-UID:18909
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014742/rbo-swan-lake-captured-live-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSess
- ionId=18909&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO: Swan Lake (Captured Live 2024)
-DTSTART;TZID=Europe/London:20250304T120000
-DTEND;TZID=Europe/London:20250304T153000
-DTSTAMP:20250304T120000Z
-UID:18910
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-
- details/018/HO00014742/rbo-swan-lake-captured-live-2024/\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSess
- ionId=18910&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Live: Ballet To Broadway: Wheeldon Works (2025)
-DTSTART;TZID=Europe/London:20250522T191500
-DTEND;TZID=Europe/London:20250522T221500
-DTSTAMP:20250522T181500Z
-UID:18918
-DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nLive via Satellite: This screening w
- ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
- /movie-details/018/HO00014747/rbo-live-ballet-to-broadway-wheeldon-works-2
- 025/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=018&txtSessionId=18918&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Live: Cinderella (2024)
-DTSTART;TZID=Europe/London:20241210T191500
-DTEND;TZID=Europe/London:20241210T223000
-DTSTAMP:20241210T191500Z
-UID:18902
-DESCRIPTION:Duration: 3h 15m (195 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nLive via Satellite: This screening w
- ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
- /movie-details/018/HO00014706/rbo-live-cinderella-2024/\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessi
- onId=18902&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Live: Turandot (2025)
-DTSTART;TZID=Europe/London:20250401T191500
-DTEND;TZID=Europe/London:20250401T224000
-DTSTAMP:20250401T181500Z
-UID:18913
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen Three\n\nAd and Trailer Fr
- ee: No advertisements or trailers will play ahead of this screening. You a
- re recommended to arrive promptly.\n\nLive via Satellite: This screening w
- ill be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com
- /movie-details/018/HO00014744/rbo-live-turandot-2025/\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSession
- Id=18913&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2788,19 +2664,6 @@ DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen Three\n\nreDiscover: Time
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Contestant + Recorded Q&A
-DTSTART;TZID=Europe/London:20241127T202000
-DTEND;TZID=Europe/London:20241127T223500
-DTSTAMP:20241127T202000Z
-UID:21301
-DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen Three\n\nPreview: A specia
- l preview screening of this film. See it before anyone else on the big scr
- een!\n\nhttps://www.picturehouses.com/movie-details/018/HO00015604/the-con
- testant-recorded-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/visSe
- lectTickets.aspx?cinemacode=018&txtSessionId=21301&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gremlins (40th Anniversary)
 DTSTART;TZID=Europe/London:20241221T202000
 DTEND;TZID=Europe/London:20241221T223500
@@ -2816,6 +2679,19 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen Two\n\nreDiscover: Time to
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Contestant + Recorded Q&A
+DTSTART;TZID=Europe/London:20241127T202000
+DTEND;TZID=Europe/London:20241127T223500
+DTSTAMP:20241127T202000Z
+UID:21301
+DESCRIPTION:Duration: 1h 50m (110 mins)\nScreen Three\n\nPreview: A specia
+ l preview screening of this film. See it before anyone else on the big scr
+ een!\n\nhttps://www.picturehouses.com/movie-details/018/HO00015604/the-con
+ testant-recorded-q-a/\nhttps://ticketing.picturehouses.com/Ticketing/visSe
+ lectTickets.aspx?cinemacode=018&txtSessionId=21301&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Nightmare Before Christmas @ St Saviourgate
 DTSTART;TZID=Europe/London:20241215T203000
 DTEND;TZID=Europe/London:20241215T222000
@@ -2828,42 +2704,6 @@ DESCRIPTION:Duration: 1h 21m (81 mins)\nSt Saviourgate - YO1 8NQ\n\nreDisc
  houses.com/movie-details/018/HO00015587/the-nightmare-before-christmas-st-
  saviourgate/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
  ts.aspx?cinemacode=018&txtSessionId=20633&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heretic
-DTSTART;TZID=Europe/London:20241119T203000
-DTEND;TZID=Europe/London:20241119T225000
-DTSTAMP:20241119T203000Z
-UID:21336
-DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen One\n\nhttps://www.picture
- houses.com/movie-details/018/HO00015405/heretic/\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=21
- 336&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heretic
-DTSTART;TZID=Europe/London:20241121T124500
-DTEND;TZID=Europe/London:20241121T150500
-DTSTAMP:20241121T124500Z
-UID:21348
-DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen Three\n\nhttps://www.pictu
- rehouses.com/movie-details/018/HO00015405/heretic/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=
- 21348&visLang=1
-LOCATION:Picture House York - City Screen
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heretic
-DTSTART;TZID=Europe/London:20241128T204500
-DTEND;TZID=Europe/London:20241128T230500
-DTSTAMP:20241128T204500Z
-UID:21464
-DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen Three\n\nhttps://www.pictu
- rehouses.com/movie-details/018/HO00015405/heretic/\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=018&txtSessionId=
- 21464&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 BEGIN:VEVENT
@@ -2903,6 +2743,18 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\nScreen Three\n\nhttps://www.pictur
  ehouses.com/movie-details/018/HO00015637/daft-punk-leiji-matsumoto-interst
  ella-5555/\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets
  .aspx?cinemacode=018&txtSessionId=21359&visLang=1
+LOCATION:Picture House York - City Screen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small Things Like These
+DTSTART;TZID=Europe/London:20241121T203000
+DTEND;TZID=Europe/London:20241121T223500
+DTSTAMP:20241121T203000Z
+UID:21350
+DESCRIPTION:Duration: 1h 39m (99 mins)\nScreen Three\n\nhttps://www.pictur
+ ehouses.com/movie-details/018/HO00015451/small-things-like-these/\nhttps:/
+ /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=01
+ 8&txtSessionId=21350&visLang=1
 LOCATION:Picture House York - City Screen
 END:VEVENT
 END:VCALENDAR
