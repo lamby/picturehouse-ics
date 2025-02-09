@@ -45,7 +45,7 @@ IGNORE_FILMS_WITH_ATTRIBUTES = {
 
 STRIP_PREFIXES = {
     "A24: ",
-    "EOS:" ,
+    "EOS:",
     "Met Opera Encore: ",
     "RoH Live: ",
     "FILM CLUB: ",
@@ -142,7 +142,7 @@ class PictureHouseICS:
                 summary = x["Title"]
                 for needle in STRIP_SUFFIXES:
                     if summary.endswith(needle):
-                        summary = summary[:-len(needle)]
+                        summary = summary[: -len(needle)]
 
                 for needle in STRIP_PREFIXES:
                     if summary.startswith(needle):
@@ -167,11 +167,15 @@ class PictureHouseICS:
                     # Some films don't have one yet, so assume 2 hours
                     x["RunTime"] = "120"
 
-                x["RunTime"] = str(sum(int(x) for x in re.findall(r"\d+", x["RunTime"])))
+                x["RunTime"] = str(
+                    sum(int(x) for x in re.findall(r"\d+", x["RunTime"]))
+                )
 
                 runtime = int(x["RunTime"])
+                estimated_start = start
                 if "Ad and Trailer Free" not in all_attributes:
                     runtime += self.padding
+                    estimated_start = start + datetime.timedelta(self.padding)
 
                 # Calculate end time
                 round_to_nearest = 5
@@ -203,7 +207,7 @@ class PictureHouseICS:
                         break
                     if attr in HIDE_ATTRIBUTES:
                         continue
-                    if z['description'] == "None":
+                    if z["description"] == "None":
                         continue
                     description.append("")
                     description.append(f"{attr}: {z['description']}")
@@ -218,7 +222,13 @@ class PictureHouseICS:
 
                 description.append("")
                 description.append(url)
+                description.append("")
                 description.append(booking_url)
+
+                description.append("")
+                description.append(
+                    f"Estimated start: {estimated_start.hour}:{estimated_start.minute:02d}"
+                )
 
                 event.add("description", "\n".join(description))
 
