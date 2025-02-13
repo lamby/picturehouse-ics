@@ -179,7 +179,7 @@ class PictureHouseICS:
                 estimated_start = start
                 if "Ad and Trailer Free" not in all_attributes:
                     runtime += self.padding
-                    estimated_start = start + datetime.timedelta(self.padding)
+                    estimated_start = start + datetime.timedelta(minutes=self.padding)
 
                 # Calculate end time
                 round_to_nearest = 5
