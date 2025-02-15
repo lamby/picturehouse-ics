@@ -1,24 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250214T073956Z
+LAST-MODIFIED:20250215T111048Z
 NAME:Picture House Edinburgh - Cameo
 X-WR-CALNAME:Picture House Edinburgh - Cameo
-BEGIN:VEVENT
-SUMMARY:Kiss Me Deadly
-DTSTART;TZID=Europe/London:20250216T110000
-DTEND;TZID=Europe/London:20250216T131000
-DTSTAMP:20250216T110000Z
-UID:44786
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015665/kiss-me-deadly/\n\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=44786&vi
- sLang=1\n\nEstimated start: 11:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Double Indemnity
 DTSTART;TZID=Europe/London:20250302T110000
@@ -35,6 +20,21 @@ DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kiss Me Deadly
+DTSTART;TZID=Europe/London:20250216T110000
+DTEND;TZID=Europe/London:20250216T131000
+DTSTAMP:20250216T110000Z
+UID:44786
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00015665/kiss-me-deadly/\n\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=44786&vi
+ sLang=1\n\nEstimated start: 11:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dog-Friendly Screening: A Complete Unknown
 DTSTART;TZID=Europe/London:20250215T111500
 DTEND;TZID=Europe/London:20250215T140500
@@ -44,21 +44,6 @@ DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 1\n\nhttps://www.pictureho
  uses.com/movie-details/005/HO00015751/dog-friendly-screening-a-complete-un
  known/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
  spx?cinemacode=005&txtSessionId=45682&visLang=1\n\nEstimated start: 11:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Away
-DTSTART;TZID=Europe/London:20250329T113000
-DTEND;TZID=Europe/London:20250329T131000
-DTSTAMP:20250329T113000Z
-UID:45777
-DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 3\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00010728/away/\n\nhttps://ticketing.picturehouses.com/Ticke
- ting/visSelectTickets.aspx?cinemacode=005&txtSessionId=45777&visLang=1\n\n
- Estimated start: 11:55
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -77,27 +62,179 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nreDiscover: Time to br
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Memoir of a Snail
-DTSTART;TZID=Europe/London:20250214T114500
-DTEND;TZID=Europe/London:20250214T134500
-DTSTAMP:20250214T114500Z
-UID:45890
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015759/memoir-of-a-snail/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
- sionId=45890&visLang=1\n\nEstimated start: 12:10
+SUMMARY:Away
+DTSTART;TZID=Europe/London:20250329T113000
+DTEND;TZID=Europe/London:20250329T131000
+DTSTAMP:20250329T113000Z
+UID:45777
+DESCRIPTION:Duration: 1h 15m (75 mins)\nScreen 3\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00010728/away/\n\nhttps://ticketing.picturehouses.com/Ticke
+ ting/visSelectTickets.aspx?cinemacode=005&txtSessionId=45777&visLang=1\n\n
+ Estimated start: 11:55
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Memoir of a Snail
-DTSTART;TZID=Europe/London:20250214T204500
-DTEND;TZID=Europe/London:20250214T224500
-DTSTAMP:20250214T204500Z
-UID:45837
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015759/memoir-of-a-snail/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
- sionId=45837&visLang=1\n\nEstimated start: 21:10
+SUMMARY:Billy Elliot the Musical Live (20th Anniversary)
+DTSTART;TZID=Europe/London:20250330T120000
+DTEND;TZID=Europe/London:20250330T151000
+DTSTAMP:20250330T110000Z
+UID:43052
+DESCRIPTION:Duration: 2h 43m (163 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00014993/billy-elliot-the-musical-live-20th-a
+ nniversary/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=005&txtSessionId=43052&visLang=1\n\nEstimated start: 1
+ 2:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Encore: Romeo & Juliet (2025)
+DTSTART;TZID=Europe/London:20250324T120000
+DTEND;TZID=Europe/London:20250324T153000
+DTSTAMP:20250324T120000Z
+UID:42438
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00014794/rbo-encore-romeo-juliet-2025/\n\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
+ 42438&visLang=1\n\nEstimated start: 12:00
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Night with Janis Joplin\, The Musical
+DTSTART;TZID=Europe/London:20250316T120000
+DTEND;TZID=Europe/London:20250316T144000
+DTSTAMP:20250316T120000Z
+UID:44783
+DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015653/a-night-with-janis-joplin-the-musica
+ l/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=005&txtSessionId=44783&visLang=1\n\nEstimated start: 12:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Encore: Ballet To Broadway: Wheeldon Works (2025)
+DTSTART;TZID=Europe/London:20250526T120000
+DTEND;TZID=Europe/London:20250526T150000
+DTSTAMP:20250526T110000Z
+UID:42444
+DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00014797/rbo-encore-ballet-to-broadway-wheeldon-works-2025/\n\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=005&txtSessionId=42444&visLang=1\n\nEstimated start: 12:00
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bonnie and Clyde: The Musical
+DTSTART;TZID=Europe/London:20250504T120000
+DTEND;TZID=Europe/London:20250504T145500
+DTSTAMP:20250504T110000Z
+UID:44784
+DESCRIPTION:Duration: 2h 30m (150 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015654/bonnie-and-clyde-the-musical/\n\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=005&txtSessionId=44784&visLang=1\n\nEstimated start: 12:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Encore: Die Walkure (2025)
+DTSTART;TZID=Europe/London:20250519T120000
+DTEND;TZID=Europe/London:20250519T180500
+DTSTAMP:20250519T110000Z
+UID:42442
+DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00014796/rbo-encore-die-walkure-2025/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 2442&visLang=1\n\nEstimated start: 12:00
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fidelio (2025)
+DTSTART;TZID=Europe/London:20250318T120000
+DTEND;TZID=Europe/London:20250318T154500
+DTSTAMP:20250318T120000Z
+UID:43977
+DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00014963/met-opera-encore-fidelio-2025/\n\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =43977&visLang=1\n\nEstimated start: 12:00
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Nozze di Figaro (2025)
+DTSTART;TZID=Europe/London:20250429T120000
+DTEND;TZID=Europe/London:20250429T155500
+DTSTAMP:20250429T110000Z
+UID:43978
+DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00014965/met-opera-encore-le-nozze-di-figaro-2025/\n\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&t
+ xtSessionId=43978&visLang=1\n\nEstimated start: 12:00
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salome (2025)
+DTSTART;TZID=Europe/London:20250520T120000
+DTEND;TZID=Europe/London:20250520T141500
+DTSTAMP:20250520T110000Z
+UID:42962
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00014967/met-opera-encore-salome-2025/\n\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
+ 42962&visLang=1\n\nEstimated start: 12:00
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jesus Christ Superstar Live
+DTSTART;TZID=Europe/London:20250302T120000
+DTEND;TZID=Europe/London:20250302T143000
+DTSTAMP:20250302T120000Z
+UID:43051
+DESCRIPTION:Duration: 2h 02m (122 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00014992/jesus-christ-superstar-live/\n\nhttp
+ s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
+ =005&txtSessionId=43051&visLang=1\n\nEstimated start: 12:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Encore: Turandot (2025)
+DTSTART;TZID=Europe/London:20250407T120000
+DTEND;TZID=Europe/London:20250407T152500
+DTSTAMP:20250407T110000Z
+UID:42440
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00014795/rbo-encore-turandot-2025/\n\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4244
+ 0&visLang=1\n\nEstimated start: 12:00
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Il Barbiere di Siviglia (2025)
+DTSTART;TZID=Europe/London:20250603T120000
+DTEND;TZID=Europe/London:20250603T153500
+DTSTAMP:20250603T110000Z
+UID:43979
+DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00014969/met-opera-encore-il-barbiere-di-siviglia-2025/\n\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 005&txtSessionId=43979&visLang=1\n\nEstimated start: 12:00
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -187,188 +324,525 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RBO Encore: Turandot (2025)
-DTSTART;TZID=Europe/London:20250407T120000
-DTEND;TZID=Europe/London:20250407T152500
-DTSTAMP:20250407T110000Z
-UID:42440
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00014795/rbo-encore-turandot-2025/\n\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4244
- 0&visLang=1\n\nEstimated start: 12:00
+SUMMARY:Bram Stoker's Dracula
+DTSTART;TZID=Europe/London:20250222T120000
+DTEND;TZID=Europe/London:20250222T143500
+DTSTAMP:20250222T120000Z
+UID:45302
+DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00005638/bram-stoker-s-dracula/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 5302&visLang=1\n\nEstimated start: 12:25
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jesus Christ Superstar Live
-DTSTART;TZID=Europe/London:20250302T120000
-DTEND;TZID=Europe/London:20250302T143000
-DTSTAMP:20250302T120000Z
-UID:43051
-DESCRIPTION:Duration: 2h 02m (122 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00014992/jesus-christ-superstar-live/\n\nhttp
- s://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode
- =005&txtSessionId=43051&visLang=1\n\nEstimated start: 12:25
+SUMMARY:Jeanne Dielman\, 23 Quai Du Commerce\, 1080 Bruxelles
+DTSTART;TZID=Europe/London:20250305T124500
+DTEND;TZID=Europe/London:20250305T163500
+DTSTAMP:20250305T124500Z
+UID:45739
+DESCRIPTION:Duration: 3h 22m (202 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00004061/jeanne-dielman-23-quai-du-commerce-1080-bruxelles
+ /\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=005&txtSessionId=45739&visLang=1\n\nEstimated start: 13:10
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RBO Encore: Ballet To Broadway: Wheeldon Works (2025)
-DTSTART;TZID=Europe/London:20250526T120000
-DTEND;TZID=Europe/London:20250526T150000
-DTSTAMP:20250526T110000Z
-UID:42444
-DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00014797/rbo-encore-ballet-to-broadway-wheeldon-works-2025/\n\nh
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=005&txtSessionId=42444&visLang=1\n\nEstimated start: 12:00
+SUMMARY:Jeanne Dielman\, 23 Quai Du Commerce\, 1080 Bruxelles
+DTSTART;TZID=Europe/London:20250306T184500
+DTEND;TZID=Europe/London:20250306T223500
+DTSTAMP:20250306T184500Z
+UID:45738
+DESCRIPTION:Duration: 3h 22m (202 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00004061/jeanne-dielman-23-quai-du-commerce-1080-bruxelles
+ /\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
+ inemacode=005&txtSessionId=45738&visLang=1\n\nEstimated start: 19:10
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Night with Janis Joplin\, The Musical
-DTSTART;TZID=Europe/London:20250316T120000
-DTEND;TZID=Europe/London:20250316T144000
-DTSTAMP:20250316T120000Z
-UID:44783
+SUMMARY:Harold and Maude
+DTSTART;TZID=Europe/London:20250216T134500
+DTEND;TZID=Europe/London:20250216T154500
+DTSTAMP:20250216T134500Z
+UID:45296
+DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00000304/harold-and-maude/\n\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45296&v
+ isLang=1\n\nEstimated start: 14:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=Europe/London:20250216T140000
+DTEND;TZID=Europe/London:20250216T171500
+DTSTAMP:20250216T140000Z
+UID:45612
+DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 005&txtSessionId=45612&visLang=1\n\nEstimated start: 14:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=Europe/London:20250217T133000
+DTEND;TZID=Europe/London:20250217T164500
+DTSTAMP:20250217T133000Z
+UID:45883
+DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 005&txtSessionId=45883&visLang=1\n\nEstimated start: 13:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=Europe/London:20250217T193000
+DTEND;TZID=Europe/London:20250217T224500
+DTSTAMP:20250217T193000Z
+UID:45853
+DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 005&txtSessionId=45853&visLang=1\n\nEstimated start: 19:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=Europe/London:20250218T113000
+DTEND;TZID=Europe/London:20250218T144500
+DTSTAMP:20250218T113000Z
+UID:45865
+DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 005&txtSessionId=45865&visLang=1\n\nEstimated start: 11:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=Europe/London:20250219T121500
+DTEND;TZID=Europe/London:20250219T153000
+DTSTAMP:20250219T121500Z
+UID:45871
+DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 005&txtSessionId=45871&visLang=1\n\nEstimated start: 12:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Seed of the Sacred Fig
+DTSTART;TZID=Europe/London:20250220T161500
+DTEND;TZID=Europe/London:20250220T193000
+DTSTAMP:20250220T161500Z
+UID:45872
+DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 005&txtSessionId=45872&visLang=1\n\nEstimated start: 16:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Five Easy Pieces
+DTSTART;TZID=Europe/London:20250420T140000
+DTEND;TZID=Europe/London:20250420T160500
+DTSTAMP:20250420T130000Z
+UID:45802
+DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00015870/five-easy-pieces/\n\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45802&v
+ isLang=1\n\nEstimated start: 14:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Five Easy Pieces
+DTSTART;TZID=Europe/London:20250421T180000
+DTEND;TZID=Europe/London:20250421T200500
+DTSTAMP:20250421T170000Z
+UID:45804
+DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00015870/five-easy-pieces/\n\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45804&v
+ isLang=1\n\nEstimated start: 18:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Men
+DTSTART;TZID=Europe/London:20250309T140000
+DTEND;TZID=Europe/London:20250309T160500
+DTSTAMP:20250309T140000Z
+UID:45742
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00013930/12-angry-men/\n\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45742&visLa
+ ng=1\n\nEstimated start: 14:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Men
+DTSTART;TZID=Europe/London:20250310T172000
+DTEND;TZID=Europe/London:20250310T192500
+DTSTAMP:20250310T172000Z
+UID:45749
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00013930/12-angry-men/\n\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45749&visLa
+ ng=1\n\nEstimated start: 17:45
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Men
+DTSTART;TZID=Europe/London:20250311T114500
+DTEND;TZID=Europe/London:20250311T135000
+DTSTAMP:20250311T114500Z
+UID:45750
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00013930/12-angry-men/\n\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45750&visLa
+ ng=1\n\nEstimated start: 12:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12 Angry Men
+DTSTART;TZID=Europe/London:20250312T143000
+DTEND;TZID=Europe/London:20250312T163500
+DTSTAMP:20250312T143000Z
+UID:45755
+DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00013930/12-angry-men/\n\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45755&visLa
+ ng=1\n\nEstimated start: 14:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Emilia Pérez
+DTSTART;TZID=Europe/London:20250215T141500
+DTEND;TZID=Europe/London:20250215T165500
+DTSTAMP:20250215T141500Z
+UID:45849
 DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015653/a-night-with-janis-joplin-the-musica
- l/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=005&txtSessionId=44783&visLang=1\n\nEstimated start: 12:25
+ uses.com/movie-details/005/HO00015359/emilia-perez/\n\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSession
+ Id=45849&visLang=1\n\nEstimated start: 14:40
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salome (2025)
-DTSTART;TZID=Europe/London:20250520T120000
-DTEND;TZID=Europe/London:20250520T141500
-DTSTAMP:20250520T110000Z
-UID:42962
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 1\n\nAd and Trailer Free: 
+SUMMARY:Your Name
+DTSTART;TZID=Europe/London:20250427T141500
+DTEND;TZID=Europe/London:20250427T163000
+DTSTAMP:20250427T131500Z
+UID:45810
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00004768/your-name/\n\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45810&visLang
+ =1\n\nEstimated start: 14:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIX The Musical Live!
+DTSTART;TZID=Europe/London:20250406T143000
+DTEND;TZID=Europe/London:20250406T163000
+DTSTAMP:20250406T133000Z
+UID:45841
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015881/six-the-musical-live/\n\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
+ SessionId=45841&visLang=1\n\nEstimated start: 14:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIX The Musical Live!
+DTSTART;TZID=Europe/London:20250406T170000
+DTEND;TZID=Europe/London:20250406T190000
+DTSTAMP:20250406T160000Z
+UID:45842
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015881/six-the-musical-live/\n\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
+ SessionId=45842&visLang=1\n\nEstimated start: 17:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIX The Musical Live!
+DTSTART;TZID=Europe/London:20250408T180000
+DTEND;TZID=Europe/London:20250408T200000
+DTSTAMP:20250408T170000Z
+UID:45843
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015881/six-the-musical-live/\n\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
+ SessionId=45843&visLang=1\n\nEstimated start: 18:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Human Surge 3 + Eduardo Williams Director Q&A
+DTSTART;TZID=Europe/London:20250215T143000
+DTEND;TZID=Europe/London:20250215T171000
+DTSTAMP:20250215T143000Z
+UID:45525
+DESCRIPTION:Duration: 2h 40m (160 mins)\nScreen 3\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00014967/met-opera-encore-salome-2025/\n\nhttps://ticketing.pict
+ ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
+ a Q&A.\n\nhttps://www.picturehouses.com/movie-details/005/HO00015778/the-h
+ uman-surge-3-eduardo-williams-director-q-a/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45525
+ &visLang=1\n\nEstimated start: 14:30
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Se7en (30th Anniversary)
+DTSTART;TZID=Europe/London:20250314T144500
+DTEND;TZID=Europe/London:20250314T172000
+DTSTAMP:20250314T144500Z
+UID:45760
+DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00011968/se7en-30th-anniversary/\n\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
- 42962&visLang=1\n\nEstimated start: 12:00
+ 45760&visLang=1\n\nEstimated start: 15:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Se7en (30th Anniversary)
+DTSTART;TZID=Europe/London:20250315T211500
+DTEND;TZID=Europe/London:20250315T235000
+DTSTAMP:20250315T211500Z
+UID:45762
+DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00011968/se7en-30th-anniversary/\n\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
+ 45762&visLang=1\n\nEstimated start: 21:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Se7en (30th Anniversary)
+DTSTART;TZID=Europe/London:20250316T140000
+DTEND;TZID=Europe/London:20250316T163500
+DTSTAMP:20250316T140000Z
+UID:45763
+DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00011968/se7en-30th-anniversary/\n\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
+ 45763&visLang=1\n\nEstimated start: 14:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parasite
+DTSTART;TZID=Europe/London:20250301T144500
+DTEND;TZID=Europe/London:20250301T172500
+DTSTAMP:20250301T144500Z
+UID:45672
+DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00015753/parasite/\n\nhttps://ticketing.picturehouses.com/
+ Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45672&visLang=
+ 1\n\nEstimated start: 15:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parasite
+DTSTART;TZID=Europe/London:20250302T133000
+DTEND;TZID=Europe/London:20250302T161000
+DTSTAMP:20250302T133000Z
+UID:45673
+DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00015753/parasite/\n\nhttps://ticketing.picturehouses.com/
+ Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45673&visLang=
+ 1\n\nEstimated start: 13:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Parasite
+DTSTART;TZID=Europe/London:20250303T201500
+DTEND;TZID=Europe/London:20250303T225500
+DTSTAMP:20250303T201500Z
+UID:45675
+DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00015753/parasite/\n\nhttps://ticketing.picturehouses.com/
+ Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45675&visLang=
+ 1\n\nEstimated start: 20:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brief Encounter 80th Anniversary
+DTSTART;TZID=Europe/London:20250215T144500
+DTEND;TZID=Europe/London:20250215T164000
+DTSTAMP:20250215T144500Z
+UID:45288
+DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00015740/brief-encounter-80th-anniversary/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtS
+ essionId=45288&visLang=1\n\nEstimated start: 15:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Some Like It Hot
+DTSTART;TZID=Europe/London:20250220T154500
+DTEND;TZID=Europe/London:20250220T181500
+DTSTAMP:20250220T154500Z
+UID:45300
+DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00008927/some-like-it-hot/\n\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45300&
+ visLang=1\n\nEstimated start: 16:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Some Like It Hot
+DTSTART;TZID=Europe/London:20250221T173000
+DTEND;TZID=Europe/London:20250221T200000
+DTSTAMP:20250221T173000Z
+UID:45301
+DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00008927/some-like-it-hot/\n\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45301&
+ visLang=1\n\nEstimated start: 17:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fellini's 8 1/2
+DTSTART;TZID=Europe/London:20250324T160000
+DTEND;TZID=Europe/London:20250324T184500
+DTSTAMP:20250324T160000Z
+UID:45772
+DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00000659/fellini-s-8-1-2/\n\nhttps://ticketing.picturehous
+ es.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45772&v
+ isLang=1\n\nEstimated start: 16:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casablanca
+DTSTART;TZID=Europe/London:20250216T160000
+DTEND;TZID=Europe/London:20250216T180500
+DTSTAMP:20250216T160000Z
+UID:45611
+DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00012475/casablanca/\n\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
+ 45611&visLang=1\n\nEstimated start: 16:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To Die For
+DTSTART;TZID=Europe/London:20250219T160000
+DTEND;TZID=Europe/London:20250219T181500
+DTSTAMP:20250219T160000Z
+UID:45299
+DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00015742/to-die-for/\n\nhttps://ticketing.picturehouses.co
+ m/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45299&visLan
+ g=1\n\nEstimated start: 16:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mulholland Drive
+DTSTART;TZID=Europe/London:20250313T161500
+DTEND;TZID=Europe/London:20250313T191000
+DTSTAMP:20250313T161500Z
+UID:45759
+DESCRIPTION:Duration: 2h 27m (147 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00002248/mulholland-drive/\n\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45759&
+ visLang=1\n\nEstimated start: 16:40
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fidelio (2025)
-DTSTART;TZID=Europe/London:20250318T120000
-DTEND;TZID=Europe/London:20250318T154500
-DTSTAMP:20250318T120000Z
-UID:43977
+DTSTART;TZID=Europe/London:20250315T170000
+DTEND;TZID=Europe/London:20250315T204500
+DTSTAMP:20250315T170000Z
+UID:42957
 DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 1\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00014963/met-opera-encore-fidelio-2025/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =43977&visLang=1\n\nEstimated start: 12:00
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/005/HO00014962/met-opera-live-fidelio-2025/\n\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSess
+ ionId=42957&visLang=1\n\nEstimated start: 17:00
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RBO Encore: Die Walkure (2025)
-DTSTART;TZID=Europe/London:20250519T120000
-DTEND;TZID=Europe/London:20250519T180500
-DTSTAMP:20250519T110000Z
-UID:42442
+SUMMARY:RBO Live: Die Walkure (2025)
+DTSTART;TZID=Europe/London:20250514T170000
+DTEND;TZID=Europe/London:20250514T230500
+DTSTAMP:20250514T160000Z
+UID:42441
 DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 1\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00014796/rbo-encore-die-walkure-2025/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 2442&visLang=1\n\nEstimated start: 12:00
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Encore: Romeo & Juliet (2025)
-DTSTART;TZID=Europe/London:20250324T120000
-DTEND;TZID=Europe/London:20250324T153000
-DTSTAMP:20250324T120000Z
-UID:42438
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00014794/rbo-encore-romeo-juliet-2025/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
- 42438&visLang=1\n\nEstimated start: 12:00
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bonnie and Clyde: The Musical
-DTSTART;TZID=Europe/London:20250504T120000
-DTEND;TZID=Europe/London:20250504T145500
-DTSTAMP:20250504T110000Z
-UID:44784
-DESCRIPTION:Duration: 2h 30m (150 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015654/bonnie-and-clyde-the-musical/\n\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=005&txtSessionId=44784&visLang=1\n\nEstimated start: 12:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Nozze di Figaro (2025)
-DTSTART;TZID=Europe/London:20250429T120000
-DTEND;TZID=Europe/London:20250429T155500
-DTSTAMP:20250429T110000Z
-UID:43978
-DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00014965/met-opera-encore-le-nozze-di-figaro-2025/\n\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&t
- xtSessionId=43978&visLang=1\n\nEstimated start: 12:00
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Elliot the Musical Live (20th Anniversary)
-DTSTART;TZID=Europe/London:20250330T120000
-DTEND;TZID=Europe/London:20250330T151000
-DTSTAMP:20250330T110000Z
-UID:43052
-DESCRIPTION:Duration: 2h 43m (163 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00014993/billy-elliot-the-musical-live-20th-a
- nniversary/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=005&txtSessionId=43052&visLang=1\n\nEstimated start: 1
- 2:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Il Barbiere di Siviglia (2025)
-DTSTART;TZID=Europe/London:20250603T120000
-DTEND;TZID=Europe/London:20250603T153500
-DTSTAMP:20250603T110000Z
-UID:43979
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00014969/met-opera-encore-il-barbiere-di-siviglia-2025/\n\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 005&txtSessionId=43979&visLang=1\n\nEstimated start: 12:00
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=Europe/London:20250214T120000
-DTEND;TZID=Europe/London:20250214T160000
-DTSTAMP:20250214T120000Z
-UID:45831
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015725/the-brutalist/\n\nhttps://ticketing.
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/005/HO00014746/rbo-live-die-walkure-2025/\n\nhttps://ticketing.
  picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
- nId=45831&visLang=1\n\nEstimated start: 12:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=Europe/London:20250214T161500
-DTEND;TZID=Europe/London:20250214T201500
-DTSTAMP:20250214T161500Z
-UID:45848
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015725/the-brutalist/\n\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
- nId=45848&visLang=1\n\nEstimated start: 16:40
+ nId=42441&visLang=1\n\nEstimated start: 17:00
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -493,603 +967,6 @@ DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bram Stoker's Dracula
-DTSTART;TZID=Europe/London:20250222T120000
-DTEND;TZID=Europe/London:20250222T143500
-DTSTAMP:20250222T120000Z
-UID:45302
-DESCRIPTION:Duration: 2h 08m (128 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00005638/bram-stoker-s-dracula/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 5302&visLang=1\n\nEstimated start: 12:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250214T123000
-DTEND;TZID=Europe/London:20250214T143500
-DTSTAMP:20250214T123000Z
-UID:45856
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =45856&visLang=1\n\nEstimated start: 12:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250216T194500
-DTEND;TZID=Europe/London:20250216T215000
-DTSTAMP:20250216T194500Z
-UID:45863
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =45863&visLang=1\n\nEstimated start: 20:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250217T123000
-DTEND;TZID=Europe/London:20250217T143500
-DTSTAMP:20250217T123000Z
-UID:45882
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =45882&visLang=1\n\nEstimated start: 12:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250217T173000
-DTEND;TZID=Europe/London:20250217T193500
-DTSTAMP:20250217T173000Z
-UID:45854
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =45854&visLang=1\n\nEstimated start: 17:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250218T145500
-DTEND;TZID=Europe/London:20250218T170000
-DTSTAMP:20250218T145500Z
-UID:45684
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =45684&visLang=1\n\nEstimated start: 15:20
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250219T203000
-DTEND;TZID=Europe/London:20250219T223500
-DTSTAMP:20250219T203000Z
-UID:45874
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =45874&visLang=1\n\nEstimated start: 20:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250220T133000
-DTEND;TZID=Europe/London:20250220T153500
-DTSTAMP:20250220T133000Z
-UID:45887
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =45887&visLang=1\n\nEstimated start: 13:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jeanne Dielman\, 23 Quai Du Commerce\, 1080 Bruxelles
-DTSTART;TZID=Europe/London:20250305T124500
-DTEND;TZID=Europe/London:20250305T163500
-DTSTAMP:20250305T124500Z
-UID:45739
-DESCRIPTION:Duration: 3h 22m (202 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00004061/jeanne-dielman-23-quai-du-commerce-1080-bruxelles
- /\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=005&txtSessionId=45739&visLang=1\n\nEstimated start: 13:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jeanne Dielman\, 23 Quai Du Commerce\, 1080 Bruxelles
-DTSTART;TZID=Europe/London:20250306T184500
-DTEND;TZID=Europe/London:20250306T223500
-DTSTAMP:20250306T184500Z
-UID:45738
-DESCRIPTION:Duration: 3h 22m (202 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00004061/jeanne-dielman-23-quai-du-commerce-1080-bruxelles
- /\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?c
- inemacode=005&txtSessionId=45738&visLang=1\n\nEstimated start: 19:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harold and Maude
-DTSTART;TZID=Europe/London:20250216T134500
-DTEND;TZID=Europe/London:20250216T154500
-DTSTAMP:20250216T134500Z
-UID:45296
-DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00000304/harold-and-maude/\n\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45296&v
- isLang=1\n\nEstimated start: 14:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12 Angry Men
-DTSTART;TZID=Europe/London:20250309T140000
-DTEND;TZID=Europe/London:20250309T160500
-DTSTAMP:20250309T140000Z
-UID:45742
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00013930/12-angry-men/\n\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45742&visLa
- ng=1\n\nEstimated start: 14:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12 Angry Men
-DTSTART;TZID=Europe/London:20250310T172000
-DTEND;TZID=Europe/London:20250310T192500
-DTSTAMP:20250310T172000Z
-UID:45749
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00013930/12-angry-men/\n\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45749&visLa
- ng=1\n\nEstimated start: 17:45
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12 Angry Men
-DTSTART;TZID=Europe/London:20250311T114500
-DTEND;TZID=Europe/London:20250311T135000
-DTSTAMP:20250311T114500Z
-UID:45750
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00013930/12-angry-men/\n\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45750&visLa
- ng=1\n\nEstimated start: 12:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12 Angry Men
-DTSTART;TZID=Europe/London:20250312T143000
-DTEND;TZID=Europe/London:20250312T163500
-DTSTAMP:20250312T143000Z
-UID:45755
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00013930/12-angry-men/\n\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45755&visLa
- ng=1\n\nEstimated start: 14:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Five Easy Pieces
-DTSTART;TZID=Europe/London:20250420T140000
-DTEND;TZID=Europe/London:20250420T160500
-DTSTAMP:20250420T130000Z
-UID:45802
-DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00015870/five-easy-pieces/\n\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45802&v
- isLang=1\n\nEstimated start: 14:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Five Easy Pieces
-DTSTART;TZID=Europe/London:20250421T180000
-DTEND;TZID=Europe/London:20250421T200500
-DTSTAMP:20250421T170000Z
-UID:45804
-DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00015870/five-easy-pieces/\n\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45804&v
- isLang=1\n\nEstimated start: 18:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To a Land Unknown
-DTSTART;TZID=Europe/London:20250214T141500
-DTEND;TZID=Europe/London:20250214T163000
-DTSTAMP:20250214T141500Z
-UID:45835
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
- ssionId=45835&visLang=1\n\nEstimated start: 14:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To a Land Unknown
-DTSTART;TZID=Europe/London:20250215T210000
-DTEND;TZID=Europe/London:20250215T231500
-DTSTAMP:20250215T210000Z
-UID:45562
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
- ssionId=45562&visLang=1\n\nEstimated start: 21:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To a Land Unknown
-DTSTART;TZID=Europe/London:20250216T200000
-DTEND;TZID=Europe/London:20250216T221500
-DTSTAMP:20250216T200000Z
-UID:45839
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
- ssionId=45839&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To a Land Unknown
-DTSTART;TZID=Europe/London:20250217T170000
-DTEND;TZID=Europe/London:20250217T191500
-DTSTAMP:20250217T170000Z
-UID:45855
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
- ssionId=45855&visLang=1\n\nEstimated start: 17:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To a Land Unknown
-DTSTART;TZID=Europe/London:20250218T160000
-DTEND;TZID=Europe/London:20250218T181500
-DTSTAMP:20250218T160000Z
-UID:45869
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
- ssionId=45869&visLang=1\n\nEstimated start: 16:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To a Land Unknown
-DTSTART;TZID=Europe/London:20250219T180000
-DTEND;TZID=Europe/London:20250219T201500
-DTSTAMP:20250219T180000Z
-UID:45870
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
- ssionId=45870&visLang=1\n\nEstimated start: 18:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To a Land Unknown
-DTSTART;TZID=Europe/London:20250220T154500
-DTEND;TZID=Europe/London:20250220T180000
-DTSTAMP:20250220T154500Z
-UID:45885
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
- ssionId=45885&visLang=1\n\nEstimated start: 16:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Name
-DTSTART;TZID=Europe/London:20250427T141500
-DTEND;TZID=Europe/London:20250427T163000
-DTSTAMP:20250427T131500Z
-UID:45810
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00004768/your-name/\n\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45810&visLang
- =1\n\nEstimated start: 14:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Emilia Pérez
-DTSTART;TZID=Europe/London:20250215T141500
-DTEND;TZID=Europe/London:20250215T165500
-DTSTAMP:20250215T141500Z
-UID:45849
-DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015359/emilia-perez/\n\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSession
- Id=45849&visLang=1\n\nEstimated start: 14:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Human Surge 3 + Eduardo Williams Director Q&A
-DTSTART;TZID=Europe/London:20250215T143000
-DTEND;TZID=Europe/London:20250215T171000
-DTSTAMP:20250215T143000Z
-UID:45525
-DESCRIPTION:Duration: 2h 40m (160 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/005/HO00015778/the-h
- uman-surge-3-eduardo-williams-director-q-a/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45525
- &visLang=1\n\nEstimated start: 14:30
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIX The Musical Live!
-DTSTART;TZID=Europe/London:20250406T143000
-DTEND;TZID=Europe/London:20250406T163000
-DTSTAMP:20250406T133000Z
-UID:45841
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015881/six-the-musical-live/\n\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
- SessionId=45841&visLang=1\n\nEstimated start: 14:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIX The Musical Live!
-DTSTART;TZID=Europe/London:20250406T170000
-DTEND;TZID=Europe/London:20250406T190000
-DTSTAMP:20250406T160000Z
-UID:45842
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015881/six-the-musical-live/\n\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
- SessionId=45842&visLang=1\n\nEstimated start: 17:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIX The Musical Live!
-DTSTART;TZID=Europe/London:20250408T180000
-DTEND;TZID=Europe/London:20250408T200000
-DTSTAMP:20250408T170000Z
-UID:45843
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015881/six-the-musical-live/\n\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
- SessionId=45843&visLang=1\n\nEstimated start: 18:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Se7en (30th Anniversary)
-DTSTART;TZID=Europe/London:20250314T144500
-DTEND;TZID=Europe/London:20250314T172000
-DTSTAMP:20250314T144500Z
-UID:45760
-DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00011968/se7en-30th-anniversary/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
- 45760&visLang=1\n\nEstimated start: 15:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Se7en (30th Anniversary)
-DTSTART;TZID=Europe/London:20250315T211500
-DTEND;TZID=Europe/London:20250315T235000
-DTSTAMP:20250315T211500Z
-UID:45762
-DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00011968/se7en-30th-anniversary/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
- 45762&visLang=1\n\nEstimated start: 21:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Se7en (30th Anniversary)
-DTSTART;TZID=Europe/London:20250316T140000
-DTEND;TZID=Europe/London:20250316T163500
-DTSTAMP:20250316T140000Z
-UID:45763
-DESCRIPTION:Duration: 2h 07m (127 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00011968/se7en-30th-anniversary/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
- 45763&visLang=1\n\nEstimated start: 14:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parasite
-DTSTART;TZID=Europe/London:20250301T144500
-DTEND;TZID=Europe/London:20250301T172500
-DTSTAMP:20250301T144500Z
-UID:45672
-DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015753/parasite/\n\nhttps://ticketing.picturehouses.com/
- Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45672&visLang=
- 1\n\nEstimated start: 15:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parasite
-DTSTART;TZID=Europe/London:20250302T133000
-DTEND;TZID=Europe/London:20250302T161000
-DTSTAMP:20250302T133000Z
-UID:45673
-DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015753/parasite/\n\nhttps://ticketing.picturehouses.com/
- Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45673&visLang=
- 1\n\nEstimated start: 13:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parasite
-DTSTART;TZID=Europe/London:20250303T201500
-DTEND;TZID=Europe/London:20250303T225500
-DTSTAMP:20250303T201500Z
-UID:45675
-DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015753/parasite/\n\nhttps://ticketing.picturehouses.com/
- Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45675&visLang=
- 1\n\nEstimated start: 20:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MACBETH: David Tennant & Cush Jumbo
-DTSTART;TZID=Europe/London:20250214T150000
-DTEND;TZID=Europe/London:20250214T172000
-DTSTAMP:20250214T150000Z
-UID:45891
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=005&txtSessionId=45891&visLang=1\n\nEstimated start: 15:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MACBETH: David Tennant & Cush Jumbo
-DTSTART;TZID=Europe/London:20250215T181500
-DTEND;TZID=Europe/London:20250215T203500
-DTSTAMP:20250215T181500Z
-UID:45892
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=005&txtSessionId=45892&visLang=1\n\nEstimated start: 18:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Some Like It Hot
-DTSTART;TZID=Europe/London:20250220T154500
-DTEND;TZID=Europe/London:20250220T181500
-DTSTAMP:20250220T154500Z
-UID:45300
-DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00008927/some-like-it-hot/\n\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45300&
- visLang=1\n\nEstimated start: 16:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Some Like It Hot
-DTSTART;TZID=Europe/London:20250221T173000
-DTEND;TZID=Europe/London:20250221T200000
-DTSTAMP:20250221T173000Z
-UID:45301
-DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00008927/some-like-it-hot/\n\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45301&
- visLang=1\n\nEstimated start: 17:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Die For
-DTSTART;TZID=Europe/London:20250219T160000
-DTEND;TZID=Europe/London:20250219T181500
-DTSTAMP:20250219T160000Z
-UID:45299
-DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015742/to-die-for/\n\nhttps://ticketing.picturehouses.co
- m/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45299&visLan
- g=1\n\nEstimated start: 16:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fellini's 8 1/2
-DTSTART;TZID=Europe/London:20250324T160000
-DTEND;TZID=Europe/London:20250324T184500
-DTSTAMP:20250324T160000Z
-UID:45772
-DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00000659/fellini-s-8-1-2/\n\nhttps://ticketing.picturehous
- es.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45772&v
- isLang=1\n\nEstimated start: 16:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Casablanca
-DTSTART;TZID=Europe/London:20250216T160000
-DTEND;TZID=Europe/London:20250216T180500
-DTSTAMP:20250216T160000Z
-UID:45611
-DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00012475/casablanca/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
- 45611&visLang=1\n\nEstimated start: 16:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mulholland Drive
-DTSTART;TZID=Europe/London:20250313T161500
-DTEND;TZID=Europe/London:20250313T191000
-DTSTAMP:20250313T161500Z
-UID:45759
-DESCRIPTION:Duration: 2h 27m (147 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00002248/mulholland-drive/\n\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45759&
- visLang=1\n\nEstimated start: 16:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Soy Cuba (I Am Cuba)
 DTSTART;TZID=Europe/London:20250328T170000
 DTEND;TZID=Europe/London:20250328T195000
@@ -1102,36 +979,6 @@ DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 1\n\nreDiscover: Time to b
  e-details/005/HO00004421/soy-cuba-i-am-cuba/\n\nhttps://ticketing.pictureh
  ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4577
  6&visLang=1\n\nEstimated start: 17:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fidelio (2025)
-DTSTART;TZID=Europe/London:20250315T170000
-DTEND;TZID=Europe/London:20250315T204500
-DTSTAMP:20250315T170000Z
-UID:42957
-DESCRIPTION:Duration: 3h 45m (225 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/005/HO00014962/met-opera-live-fidelio-2025/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSess
- ionId=42957&visLang=1\n\nEstimated start: 17:00
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Live: Die Walkure (2025)
-DTSTART;TZID=Europe/London:20250514T170000
-DTEND;TZID=Europe/London:20250514T230500
-DTSTAMP:20250514T160000Z
-UID:42441
-DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/005/HO00014746/rbo-live-die-walkure-2025/\n\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
- nId=42441&visLang=1\n\nEstimated start: 17:00
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1165,105 +1012,6 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Seed of the Sacred Fig
-DTSTART;TZID=Europe/London:20250214T170000
-DTEND;TZID=Europe/London:20250214T201500
-DTSTAMP:20250214T170000Z
-UID:45836
-DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 005&txtSessionId=45836&visLang=1\n\nEstimated start: 17:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seed of the Sacred Fig
-DTSTART;TZID=Europe/London:20250216T140000
-DTEND;TZID=Europe/London:20250216T171500
-DTSTAMP:20250216T140000Z
-UID:45612
-DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 005&txtSessionId=45612&visLang=1\n\nEstimated start: 14:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seed of the Sacred Fig
-DTSTART;TZID=Europe/London:20250217T133000
-DTEND;TZID=Europe/London:20250217T164500
-DTSTAMP:20250217T133000Z
-UID:45883
-DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 005&txtSessionId=45883&visLang=1\n\nEstimated start: 13:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seed of the Sacred Fig
-DTSTART;TZID=Europe/London:20250217T193000
-DTEND;TZID=Europe/London:20250217T224500
-DTSTAMP:20250217T193000Z
-UID:45853
-DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 005&txtSessionId=45853&visLang=1\n\nEstimated start: 19:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seed of the Sacred Fig
-DTSTART;TZID=Europe/London:20250218T113000
-DTEND;TZID=Europe/London:20250218T144500
-DTSTAMP:20250218T113000Z
-UID:45865
-DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 005&txtSessionId=45865&visLang=1\n\nEstimated start: 11:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seed of the Sacred Fig
-DTSTART;TZID=Europe/London:20250219T121500
-DTEND;TZID=Europe/London:20250219T153000
-DTSTAMP:20250219T121500Z
-UID:45871
-DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 005&txtSessionId=45871&visLang=1\n\nEstimated start: 12:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Seed of the Sacred Fig
-DTSTART;TZID=Europe/London:20250220T161500
-DTEND;TZID=Europe/London:20250220T193000
-DTSTAMP:20250220T161500Z
-UID:45872
-DESCRIPTION:Duration: 2h 48m (168 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015811/the-seed-of-the-sacred-fig/\n\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 005&txtSessionId=45872&visLang=1\n\nEstimated start: 16:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Buck and the Preacher
-DTSTART;TZID=Europe/London:20250330T171500
-DTEND;TZID=Europe/London:20250330T192500
-DTSTAMP:20250330T161500Z
-UID:45778
-DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00012624/buck-and-the-preacher/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
- 5778&visLang=1\n\nEstimated start: 17:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Motorcycle Diaries
 DTSTART;TZID=Europe/London:20250228T171500
 DTEND;TZID=Europe/London:20250228T195000
@@ -1276,6 +1024,21 @@ DESCRIPTION:Duration: 2h 06m (126 mins)\nScreen 1\n\nreDiscover: Time to b
  e-details/005/HO00015745/the-motorcycle-diaries/\n\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
  45308&visLang=1\n\nEstimated start: 17:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Pianist
+DTSTART;TZID=Europe/London:20250304T171500
+DTEND;TZID=Europe/London:20250304T201000
+DTSTAMP:20250304T171500Z
+UID:45679
+DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00015754/the-pianist/\n\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45679&visLa
+ ng=1\n\nEstimated start: 17:40
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1309,18 +1072,18 @@ DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Pianist
-DTSTART;TZID=Europe/London:20250304T171500
-DTEND;TZID=Europe/London:20250304T201000
-DTSTAMP:20250304T171500Z
-UID:45679
-DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 1\n\nreDiscover: Time to b
+SUMMARY:Buck and the Preacher
+DTSTART;TZID=Europe/London:20250330T171500
+DTEND;TZID=Europe/London:20250330T192500
+DTSTAMP:20250330T161500Z
+UID:45778
+DESCRIPTION:Duration: 1h 43m (103 mins)\nScreen 1\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
  iscover's under-the-radar releases\, and return to favourites of yesterday
   with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015754/the-pianist/\n\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45679&visLa
- ng=1\n\nEstimated start: 17:40
+ e-details/005/HO00012624/buck-and-the-preacher/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4
+ 5778&visLang=1\n\nEstimated start: 17:40
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1363,18 +1126,6 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Glasgow Film Festival: On Falling
-DTSTART;TZID=Europe/London:20250304T174500
-DTEND;TZID=Europe/London:20250304T195500
-DTSTAMP:20250304T174500Z
-UID:45680
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015840/glasgow-film-festival-on-falling/\n\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=005&txtSessionId=45680&visLang=1\n\nEstimated start: 18:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Last Showgirl
 DTSTART;TZID=Europe/London:20250301T174500
 DTEND;TZID=Europe/London:20250301T194000
@@ -1384,6 +1135,18 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/005/HO00015542/the-last-showgirl/\n\nhttps://ticketi
  ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
  sionId=45674&visLang=1\n\nEstimated start: 18:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=Europe/London:20250225T174500
+DTEND;TZID=Europe/London:20250225T194500
+DTSTAMP:20250225T174500Z
+UID:45685
+DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015618/no-other-land/\n\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSession
+ Id=45685&visLang=1\n\nEstimated start: 18:10
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1400,45 +1163,15 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No Other Land
-DTSTART;TZID=Europe/London:20250225T174500
-DTEND;TZID=Europe/London:20250225T194500
-DTSTAMP:20250225T174500Z
-UID:45685
-DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015618/no-other-land/\n\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSession
- Id=45685&visLang=1\n\nEstimated start: 18:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Il Barbiere di Siviglia (2025)
-DTSTART;TZID=Europe/London:20250531T180000
-DTEND;TZID=Europe/London:20250531T213500
-DTSTAMP:20250531T170000Z
-UID:42963
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/005/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=005&txtSessionId=42963&visLang=1\n\nEstimated start: 18:00
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Summer With Carmen + Zacharias Mavroei Dir Q&A
-DTSTART;TZID=Europe/London:20250303T180000
-DTEND;TZID=Europe/London:20250303T202000
-DTSTAMP:20250303T180000Z
-UID:45959
-DESCRIPTION:Duration: 2h 16m (136 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/005/HO00015899/the-s
- ummer-with-carmen-zacharias-mavroei-dir-q-a/\n\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4595
- 9&visLang=1\n\nEstimated start: 18:00
+SUMMARY:Glasgow Film Festival: On Falling
+DTSTART;TZID=Europe/London:20250304T174500
+DTEND;TZID=Europe/London:20250304T195500
+DTSTAMP:20250304T174500Z
+UID:45680
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015840/glasgow-film-festival-on-falling/\n\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=005&txtSessionId=45680&visLang=1\n\nEstimated start: 18:10
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1457,33 +1190,18 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brief Encounter 80th Anniversary
-DTSTART;TZID=Europe/London:20250214T180000
-DTEND;TZID=Europe/London:20250214T195500
-DTSTAMP:20250214T180000Z
-UID:45286
-DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00015740/brief-encounter-80th-anniversary/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtS
- essionId=45286&visLang=1\n\nEstimated start: 18:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brief Encounter 80th Anniversary
-DTSTART;TZID=Europe/London:20250215T144500
-DTEND;TZID=Europe/London:20250215T164000
-DTSTAMP:20250215T144500Z
-UID:45288
-DESCRIPTION:Duration: 1h 26m (86 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00015740/brief-encounter-80th-anniversary/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtS
- essionId=45288&visLang=1\n\nEstimated start: 15:10
+SUMMARY:Salome (2025)
+DTSTART;TZID=Europe/London:20250517T180000
+DTEND;TZID=Europe/London:20250517T201500
+DTSTAMP:20250517T170000Z
+UID:42961
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/005/HO00014966/met-opera-live-salome-2025/\n\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessi
+ onId=42961&visLang=1\n\nEstimated start: 18:00
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1532,43 +1250,18 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
-DTSTART;TZID=Europe/London:20250318T180000
-DTEND;TZID=Europe/London:20250318T195500
-DTSTAMP:20250318T180000Z
-UID:43591
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00014995/exhibition-on-screen-dawn-of-impressi
- onism-paris-1874/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=005&txtSessionId=43591&visLang=1\n\nEstimated st
- art: 18:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
-DTSTART;TZID=Europe/London:20250325T120000
-DTEND;TZID=Europe/London:20250325T135500
-DTSTAMP:20250325T120000Z
-UID:43592
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00014995/exhibition-on-screen-dawn-of-impressi
- onism-paris-1874/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=005&txtSessionId=43592&visLang=1\n\nEstimated st
- art: 12:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To Mom\, With Love - The Japan Foundation 2025
-DTSTART;TZID=Europe/London:20250331T180000
-DTEND;TZID=Europe/London:20250331T195000
-DTSTAMP:20250331T170000Z
-UID:45845
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nAd and Trailer Free: 
+SUMMARY:Il Barbiere di Siviglia (2025)
+DTSTART;TZID=Europe/London:20250531T180000
+DTEND;TZID=Europe/London:20250531T213500
+DTSTAMP:20250531T170000Z
+UID:42963
+DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 1\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00015792/to-mom-with-love-the-japan-foundation-2025/\n\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005
- &txtSessionId=45845&visLang=1\n\nEstimated start: 18:00
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/005/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/\n\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=005&txtSessionId=42963&visLang=1\n\nEstimated start: 18:00
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1595,6 +1288,53 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 3\n\nhttps://www.picturehou
  e-and-death-encore/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSe
  lectTickets.aspx?cinemacode=005&txtSessionId=43594&visLang=1\n\nEstimated 
  start: 12:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To Mom\, With Love - The Japan Foundation Touring Film Programme 2
+ 025
+DTSTART;TZID=Europe/London:20250331T180000
+DTEND;TZID=Europe/London:20250331T195000
+DTSTAMP:20250331T170000Z
+UID:45845
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00015792/to-mom-with-love-the-japan-foundation-touring-film-prog
+ ramme-2025/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=005&txtSessionId=45845&visLang=1\n\nEstimated start: 1
+ 8:00
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Make Antiques! - The Japan Foundation Touring Film Programme 20
+ 25
+DTSTART;TZID=Europe/London:20250306T180000
+DTEND;TZID=Europe/London:20250306T194500
+DTSTAMP:20250306T180000Z
+UID:45824
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00015787/we-make-antiques-the-japan-foundation-touring-film-prog
+ ramme-2025/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=005&txtSessionId=45824&visLang=1\n\nEstimated start: 1
+ 8:00
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Summer With Carmen + Zacharias Mavroei Dir Q&A
+DTSTART;TZID=Europe/London:20250303T180000
+DTEND;TZID=Europe/London:20250303T202000
+DTSTAMP:20250303T180000Z
+UID:45959
+DESCRIPTION:Duration: 2h 16m (136 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
+ a Q&A.\n\nhttps://www.picturehouses.com/movie-details/005/HO00015899/the-s
+ ummer-with-carmen-zacharias-mavroei-dir-q-a/\n\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4595
+ 9&visLang=1\n\nEstimated start: 18:00
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1628,32 +1368,41 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nreDiscover: Time to br
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salome (2025)
-DTSTART;TZID=Europe/London:20250517T180000
-DTEND;TZID=Europe/London:20250517T201500
-DTSTAMP:20250517T170000Z
-UID:42961
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/005/HO00014966/met-opera-live-salome-2025/\n\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessi
- onId=42961&visLang=1\n\nEstimated start: 18:00
+SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
+DTSTART;TZID=Europe/London:20250318T180000
+DTEND;TZID=Europe/London:20250318T200000
+DTSTAMP:20250318T180000Z
+UID:43591
+DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014995/exhibition-on-screen-dawn-of-impressi
+ onism-paris-1874/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=005&txtSessionId=43591&visLang=1\n\nEstimated st
+ art: 18:25
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:We Make Antiques! - Japan Foundation 2025
-DTSTART;TZID=Europe/London:20250306T180000
-DTEND;TZID=Europe/London:20250306T194500
-DTSTAMP:20250306T180000Z
-UID:45824
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00015787/we-make-antiques-japan-foundation-2025/\n\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
- SessionId=45824&visLang=1\n\nEstimated start: 18:00
+SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
+DTSTART;TZID=Europe/London:20250325T120000
+DTEND;TZID=Europe/London:20250325T140000
+DTSTAMP:20250325T120000Z
+UID:43592
+DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00014995/exhibition-on-screen-dawn-of-impressi
+ onism-paris-1874/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=005&txtSessionId=43592&visLang=1\n\nEstimated st
+ art: 12:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MACBETH: David Tennant & Cush Jumbo
+DTSTART;TZID=Europe/London:20250215T181500
+DTEND;TZID=Europe/London:20250215T203500
+DTSTAMP:20250215T181500Z
+UID:45892
+DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=005&txtSessionId=45892&visLang=1\n\nEstimated start: 18:40
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1755,6 +1504,21 @@ DESCRIPTION:Duration: 2h 38m (158 mins)\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RBO Live: Turandot (2025)
+DTSTART;TZID=Europe/London:20250401T191500
+DTEND;TZID=Europe/London:20250401T224000
+DTSTAMP:20250401T181500Z
+UID:42439
+DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/005/HO00014744/rbo-live-turandot-2025/\n\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =42439&visLang=1\n\nEstimated start: 19:15
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RBO: Swan Lake (Captured Live 2024)
 DTSTART;TZID=Europe/London:20250227T191500
 DTEND;TZID=Europe/London:20250227T224500
@@ -1780,21 +1544,6 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 1\n\nAd and Trailer Free:
  ils/005/HO00014742/rbo-swan-lake-captured-live-2024/\n\nhttps://ticketing.
  picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessio
  nId=42436&visLang=1\n\nEstimated start: 12:00
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Live: Turandot (2025)
-DTSTART;TZID=Europe/London:20250401T191500
-DTEND;TZID=Europe/London:20250401T224000
-DTSTAMP:20250401T181500Z
-UID:42439
-DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/005/HO00014744/rbo-live-turandot-2025/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
- =42439&visLang=1\n\nEstimated start: 19:15
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1828,38 +1577,6 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 1\n\nAd and Trailer Free:
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Good\, the Bad and the Ugly
-DTSTART;TZID=Europe/London:20250410T193000
-DTEND;TZID=Europe/London:20250410T224000
-DTSTAMP:20250410T183000Z
-UID:45791
-DESCRIPTION:Duration: 2h 41m (161 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00003867/the-good-the-bad-and-the-ugly/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
- sionId=45791&visLang=1\n\nEstimated start: 19:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cinetopia: DOC and Take One Action present AS THE TIDE COMES IN\, 
- by Juan Palacio + director Q&A
-DTSTART;TZID=Europe/London:20250226T193000
-DTEND;TZID=Europe/London:20250226T213500
-DTSTAMP:20250226T193000Z
-UID:45669
-DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/005/HO00015860/cinet
- opia-doc-and-take-one-action-present-as-the-tide-comes-in-by-juan-palacio-
- director-q-a/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTi
- ckets.aspx?cinemacode=005&txtSessionId=45669&visLang=1\n\nEstimated start:
-  19:30
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:When Fish Begin To Crawl + Q&A
 DTSTART;TZID=Europe/London:20250218T193000
 DTEND;TZID=Europe/London:20250218T210500
@@ -1872,21 +1589,6 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nAd and Trailer Free: N
  ish-begin-to-crawl-q-a/\n\nhttps://ticketing.picturehouses.com/Ticketing/v
  isSelectTickets.aspx?cinemacode=005&txtSessionId=45553&visLang=1\n\nEstima
  ted start: 19:30
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On Falling + Q&A
-DTSTART;TZID=Europe/London:20250313T193000
-DTEND;TZID=Europe/London:20250313T214500
-DTSTAMP:20250313T193000Z
-UID:45671
-DESCRIPTION:Duration: 2h 14m (134 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/005/HO00015841/on-fa
- lling-q-a/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=005&txtSessionId=45671&visLang=1\n\nEstimated start: 19
- :30
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -1938,6 +1640,53 @@ DESCRIPTION:Duration: 2h 30m (150 mins)\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cinetopia: DOC and Take One Action present AS THE TIDE COMES IN\, 
+ by Juan Palacio + director Q&A
+DTSTART;TZID=Europe/London:20250226T193000
+DTEND;TZID=Europe/London:20250226T213500
+DTSTAMP:20250226T193000Z
+UID:45669
+DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
+ a Q&A.\n\nhttps://www.picturehouses.com/movie-details/005/HO00015860/cinet
+ opia-doc-and-take-one-action-present-as-the-tide-comes-in-by-juan-palacio-
+ director-q-a/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=005&txtSessionId=45669&visLang=1\n\nEstimated start:
+  19:30
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Good\, the Bad and the Ugly
+DTSTART;TZID=Europe/London:20250410T193000
+DTEND;TZID=Europe/London:20250410T224000
+DTSTAMP:20250410T183000Z
+UID:45791
+DESCRIPTION:Duration: 2h 41m (161 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00003867/the-good-the-bad-and-the-ugly/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSes
+ sionId=45791&visLang=1\n\nEstimated start: 19:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On Falling + Q&A
+DTSTART;TZID=Europe/London:20250313T193000
+DTEND;TZID=Europe/London:20250313T214500
+DTSTAMP:20250313T193000Z
+UID:45671
+DESCRIPTION:Duration: 2h 14m (134 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
+ a Q&A.\n\nhttps://www.picturehouses.com/movie-details/005/HO00015841/on-fa
+ lling-q-a/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
+ ts.aspx?cinemacode=005&txtSessionId=45671&visLang=1\n\nEstimated start: 19
+ :30
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Clockwork Orange
 DTSTART;TZID=Europe/London:20250331T194500
 DTEND;TZID=Europe/London:20250331T223000
@@ -1968,17 +1717,75 @@ DESCRIPTION:Duration: 2h 16m (136 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Inugami Family - The Japan Foundation 2025
-DTSTART;TZID=Europe/London:20250320T194500
-DTEND;TZID=Europe/London:20250320T221500
-DTSTAMP:20250320T194500Z
-UID:45826
-DESCRIPTION:Duration: 2h 26m (146 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00015789/the-inugami-family-the-japan-foundation-2025/\n\nhttps:
- //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
- 05&txtSessionId=45826&visLang=1\n\nEstimated start: 19:45
+SUMMARY:Hard Truths
+DTSTART;TZID=Europe/London:20250216T194500
+DTEND;TZID=Europe/London:20250216T215000
+DTSTAMP:20250216T194500Z
+UID:45863
+DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =45863&visLang=1\n\nEstimated start: 20:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hard Truths
+DTSTART;TZID=Europe/London:20250217T123000
+DTEND;TZID=Europe/London:20250217T143500
+DTSTAMP:20250217T123000Z
+UID:45882
+DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =45882&visLang=1\n\nEstimated start: 12:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hard Truths
+DTSTART;TZID=Europe/London:20250217T173000
+DTEND;TZID=Europe/London:20250217T193500
+DTSTAMP:20250217T173000Z
+UID:45854
+DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =45854&visLang=1\n\nEstimated start: 17:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hard Truths
+DTSTART;TZID=Europe/London:20250218T145500
+DTEND;TZID=Europe/London:20250218T170000
+DTSTAMP:20250218T145500Z
+UID:45684
+DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =45684&visLang=1\n\nEstimated start: 15:20
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hard Truths
+DTSTART;TZID=Europe/London:20250219T203000
+DTEND;TZID=Europe/London:20250219T223500
+DTSTAMP:20250219T203000Z
+UID:45874
+DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =45874&visLang=1\n\nEstimated start: 20:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hard Truths
+DTSTART;TZID=Europe/London:20250220T133000
+DTEND;TZID=Europe/London:20250220T153500
+DTSTAMP:20250220T133000Z
+UID:45887
+DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015504/hard-truths/\n\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId
+ =45887&visLang=1\n\nEstimated start: 13:55
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -2027,183 +1834,35 @@ DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Secrets & Lies
-DTSTART;TZID=Europe/London:20250217T200000
-DTEND;TZID=Europe/London:20250217T224500
-DTSTAMP:20250217T200000Z
-UID:45297
-DESCRIPTION:Duration: 2h 16m (136 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015741/secrets-lies/\n\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45297&visL
- ang=1\n\nEstimated start: 20:25
+SUMMARY:The Inugami Family - The Japan Foundation Touring Film Programme 2
+ 025
+DTSTART;TZID=Europe/London:20250320T194500
+DTEND;TZID=Europe/London:20250320T221500
+DTSTAMP:20250320T194500Z
+UID:45826
+DESCRIPTION:Duration: 2h 26m (146 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00015789/the-inugami-family-the-japan-foundation-touring-film-pr
+ ogramme-2025/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTi
+ ckets.aspx?cinemacode=005&txtSessionId=45826&visLang=1\n\nEstimated start:
+  19:45
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Secrets & Lies
-DTSTART;TZID=Europe/London:20250218T120000
-DTEND;TZID=Europe/London:20250218T144500
-DTSTAMP:20250218T120000Z
-UID:45298
-DESCRIPTION:Duration: 2h 16m (136 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015741/secrets-lies/\n\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45298&visL
- ang=1\n\nEstimated start: 12:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:For a Few Dollars More
-DTSTART;TZID=Europe/London:20250409T200000
-DTEND;TZID=Europe/London:20250409T223500
-DTSTAMP:20250409T190000Z
-UID:45790
-DESCRIPTION:Duration: 2h 06m (126 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015868/for-a-few-dollars-more/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
- 45790&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2001: A Space Odyssey
-DTSTART;TZID=Europe/London:20250411T200000
-DTEND;TZID=Europe/London:20250411T225500
-DTSTAMP:20250411T190000Z
-UID:45792
-DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00013446/2001-a-space-odyssey/\n\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45
- 792&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2001: A Space Odyssey
-DTSTART;TZID=Europe/London:20250412T173000
-DTEND;TZID=Europe/London:20250412T202500
-DTSTAMP:20250412T163000Z
-UID:45793
-DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00013446/2001-a-space-odyssey/\n\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45
- 793&visLang=1\n\nEstimated start: 17:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2001: A Space Odyssey
-DTSTART;TZID=Europe/London:20250413T140000
-DTEND;TZID=Europe/London:20250413T165500
-DTSTAMP:20250413T130000Z
-UID:45794
-DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00013446/2001-a-space-odyssey/\n\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45
- 794&visLang=1\n\nEstimated start: 14:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memories of Murder
-DTSTART;TZID=Europe/London:20250404T200000
-DTEND;TZID=Europe/London:20250404T224000
-DTSTAMP:20250404T190000Z
-UID:45783
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00010755/memories-of-murder/\n\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4578
- 3&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memories of Murder
-DTSTART;TZID=Europe/London:20250405T170000
-DTEND;TZID=Europe/London:20250405T194000
-DTSTAMP:20250405T160000Z
-UID:45784
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00010755/memories-of-murder/\n\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4578
- 4&visLang=1\n\nEstimated start: 17:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memories of Murder
-DTSTART;TZID=Europe/London:20250406T113000
-DTEND;TZID=Europe/London:20250406T141000
-DTSTAMP:20250406T103000Z
-UID:45787
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00010755/memories-of-murder/\n\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4578
- 7&visLang=1\n\nEstimated start: 11:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memories of Murder
-DTSTART;TZID=Europe/London:20250407T160000
-DTEND;TZID=Europe/London:20250407T184000
-DTSTAMP:20250407T150000Z
-UID:45788
-DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00010755/memories-of-murder/\n\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4578
- 8&visLang=1\n\nEstimated start: 16:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Erin Brockovich (25th Anniversary)
-DTSTART;TZID=Europe/London:20250402T200000
-DTEND;TZID=Europe/London:20250402T224000
-DTSTAMP:20250402T190000Z
-UID:45781
-DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00009758/erin-brockovich-25th-anniversary/\n\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
- SessionId=45781&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Erin Brockovich (25th Anniversary)
-DTSTART;TZID=Europe/London:20250403T151500
-DTEND;TZID=Europe/London:20250403T175500
-DTSTAMP:20250403T141500Z
-UID:45782
-DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00009758/erin-brockovich-25th-anniversary/\n\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
- SessionId=45782&visLang=1\n\nEstimated start: 15:40
+SUMMARY:(Ab)normal Desire - The Japan Foundation Touring Film Programme 20
+ 25
+DTSTART;TZID=Europe/London:20250327T200000
+DTEND;TZID=Europe/London:20250327T221500
+DTSTAMP:20250327T200000Z
+UID:45828
+DESCRIPTION:Duration: 2h 14m (134 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/005/HO00015791/ab-normal-desire-the-japan-foundation-touring-film-prog
+ ramme-2025/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=005&txtSessionId=45828&visLang=1\n\nEstimated start: 2
+ 0:00
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -2278,6 +1937,126 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Secrets & Lies
+DTSTART;TZID=Europe/London:20250217T200000
+DTEND;TZID=Europe/London:20250217T224500
+DTSTAMP:20250217T200000Z
+UID:45297
+DESCRIPTION:Duration: 2h 16m (136 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00015741/secrets-lies/\n\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45297&visL
+ ang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Secrets & Lies
+DTSTART;TZID=Europe/London:20250218T120000
+DTEND;TZID=Europe/London:20250218T144500
+DTSTAMP:20250218T120000Z
+UID:45298
+DESCRIPTION:Duration: 2h 16m (136 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00015741/secrets-lies/\n\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45298&visL
+ ang=1\n\nEstimated start: 12:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erin Brockovich (25th Anniversary)
+DTSTART;TZID=Europe/London:20250402T200000
+DTEND;TZID=Europe/London:20250402T224000
+DTSTAMP:20250402T190000Z
+UID:45781
+DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00009758/erin-brockovich-25th-anniversary/\n\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
+ SessionId=45781&visLang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Erin Brockovich (25th Anniversary)
+DTSTART;TZID=Europe/London:20250403T151500
+DTEND;TZID=Europe/London:20250403T175500
+DTSTAMP:20250403T141500Z
+UID:45782
+DESCRIPTION:Duration: 2h 12m (132 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00009758/erin-brockovich-25th-anniversary/\n\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txt
+ SessionId=45782&visLang=1\n\nEstimated start: 15:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2001: A Space Odyssey
+DTSTART;TZID=Europe/London:20250411T200000
+DTEND;TZID=Europe/London:20250411T225500
+DTSTAMP:20250411T190000Z
+UID:45792
+DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00013446/2001-a-space-odyssey/\n\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45
+ 792&visLang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2001: A Space Odyssey
+DTSTART;TZID=Europe/London:20250412T173000
+DTEND;TZID=Europe/London:20250412T202500
+DTSTAMP:20250412T163000Z
+UID:45793
+DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00013446/2001-a-space-odyssey/\n\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45
+ 793&visLang=1\n\nEstimated start: 17:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2001: A Space Odyssey
+DTSTART;TZID=Europe/London:20250413T140000
+DTEND;TZID=Europe/London:20250413T165500
+DTSTAMP:20250413T130000Z
+UID:45794
+DESCRIPTION:Duration: 2h 29m (149 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00013446/2001-a-space-odyssey/\n\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45
+ 794&visLang=1\n\nEstimated start: 14:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:For a Few Dollars More
+DTSTART;TZID=Europe/London:20250409T200000
+DTEND;TZID=Europe/London:20250409T223500
+DTSTAMP:20250409T190000Z
+UID:45790
+DESCRIPTION:Duration: 2h 06m (126 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00015868/for-a-few-dollars-more/\n\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
+ 45790&visLang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Big City
 DTSTART;TZID=Europe/London:20250326T200000
 DTEND;TZID=Europe/London:20250326T224000
@@ -2308,17 +2087,168 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Ab)normal Desire - The Japan Foundation 2025
-DTSTART;TZID=Europe/London:20250327T200000
-DTEND;TZID=Europe/London:20250327T221500
-DTSTAMP:20250327T200000Z
-UID:45828
-DESCRIPTION:Duration: 2h 14m (134 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/005/HO00015791/ab-normal-desire-the-japan-foundation-2025/\n\nhttps://
- ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005
- &txtSessionId=45828&visLang=1\n\nEstimated start: 20:00
+SUMMARY:Memories of Murder
+DTSTART;TZID=Europe/London:20250404T200000
+DTEND;TZID=Europe/London:20250404T224000
+DTSTAMP:20250404T190000Z
+UID:45783
+DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00010755/memories-of-murder/\n\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4578
+ 3&visLang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memories of Murder
+DTSTART;TZID=Europe/London:20250405T170000
+DTEND;TZID=Europe/London:20250405T194000
+DTSTAMP:20250405T160000Z
+UID:45784
+DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00010755/memories-of-murder/\n\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4578
+ 4&visLang=1\n\nEstimated start: 17:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memories of Murder
+DTSTART;TZID=Europe/London:20250406T113000
+DTEND;TZID=Europe/London:20250406T141000
+DTSTAMP:20250406T103000Z
+UID:45787
+DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00010755/memories-of-murder/\n\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4578
+ 7&visLang=1\n\nEstimated start: 11:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memories of Murder
+DTSTART;TZID=Europe/London:20250407T160000
+DTEND;TZID=Europe/London:20250407T184000
+DTSTAMP:20250407T150000Z
+UID:45788
+DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00010755/memories-of-murder/\n\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=4578
+ 8&visLang=1\n\nEstimated start: 16:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Velvet
+DTSTART;TZID=Europe/London:20250415T201500
+DTEND;TZID=Europe/London:20250415T224500
+DTSTAMP:20250415T191500Z
+UID:45797
+DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00000262/blue-velvet/\n\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45797&visLa
+ ng=1\n\nEstimated start: 20:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Velvet
+DTSTART;TZID=Europe/London:20250416T174500
+DTEND;TZID=Europe/London:20250416T201500
+DTSTAMP:20250416T164500Z
+UID:45798
+DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00000262/blue-velvet/\n\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45798&visLa
+ ng=1\n\nEstimated start: 18:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Velvet
+DTSTART;TZID=Europe/London:20250417T143000
+DTEND;TZID=Europe/London:20250417T170000
+DTSTAMP:20250417T133000Z
+UID:45799
+DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00000262/blue-velvet/\n\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45799&visLa
+ ng=1\n\nEstimated start: 14:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In the Mood For Love
+DTSTART;TZID=Europe/London:20250223T201500
+DTEND;TZID=Europe/London:20250223T222000
+DTSTAMP:20250223T201500Z
+UID:45930
+DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00013447/in-the-mood-for-love/\n\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=459
+ 30&visLang=1\n\nEstimated start: 20:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Another Round
+DTSTART;TZID=Europe/London:20250425T201500
+DTEND;TZID=Europe/London:20250425T224000
+DTSTAMP:20250425T191500Z
+UID:45808
+DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00010911/another-round/\n\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45808&vis
+ Lang=1\n\nEstimated start: 20:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Another Round
+DTSTART;TZID=Europe/London:20250426T143000
+DTEND;TZID=Europe/London:20250426T165500
+DTSTAMP:20250426T133000Z
+UID:45809
+DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00010911/another-round/\n\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45809&vis
+ Lang=1\n\nEstimated start: 14:55
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yojimbo
+DTSTART;TZID=Europe/London:20250408T201500
+DTEND;TZID=Europe/London:20250408T223500
+DTSTAMP:20250408T191500Z
+UID:45789
+DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00005684/yojimbo/\n\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45789&visLang=1
+ \n\nEstimated start: 20:40
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -2370,123 +2300,30 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Another Round
-DTSTART;TZID=Europe/London:20250425T201500
-DTEND;TZID=Europe/London:20250425T224000
-DTSTAMP:20250425T191500Z
-UID:45808
-DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 1\n\nreDiscover: Time to b
+SUMMARY:O Brother\, Where Art Thou? (25th Anniversary)
+DTSTART;TZID=Europe/London:20250325T203000
+DTEND;TZID=Europe/London:20250325T224500
+DTSTAMP:20250325T203000Z
+UID:45773
+DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 1\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
  iscover's under-the-radar releases\, and return to favourites of yesterday
   with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00010911/another-round/\n\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45808&vis
- Lang=1\n\nEstimated start: 20:40
+ e-details/005/HO00014242/o-brother-where-art-thou-25th-anniversary/\n\nhtt
+ ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
+ e=005&txtSessionId=45773&visLang=1\n\nEstimated start: 20:55
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Another Round
-DTSTART;TZID=Europe/London:20250426T143000
-DTEND;TZID=Europe/London:20250426T165500
-DTSTAMP:20250426T133000Z
-UID:45809
-DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00010911/another-round/\n\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45809&vis
- Lang=1\n\nEstimated start: 14:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In the Mood For Love
-DTSTART;TZID=Europe/London:20250223T201500
-DTEND;TZID=Europe/London:20250223T222000
-DTSTAMP:20250223T201500Z
-UID:45930
-DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00013447/in-the-mood-for-love/\n\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=459
- 30&visLang=1\n\nEstimated start: 20:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet
-DTSTART;TZID=Europe/London:20250415T201500
-DTEND;TZID=Europe/London:20250415T224500
-DTSTAMP:20250415T191500Z
-UID:45797
-DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00000262/blue-velvet/\n\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45797&visLa
- ng=1\n\nEstimated start: 20:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet
-DTSTART;TZID=Europe/London:20250416T174500
-DTEND;TZID=Europe/London:20250416T201500
-DTSTAMP:20250416T164500Z
-UID:45798
-DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00000262/blue-velvet/\n\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45798&visLa
- ng=1\n\nEstimated start: 18:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet
-DTSTART;TZID=Europe/London:20250417T143000
-DTEND;TZID=Europe/London:20250417T170000
-DTSTAMP:20250417T133000Z
-UID:45799
-DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00000262/blue-velvet/\n\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45799&visLa
- ng=1\n\nEstimated start: 14:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yojimbo
-DTSTART;TZID=Europe/London:20250408T201500
-DTEND;TZID=Europe/London:20250408T223500
-DTSTAMP:20250408T191500Z
-UID:45789
-DESCRIPTION:Duration: 1h 51m (111 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00005684/yojimbo/\n\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45789&visLang=1
- \n\nEstimated start: 20:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Picnic at Hanging Rock
-DTSTART;TZID=Europe/London:20250214T201500
-DTEND;TZID=Europe/London:20250214T223500
-DTSTAMP:20250214T201500Z
-UID:45610
-DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015850/picnic-at-hanging-rock-4k-restoration/\n\nhttps:/
- /ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=00
- 5&txtSessionId=45610&visLang=1\n\nEstimated start: 20:40
+SUMMARY:Sing Sing
+DTSTART;TZID=Europe/London:20250217T203000
+DTEND;TZID=Europe/London:20250217T224500
+DTSTAMP:20250217T203000Z
+UID:45851
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00014946/sing-sing/\n\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
+ 45851&visLang=1\n\nEstimated start: 20:55
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -2506,27 +2343,33 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 3\n\nAd and Trailer Free:
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sing Sing
-DTSTART;TZID=Europe/London:20250217T203000
-DTEND;TZID=Europe/London:20250217T224500
-DTSTAMP:20250217T203000Z
-UID:45851
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00014946/sing-sing/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
- 45851&visLang=1\n\nEstimated start: 20:55
+SUMMARY:Oldboy
+DTSTART;TZID=Europe/London:20250321T203000
+DTEND;TZID=Europe/London:20250321T225500
+DTSTAMP:20250321T203000Z
+UID:45769
+DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00009796/oldboy/\n\nhttps://ticketing.picturehouses.com/Ti
+ cketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45769&visLang=1\
+ n\nEstimated start: 20:55
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250214T203000
-DTEND;TZID=Europe/London:20250214T232000
-DTSTAMP:20250214T203000Z
-UID:45832
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/005/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtS
- essionId=45832&visLang=1\n\nEstimated start: 20:55
+SUMMARY:Hundreds of Beavers UK Tour + Q&A
+DTSTART;TZID=Europe/London:20250319T203000
+DTEND;TZID=Europe/London:20250319T225000
+DTSTAMP:20250319T203000Z
+UID:45469
+DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
+ a Q&A.\n\nhttps://www.picturehouses.com/movie-details/005/HO00015762/hundr
+ eds-of-beavers-uk-tour-q-a/\n\nhttps://ticketing.picturehouses.com/Ticketi
+ ng/visSelectTickets.aspx?cinemacode=005&txtSessionId=45469&visLang=1\n\nEs
+ timated start: 20:30
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
@@ -2628,36 +2471,6 @@ DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hundreds of Beavers UK Tour + Q&A
-DTSTART;TZID=Europe/London:20250319T203000
-DTEND;TZID=Europe/London:20250319T225000
-DTSTAMP:20250319T203000Z
-UID:45469
-DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/005/HO00015762/hundr
- eds-of-beavers-uk-tour-q-a/\n\nhttps://ticketing.picturehouses.com/Ticketi
- ng/visSelectTickets.aspx?cinemacode=005&txtSessionId=45469&visLang=1\n\nEs
- timated start: 20:30
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Oldboy
-DTSTART;TZID=Europe/London:20250321T203000
-DTEND;TZID=Europe/London:20250321T225500
-DTSTAMP:20250321T203000Z
-UID:45769
-DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00009796/oldboy/\n\nhttps://ticketing.picturehouses.com/Ti
- cketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45769&visLang=1\
- n\nEstimated start: 20:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:After Hours
 DTSTART;TZID=Europe/London:20250428T203000
 DTEND;TZID=Europe/London:20250428T223500
@@ -2703,75 +2516,6 @@ DESCRIPTION:Duration: 1h 41m (101 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:O Brother\, Where Art Thou? (25th Anniversary)
-DTSTART;TZID=Europe/London:20250325T203000
-DTEND;TZID=Europe/London:20250325T224500
-DTSTAMP:20250325T203000Z
-UID:45773
-DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00014242/o-brother-where-art-thou-25th-anniversary/\n\nhtt
- ps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacod
- e=005&txtSessionId=45773&visLang=1\n\nEstimated start: 20:55
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Badlands
-DTSTART;TZID=Europe/London:20250224T204500
-DTEND;TZID=Europe/London:20250224T224500
-DTSTAMP:20250224T204500Z
-UID:45304
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/005/HO00015743/badlands/\n\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45304&visLang=1
- \n\nEstimated start: 21:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Monkey
-DTSTART;TZID=Europe/London:20250221T204500
-DTEND;TZID=Europe/London:20250221T225000
-DTSTAMP:20250221T204500Z
-UID:45916
-DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015845/the-monkey/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
- 45916&visLang=1\n\nEstimated start: 21:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Monkey
-DTSTART;TZID=Europe/London:20250222T181500
-DTEND;TZID=Europe/London:20250222T202000
-DTSTAMP:20250222T181500Z
-UID:45921
-DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/005/HO00015845/the-monkey/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
- 45921&visLang=1\n\nEstimated start: 18:40
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Get Out
-DTSTART;TZID=Europe/London:20250418T204500
-DTEND;TZID=Europe/London:20250418T225500
-DTSTAMP:20250418T194500Z
-UID:45800
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/005/HO00015869/get-out/\n\nhttps://ticketing.picturehouses.com/T
- icketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45800&visLang=1
- \n\nEstimated start: 21:10
-LOCATION:Picture House Edinburgh - Cameo
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lost in Translation
 DTSTART;TZID=Europe/London:20250322T204500
 DTEND;TZID=Europe/London:20250322T225500
@@ -2799,6 +2543,132 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nreDiscover: Time to b
  e-details/005/HO00015867/lost-in-translation/\n\nhttps://ticketing.picture
  houses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=457
  70&visLang=1\n\nEstimated start: 12:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Monkey
+DTSTART;TZID=Europe/London:20250221T204500
+DTEND;TZID=Europe/London:20250221T225000
+DTSTAMP:20250221T204500Z
+UID:45916
+DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015845/the-monkey/\n\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
+ 45916&visLang=1\n\nEstimated start: 21:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Monkey
+DTSTART;TZID=Europe/London:20250222T181500
+DTEND;TZID=Europe/London:20250222T202000
+DTSTAMP:20250222T181500Z
+UID:45921
+DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/005/HO00015845/the-monkey/\n\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=
+ 45921&visLang=1\n\nEstimated start: 18:40
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Badlands
+DTSTART;TZID=Europe/London:20250224T204500
+DTEND;TZID=Europe/London:20250224T224500
+DTSTAMP:20250224T204500Z
+UID:45304
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/005/HO00015743/badlands/\n\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45304&visLang=1
+ \n\nEstimated start: 21:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Get Out
+DTSTART;TZID=Europe/London:20250418T204500
+DTEND;TZID=Europe/London:20250418T225500
+DTSTAMP:20250418T194500Z
+UID:45800
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/005/HO00015869/get-out/\n\nhttps://ticketing.picturehouses.com/T
+ icketing/visSelectTickets.aspx?cinemacode=005&txtSessionId=45800&visLang=1
+ \n\nEstimated start: 21:10
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To a Land Unknown
+DTSTART;TZID=Europe/London:20250215T210000
+DTEND;TZID=Europe/London:20250215T231500
+DTSTAMP:20250215T210000Z
+UID:45562
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=45562&visLang=1\n\nEstimated start: 21:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To a Land Unknown
+DTSTART;TZID=Europe/London:20250216T200000
+DTEND;TZID=Europe/London:20250216T221500
+DTSTAMP:20250216T200000Z
+UID:45839
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=45839&visLang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To a Land Unknown
+DTSTART;TZID=Europe/London:20250217T170000
+DTEND;TZID=Europe/London:20250217T191500
+DTSTAMP:20250217T170000Z
+UID:45855
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=45855&visLang=1\n\nEstimated start: 17:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To a Land Unknown
+DTSTART;TZID=Europe/London:20250218T160000
+DTEND;TZID=Europe/London:20250218T181500
+DTSTAMP:20250218T160000Z
+UID:45869
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=45869&visLang=1\n\nEstimated start: 16:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To a Land Unknown
+DTSTART;TZID=Europe/London:20250219T180000
+DTEND;TZID=Europe/London:20250219T201500
+DTSTAMP:20250219T180000Z
+UID:45870
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=45870&visLang=1\n\nEstimated start: 18:25
+LOCATION:Picture House Edinburgh - Cameo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:To a Land Unknown
+DTSTART;TZID=Europe/London:20250220T154500
+DTEND;TZID=Europe/London:20250220T180000
+DTSTAMP:20250220T154500Z
+UID:45885
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/005/HO00015804/to-a-land-unknown/\n\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=005&txtSe
+ ssionId=45885&visLang=1\n\nEstimated start: 16:10
 LOCATION:Picture House Edinburgh - Cameo
 END:VEVENT
 BEGIN:VEVENT
