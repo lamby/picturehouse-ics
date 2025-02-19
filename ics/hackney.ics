@@ -1,9 +1,24 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250218T111733Z
+LAST-MODIFIED:20250219T111847Z
 NAME:Picture House London - Hackney
 X-WR-CALNAME:Picture House London - Hackney
+BEGIN:VEVENT
+SUMMARY:Double Indemnity
+DTSTART;TZID=Europe/London:20250302T120000
+DTEND;TZID=Europe/London:20250302T141000
+DTSTAMP:20250302T120000Z
+UID:93208
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 5\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/010/HO00015667/double-indemnity/\n\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=93208&
+ visLang=1\n\nEstimated start: 12:25
+LOCATION:Picture House London - Hackney
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Night and the City (1950)
 DTSTART;TZID=Europe/London:20250223T120000
@@ -32,33 +47,6 @@ DESCRIPTION:Duration: 2h 30m (150 mins)\nScreen 5\n\nhttps://www.pictureho
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Double Indemnity
-DTSTART;TZID=Europe/London:20250302T120000
-DTEND;TZID=Europe/London:20250302T141000
-DTSTAMP:20250302T120000Z
-UID:93208
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 5\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/010/HO00015667/double-indemnity/\n\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=93208&
- visLang=1\n\nEstimated start: 12:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moana 2
-DTSTART;TZID=Europe/London:20250218T123000
-DTEND;TZID=Europe/London:20250218T143500
-DTSTAMP:20250218T123000Z
-UID:95198
-DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015480/moana-2/\n\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=95
- 198&visLang=1\n\nEstimated start: 12:55
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Moana 2
 DTSTART;TZID=Europe/London:20250220T124500
 DTEND;TZID=Europe/London:20250220T145000
@@ -68,42 +56,6 @@ DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 5\n\nhttps://www.pictureho
  uses.com/movie-details/010/HO00015480/moana-2/\n\nhttps://ticketing.pictur
  ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=95
  204&visLang=1\n\nEstimated start: 13:10
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dog Man
-DTSTART;TZID=Europe/London:20250218T124500
-DTEND;TZID=Europe/London:20250218T145000
-DTSTAMP:20250218T124500Z
-UID:95153
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/010/HO00015808/dog-man/\n\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=951
- 53&visLang=1\n\nEstimated start: 13:10
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dog Man
-DTSTART;TZID=Europe/London:20250218T152000
-DTEND;TZID=Europe/London:20250218T172500
-DTSTAMP:20250218T152000Z
-UID:95146
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/010/HO00015808/dog-man/\n\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=951
- 46&visLang=1\n\nEstimated start: 15:45
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dog Man
-DTSTART;TZID=Europe/London:20250218T175000
-DTEND;TZID=Europe/London:20250218T195500
-DTSTAMP:20250218T175000Z
-UID:95149
-DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/010/HO00015808/dog-man/\n\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=951
- 49&visLang=1\n\nEstimated start: 18:15
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
@@ -296,54 +248,6 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 3\n\nhttps://www.picturehou
  ses.com/movie-details/010/HO00015808/dog-man/\n\nhttps://ticketing.picture
  houses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=953
  81&visLang=1\n\nEstimated start: 16:55
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Captain America: Brave New World
-DTSTART;TZID=Europe/London:20250218T130000
-DTEND;TZID=Europe/London:20250218T152500
-DTSTAMP:20250218T130000Z
-UID:95197
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015819/captain-america-brave-new-world/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=010&txtSessionId=95197&visLang=1\n\nEstimated start: 13:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Captain America: Brave New World
-DTSTART;TZID=Europe/London:20250218T150000
-DTEND;TZID=Europe/London:20250218T172500
-DTSTAMP:20250218T150000Z
-UID:95161
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015819/captain-america-brave-new-world/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=010&txtSessionId=95161&visLang=1\n\nEstimated start: 15:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Captain America: Brave New World
-DTSTART;TZID=Europe/London:20250218T180000
-DTEND;TZID=Europe/London:20250218T202500
-DTSTAMP:20250218T180000Z
-UID:95150
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015819/captain-america-brave-new-world/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=010&txtSessionId=95150&visLang=1\n\nEstimated start: 18:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Captain America: Brave New World
-DTSTART;TZID=Europe/London:20250218T202000
-DTEND;TZID=Europe/London:20250218T224500
-DTSTAMP:20250218T202000Z
-UID:95157
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015819/captain-america-brave-new-world/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=010&txtSessionId=95157&visLang=1\n\nEstimated start: 20:45
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
@@ -650,18 +554,6 @@ LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:To a Land Unknown
-DTSTART;TZID=Europe/London:20250218T132000
-DTEND;TZID=Europe/London:20250218T153500
-DTSTAMP:20250218T132000Z
-UID:95147
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015804/to-a-land-unknown/\n\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSe
- ssionId=95147&visLang=1\n\nEstimated start: 13:45
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:To a Land Unknown
 DTSTART;TZID=Europe/London:20250219T132000
 DTEND;TZID=Europe/London:20250219T153500
 DTSTAMP:20250219T132000Z
@@ -937,39 +829,195 @@ DESCRIPTION:Duration: 2h 18m (138 mins)\nScreen 1\n\nhttps://www.pictureho
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bridget Jones: Mad About the Boy
-DTSTART;TZID=Europe/London:20250218T140000
-DTEND;TZID=Europe/London:20250218T163000
-DTSTAMP:20250218T140000Z
-UID:94606
-DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015802/bridget-jones-mad-about-the-boy/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=010&txtSessionId=94606&visLang=1\n\nEstimated start: 14:25
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250219T140000
+DTEND;TZID=Europe/London:20250219T165000
+DTSTAMP:20250219T140000Z
+UID:95167
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95167&visLang=1\n\nEstimated start: 14:25
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bridget Jones: Mad About the Boy
-DTSTART;TZID=Europe/London:20250218T171500
-DTEND;TZID=Europe/London:20250218T194500
-DTSTAMP:20250218T171500Z
-UID:94605
-DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015802/bridget-jones-mad-about-the-boy/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=010&txtSessionId=94605&visLang=1\n\nEstimated start: 17:40
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250219T200000
+DTEND;TZID=Europe/London:20250219T225000
+DTSTAMP:20250219T200000Z
+UID:95174
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95174&visLang=1\n\nEstimated start: 20:25
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bridget Jones: Mad About the Boy
-DTSTART;TZID=Europe/London:20250218T203000
-DTEND;TZID=Europe/London:20250218T230000
-DTSTAMP:20250218T203000Z
-UID:94607
-DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015802/bridget-jones-mad-about-the-boy/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=010&txtSessionId=94607&visLang=1\n\nEstimated start: 20:55
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250220T153000
+DTEND;TZID=Europe/London:20250220T182000
+DTSTAMP:20250220T153000Z
+UID:95182
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95182&visLang=1\n\nEstimated start: 15:55
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250220T201500
+DTEND;TZID=Europe/London:20250220T230500
+DTSTAMP:20250220T201500Z
+UID:95191
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95191&visLang=1\n\nEstimated start: 20:40
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250221T123000
+DTEND;TZID=Europe/London:20250221T152000
+DTSTAMP:20250221T123000Z
+UID:95308
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95308&visLang=1\n\nEstimated start: 12:55
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250221T204000
+DTEND;TZID=Europe/London:20250221T233000
+DTSTAMP:20250221T204000Z
+UID:95300
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95300&visLang=1\n\nEstimated start: 21:05
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250222T204000
+DTEND;TZID=Europe/London:20250222T233000
+DTSTAMP:20250222T204000Z
+UID:95247
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95247&visLang=1\n\nEstimated start: 21:05
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250223T194000
+DTEND;TZID=Europe/London:20250223T223000
+DTSTAMP:20250223T194000Z
+UID:95274
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95274&visLang=1\n\nEstimated start: 20:05
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250224T142000
+DTEND;TZID=Europe/London:20250224T171000
+DTSTAMP:20250224T142000Z
+UID:95328
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95328&visLang=1\n\nEstimated start: 14:45
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250224T171500
+DTEND;TZID=Europe/London:20250224T200500
+DTSTAMP:20250224T171500Z
+UID:95327
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95327&visLang=1\n\nEstimated start: 17:40
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250225T142000
+DTEND;TZID=Europe/London:20250225T171000
+DTSTAMP:20250225T142000Z
+UID:95343
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95343&visLang=1\n\nEstimated start: 14:45
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250225T171500
+DTEND;TZID=Europe/London:20250225T200500
+DTSTAMP:20250225T171500Z
+UID:95344
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95344&visLang=1\n\nEstimated start: 17:40
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250226T142000
+DTEND;TZID=Europe/London:20250226T171000
+DTSTAMP:20250226T142000Z
+UID:95356
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95356&visLang=1\n\nEstimated start: 14:45
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250226T172000
+DTEND;TZID=Europe/London:20250226T201000
+DTSTAMP:20250226T172000Z
+UID:95355
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95355&visLang=1\n\nEstimated start: 17:45
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250227T144000
+DTEND;TZID=Europe/London:20250227T173000
+DTSTAMP:20250227T144000Z
+UID:95370
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95370&visLang=1\n\nEstimated start: 15:05
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250227T203000
+DTEND;TZID=Europe/London:20250227T232000
+DTSTAMP:20250227T203000Z
+UID:95369
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
+ essionId=95369&visLang=1\n\nEstimated start: 20:55
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
@@ -1303,221 +1351,15 @@ DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 5\n\nhttps://www.pictureho
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250218T140000
-DTEND;TZID=Europe/London:20250218T165000
-DTSTAMP:20250218T140000Z
-UID:95148
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/010/HO00015746/a-compl
- ete-unknown/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTic
- kets.aspx?cinemacode=010&txtSessionId=95148&visLang=1\n\nEstimated start: 
- 14:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250218T200000
-DTEND;TZID=Europe/London:20250218T225000
-DTSTAMP:20250218T200000Z
-UID:95158
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95158&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250219T140000
-DTEND;TZID=Europe/London:20250219T165000
-DTSTAMP:20250219T140000Z
-UID:95167
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95167&visLang=1\n\nEstimated start: 14:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250219T200000
-DTEND;TZID=Europe/London:20250219T225000
-DTSTAMP:20250219T200000Z
-UID:95174
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95174&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250220T153000
-DTEND;TZID=Europe/London:20250220T182000
-DTSTAMP:20250220T153000Z
-UID:95182
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95182&visLang=1\n\nEstimated start: 15:55
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250220T201500
-DTEND;TZID=Europe/London:20250220T230500
-DTSTAMP:20250220T201500Z
-UID:95191
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95191&visLang=1\n\nEstimated start: 20:40
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250221T123000
-DTEND;TZID=Europe/London:20250221T152000
-DTSTAMP:20250221T123000Z
-UID:95308
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95308&visLang=1\n\nEstimated start: 12:55
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250221T204000
-DTEND;TZID=Europe/London:20250221T233000
-DTSTAMP:20250221T204000Z
-UID:95300
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95300&visLang=1\n\nEstimated start: 21:05
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250222T204000
-DTEND;TZID=Europe/London:20250222T233000
-DTSTAMP:20250222T204000Z
-UID:95247
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95247&visLang=1\n\nEstimated start: 21:05
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250223T194000
-DTEND;TZID=Europe/London:20250223T223000
-DTSTAMP:20250223T194000Z
-UID:95274
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95274&visLang=1\n\nEstimated start: 20:05
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250224T142000
-DTEND;TZID=Europe/London:20250224T171000
-DTSTAMP:20250224T142000Z
-UID:95328
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95328&visLang=1\n\nEstimated start: 14:45
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250224T171500
-DTEND;TZID=Europe/London:20250224T200500
-DTSTAMP:20250224T171500Z
-UID:95327
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95327&visLang=1\n\nEstimated start: 17:40
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250225T142000
-DTEND;TZID=Europe/London:20250225T171000
-DTSTAMP:20250225T142000Z
-UID:95343
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95343&visLang=1\n\nEstimated start: 14:45
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250225T171500
-DTEND;TZID=Europe/London:20250225T200500
-DTSTAMP:20250225T171500Z
-UID:95344
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95344&visLang=1\n\nEstimated start: 17:40
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250226T142000
-DTEND;TZID=Europe/London:20250226T171000
-DTSTAMP:20250226T142000Z
-UID:95356
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95356&visLang=1\n\nEstimated start: 14:45
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250226T172000
-DTEND;TZID=Europe/London:20250226T201000
-DTSTAMP:20250226T172000Z
-UID:95355
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95355&visLang=1\n\nEstimated start: 17:45
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250227T144000
-DTEND;TZID=Europe/London:20250227T173000
-DTSTAMP:20250227T144000Z
-UID:95370
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95370&visLang=1\n\nEstimated start: 15:05
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250227T203000
-DTEND;TZID=Europe/London:20250227T232000
-DTSTAMP:20250227T203000Z
-UID:95369
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtS
- essionId=95369&visLang=1\n\nEstimated start: 20:55
+SUMMARY:Anora
+DTSTART;TZID=Europe/London:20250223T143000
+DTEND;TZID=Europe/London:20250223T171500
+DTSTAMP:20250223T143000Z
+UID:95292
+DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 5\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015288/anora/\n\nhttps://ticketing.pictureh
+ ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=9529
+ 2&visLang=1\n\nEstimated start: 14:55
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
@@ -1554,18 +1396,6 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 3\n\nhttps://www.picturehou
  ses.com/movie-details/010/HO00015881/six-the-musical-live/\n\nhttps://tick
  eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txt
  SessionId=95083&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anora
-DTSTART;TZID=Europe/London:20250223T143000
-DTEND;TZID=Europe/London:20250223T171500
-DTSTAMP:20250223T143000Z
-UID:95292
-DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015288/anora/\n\nhttps://ticketing.pictureh
- ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=9529
- 2&visLang=1\n\nEstimated start: 14:55
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
@@ -1930,63 +1760,28 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bring Them Down
-DTSTART;TZID=Europe/London:20250218T155000
-DTEND;TZID=Europe/London:20250218T180000
-DTSTAMP:20250218T155000Z
-UID:95152
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015810/bring-them-down/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSess
- ionId=95152&visLang=1\n\nEstimated start: 16:15
+SUMMARY:Hard Truths
+DTSTART;TZID=Europe/London:20250219T155000
+DTEND;TZID=Europe/London:20250219T175500
+DTSTAMP:20250219T155000Z
+UID:95164
+DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 6\n\nSubtitled (Captioned):
+  Everyone welcome. This screening has subtitles for people with hearing lo
+ ss.\n\nhttps://www.picturehouses.com/movie-details/010/HO00015504/hard-tru
+ ths/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=010&txtSessionId=95164&visLang=1\n\nEstimated start: 16:15
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bring Them Down
-DTSTART;TZID=Europe/London:20250219T205000
-DTEND;TZID=Europe/London:20250219T230000
-DTSTAMP:20250219T205000Z
-UID:95163
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015810/bring-them-down/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSess
- ionId=95163&visLang=1\n\nEstimated start: 21:15
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bring Them Down
-DTSTART;TZID=Europe/London:20250220T182000
-DTEND;TZID=Europe/London:20250220T203000
-DTSTAMP:20250220T182000Z
-UID:95186
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015810/bring-them-down/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSess
- ionId=95186&visLang=1\n\nEstimated start: 18:45
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=Europe/London:20250218T160000
-DTEND;TZID=Europe/London:20250218T175500
-DTSTAMP:20250218T160000Z
-UID:95155
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/010/HO00015292/a-real-pain/\n\nhttps://ticketing.pic
+SUMMARY:Hard Truths
+DTSTART;TZID=Europe/London:20250220T175000
+DTEND;TZID=Europe/London:20250220T195500
+DTSTAMP:20250220T175000Z
+UID:95185
+DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 5\n\nhttps://www.picturehou
+ ses.com/movie-details/010/HO00015504/hard-truths/\n\nhttps://ticketing.pic
  turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId
- =95155&visLang=1\n\nEstimated start: 16:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Real Pain
-DTSTART;TZID=Europe/London:20250218T205000
-DTEND;TZID=Europe/London:20250218T224500
-DTSTAMP:20250218T205000Z
-UID:95159
-DESCRIPTION:Duration: 1h 30m (90 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/010/HO00015292/a-real-pain/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId
- =95159&visLang=1\n\nEstimated start: 21:15
+ =95185&visLang=1\n\nEstimated start: 18:15
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
@@ -2223,18 +2018,6 @@ LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conclave
-DTSTART;TZID=Europe/London:20250218T171000
-DTEND;TZID=Europe/London:20250218T193500
-DTSTAMP:20250218T171000Z
-UID:95154
-DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 4\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015474/conclave/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=9
- 5154&visLang=1\n\nEstimated start: 17:35
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conclave
 DTSTART;TZID=Europe/London:20250219T171000
 DTEND;TZID=Europe/London:20250219T193500
 DTSTAMP:20250219T171000Z
@@ -2367,40 +2150,15 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 5\n\nhttps://www.picturehou
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250218T182000
-DTEND;TZID=Europe/London:20250218T202500
-DTSTAMP:20250218T182000Z
-UID:95151
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 6\n\nhttps://www.picturehou
- ses.com/movie-details/010/HO00015504/hard-truths/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId
- =95151&visLang=1\n\nEstimated start: 18:45
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250219T155000
-DTEND;TZID=Europe/London:20250219T175500
-DTSTAMP:20250219T155000Z
-UID:95164
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 6\n\nSubtitled (Captioned):
-  Everyone welcome. This screening has subtitles for people with hearing lo
- ss.\n\nhttps://www.picturehouses.com/movie-details/010/HO00015504/hard-tru
- ths/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=010&txtSessionId=95164&visLang=1\n\nEstimated start: 16:15
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hard Truths
-DTSTART;TZID=Europe/London:20250220T175000
-DTEND;TZID=Europe/London:20250220T195500
-DTSTAMP:20250220T175000Z
-UID:95185
-DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 5\n\nhttps://www.picturehou
- ses.com/movie-details/010/HO00015504/hard-truths/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId
- =95185&visLang=1\n\nEstimated start: 18:15
+SUMMARY:Babygirl
+DTSTART;TZID=Europe/London:20250219T181000
+DTEND;TZID=Europe/London:20250219T203000
+DTSTAMP:20250219T181000Z
+UID:95172
+DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 6\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015708/babygirl/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=9
+ 5172&visLang=1\n\nEstimated start: 18:35
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
@@ -2485,18 +2243,6 @@ DESCRIPTION:Duration: 1h 07m (67 mins)\nScreen 6\n\nhttps://www.picturehou
  ses.com/movie-details/010/HO00015877/i-am-martin-parr/\n\nhttps://ticketin
  g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSess
  ionId=95388&visLang=1\n\nEstimated start: 14:25
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Brutalist
-DTSTART;TZID=Europe/London:20250218T183000
-DTEND;TZID=Europe/London:20250218T223000
-DTSTAMP:20250218T183000Z
-UID:95156
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 5\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015725/the-brutalist/\n\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessio
- nId=95156&visLang=1\n\nEstimated start: 18:55
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
@@ -2682,6 +2428,21 @@ DESCRIPTION:Duration: 2h 30m (150 mins)\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mr Doom Special Screening + Q&A
+DTSTART;TZID=Europe/London:20250304T200000
+DTEND;TZID=Europe/London:20250304T215500
+DTSTAMP:20250304T200000Z
+UID:95213
+DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
+ a Q&A.\n\nhttps://www.picturehouses.com/movie-details/010/HO00015872/mr-do
+ om-special-screening-q-a/\n\nhttps://ticketing.picturehouses.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=010&txtSessionId=95213&visLang=1\n\nEsti
+ mated start: 20:00
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Importance of Being Earnest
 DTSTART;TZID=Europe/London:20250220T200000
 DTEND;TZID=Europe/London:20250220T231500
@@ -2732,33 +2493,6 @@ DESCRIPTION:Duration: 2h 50m (170 mins)\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mr Doom Special Screening + Q&A
-DTSTART;TZID=Europe/London:20250304T200000
-DTEND;TZID=Europe/London:20250304T215500
-DTSTAMP:20250304T200000Z
-UID:95213
-DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/010/HO00015872/mr-do
- om-special-screening-q-a/\n\nhttps://ticketing.picturehouses.com/Ticketing
- /visSelectTickets.aspx?cinemacode=010&txtSessionId=95213&visLang=1\n\nEsti
- mated start: 20:00
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Thinking Game + Recorded Q&A
-DTSTART;TZID=Europe/London:20250317T203000
-DTEND;TZID=Europe/London:20250317T224500
-DTSTAMP:20250317T203000Z
-UID:95222
-DESCRIPTION:Duration: 1h 49m (109 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015912/the-thinking-game-recorded-q-a/\n\nh
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=010&txtSessionId=95222&visLang=1\n\nEstimated start: 20:55
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Big Lebowski
 DTSTART;TZID=Europe/London:20250306T203000
 DTEND;TZID=Europe/London:20250306T225000
@@ -2771,6 +2505,33 @@ DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 5\n\nreDiscover: Time to b
  e-details/010/HO00014241/the-big-lebowski/\n\nhttps://ticketing.picturehou
  ses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=95236&
  visLang=1\n\nEstimated start: 20:55
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HYPER: The Stevie Hyper D Story + Q&A
+DTSTART;TZID=Europe/London:20250320T203000
+DTEND;TZID=Europe/London:20250320T223500
+DTSTAMP:20250320T203000Z
+UID:94938
+DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
+ a Q&A.\n\nhttps://www.picturehouses.com/movie-details/010/HO00015752/hyper
+ -the-stevie-hyper-d-story-q-a/\n\nhttps://ticketing.picturehouses.com/Tick
+ eting/visSelectTickets.aspx?cinemacode=010&txtSessionId=94938&visLang=1\n\
+ nEstimated start: 20:30
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Other Land
+DTSTART;TZID=Europe/London:20250225T203000
+DTEND;TZID=Europe/London:20250225T223000
+DTSTAMP:20250225T203000Z
+UID:94939
+DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 4\n\nhttps://www.picturehou
+ ses.com/movie-details/010/HO00015618/no-other-land/\n\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSession
+ Id=94939&visLang=1\n\nEstimated start: 20:55
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
@@ -2800,54 +2561,15 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 5\n\nhttps://www.picturehou
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No Other Land
-DTSTART;TZID=Europe/London:20250225T203000
-DTEND;TZID=Europe/London:20250225T223000
-DTSTAMP:20250225T203000Z
-UID:94939
-DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 4\n\nhttps://www.picturehou
- ses.com/movie-details/010/HO00015618/no-other-land/\n\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSession
- Id=94939&visLang=1\n\nEstimated start: 20:55
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HYPER: The Stevie Hyper D Story + Q&A
-DTSTART;TZID=Europe/London:20250320T203000
-DTEND;TZID=Europe/London:20250320T223500
-DTSTAMP:20250320T203000Z
-UID:94938
-DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nQ&A: This screening will be followed by 
- a Q&A.\n\nhttps://www.picturehouses.com/movie-details/010/HO00015752/hyper
- -the-stevie-hyper-d-story-q-a/\n\nhttps://ticketing.picturehouses.com/Tick
- eting/visSelectTickets.aspx?cinemacode=010&txtSessionId=94938&visLang=1\n\
- nEstimated start: 20:30
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=Europe/London:20250218T204000
-DTEND;TZID=Europe/London:20250218T230000
-DTSTAMP:20250218T204000Z
-UID:95160
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015708/babygirl/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=9
- 5160&visLang=1\n\nEstimated start: 21:05
-LOCATION:Picture House London - Hackney
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Babygirl
-DTSTART;TZID=Europe/London:20250219T181000
-DTEND;TZID=Europe/London:20250219T203000
-DTSTAMP:20250219T181000Z
-UID:95172
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 6\n\nhttps://www.pictureho
- uses.com/movie-details/010/HO00015708/babygirl/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSessionId=9
- 5172&visLang=1\n\nEstimated start: 18:35
+SUMMARY:The Thinking Game + Recorded Q&A
+DTSTART;TZID=Europe/London:20250317T203000
+DTEND;TZID=Europe/London:20250317T224500
+DTSTAMP:20250317T203000Z
+UID:95222
+DESCRIPTION:Duration: 1h 49m (109 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015912/the-thinking-game-recorded-q-a/\n\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=010&txtSessionId=95222&visLang=1\n\nEstimated start: 20:55
 LOCATION:Picture House London - Hackney
 END:VEVENT
 BEGIN:VEVENT
@@ -2860,6 +2582,30 @@ DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 6\n\nhttps://www.pictureho
  uses.com/movie-details/010/HO00015887/ernest-cole-lost-and-found/\n\nhttps
  ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
  010&txtSessionId=95255&visLang=1\n\nEstimated start: 21:05
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring Them Down
+DTSTART;TZID=Europe/London:20250219T205000
+DTEND;TZID=Europe/London:20250219T230000
+DTSTAMP:20250219T205000Z
+UID:95163
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 6\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015810/bring-them-down/\n\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSess
+ ionId=95163&visLang=1\n\nEstimated start: 21:15
+LOCATION:Picture House London - Hackney
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bring Them Down
+DTSTART;TZID=Europe/London:20250220T182000
+DTEND;TZID=Europe/London:20250220T203000
+DTSTAMP:20250220T182000Z
+UID:95186
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 6\n\nhttps://www.pictureho
+ uses.com/movie-details/010/HO00015810/bring-them-down/\n\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=010&txtSess
+ ionId=95186&visLang=1\n\nEstimated start: 18:45
 LOCATION:Picture House London - Hackney
 END:VEVENT
 END:VCALENDAR
