@@ -1,9 +1,21 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250312T085715Z
+LAST-MODIFIED:20250313T100304Z
 NAME:Picture House Norwich - Cinema City
 X-WR-CALNAME:Picture House Norwich - Cinema City
+BEGIN:VEVENT
+SUMMARY:IFF 2025: Transformers One
+DTSTART;TZID=Europe/London:20250325T100000
+DTEND;TZID=Europe/London:20250325T121000
+DTSTAMP:20250325T100000Z
+UID:54575
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015965/iff-2025-transformers-one/\n\nhttps:
+ //ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=0
+ 01&txtSessionId=54575&visLang=1\n\nEstimated start: 10:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Screenwriting: A Deeper Dive with Abigail Webber
 DTSTART;TZID=Europe/London:20250322T100000
@@ -40,20 +52,6 @@ DESCRIPTION:Duration: 1h 33m (93 mins)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/001/HO00016008/twiggy/\n\nhttps://ticketing.pictureh
  ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5475
  2&visLang=1\n\nEstimated start: 13:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CRAFT CLUB: The Curse Of The Were-Rabbit
-DTSTART;TZID=Europe/London:20250406T103000
-DTEND;TZID=Europe/London:20250406T122000
-DTSTAMP:20250406T093000Z
-UID:54502
-DESCRIPTION:Duration: 1h 25m (85 mins)\nScreen 2\n\nCrafting Cinema: Bring
-  your craft of choice and work on it while you watch! Lights will be left 
- partially on.\n\nhttps://www.picturehouses.com/movie-details/001/HO0001597
- 2/craft-club-the-curse-of-the-were-rabbit/\n\nhttps://ticketing.picturehou
- ses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54502&
- visLang=1\n\nEstimated start: 10:55
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -117,63 +115,17 @@ DESCRIPTION:Duration: 1h 27m (87 mins)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:I Am Martin Parr
-DTSTART;TZID=Europe/London:20250312T104000
-DTEND;TZID=Europe/London:20250312T121500
-DTSTAMP:20250312T104000Z
-UID:54539
-DESCRIPTION:Duration: 1h 07m (67 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015877/i-am-martin-parr/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSess
- ionId=54539&visLang=1\n\nEstimated start: 11:05
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Am Martin Parr
-DTSTART;TZID=Europe/London:20250312T181500
-DTEND;TZID=Europe/London:20250312T195000
-DTSTAMP:20250312T181500Z
-UID:54330
-DESCRIPTION:Duration: 1h 07m (67 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015877/i-am-martin-parr/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSess
- ionId=54330&visLang=1\n\nEstimated start: 18:40
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Am Martin Parr
-DTSTART;TZID=Europe/London:20250313T130000
-DTEND;TZID=Europe/London:20250313T143500
-DTSTAMP:20250313T130000Z
-UID:54550
-DESCRIPTION:Duration: 1h 07m (67 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015877/i-am-martin-parr/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSess
- ionId=54550&visLang=1\n\nEstimated start: 13:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Am Martin Parr
-DTSTART;TZID=Europe/London:20250314T123000
-DTEND;TZID=Europe/London:20250314T140500
-DTSTAMP:20250314T123000Z
-UID:54744
-DESCRIPTION:Duration: 1h 07m (67 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015877/i-am-martin-parr/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSess
- ionId=54744&visLang=1\n\nEstimated start: 12:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I Am Martin Parr
-DTSTART;TZID=Europe/London:20250318T112000
-DTEND;TZID=Europe/London:20250318T125500
-DTSTAMP:20250318T112000Z
-UID:54725
-DESCRIPTION:Duration: 1h 07m (67 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015877/i-am-martin-parr/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSess
- ionId=54725&visLang=1\n\nEstimated start: 11:45
+SUMMARY:CRAFT CLUB: The Curse Of The Were-Rabbit
+DTSTART;TZID=Europe/London:20250406T103000
+DTEND;TZID=Europe/London:20250406T122000
+DTSTAMP:20250406T093000Z
+UID:54502
+DESCRIPTION:Duration: 1h 25m (85 mins)\nScreen 2\n\nCrafting Cinema: Bring
+  your craft of choice and work on it while you watch! Lights will be left 
+ partially on.\n\nhttps://www.picturehouses.com/movie-details/001/HO0001597
+ 2/craft-club-the-curse-of-the-were-rabbit/\n\nhttps://ticketing.picturehou
+ ses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54502&
+ visLang=1\n\nEstimated start: 10:55
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -210,6 +162,162 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 2\n\nhttps://www.pictureho
  uses.com/movie-details/001/HO00015474/conclave/\n\nhttps://ticketing.pictu
  rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
  4740&visLang=1\n\nEstimated start: 10:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250313T105000
+DTEND;TZID=Europe/London:20250313T124500
+DTSTAMP:20250313T105000Z
+UID:54551
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54551&visLang=1\n\nEstimated start: 11:15
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250313T145000
+DTEND;TZID=Europe/London:20250313T164500
+DTSTAMP:20250313T145000Z
+UID:54552
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54552&visLang=1\n\nEstimated start: 15:15
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250314T131000
+DTEND;TZID=Europe/London:20250314T150500
+DTSTAMP:20250314T131000Z
+UID:54603
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54603&visLang=1\n\nEstimated start: 13:35
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250314T175000
+DTEND;TZID=Europe/London:20250314T194500
+DTSTAMP:20250314T175000Z
+UID:54600
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54600&visLang=1\n\nEstimated start: 18:15
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250315T102000
+DTEND;TZID=Europe/London:20250315T121500
+DTSTAMP:20250315T102000Z
+UID:54642
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54642&visLang=1\n\nEstimated start: 10:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250315T180000
+DTEND;TZID=Europe/London:20250315T195500
+DTSTAMP:20250315T180000Z
+UID:54610
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54610&visLang=1\n\nEstimated start: 18:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250316T162000
+DTEND;TZID=Europe/London:20250316T181500
+DTSTAMP:20250316T162000Z
+UID:54615
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54615&visLang=1\n\nEstimated start: 16:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250317T102000
+DTEND;TZID=Europe/London:20250317T121500
+DTSTAMP:20250317T102000Z
+UID:54626
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54626&visLang=1\n\nEstimated start: 10:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250317T152000
+DTEND;TZID=Europe/London:20250317T171500
+DTSTAMP:20250317T152000Z
+UID:54753
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54753&visLang=1\n\nEstimated start: 15:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250318T131000
+DTEND;TZID=Europe/London:20250318T150500
+DTSTAMP:20250318T131000Z
+UID:54724
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54724&visLang=1\n\nEstimated start: 13:35
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250318T160000
+DTEND;TZID=Europe/London:20250318T175500
+DTSTAMP:20250318T160000Z
+UID:54654
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54654&visLang=1\n\nEstimated start: 16:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250319T130000
+DTEND;TZID=Europe/London:20250319T145500
+DTSTAMP:20250319T130000Z
+UID:54672
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54672&visLang=1\n\nEstimated start: 13:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Last Showgirl
+DTSTART;TZID=Europe/London:20250320T180000
+DTEND;TZID=Europe/London:20250320T195500
+DTSTAMP:20250320T180000Z
+UID:54675
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54675&visLang=1\n\nEstimated start: 18:25
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -406,51 +514,63 @@ DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Maestra
-DTSTART;TZID=Europe/London:20250312T105000
-DTEND;TZID=Europe/London:20250312T124500
-DTSTAMP:20250312T105000Z
-UID:54590
-DESCRIPTION:Duration: 1h 28m (88 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015931/maestra/\n\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=545
- 90&visLang=1\n\nEstimated start: 11:15
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250321T175000
+DTEND;TZID=Europe/London:20250321T195000
+DTSTAMP:20250321T175000Z
+UID:54718
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
+ 4718&visLang=1\n\nEstimated start: 18:15
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=Europe/London:20250312T112000
-DTEND;TZID=Europe/London:20250312T140500
-DTSTAMP:20250312T112000Z
-UID:54536
-DESCRIPTION:Duration: 2h 17m (137 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015863/mickey-17/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=
- 54536&visLang=1\n\nEstimated start: 11:45
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250322T160000
+DTEND;TZID=Europe/London:20250322T180000
+DTSTAMP:20250322T160000Z
+UID:54487
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
+ 4487&visLang=1\n\nEstimated start: 16:25
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=Europe/London:20250312T173000
-DTEND;TZID=Europe/London:20250312T201500
-DTSTAMP:20250312T173000Z
-UID:54532
-DESCRIPTION:Duration: 2h 17m (137 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015863/mickey-17/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=
- 54532&visLang=1\n\nEstimated start: 17:55
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250322T182000
+DTEND;TZID=Europe/London:20250322T202000
+DTSTAMP:20250322T182000Z
+UID:54488
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
+ 4488&visLang=1\n\nEstimated start: 18:45
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=Europe/London:20250312T200000
-DTEND;TZID=Europe/London:20250312T224500
-DTSTAMP:20250312T200000Z
-UID:54526
-DESCRIPTION:Duration: 2h 17m (137 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015863/mickey-17/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=
- 54526&visLang=1\n\nEstimated start: 20:25
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250323T192000
+DTEND;TZID=Europe/London:20250323T212000
+DTSTAMP:20250323T192000Z
+UID:54481
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
+ 4481&visLang=1\n\nEstimated start: 19:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250327T154000
+DTEND;TZID=Europe/London:20250327T174000
+DTSTAMP:20250327T154000Z
+UID:54732
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
+ 4732&visLang=1\n\nEstimated start: 16:05
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -661,39 +781,499 @@ DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bridget Jones: Mad About the Boy
-DTSTART;TZID=Europe/London:20250312T123000
-DTEND;TZID=Europe/London:20250312T150000
-DTSTAMP:20250312T123000Z
-UID:54534
-DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015802/bridget-jones-mad-about-the-boy/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=001&txtSessionId=54534&visLang=1\n\nEstimated start: 12:55
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250314T124000
+DTEND;TZID=Europe/London:20250314T145000
+DTSTAMP:20250314T124000Z
+UID:54639
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54639
+ &visLang=1\n\nEstimated start: 13:05
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bridget Jones: Mad About the Boy
-DTSTART;TZID=Europe/London:20250312T152000
-DTEND;TZID=Europe/London:20250312T175000
-DTSTAMP:20250312T152000Z
-UID:54533
-DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015802/bridget-jones-mad-about-the-boy/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=001&txtSessionId=54533&visLang=1\n\nEstimated start: 15:45
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250314T202000
+DTEND;TZID=Europe/London:20250314T223000
+DTSTAMP:20250314T202000Z
+UID:54638
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54638
+ &visLang=1\n\nEstimated start: 20:45
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bridget Jones: Mad About the Boy
-DTSTART;TZID=Europe/London:20250312T201000
-DTEND;TZID=Europe/London:20250312T224000
-DTSTAMP:20250312T201000Z
-UID:54527
-DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015802/bridget-jones-mad-about-the-boy/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=001&txtSessionId=54527&visLang=1\n\nEstimated start: 20:35
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250315T124000
+DTEND;TZID=Europe/London:20250315T145000
+DTSTAMP:20250315T124000Z
+UID:54641
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54641
+ &visLang=1\n\nEstimated start: 13:05
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250315T174000
+DTEND;TZID=Europe/London:20250315T195000
+DTSTAMP:20250315T174000Z
+UID:54640
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54640
+ &visLang=1\n\nEstimated start: 18:05
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250316T110000
+DTEND;TZID=Europe/London:20250316T131000
+DTSTAMP:20250316T110000Z
+UID:54647
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54647
+ &visLang=1\n\nEstimated start: 11:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250316T185000
+DTEND;TZID=Europe/London:20250316T210000
+DTSTAMP:20250316T185000Z
+UID:54646
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54646
+ &visLang=1\n\nEstimated start: 19:15
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250317T123000
+DTEND;TZID=Europe/London:20250317T144000
+DTSTAMP:20250317T123000Z
+UID:54652
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54652
+ &visLang=1\n\nEstimated start: 12:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250317T153000
+DTEND;TZID=Europe/London:20250317T174000
+DTSTAMP:20250317T153000Z
+UID:54650
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54650
+ &visLang=1\n\nEstimated start: 15:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250317T203000
+DTEND;TZID=Europe/London:20250317T224000
+DTSTAMP:20250317T203000Z
+UID:54649
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54649
+ &visLang=1\n\nEstimated start: 20:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250318T152000
+DTEND;TZID=Europe/London:20250318T173000
+DTSTAMP:20250318T152000Z
+UID:54660
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54660
+ &visLang=1\n\nEstimated start: 15:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250318T203000
+DTEND;TZID=Europe/London:20250318T224000
+DTSTAMP:20250318T203000Z
+UID:54653
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54653
+ &visLang=1\n\nEstimated start: 20:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250319T103000
+DTEND;TZID=Europe/London:20250319T124000
+DTSTAMP:20250319T103000Z
+UID:54671
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54671
+ &visLang=1\n\nEstimated start: 10:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250319T174000
+DTEND;TZID=Europe/London:20250319T195000
+DTSTAMP:20250319T174000Z
+UID:54665
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54665
+ &visLang=1\n\nEstimated start: 18:05
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250320T204000
+DTEND;TZID=Europe/London:20250320T225000
+DTSTAMP:20250320T204000Z
+UID:54676
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54676
+ &visLang=1\n\nEstimated start: 21:05
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250321T203000
+DTEND;TZID=Europe/London:20250321T224000
+DTSTAMP:20250321T203000Z
+UID:54717
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54717
+ &visLang=1\n\nEstimated start: 20:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250322T204000
+DTEND;TZID=Europe/London:20250322T225000
+DTSTAMP:20250322T204000Z
+UID:54735
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54735
+ &visLang=1\n\nEstimated start: 21:05
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opus
+DTSTART;TZID=Europe/London:20250327T175500
+DTEND;TZID=Europe/London:20250327T200500
+DTSTAMP:20250327T175500Z
+UID:54731
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54731
+ &visLang=1\n\nEstimated start: 18:20
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Encore: Ballet To Broadway: Wheeldon Works (2025)
+DTSTART;TZID=Europe/London:20250527T124500
+DTEND;TZID=Europe/London:20250527T154500
+DTSTAMP:20250527T114500Z
+UID:50091
+DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/001/HO00014797/rbo-encore-ballet-to-broadway-wheeldon-works-2025/\n\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=001&txtSessionId=50091&visLang=1\n\nEstimated start: 12:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Am Martin Parr
+DTSTART;TZID=Europe/London:20250313T130000
+DTEND;TZID=Europe/London:20250313T143500
+DTSTAMP:20250313T130000Z
+UID:54550
+DESCRIPTION:Duration: 1h 07m (67 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015877/i-am-martin-parr/\n\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSess
+ ionId=54550&visLang=1\n\nEstimated start: 13:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Am Martin Parr
+DTSTART;TZID=Europe/London:20250314T123000
+DTEND;TZID=Europe/London:20250314T140500
+DTSTAMP:20250314T123000Z
+UID:54744
+DESCRIPTION:Duration: 1h 07m (67 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015877/i-am-martin-parr/\n\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSess
+ ionId=54744&visLang=1\n\nEstimated start: 12:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:I Am Martin Parr
+DTSTART;TZID=Europe/London:20250318T112000
+DTEND;TZID=Europe/London:20250318T125500
+DTSTAMP:20250318T112000Z
+UID:54725
+DESCRIPTION:Duration: 1h 07m (67 mins)\nScreen 3\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015877/i-am-martin-parr/\n\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSess
+ ionId=54725&visLang=1\n\nEstimated start: 11:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Billy Elliot the Musical Live (20th Anniversary)
+DTSTART;TZID=Europe/London:20250330T130000
+DTEND;TZID=Europe/London:20250330T163500
+DTSTAMP:20250330T120000Z
+UID:50874
+DESCRIPTION:Duration: 3h 07m (187 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00014993/billy-elliot-the-musical-live-20th-a
+ nniversary/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
+ ets.aspx?cinemacode=001&txtSessionId=50874&visLang=1\n\nEstimated start: 1
+ 3:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screenwriting Salon
+DTSTART;TZID=Europe/London:20250322T130000
+DTEND;TZID=Europe/London:20250322T152500
+DTSTAMP:20250322T130000Z
+UID:54331
+DESCRIPTION:Duration: 2h 00m (120 mins)\nEvent Screen\n\nFilm Course: Mult
+ i-week film theory courses take place in our community room. One ticket is
+  valid for the duration of the course.\n\nhttps://www.picturehouses.com/mo
+ vie-details/001/HO00015700/screenwriting-salon/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
+ 4331&visLang=1\n\nEstimated start: 13:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screenwriting Salon
+DTSTART;TZID=Europe/London:20250405T130000
+DTEND;TZID=Europe/London:20250405T152500
+DTSTAMP:20250405T120000Z
+UID:54332
+DESCRIPTION:Duration: 2h 00m (120 mins)\nEvent Screen\n\nFilm Course: Mult
+ i-week film theory courses take place in our community room. One ticket is
+  valid for the duration of the course.\n\nhttps://www.picturehouses.com/mo
+ vie-details/001/HO00015700/screenwriting-salon/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
+ 4332&visLang=1\n\nEstimated start: 13:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screenwriting Salon
+DTSTART;TZID=Europe/London:20250419T130000
+DTEND;TZID=Europe/London:20250419T152500
+DTSTAMP:20250419T120000Z
+UID:54333
+DESCRIPTION:Duration: 2h 00m (120 mins)\nEvent Screen\n\nFilm Course: Mult
+ i-week film theory courses take place in our community room. One ticket is
+  valid for the duration of the course.\n\nhttps://www.picturehouses.com/mo
+ vie-details/001/HO00015700/screenwriting-salon/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
+ 4333&visLang=1\n\nEstimated start: 13:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Screenwriting Salon
+DTSTART;TZID=Europe/London:20250503T130000
+DTEND;TZID=Europe/London:20250503T152500
+DTSTAMP:20250503T120000Z
+UID:54334
+DESCRIPTION:Duration: 2h 00m (120 mins)\nEvent Screen\n\nFilm Course: Mult
+ i-week film theory courses take place in our community room. One ticket is
+  valid for the duration of the course.\n\nhttps://www.picturehouses.com/mo
+ vie-details/001/HO00015700/screenwriting-salon/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
+ 4334&visLang=1\n\nEstimated start: 13:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kiss Me Deadly
+DTSTART;TZID=Europe/London:20250316T130000
+DTEND;TZID=Europe/London:20250316T151000
+DTSTAMP:20250316T130000Z
+UID:54516
+DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/001/HO00015665/kiss-me-deadly/\n\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54516&vi
+ sLang=1\n\nEstimated start: 13:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Becoming Led Zeppelin
+DTSTART;TZID=Europe/London:20250322T131500
+DTEND;TZID=Europe/London:20250322T154500
+DTSTAMP:20250322T131500Z
+UID:54485
+DESCRIPTION:Duration: 2h 02m (122 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015803/becoming-led-zeppelin/\n\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&t
+ xtSessionId=54485&visLang=1\n\nEstimated start: 13:40
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Fabelmans
+DTSTART;TZID=Europe/London:20250705T133000
+DTEND;TZID=Europe/London:20250705T163000
+DTSTAMP:20250705T123000Z
+UID:54572
+DESCRIPTION:Duration: 2h 31m (151 mins)\nScreen 3\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/001/HO00012408/the-fabelmans/\n\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54572&vis
+ Lang=1\n\nEstimated start: 13:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Casablanca
+DTSTART;TZID=Europe/London:20250323T133000
+DTEND;TZID=Europe/London:20250323T153500
+DTSTAMP:20250323T133000Z
+UID:54517
+DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/001/HO00012475/casablanca/\n\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54517&visLang
+ =1\n\nEstimated start: 13:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Le Nozze di Figaro (2025)
+DTSTART;TZID=Europe/London:20250502T133000
+DTEND;TZID=Europe/London:20250502T172500
+DTSTAMP:20250502T123000Z
+UID:50766
+DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/001/HO00014965/met-opera-encore-le-nozze-di-figaro-2025/\n\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&t
+ xtSessionId=50766&visLang=1\n\nEstimated start: 13:30
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Il Barbiere di Siviglia (2025)
+DTSTART;TZID=Europe/London:20250606T133000
+DTEND;TZID=Europe/London:20250606T170500
+DTSTAMP:20250606T123000Z
+UID:50770
+DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/001/HO00014969/met-opera-encore-il-barbiere-di-siviglia-2025/\n\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 001&txtSessionId=50770&visLang=1\n\nEstimated start: 13:30
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250313T133000
+DTEND;TZID=Europe/London:20250313T162000
+DTSTAMP:20250313T133000Z
+UID:54593
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtS
+ essionId=54593&visLang=1\n\nEstimated start: 13:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Complete Unknown
+DTSTART;TZID=Europe/London:20250320T134000
+DTEND;TZID=Europe/London:20250320T163000
+DTSTAMP:20250320T134000Z
+UID:54684
+DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015746/a-complete-unknown/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtS
+ essionId=54684&visLang=1\n\nEstimated start: 14:05
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fidelio (2025)
+DTSTART;TZID=Europe/London:20250319T133000
+DTEND;TZID=Europe/London:20250319T163500
+DTSTAMP:20250319T133000Z
+UID:50764
+DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/001/HO00014963/met-opera-encore-fidelio-2025/\n\nhttps://ticketing.pic
+ turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId
+ =50764&visLang=1\n\nEstimated start: 13:30
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIX The Musical Live!
+DTSTART;TZID=Europe/London:20250406T134500
+DTEND;TZID=Europe/London:20250406T154500
+DTSTAMP:20250406T124500Z
+UID:54195
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015881/six-the-musical-live/\n\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txt
+ SessionId=54195&visLang=1\n\nEstimated start: 14:10
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIX The Musical Live!
+DTSTART;TZID=Europe/London:20250406T161500
+DTEND;TZID=Europe/London:20250406T181500
+DTSTAMP:20250406T151500Z
+UID:54196
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015881/six-the-musical-live/\n\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txt
+ SessionId=54196&visLang=1\n\nEstimated start: 16:40
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SIX The Musical Live!
+DTSTART;TZID=Europe/London:20250408T200000
+DTEND;TZID=Europe/London:20250408T220000
+DTSTAMP:20250408T190000Z
+UID:54197
+DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00015881/six-the-musical-live/\n\nhttps://tick
+ eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txt
+ SessionId=54197&visLang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Encore: Romeo & Juliet (2025)
+DTSTART;TZID=Europe/London:20250324T140000
+DTEND;TZID=Europe/London:20250324T173000
+DTSTAMP:20250324T140000Z
+UID:50085
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/001/HO00014794/rbo-encore-romeo-juliet-2025/\n\nhttps://ticketing.pict
+ urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=
+ 50085&visLang=1\n\nEstimated start: 14:00
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -901,560 +1481,6 @@ DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250314T124000
-DTEND;TZID=Europe/London:20250314T145000
-DTSTAMP:20250314T124000Z
-UID:54639
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54639
- &visLang=1\n\nEstimated start: 13:05
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250314T202000
-DTEND;TZID=Europe/London:20250314T223000
-DTSTAMP:20250314T202000Z
-UID:54638
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54638
- &visLang=1\n\nEstimated start: 20:45
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250315T124000
-DTEND;TZID=Europe/London:20250315T145000
-DTSTAMP:20250315T124000Z
-UID:54641
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54641
- &visLang=1\n\nEstimated start: 13:05
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250315T174000
-DTEND;TZID=Europe/London:20250315T195000
-DTSTAMP:20250315T174000Z
-UID:54640
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54640
- &visLang=1\n\nEstimated start: 18:05
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250316T110000
-DTEND;TZID=Europe/London:20250316T131000
-DTSTAMP:20250316T110000Z
-UID:54647
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54647
- &visLang=1\n\nEstimated start: 11:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250316T185000
-DTEND;TZID=Europe/London:20250316T210000
-DTSTAMP:20250316T185000Z
-UID:54646
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54646
- &visLang=1\n\nEstimated start: 19:15
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250317T123000
-DTEND;TZID=Europe/London:20250317T144000
-DTSTAMP:20250317T123000Z
-UID:54652
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54652
- &visLang=1\n\nEstimated start: 12:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250317T153000
-DTEND;TZID=Europe/London:20250317T174000
-DTSTAMP:20250317T153000Z
-UID:54650
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54650
- &visLang=1\n\nEstimated start: 15:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250317T203000
-DTEND;TZID=Europe/London:20250317T224000
-DTSTAMP:20250317T203000Z
-UID:54649
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54649
- &visLang=1\n\nEstimated start: 20:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250318T152000
-DTEND;TZID=Europe/London:20250318T173000
-DTSTAMP:20250318T152000Z
-UID:54660
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54660
- &visLang=1\n\nEstimated start: 15:45
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250318T203000
-DTEND;TZID=Europe/London:20250318T224000
-DTSTAMP:20250318T203000Z
-UID:54653
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54653
- &visLang=1\n\nEstimated start: 20:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250319T103000
-DTEND;TZID=Europe/London:20250319T124000
-DTSTAMP:20250319T103000Z
-UID:54671
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54671
- &visLang=1\n\nEstimated start: 10:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250319T174000
-DTEND;TZID=Europe/London:20250319T195000
-DTSTAMP:20250319T174000Z
-UID:54665
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54665
- &visLang=1\n\nEstimated start: 18:05
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250320T204000
-DTEND;TZID=Europe/London:20250320T225000
-DTSTAMP:20250320T204000Z
-UID:54676
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54676
- &visLang=1\n\nEstimated start: 21:05
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Encore: Ballet To Broadway: Wheeldon Works (2025)
-DTSTART;TZID=Europe/London:20250527T124500
-DTEND;TZID=Europe/London:20250527T154500
-DTSTAMP:20250527T114500Z
-UID:50091
-DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/001/HO00014797/rbo-encore-ballet-to-broadway-wheeldon-works-2025/\n\nh
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=001&txtSessionId=50091&visLang=1\n\nEstimated start: 12:45
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250312T130000
-DTEND;TZID=Europe/London:20250312T145500
-DTSTAMP:20250312T130000Z
-UID:54535
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54535&visLang=1\n\nEstimated start: 13:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250312T175000
-DTEND;TZID=Europe/London:20250312T194500
-DTSTAMP:20250312T175000Z
-UID:54531
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54531&visLang=1\n\nEstimated start: 18:15
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250313T105000
-DTEND;TZID=Europe/London:20250313T124500
-DTSTAMP:20250313T105000Z
-UID:54551
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54551&visLang=1\n\nEstimated start: 11:15
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250313T145000
-DTEND;TZID=Europe/London:20250313T164500
-DTSTAMP:20250313T145000Z
-UID:54552
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54552&visLang=1\n\nEstimated start: 15:15
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250314T131000
-DTEND;TZID=Europe/London:20250314T150500
-DTSTAMP:20250314T131000Z
-UID:54603
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54603&visLang=1\n\nEstimated start: 13:35
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250314T175000
-DTEND;TZID=Europe/London:20250314T194500
-DTSTAMP:20250314T175000Z
-UID:54600
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54600&visLang=1\n\nEstimated start: 18:15
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250315T102000
-DTEND;TZID=Europe/London:20250315T121500
-DTSTAMP:20250315T102000Z
-UID:54642
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54642&visLang=1\n\nEstimated start: 10:45
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250315T180000
-DTEND;TZID=Europe/London:20250315T195500
-DTSTAMP:20250315T180000Z
-UID:54610
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54610&visLang=1\n\nEstimated start: 18:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250316T162000
-DTEND;TZID=Europe/London:20250316T181500
-DTSTAMP:20250316T162000Z
-UID:54615
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54615&visLang=1\n\nEstimated start: 16:45
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250317T102000
-DTEND;TZID=Europe/London:20250317T121500
-DTSTAMP:20250317T102000Z
-UID:54626
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54626&visLang=1\n\nEstimated start: 10:45
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250317T152000
-DTEND;TZID=Europe/London:20250317T171500
-DTSTAMP:20250317T152000Z
-UID:54753
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54753&visLang=1\n\nEstimated start: 15:45
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250318T131000
-DTEND;TZID=Europe/London:20250318T150500
-DTSTAMP:20250318T131000Z
-UID:54724
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 3\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54724&visLang=1\n\nEstimated start: 13:35
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250318T160000
-DTEND;TZID=Europe/London:20250318T175500
-DTSTAMP:20250318T160000Z
-UID:54654
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54654&visLang=1\n\nEstimated start: 16:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250319T130000
-DTEND;TZID=Europe/London:20250319T145500
-DTSTAMP:20250319T130000Z
-UID:54672
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54672&visLang=1\n\nEstimated start: 13:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Last Showgirl
-DTSTART;TZID=Europe/London:20250320T180000
-DTEND;TZID=Europe/London:20250320T195500
-DTSTAMP:20250320T180000Z
-UID:54675
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015542/the-last-showgirl/\n\nhttps://ticketi
- ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
- sionId=54675&visLang=1\n\nEstimated start: 18:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Screenwriting Salon
-DTSTART;TZID=Europe/London:20250322T130000
-DTEND;TZID=Europe/London:20250322T152500
-DTSTAMP:20250322T130000Z
-UID:54331
-DESCRIPTION:Duration: 2h 00m (120 mins)\nEvent Screen\n\nFilm Course: Mult
- i-week film theory courses take place in our community room. One ticket is
-  valid for the duration of the course.\n\nhttps://www.picturehouses.com/mo
- vie-details/001/HO00015700/screenwriting-salon/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
- 4331&visLang=1\n\nEstimated start: 13:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Screenwriting Salon
-DTSTART;TZID=Europe/London:20250405T130000
-DTEND;TZID=Europe/London:20250405T152500
-DTSTAMP:20250405T120000Z
-UID:54332
-DESCRIPTION:Duration: 2h 00m (120 mins)\nEvent Screen\n\nFilm Course: Mult
- i-week film theory courses take place in our community room. One ticket is
-  valid for the duration of the course.\n\nhttps://www.picturehouses.com/mo
- vie-details/001/HO00015700/screenwriting-salon/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
- 4332&visLang=1\n\nEstimated start: 13:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Screenwriting Salon
-DTSTART;TZID=Europe/London:20250419T130000
-DTEND;TZID=Europe/London:20250419T152500
-DTSTAMP:20250419T120000Z
-UID:54333
-DESCRIPTION:Duration: 2h 00m (120 mins)\nEvent Screen\n\nFilm Course: Mult
- i-week film theory courses take place in our community room. One ticket is
-  valid for the duration of the course.\n\nhttps://www.picturehouses.com/mo
- vie-details/001/HO00015700/screenwriting-salon/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
- 4333&visLang=1\n\nEstimated start: 13:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Screenwriting Salon
-DTSTART;TZID=Europe/London:20250503T130000
-DTEND;TZID=Europe/London:20250503T152500
-DTSTAMP:20250503T120000Z
-UID:54334
-DESCRIPTION:Duration: 2h 00m (120 mins)\nEvent Screen\n\nFilm Course: Mult
- i-week film theory courses take place in our community room. One ticket is
-  valid for the duration of the course.\n\nhttps://www.picturehouses.com/mo
- vie-details/001/HO00015700/screenwriting-salon/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
- 4334&visLang=1\n\nEstimated start: 13:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Elliot the Musical Live (20th Anniversary)
-DTSTART;TZID=Europe/London:20250330T130000
-DTEND;TZID=Europe/London:20250330T163500
-DTSTAMP:20250330T120000Z
-UID:50874
-DESCRIPTION:Duration: 3h 07m (187 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00014993/billy-elliot-the-musical-live-20th-a
- nniversary/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTick
- ets.aspx?cinemacode=001&txtSessionId=50874&visLang=1\n\nEstimated start: 1
- 3:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kiss Me Deadly
-DTSTART;TZID=Europe/London:20250316T130000
-DTEND;TZID=Europe/London:20250316T151000
-DTSTAMP:20250316T130000Z
-UID:54516
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 3\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/001/HO00015665/kiss-me-deadly/\n\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54516&vi
- sLang=1\n\nEstimated start: 13:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Il Barbiere di Siviglia (2025)
-DTSTART;TZID=Europe/London:20250606T133000
-DTEND;TZID=Europe/London:20250606T170500
-DTSTAMP:20250606T123000Z
-UID:50770
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/001/HO00014969/met-opera-encore-il-barbiere-di-siviglia-2025/\n\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 001&txtSessionId=50770&visLang=1\n\nEstimated start: 13:30
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Le Nozze di Figaro (2025)
-DTSTART;TZID=Europe/London:20250502T133000
-DTEND;TZID=Europe/London:20250502T172500
-DTSTAMP:20250502T123000Z
-UID:50766
-DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/001/HO00014965/met-opera-encore-le-nozze-di-figaro-2025/\n\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&t
- xtSessionId=50766&visLang=1\n\nEstimated start: 13:30
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fidelio (2025)
-DTSTART;TZID=Europe/London:20250319T133000
-DTEND;TZID=Europe/London:20250319T163500
-DTSTAMP:20250319T133000Z
-UID:50764
-DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/001/HO00014963/met-opera-encore-fidelio-2025/\n\nhttps://ticketing.pic
- turehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId
- =50764&visLang=1\n\nEstimated start: 13:30
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fabelmans
-DTSTART;TZID=Europe/London:20250705T133000
-DTEND;TZID=Europe/London:20250705T163000
-DTSTAMP:20250705T123000Z
-UID:54572
-DESCRIPTION:Duration: 2h 31m (151 mins)\nScreen 3\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/001/HO00012408/the-fabelmans/\n\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54572&vis
- Lang=1\n\nEstimated start: 13:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Casablanca
-DTSTART;TZID=Europe/London:20250323T133000
-DTEND;TZID=Europe/London:20250323T153500
-DTSTAMP:20250323T133000Z
-UID:54517
-DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/001/HO00012475/casablanca/\n\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54517&visLang
- =1\n\nEstimated start: 13:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIX The Musical Live!
-DTSTART;TZID=Europe/London:20250406T134500
-DTEND;TZID=Europe/London:20250406T154500
-DTSTAMP:20250406T124500Z
-UID:54195
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015881/six-the-musical-live/\n\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txt
- SessionId=54195&visLang=1\n\nEstimated start: 14:10
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIX The Musical Live!
-DTSTART;TZID=Europe/London:20250406T161500
-DTEND;TZID=Europe/London:20250406T181500
-DTSTAMP:20250406T151500Z
-UID:54196
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015881/six-the-musical-live/\n\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txt
- SessionId=54196&visLang=1\n\nEstimated start: 16:40
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SIX The Musical Live!
-DTSTART;TZID=Europe/London:20250408T200000
-DTEND;TZID=Europe/London:20250408T220000
-DTSTAMP:20250408T190000Z
-UID:54197
-DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00015881/six-the-musical-live/\n\nhttps://tick
- eting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txt
- SessionId=54197&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RBO Encore: Turandot (2025)
 DTSTART;TZID=Europe/London:20250407T140000
 DTEND;TZID=Europe/London:20250407T172500
@@ -1466,56 +1492,6 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 1\n\nAd and Trailer Free:
  ils/001/HO00014795/rbo-encore-turandot-2025/\n\nhttps://ticketing.pictureh
  ouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5008
  7&visLang=1\n\nEstimated start: 14:00
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Encore: Romeo & Juliet (2025)
-DTSTART;TZID=Europe/London:20250324T140000
-DTEND;TZID=Europe/London:20250324T173000
-DTSTAMP:20250324T140000Z
-UID:50085
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/001/HO00014794/rbo-encore-romeo-juliet-2025/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=
- 50085&visLang=1\n\nEstimated start: 14:00
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250312T142000
-DTEND;TZID=Europe/London:20250312T171000
-DTSTAMP:20250312T142000Z
-UID:54538
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtS
- essionId=54538&visLang=1\n\nEstimated start: 14:45
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250313T133000
-DTEND;TZID=Europe/London:20250313T162000
-DTSTAMP:20250313T133000Z
-UID:54593
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtS
- essionId=54593&visLang=1\n\nEstimated start: 13:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Complete Unknown
-DTSTART;TZID=Europe/London:20250320T134000
-DTEND;TZID=Europe/London:20250320T163000
-DTSTAMP:20250320T134000Z
-UID:54684
-DESCRIPTION:Duration: 2h 21m (141 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015746/a-complete-unknown/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtS
- essionId=54684&visLang=1\n\nEstimated start: 14:05
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -1533,27 +1509,63 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Becoming Led Zeppelin
-DTSTART;TZID=Europe/London:20250312T151000
-DTEND;TZID=Europe/London:20250312T174000
-DTSTAMP:20250312T151000Z
-UID:54537
-DESCRIPTION:Duration: 2h 02m (122 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015803/becoming-led-zeppelin/\n\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&t
- xtSessionId=54537&visLang=1\n\nEstimated start: 15:35
+SUMMARY:The Alto Knights
+DTSTART;TZID=Europe/London:20250321T151000
+DTEND;TZID=Europe/London:20250321T174000
+DTSTAMP:20250321T151000Z
+UID:54719
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015991/the-alto-knights/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54719&visLang=1\n\nEstimated start: 15:35
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Becoming Led Zeppelin
-DTSTART;TZID=Europe/London:20250322T131500
-DTEND;TZID=Europe/London:20250322T154500
-DTSTAMP:20250322T131500Z
-UID:54485
-DESCRIPTION:Duration: 2h 02m (122 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015803/becoming-led-zeppelin/\n\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&t
- xtSessionId=54485&visLang=1\n\nEstimated start: 13:40
+SUMMARY:The Alto Knights
+DTSTART;TZID=Europe/London:20250321T201000
+DTEND;TZID=Europe/London:20250321T224000
+DTSTAMP:20250321T201000Z
+UID:54715
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015991/the-alto-knights/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54715&visLang=1\n\nEstimated start: 20:35
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Alto Knights
+DTSTART;TZID=Europe/London:20250327T110000
+DTEND;TZID=Europe/London:20250327T133000
+DTSTAMP:20250327T110000Z
+UID:54733
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015991/the-alto-knights/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54733&visLang=1\n\nEstimated start: 11:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Alto Knights
+DTSTART;TZID=Europe/London:20250327T112000
+DTEND;TZID=Europe/London:20250327T135000
+DTSTAMP:20250327T112000Z
+UID:54734
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015991/the-alto-knights/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54734&visLang=1\n\nEstimated start: 11:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Alto Knights
+DTSTART;TZID=Europe/London:20250327T202000
+DTEND;TZID=Europe/London:20250327T225000
+DTSTAMP:20250327T202000Z
+UID:54730
+DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015991/the-alto-knights/\n\nhttps://ticketi
+ ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSes
+ sionId=54730&visLang=1\n\nEstimated start: 20:45
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -1571,18 +1583,18 @@ DESCRIPTION:Duration: 2h 00m (120 mins)\nScreen 3\n\nAd and Trailer Free:
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American Graffiti
-DTSTART;TZID=Europe/London:20250511T160000
-DTEND;TZID=Europe/London:20250511T182000
-DTSTAMP:20250511T150000Z
-UID:54155
-DESCRIPTION:Duration: 1h 53m (113 mins)\nScreen 1\n\nreDiscover: Time to b
+SUMMARY:The Last Picture Show
+DTSTART;TZID=Europe/London:20250525T160000
+DTEND;TZID=Europe/London:20250525T183500
+DTSTAMP:20250525T150000Z
+UID:54157
+DESCRIPTION:Duration: 2h 06m (126 mins)\nScreen 2\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
  iscover's under-the-radar releases\, and return to favourites of yesterday
   with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/001/HO00015818/american-graffiti/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54155
- &visLang=1\n\nEstimated start: 16:25
+ e-details/001/HO00001260/the-last-picture-show/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
+ 4157&visLang=1\n\nEstimated start: 16:25
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -1601,18 +1613,18 @@ DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Last Picture Show
-DTSTART;TZID=Europe/London:20250525T160000
-DTEND;TZID=Europe/London:20250525T183500
-DTSTAMP:20250525T150000Z
-UID:54157
-DESCRIPTION:Duration: 2h 06m (126 mins)\nScreen 2\n\nreDiscover: Time to b
+SUMMARY:American Graffiti
+DTSTART;TZID=Europe/London:20250511T160000
+DTEND;TZID=Europe/London:20250511T182000
+DTSTAMP:20250511T150000Z
+UID:54155
+DESCRIPTION:Duration: 1h 53m (113 mins)\nScreen 1\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
  iscover's under-the-radar releases\, and return to favourites of yesterday
   with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/001/HO00001260/the-last-picture-show/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
- 4157&visLang=1\n\nEstimated start: 16:25
+ e-details/001/HO00015818/american-graffiti/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54155
+ &visLang=1\n\nEstimated start: 16:25
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -1636,13 +1648,12 @@ DTSTART;TZID=Europe/London:20250330T162000
 DTEND;TZID=Europe/London:20250330T184000
 DTSTAMP:20250330T152000Z
 UID:54467
-DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 1\n\nMembers' Priority Boo
- king: Tickets are only available to Picturehouse Members. Enter your Membe
- rship Card number.\n\nPreview: A special preview screening of this film. S
- ee it before anyone else on the big screen!\n\nhttps://www.picturehouses.c
- om/movie-details/001/HO00015928/the-penguin-lessons-preview/\n\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&t
- xtSessionId=54467&visLang=1\n\nEstimated start: 16:45
+DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 1\n\nPreview: A special pr
+ eview screening of this film. See it before anyone else on the big screen!
+ \n\nhttps://www.picturehouses.com/movie-details/001/HO00015928/the-penguin
+ -lessons-preview/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=001&txtSessionId=54467&visLang=1\n\nEstimated st
+ art: 16:45
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -1661,36 +1672,6 @@ DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fidelio (2025)
-DTSTART;TZID=Europe/London:20250315T170000
-DTEND;TZID=Europe/London:20250315T200500
-DTSTAMP:20250315T170000Z
-UID:50763
-DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/001/HO00014962/met-opera-live-fidelio-2025/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSess
- ionId=50763&visLang=1\n\nEstimated start: 17:00
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Live: Die Walkure (2025)
-DTSTART;TZID=Europe/London:20250514T170000
-DTEND;TZID=Europe/London:20250514T230500
-DTSTAMP:20250514T160000Z
-UID:50088
-DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/001/HO00014746/rbo-live-die-walkure-2025/\n\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessio
- nId=50088&visLang=1\n\nEstimated start: 17:00
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lynchspirations: Experiment in Terror
 DTSTART;TZID=Europe/London:20250816T170000
 DTEND;TZID=Europe/London:20250816T193000
@@ -1703,6 +1684,21 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nreDiscover: Time to b
  e-details/001/HO00015950/lynchspirations-experiment-in-terror/\n\nhttps://
  ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001
  &txtSessionId=54565&visLang=1\n\nEstimated start: 17:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fidelio (2025)
+DTSTART;TZID=Europe/London:20250315T170000
+DTEND;TZID=Europe/London:20250315T200500
+DTSTAMP:20250315T170000Z
+UID:50763
+DESCRIPTION:Duration: 3h 01m (181 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/001/HO00014962/met-opera-live-fidelio-2025/\n\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSess
+ ionId=50763&visLang=1\n\nEstimated start: 17:00
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -1754,6 +1750,21 @@ DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 3\n\nhttps://www.pictureho
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RBO Live: Die Walkure (2025)
+DTSTART;TZID=Europe/London:20250514T170000
+DTEND;TZID=Europe/London:20250514T230500
+DTSTAMP:20250514T160000Z
+UID:50088
+DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/001/HO00014746/rbo-live-die-walkure-2025/\n\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessio
+ nId=50088&visLang=1\n\nEstimated start: 17:00
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lynchspirations: Stroszek
 DTSTART;TZID=Europe/London:20250329T171500
 DTEND;TZID=Europe/London:20250329T193500
@@ -1766,48 +1777,6 @@ DESCRIPTION:Duration: 1h 55m (115 mins)\nScreen 2\n\nreDiscover: Time to b
  e-details/001/HO00015946/lynchspirations-stroszek/\n\nhttps://ticketing.pi
  cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionI
  d=54496&visLang=1\n\nEstimated start: 17:40
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Last Swim
-DTSTART;TZID=Europe/London:20250401T173000
-DTEND;TZID=Europe/London:20250401T193500
-DTSTAMP:20250401T163000Z
-UID:54555
-DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 1\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nPreview: A special preview screening of this film. See it befor
- e anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-de
- tails/001/HO00015970/last-swim/\n\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=001&txtSessionId=54555&visLang=1\n
- \nEstimated start: 17:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lynchspirations: The Wizard of Oz
-DTSTART;TZID=Europe/London:20250719T173000
-DTEND;TZID=Europe/London:20250719T194000
-DTSTAMP:20250719T163000Z
-UID:54569
-DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015949/lynchspirations-the-wizard-of-oz/\n\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=001&txtSessionId=54569&visLang=1\n\nEstimated start: 17:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La Cocina
-DTSTART;TZID=Europe/London:20250325T173000
-DTEND;TZID=Europe/London:20250325T201500
-DTSTAMP:20250325T173000Z
-UID:54423
-DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 1\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nPreview: A special preview screening of this film. See it befor
- e anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-de
- tails/001/HO00015286/la-cocina/\n\nhttps://ticketing.picturehouses.com/Tic
- keting/visSelectTickets.aspx?cinemacode=001&txtSessionId=54423&visLang=1\n
- \nEstimated start: 17:55
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -1850,6 +1819,48 @@ DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 3\n\nreDiscover: Time to b
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Cocina
+DTSTART;TZID=Europe/London:20250325T173000
+DTEND;TZID=Europe/London:20250325T201500
+DTSTAMP:20250325T173000Z
+UID:54423
+DESCRIPTION:Duration: 2h 19m (139 mins)\nScreen 1\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nPreview: A special preview screening of this film. See it befor
+ e anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-de
+ tails/001/HO00015286/la-cocina/\n\nhttps://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=001&txtSessionId=54423&visLang=1\n
+ \nEstimated start: 17:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Last Swim
+DTSTART;TZID=Europe/London:20250401T173000
+DTEND;TZID=Europe/London:20250401T193500
+DTSTAMP:20250401T163000Z
+UID:54555
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 1\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nPreview: A special preview screening of this film. See it befor
+ e anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-de
+ tails/001/HO00015970/last-swim/\n\nhttps://ticketing.picturehouses.com/Tic
+ keting/visSelectTickets.aspx?cinemacode=001&txtSessionId=54555&visLang=1\n
+ \nEstimated start: 17:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lynchspirations: The Wizard of Oz
+DTSTART;TZID=Europe/London:20250719T173000
+DTEND;TZID=Europe/London:20250719T194000
+DTSTAMP:20250719T163000Z
+UID:54569
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015949/lynchspirations-the-wizard-of-oz/\n\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=001&txtSessionId=54569&visLang=1\n\nEstimated start: 17:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Elephant Man
 DTSTART;TZID=Europe/London:20250425T173000
 DTEND;TZID=Europe/London:20250425T200000
@@ -1862,6 +1873,21 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 1\n\nreDiscover: Time to b
  e-details/001/HO00000415/the-elephant-man/\n\nhttps://ticketing.picturehou
  ses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54570&
  visLang=1\n\nEstimated start: 17:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flow
+DTSTART;TZID=Europe/London:20250318T174500
+DTEND;TZID=Europe/London:20250318T193500
+DTSTAMP:20250318T174500Z
+UID:54554
+DESCRIPTION:Duration: 1h 25m (85 mins)\nScreen 1\n\nDiscover: Discover stu
+ nning cinema. Each week\, the Picturehouse film team champion one must-see
+  film.\n\nPreview: A special preview screening of this film. See it before
+  anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-det
+ ails/001/HO00015772/flow/\n\nhttps://ticketing.picturehouses.com/Ticketing
+ /visSelectTickets.aspx?cinemacode=001&txtSessionId=54554&visLang=1\n\nEsti
+ mated start: 18:10
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -1881,6 +1907,18 @@ DESCRIPTION:Duration: 1h 53m (113 mins)\nScreen 3\n\nAd and Trailer Free:
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MACBETH: David Tennant & Cush Jumbo
+DTSTART;TZID=Europe/London:20250423T174500
+DTEND;TZID=Europe/London:20250423T200500
+DTSTAMP:20250423T164500Z
+UID:54685
+DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=001&txtSessionId=54685&visLang=1\n\nEstimated start: 18:10
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Broken Commandment - The Japan Foundation Touring Film Programme 2
  025
 DTSTART;TZID=Europe/London:20250324T174500
@@ -1894,75 +1932,6 @@ DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 3\n\nAd and Trailer Free:
  ogramme-2025/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTi
  ckets.aspx?cinemacode=001&txtSessionId=53872&visLang=1\n\nEstimated start:
   17:45
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Flow
-DTSTART;TZID=Europe/London:20250318T174500
-DTEND;TZID=Europe/London:20250318T193500
-DTSTAMP:20250318T174500Z
-UID:54554
-DESCRIPTION:Duration: 1h 25m (85 mins)\nScreen 1\n\nDiscover: Discover stu
- nning cinema. Each week\, the Picturehouse film team champion one must-see
-  film.\n\nPreview: A special preview screening of this film. See it before
-  anyone else on the big screen!\n\nhttps://www.picturehouses.com/movie-det
- ails/001/HO00015772/flow/\n\nhttps://ticketing.picturehouses.com/Ticketing
- /visSelectTickets.aspx?cinemacode=001&txtSessionId=54554&visLang=1\n\nEsti
- mated start: 18:10
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MACBETH: David Tennant & Cush Jumbo
-DTSTART;TZID=Europe/London:20250423T174500
-DTEND;TZID=Europe/London:20250423T200500
-DTSTAMP:20250423T164500Z
-UID:54685
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=001&txtSessionId=54685&visLang=1\n\nEstimated start: 18:10
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Il Barbiere di Siviglia (2025)
-DTSTART;TZID=Europe/London:20250531T180000
-DTEND;TZID=Europe/London:20250531T213500
-DTSTAMP:20250531T170000Z
-UID:50769
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/001/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/\n\n
- https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
- code=001&txtSessionId=50769&visLang=1\n\nEstimated start: 18:00
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salome (2025)
-DTSTART;TZID=Europe/London:20250517T180000
-DTEND;TZID=Europe/London:20250517T201500
-DTSTAMP:20250517T170000Z
-UID:50767
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/001/HO00014966/met-opera-live-salome-2025/\n\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessi
- onId=50767&visLang=1\n\nEstimated start: 18:00
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:When Autumn Falls
-DTSTART;TZID=Europe/London:20250321T180000
-DTEND;TZID=Europe/London:20250321T201000
-DTSTAMP:20250321T180000Z
-UID:54716
-DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015925/when-autumn-falls/\n\nhttps://ticket
- ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSe
- ssionId=54716&visLang=1\n\nEstimated start: 18:25
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -1981,16 +1950,33 @@ DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Green Screen - Escape from Extinction: Rewilding +
-DTSTART;TZID=Europe/London:20250422T180000
-DTEND;TZID=Europe/London:20250422T201500
-DTSTAMP:20250422T170000Z
-UID:54738
-DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015989/green-screen-escape-from-extinction-
- rewilding/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTicke
- ts.aspx?cinemacode=001&txtSessionId=54738&visLang=1\n\nEstimated start: 18
- :25
+SUMMARY:Salome (2025)
+DTSTART;TZID=Europe/London:20250517T180000
+DTEND;TZID=Europe/London:20250517T201500
+DTSTAMP:20250517T170000Z
+UID:50767
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/001/HO00014966/met-opera-live-salome-2025/\n\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessi
+ onId=50767&visLang=1\n\nEstimated start: 18:00
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Il Barbiere di Siviglia (2025)
+DTSTART;TZID=Europe/London:20250531T180000
+DTEND;TZID=Europe/London:20250531T213500
+DTSTAMP:20250531T170000Z
+UID:50769
+DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/001/HO00014968/met-opera-live-il-barbiere-di-siviglia-2025/\n\n
+ https://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinema
+ code=001&txtSessionId=50769&visLang=1\n\nEstimated start: 18:00
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -2006,29 +1992,65 @@ DESCRIPTION:Duration: 1h 49m (109 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
-DTSTART;TZID=Europe/London:20250318T181500
-DTEND;TZID=Europe/London:20250318T201500
-DTSTAMP:20250318T181500Z
-UID:51458
-DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00014995/exhibition-on-screen-dawn-of-impressi
- onism-paris-1874/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=001&txtSessionId=51458&visLang=1\n\nEstimated st
- art: 18:40
+SUMMARY:When Autumn Falls
+DTSTART;TZID=Europe/London:20250321T180000
+DTEND;TZID=Europe/London:20250321T201000
+DTSTAMP:20250321T180000Z
+UID:54716
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015925/when-autumn-falls/\n\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSe
+ ssionId=54716&visLang=1\n\nEstimated start: 18:25
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
-DTSTART;TZID=Europe/London:20250321T130000
-DTEND;TZID=Europe/London:20250321T150000
-DTSTAMP:20250321T130000Z
-UID:51459
-DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/001/HO00014995/exhibition-on-screen-dawn-of-impressi
- onism-paris-1874/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=001&txtSessionId=51459&visLang=1\n\nEstimated st
- art: 13:25
+SUMMARY:When Autumn Falls
+DTSTART;TZID=Europe/London:20250322T181000
+DTEND;TZID=Europe/London:20250322T202000
+DTSTAMP:20250322T181000Z
+UID:54486
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015925/when-autumn-falls/\n\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSe
+ ssionId=54486&visLang=1\n\nEstimated start: 18:35
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Autumn Falls
+DTSTART;TZID=Europe/London:20250325T172000
+DTEND;TZID=Europe/London:20250325T193000
+DTSTAMP:20250325T172000Z
+UID:54425
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015925/when-autumn-falls/\n\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSe
+ ssionId=54425&visLang=1\n\nEstimated start: 17:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:When Autumn Falls
+DTSTART;TZID=Europe/London:20250327T103000
+DTEND;TZID=Europe/London:20250327T124000
+DTSTAMP:20250327T103000Z
+UID:54437
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015925/when-autumn-falls/\n\nhttps://ticket
+ ing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSe
+ ssionId=54437&visLang=1\n\nEstimated start: 10:55
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Green Screen - Escape from Extinction: Rewilding + Pre-recorded Q&
+ A with Dir. Matthew Brady
+DTSTART;TZID=Europe/London:20250422T180000
+DTEND;TZID=Europe/London:20250422T201500
+DTSTAMP:20250422T170000Z
+UID:54738
+DESCRIPTION:Duration: 1h 46m (106 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015989/green-screen-escape-from-extinction-
+ rewilding-pre-recorded-q-a-with-dir-matthew-brady/\n\nhttps://ticketing.pi
+ cturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionI
+ d=54738&visLang=1\n\nEstimated start: 18:25
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -2058,6 +2080,32 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 3\n\nhttps://www.picturehou
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
+DTSTART;TZID=Europe/London:20250318T181500
+DTEND;TZID=Europe/London:20250318T201500
+DTSTAMP:20250318T181500Z
+UID:51458
+DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00014995/exhibition-on-screen-dawn-of-impressi
+ onism-paris-1874/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=001&txtSessionId=51458&visLang=1\n\nEstimated st
+ art: 18:40
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
+DTSTART;TZID=Europe/London:20250321T130000
+DTEND;TZID=Europe/London:20250321T150000
+DTSTAMP:20250321T130000Z
+UID:51459
+DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/001/HO00014995/exhibition-on-screen-dawn-of-impressi
+ onism-paris-1874/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=001&txtSessionId=51459&visLang=1\n\nEstimated st
+ art: 13:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bonnie and Clyde
 DTSTART;TZID=Europe/London:20250406T184500
 DTEND;TZID=Europe/London:20250406T210500
@@ -2073,18 +2121,15 @@ DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Wild Bunch
-DTSTART;TZID=Europe/London:20250518T190000
-DTEND;TZID=Europe/London:20250518T215000
-DTSTAMP:20250518T180000Z
-UID:54156
-DESCRIPTION:Duration: 2h 25m (145 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/001/HO00009206/the-wild-bunch/\n\nhttps://ticketing.picturehouse
- s.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54156&vi
- sLang=1\n\nEstimated start: 19:25
+SUMMARY:The Importance of Being Earnest
+DTSTART;TZID=Europe/London:20250513T190000
+DTEND;TZID=Europe/London:20250513T221500
+DTSTAMP:20250513T180000Z
+UID:54761
+DESCRIPTION:Duration: 2h 50m (170 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015189/nt-live-the-importance-of-being-earn
+ est/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=001&txtSessionId=54761&visLang=1\n\nEstimated start: 19:25
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -2118,18 +2163,18 @@ DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 1\n\nreDiscover: Time to b
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RBO Live: Romeo & Juliet (2025)
-DTSTART;TZID=Europe/London:20250320T191500
-DTEND;TZID=Europe/London:20250320T224500
-DTSTAMP:20250320T191500Z
-UID:50084
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/001/HO00014743/rbo-live-romeo-juliet-2025/\n\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessi
- onId=50084&visLang=1\n\nEstimated start: 19:15
+SUMMARY:The Wild Bunch
+DTSTART;TZID=Europe/London:20250518T190000
+DTEND;TZID=Europe/London:20250518T215000
+DTSTAMP:20250518T180000Z
+UID:54156
+DESCRIPTION:Duration: 2h 25m (145 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/001/HO00009206/the-wild-bunch/\n\nhttps://ticketing.picturehouse
+ s.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54156&vi
+ sLang=1\n\nEstimated start: 19:25
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -2145,6 +2190,21 @@ DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 2\n\nAd and Trailer Free:
  ie-details/001/HO00014747/rbo-live-ballet-to-broadway-wheeldon-works-2025/
  \n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
  nemacode=001&txtSessionId=50090&visLang=1\n\nEstimated start: 19:15
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Live: Romeo & Juliet (2025)
+DTSTART;TZID=Europe/London:20250320T191500
+DTEND;TZID=Europe/London:20250320T224500
+DTSTAMP:20250320T191500Z
+UID:50084
+DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/001/HO00014743/rbo-live-romeo-juliet-2025/\n\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessi
+ onId=50084&visLang=1\n\nEstimated start: 19:15
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -2213,6 +2273,18 @@ DESCRIPTION:Duration: 2h 30m (150 mins)\nScreen 3\n\nSubtitled (Captioned)
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dr. Strangelove
+DTSTART;TZID=Europe/London:20250617T194500
+DTEND;TZID=Europe/London:20250617T224000
+DTSTAMP:20250617T184500Z
+UID:54762
+DESCRIPTION:Duration: 2h 30m (150 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015724/nt-live-dr-strangelove/\n\nhttps://t
+ icketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&
+ txtSessionId=54762&visLang=1\n\nEstimated start: 20:10
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Norwich Jazz Festival: Soundtrack to a Coup d'État
 DTSTART;TZID=Europe/London:20250520T193000
 DTEND;TZID=Europe/London:20250520T222500
@@ -2223,57 +2295,6 @@ DESCRIPTION:Duration: 2h 30m (150 mins)\nScreen 2\n\nhttps://www.pictureho
  a-coup-d-etat/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectT
  ickets.aspx?cinemacode=001&txtSessionId=53993&visLang=1\n\nEstimated start
  : 19:55
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Night with Janis Joplin\, The Musical
-DTSTART;TZID=Europe/London:20250313T194500
-DTEND;TZID=Europe/London:20250313T222500
-DTSTAMP:20250313T194500Z
-UID:52991
-DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 3\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015653/a-night-with-janis-joplin-the-musica
- l/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
- cinemacode=001&txtSessionId=52991&visLang=1\n\nEstimated start: 20:10
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neil Young: Coastal
-DTSTART;TZID=Europe/London:20250417T194500
-DTEND;TZID=Europe/London:20250417T215500
-DTSTAMP:20250417T184500Z
-UID:54632
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015988/neil-young-coastal/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtS
- essionId=54632&visLang=1\n\nEstimated start: 20:10
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lynchspirations: Dune (2021)
-DTSTART;TZID=Europe/London:20250519T194500
-DTEND;TZID=Europe/London:20250519T224500
-DTSTAMP:20250519T184500Z
-UID:54559
-DESCRIPTION:Duration: 2h 35m (155 mins)\nScreen 3\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/001/HO00015947/lynchspirations-dune-2021/\n\nhttps://ticketing.p
- icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSession
- Id=54559&visLang=1\n\nEstimated start: 20:10
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DIG! XX
-DTSTART;TZID=Europe/London:20250325T194500
-DTEND;TZID=Europe/London:20250325T224000
-DTSTAMP:20250325T194500Z
-UID:54424
-DESCRIPTION:Duration: 2h 27m (147 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/001/HO00015911/dig-xx/\n\nhttps://ticketing.picture
- houses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=544
- 24&visLang=1\n\nEstimated start: 20:10
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -2301,6 +2322,45 @@ DESCRIPTION:Duration: 2h 38m (158 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Night with Janis Joplin\, The Musical
+DTSTART;TZID=Europe/London:20250313T194500
+DTEND;TZID=Europe/London:20250313T222500
+DTSTAMP:20250313T194500Z
+UID:52991
+DESCRIPTION:Duration: 2h 13m (133 mins)\nScreen 3\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015653/a-night-with-janis-joplin-the-musica
+ l/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?
+ cinemacode=001&txtSessionId=52991&visLang=1\n\nEstimated start: 20:10
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIG! XX
+DTSTART;TZID=Europe/London:20250325T194500
+DTEND;TZID=Europe/London:20250325T224000
+DTSTAMP:20250325T194500Z
+UID:54424
+DESCRIPTION:Duration: 2h 27m (147 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015911/dig-xx/\n\nhttps://ticketing.picture
+ houses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=544
+ 24&visLang=1\n\nEstimated start: 20:10
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lynchspirations: Dune (2021)
+DTSTART;TZID=Europe/London:20250519T194500
+DTEND;TZID=Europe/London:20250519T224500
+DTSTAMP:20250519T184500Z
+UID:54559
+DESCRIPTION:Duration: 2h 35m (155 mins)\nScreen 3\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/001/HO00015947/lynchspirations-dune-2021/\n\nhttps://ticketing.p
+ icturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSession
+ Id=54559&visLang=1\n\nEstimated start: 20:10
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dune (1984)
 DTSTART;TZID=Europe/London:20250517T194500
 DTEND;TZID=Europe/London:20250517T225000
@@ -2313,6 +2373,32 @@ DESCRIPTION:Duration: 2h 37m (157 mins)\nScreen 1\n\nreDiscover: Time to b
  e-details/001/HO00013554/dune-1984/\n\nhttps://ticketing.picturehouses.com
  /Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54557&visLang
  =1\n\nEstimated start: 20:10
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neil Young: Coastal
+DTSTART;TZID=Europe/London:20250417T194500
+DTEND;TZID=Europe/London:20250417T215500
+DTSTAMP:20250417T184500Z
+UID:54632
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015988/neil-young-coastal/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtS
+ essionId=54632&visLang=1\n\nEstimated start: 20:10
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tea Friends - The Japan Foundation Touring Film Programme 2025
+DTSTART;TZID=Europe/London:20250317T200000
+DTEND;TZID=Europe/London:20250317T221500
+DTSTAMP:20250317T200000Z
+UID:53871
+DESCRIPTION:Duration: 2h 14m (134 mins)\nScreen 3\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/001/HO00015793/tea-friends-the-japan-foundation-touring-film-programme
+ -2025/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
+ spx?cinemacode=001&txtSessionId=53871&visLang=1\n\nEstimated start: 20:00
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -2346,20 +2432,6 @@ DESCRIPTION:Duration: 2h 11m (131 mins)\nScreen 1\n\nAd and Trailer Free:
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tea Friends - The Japan Foundation Touring Film Programme 2025
-DTSTART;TZID=Europe/London:20250317T200000
-DTEND;TZID=Europe/London:20250317T221500
-DTSTAMP:20250317T200000Z
-UID:53871
-DESCRIPTION:Duration: 2h 14m (134 mins)\nScreen 3\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/001/HO00015793/tea-friends-the-japan-foundation-touring-film-programme
- -2025/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=001&txtSessionId=53871&visLang=1\n\nEstimated start: 20:00
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eraserhead
 DTSTART;TZID=Europe/London:20250329T201500
 DTEND;TZID=Europe/London:20250329T221000
@@ -2372,6 +2444,21 @@ DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 1\n\nreDiscover: Time to br
  -details/001/HO00015941/eraserhead/\n\nhttps://ticketing.picturehouses.com
  /Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54495&visLang
  =1\n\nEstimated start: 20:40
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild at Heart
+DTSTART;TZID=Europe/London:20250719T201500
+DTEND;TZID=Europe/London:20250719T224500
+DTSTAMP:20250719T191500Z
+UID:54568
+DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/001/HO00015849/wild-at-heart/\n\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54568&vis
+ Lang=1\n\nEstimated start: 20:40
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -2396,51 +2483,6 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\nScreen 1\n\nhttps://www.picturehou
  ses.com/movie-details/001/HO00015973/pink-floyd-at-pompeii-mcmlxxii/\n\nht
  tps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemaco
  de=001&txtSessionId=54578&visLang=1\n\nEstimated start: 15:25
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bend it Like Beckham + Introduction
-DTSTART;TZID=Europe/London:20250428T201500
-DTEND;TZID=Europe/London:20250428T223500
-DTSTAMP:20250428T191500Z
-UID:54494
-DESCRIPTION:Duration: 1h 53m (113 mins)\nScreen 3\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/001/HO00015971/bend-it-like-beckham-introduction/\n\nhttps://tic
- keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&tx
- tSessionId=54494&visLang=1\n\nEstimated start: 20:40
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild at Heart
-DTSTART;TZID=Europe/London:20250719T201500
-DTEND;TZID=Europe/London:20250719T224500
-DTSTAMP:20250719T191500Z
-UID:54568
-DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/001/HO00015849/wild-at-heart/\n\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54568&vis
- Lang=1\n\nEstimated start: 20:40
-LOCATION:Picture House Norwich - Cinema City
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Norfolk Folklore Society: Night of the Demon
-DTSTART;TZID=Europe/London:20250326T201500
-DTEND;TZID=Europe/London:20250326T222500
-DTSTAMP:20250326T201500Z
-UID:54158
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/001/HO00015864/norfolk-folklore-society-night-of-the-demon/\n\nh
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=001&txtSessionId=54158&visLang=1\n\nEstimated start: 20:40
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -2474,6 +2516,36 @@ DESCRIPTION:Duration: 1h 31m (91 mins)\nScreen 1\n\nreDiscover: Time to br
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Norfolk Folklore Society: Night of the Demon
+DTSTART;TZID=Europe/London:20250326T201500
+DTEND;TZID=Europe/London:20250326T222500
+DTSTAMP:20250326T201500Z
+UID:54158
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/001/HO00015864/norfolk-folklore-society-night-of-the-demon/\n\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=001&txtSessionId=54158&visLang=1\n\nEstimated start: 20:40
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bend it Like Beckham + Introduction
+DTSTART;TZID=Europe/London:20250428T201500
+DTEND;TZID=Europe/London:20250428T223500
+DTSTAMP:20250428T191500Z
+UID:54494
+DESCRIPTION:Duration: 1h 53m (113 mins)\nScreen 3\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/001/HO00015971/bend-it-like-beckham-introduction/\n\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&tx
+ tSessionId=54494&visLang=1\n\nEstimated start: 20:40
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lynchspirations: Freaks
 DTSTART;TZID=Europe/London:20250425T202000
 DTEND;TZID=Europe/London:20250425T215000
@@ -2486,6 +2558,21 @@ DESCRIPTION:Duration: 1h 04m (64 mins)\nScreen 1\n\nreDiscover: Time to br
  -details/001/HO00000660/lynchspirations-freaks/\n\nhttps://ticketing.pictu
  rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=5
  4571&visLang=1\n\nEstimated start: 20:45
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Velvet
+DTSTART;TZID=Europe/London:20250607T203000
+DTEND;TZID=Europe/London:20250607T230000
+DTSTAMP:20250607T193000Z
+UID:54560
+DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/001/HO00000262/blue-velvet/\n\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54560&visLa
+ ng=1\n\nEstimated start: 20:55
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
@@ -2504,31 +2591,39 @@ DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Black Bag - Preview
-DTSTART;TZID=Europe/London:20250312T203000
-DTEND;TZID=Europe/London:20250312T223000
-DTSTAMP:20250312T203000Z
-UID:54594
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nPreview: A special pre
- view screening of this film. See it before anyone else on the big screen!\
- n\nhttps://www.picturehouses.com/movie-details/001/HO00015980/black-bag-pr
- eview/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.a
- spx?cinemacode=001&txtSessionId=54594&visLang=1\n\nEstimated start: 20:55
+SUMMARY:One to One: John & Yoko
+DTSTART;TZID=Europe/London:20250411T203000
+DTEND;TZID=Europe/London:20250411T223500
+DTSTAMP:20250411T193000Z
+UID:54756
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015918/one-to-one-john-yoko/\n\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&tx
+ tSessionId=54756&visLang=1\n\nEstimated start: 20:55
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Blue Velvet
-DTSTART;TZID=Europe/London:20250607T203000
-DTEND;TZID=Europe/London:20250607T230000
-DTSTAMP:20250607T193000Z
-UID:54560
-DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 1\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/001/HO00000262/blue-velvet/\n\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=001&txtSessionId=54560&visLa
- ng=1\n\nEstimated start: 20:55
+SUMMARY:One to One: John & Yoko
+DTSTART;TZID=Europe/London:20250412T180000
+DTEND;TZID=Europe/London:20250412T200500
+DTSTAMP:20250412T170000Z
+UID:54759
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 1\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015918/one-to-one-john-yoko/\n\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&tx
+ tSessionId=54759&visLang=1\n\nEstimated start: 18:25
+LOCATION:Picture House Norwich - Cinema City
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One to One: John & Yoko
+DTSTART;TZID=Europe/London:20250413T140000
+DTEND;TZID=Europe/London:20250413T160500
+DTSTAMP:20250413T130000Z
+UID:54760
+DESCRIPTION:Duration: 1h 40m (100 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/001/HO00015918/one-to-one-john-yoko/\n\nhttps://tic
+ keting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=001&tx
+ tSessionId=54760&visLang=1\n\nEstimated start: 14:25
 LOCATION:Picture House Norwich - Cinema City
 END:VEVENT
 END:VCALENDAR
