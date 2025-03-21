@@ -1,9 +1,22 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//icalendar//mxm.dk//
-LAST-MODIFIED:20250320T085228Z
+LAST-MODIFIED:20250321T084250Z
 NAME:Picture House Exeter
 X-WR-CALNAME:Picture House Exeter
+BEGIN:VEVENT
+SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
+DTSTART;TZID=Europe/London:20250325T115000
+DTEND;TZID=Europe/London:20250325T135000
+DTSTAMP:20250325T115000Z
+UID:31729
+DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00014995/exhibition-on-screen-dawn-of-impressi
+ onism-paris-1874/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=007&txtSessionId=31729&visLang=1\n\nEstimated st
+ art: 12:15
+LOCATION:Picture House Exeter
+END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inside Out 2
 DTSTART;TZID=Europe/London:20250322T115000
@@ -17,16 +30,17 @@ DESCRIPTION:Duration: 1h 36m (96 mins)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Exhibition On Screen: Dawn of Impressionism - Paris 1874
-DTSTART;TZID=Europe/London:20250325T115000
-DTEND;TZID=Europe/London:20250325T135000
-DTSTAMP:20250325T115000Z
-UID:31729
-DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00014995/exhibition-on-screen-dawn-of-impressi
- onism-paris-1874/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=007&txtSessionId=31729&visLang=1\n\nEstimated st
- art: 12:15
+SUMMARY:Le Nozze di Figaro (2025)
+DTSTART;TZID=Europe/London:20250430T120000
+DTEND;TZID=Europe/London:20250430T155500
+DTSTAMP:20250430T110000Z
+UID:31444
+DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/007/HO00014965/met-opera-encore-le-nozze-di-figaro-2025/\n\nhttps://ti
+ cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&t
+ xtSessionId=31444&visLang=1\n\nEstimated start: 12:00
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -54,6 +68,20 @@ DESCRIPTION:Duration: 1h 35m (95 mins)\nScreen 1\n\nhttps://www.picturehou
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Penguin Lessons - Preview
+DTSTART;TZID=Europe/London:20250330T120000
+DTEND;TZID=Europe/London:20250330T142000
+DTSTAMP:20250330T110000Z
+UID:33128
+DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 1\n\nPreview: A special pr
+ eview screening of this film. See it before anyone else on the big screen!
+ \n\nhttps://www.picturehouses.com/movie-details/007/HO00015928/the-penguin
+ -lessons-preview/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
+ ctTickets.aspx?cinemacode=007&txtSessionId=33128&visLang=1\n\nEstimated st
+ art: 12:25
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Salome (2025)
 DTSTART;TZID=Europe/London:20250521T120000
 DTEND;TZID=Europe/London:20250521T141500
@@ -65,20 +93,6 @@ DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nAd and Trailer Free:
  ils/007/HO00014967/met-opera-encore-salome-2025/\n\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=
  31446&visLang=1\n\nEstimated start: 12:00
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Il Barbiere di Siviglia (2025)
-DTSTART;TZID=Europe/London:20250604T120000
-DTEND;TZID=Europe/London:20250604T153500
-DTSTAMP:20250604T110000Z
-UID:31448
-DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/007/HO00014969/met-opera-encore-il-barbiere-di-siviglia-2025/\n\nhttps
- ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
- 007&txtSessionId=31448&visLang=1\n\nEstimated start: 12:00
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -96,31 +110,17 @@ DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Le Nozze di Figaro (2025)
-DTSTART;TZID=Europe/London:20250430T120000
-DTEND;TZID=Europe/London:20250430T155500
-DTSTAMP:20250430T110000Z
-UID:31444
-DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 2\n\nAd and Trailer Free: 
+SUMMARY:Il Barbiere di Siviglia (2025)
+DTSTART;TZID=Europe/London:20250604T120000
+DTEND;TZID=Europe/London:20250604T153500
+DTSTAMP:20250604T110000Z
+UID:31448
+DESCRIPTION:Duration: 3h 35m (215 mins)\nScreen 2\n\nAd and Trailer Free: 
  No advertisements or trailers will play ahead of this screening. You are r
  ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/007/HO00014965/met-opera-encore-le-nozze-di-figaro-2025/\n\nhttps://ti
- cketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&t
- xtSessionId=31444&visLang=1\n\nEstimated start: 12:00
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Penguin Lessons - Preview
-DTSTART;TZID=Europe/London:20250330T120000
-DTEND;TZID=Europe/London:20250330T142000
-DTSTAMP:20250330T110000Z
-UID:33128
-DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 1\n\nPreview: A special pr
- eview screening of this film. See it before anyone else on the big screen!
- \n\nhttps://www.picturehouses.com/movie-details/007/HO00015928/the-penguin
- -lessons-preview/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSele
- ctTickets.aspx?cinemacode=007&txtSessionId=33128&visLang=1\n\nEstimated st
- art: 12:25
+ ils/007/HO00014969/met-opera-encore-il-barbiere-di-siviglia-2025/\n\nhttps
+ ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
+ 007&txtSessionId=31448&visLang=1\n\nEstimated start: 12:00
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -214,21 +214,6 @@ DESCRIPTION:Duration: 1h 57m (117 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Royal Tenenbaums
-DTSTART;TZID=Europe/London:20250518T133000
-DTEND;TZID=Europe/London:20250518T154000
-DTSTAMP:20250518T123000Z
-UID:33225
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00007459/the-royal-tenenbaums/\n\nhttps://ticketing.pictur
- ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33
- 225&visLang=1\n\nEstimated start: 13:55
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Third Man (75th Anniversary)
 DTSTART;TZID=Europe/London:20250525T133000
 DTEND;TZID=Europe/London:20250525T153000
@@ -274,6 +259,21 @@ DESCRIPTION:Duration: 1h 38m (98 mins)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Royal Tenenbaums
+DTSTART;TZID=Europe/London:20250518T133000
+DTEND;TZID=Europe/London:20250518T154000
+DTSTAMP:20250518T123000Z
+UID:33225
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00007459/the-royal-tenenbaums/\n\nhttps://ticketing.pictur
+ ehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33
+ 225&visLang=1\n\nEstimated start: 13:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RBO Encore: Romeo & Juliet (2025)
 DTSTART;TZID=Europe/London:20250325T140000
 DTEND;TZID=Europe/London:20250325T173000
@@ -285,20 +285,6 @@ DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 2\n\nAd and Trailer Free:
  ils/007/HO00014794/rbo-encore-romeo-juliet-2025/\n\nhttps://ticketing.pict
  urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=
  30989&visLang=1\n\nEstimated start: 14:00
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Encore: Ballet To Broadway: Wheeldon Works (2025)
-DTSTART;TZID=Europe/London:20250527T140000
-DTEND;TZID=Europe/London:20250527T170000
-DTSTAMP:20250527T130000Z
-UID:30995
-DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
- ils/007/HO00014797/rbo-encore-ballet-to-broadway-wheeldon-works-2025/\n\nh
- ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
- ode=007&txtSessionId=30995&visLang=1\n\nEstimated start: 14:00
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -316,159 +302,17 @@ DESCRIPTION:Duration: 3h 25m (205 mins)\nScreen 2\n\nAd and Trailer Free:
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250320T142000
-DTEND;TZID=Europe/London:20250320T162000
-DTSTAMP:20250320T142000Z
-UID:33113
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3113&visLang=1\n\nEstimated start: 14:45
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250320T180000
-DTEND;TZID=Europe/London:20250320T200000
-DTSTAMP:20250320T180000Z
-UID:33112
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3112&visLang=1\n\nEstimated start: 18:25
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250321T144500
-DTEND;TZID=Europe/London:20250321T164500
-DTSTAMP:20250321T144500Z
-UID:33169
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3169&visLang=1\n\nEstimated start: 15:10
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250321T173000
-DTEND;TZID=Europe/London:20250321T193000
-DTSTAMP:20250321T173000Z
-UID:33167
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3167&visLang=1\n\nEstimated start: 17:55
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250322T124500
-DTEND;TZID=Europe/London:20250322T144500
-DTSTAMP:20250322T124500Z
-UID:33177
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3177&visLang=1\n\nEstimated start: 13:10
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250322T174500
-DTEND;TZID=Europe/London:20250322T194500
-DTSTAMP:20250322T174500Z
-UID:33176
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3176&visLang=1\n\nEstimated start: 18:10
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250323T123000
-DTEND;TZID=Europe/London:20250323T143000
-DTSTAMP:20250323T123000Z
-UID:33230
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3230&visLang=1\n\nEstimated start: 12:55
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250323T173000
-DTEND;TZID=Europe/London:20250323T193000
-DTSTAMP:20250323T173000Z
-UID:33181
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3181&visLang=1\n\nEstimated start: 17:55
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250324T143000
-DTEND;TZID=Europe/London:20250324T163000
-DTSTAMP:20250324T143000Z
-UID:33190
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3190&visLang=1\n\nEstimated start: 14:55
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250324T203000
-DTEND;TZID=Europe/London:20250324T223000
-DTSTAMP:20250324T203000Z
-UID:33187
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3187&visLang=1\n\nEstimated start: 20:55
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250325T143000
-DTEND;TZID=Europe/London:20250325T163000
-DTSTAMP:20250325T143000Z
-UID:33193
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3193&visLang=1\n\nEstimated start: 14:55
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250326T170000
-DTEND;TZID=Europe/London:20250326T190000
-DTSTAMP:20250326T170000Z
-UID:33195
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3195&visLang=1\n\nEstimated start: 17:25
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Bag
-DTSTART;TZID=Europe/London:20250327T171500
-DTEND;TZID=Europe/London:20250327T191500
-DTSTAMP:20250327T171500Z
-UID:33200
-DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
- ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3200&visLang=1\n\nEstimated start: 17:40
+SUMMARY:RBO Encore: Ballet To Broadway: Wheeldon Works (2025)
+DTSTART;TZID=Europe/London:20250527T140000
+DTEND;TZID=Europe/London:20250527T170000
+DTSTAMP:20250527T130000Z
+UID:30995
+DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nhttps://www.picturehouses.com/movie-deta
+ ils/007/HO00014797/rbo-encore-ballet-to-broadway-wheeldon-works-2025/\n\nh
+ ttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemac
+ ode=007&txtSessionId=30995&visLang=1\n\nEstimated start: 14:00
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -647,15 +491,225 @@ DESCRIPTION:Duration: 2h 25m (145 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mickey 17
-DTSTART;TZID=Europe/London:20250320T150000
-DTEND;TZID=Europe/London:20250320T174500
-DTSTAMP:20250320T150000Z
-UID:33143
-DESCRIPTION:Duration: 2h 17m (137 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/007/HO00015863/mickey-17/\n\nhttps://ticketing.pict
- urehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=
- 33143&visLang=1\n\nEstimated start: 15:25
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250321T144500
+DTEND;TZID=Europe/London:20250321T164500
+DTSTAMP:20250321T144500Z
+UID:33169
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3169&visLang=1\n\nEstimated start: 15:10
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250321T173000
+DTEND;TZID=Europe/London:20250321T193000
+DTSTAMP:20250321T173000Z
+UID:33167
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3167&visLang=1\n\nEstimated start: 17:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250322T124500
+DTEND;TZID=Europe/London:20250322T144500
+DTSTAMP:20250322T124500Z
+UID:33177
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3177&visLang=1\n\nEstimated start: 13:10
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250322T174500
+DTEND;TZID=Europe/London:20250322T194500
+DTSTAMP:20250322T174500Z
+UID:33176
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3176&visLang=1\n\nEstimated start: 18:10
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250323T123000
+DTEND;TZID=Europe/London:20250323T143000
+DTSTAMP:20250323T123000Z
+UID:33230
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3230&visLang=1\n\nEstimated start: 12:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250323T173000
+DTEND;TZID=Europe/London:20250323T193000
+DTSTAMP:20250323T173000Z
+UID:33181
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3181&visLang=1\n\nEstimated start: 17:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250324T143000
+DTEND;TZID=Europe/London:20250324T163000
+DTSTAMP:20250324T143000Z
+UID:33190
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3190&visLang=1\n\nEstimated start: 14:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250324T203000
+DTEND;TZID=Europe/London:20250324T223000
+DTSTAMP:20250324T203000Z
+UID:33187
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 2\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3187&visLang=1\n\nEstimated start: 20:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250325T143000
+DTEND;TZID=Europe/London:20250325T163000
+DTSTAMP:20250325T143000Z
+UID:33193
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3193&visLang=1\n\nEstimated start: 14:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250326T170000
+DTEND;TZID=Europe/London:20250326T190000
+DTSTAMP:20250326T170000Z
+UID:33195
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3195&visLang=1\n\nEstimated start: 17:25
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Bag
+DTSTART;TZID=Europe/London:20250327T171500
+DTEND;TZID=Europe/London:20250327T191500
+DTSTAMP:20250327T171500Z
+UID:33200
+DESCRIPTION:Duration: 1h 34m (94 mins)\nScreen 1\n\nhttps://www.picturehou
+ ses.com/movie-details/007/HO00015968/black-bag/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3200&visLang=1\n\nEstimated start: 17:40
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MACBETH: David Tennant & Cush Jumbo
+DTSTART;TZID=Europe/London:20250322T150000
+DTEND;TZID=Europe/London:20250322T172000
+DTSTAMP:20250322T150000Z
+UID:33229
+DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/007/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=007&txtSessionId=33229&visLang=1\n\nEstimated start: 15:25
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MACBETH: David Tennant & Cush Jumbo
+DTSTART;TZID=Europe/London:20250327T141500
+DTEND;TZID=Europe/London:20250327T163500
+DTSTAMP:20250327T141500Z
+UID:33233
+DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/007/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=007&txtSessionId=33233&visLang=1\n\nEstimated start: 14:40
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MACBETH: David Tennant & Cush Jumbo
+DTSTART;TZID=Europe/London:20250423T200000
+DTEND;TZID=Europe/London:20250423T222000
+DTSTAMP:20250423T190000Z
+UID:33084
+DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/007/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
+ nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
+ acode=007&txtSessionId=33084&visLang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McCabe & Mrs. Miller
+DTSTART;TZID=Europe/London:20250426T150000
+DTEND;TZID=Europe/London:20250426T173000
+DTSTAMP:20250426T140000Z
+UID:33028
+DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00012347/mccabe-mrs-miller/\n\nhttps://ticketing.pictureho
+ uses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33028
+ &visLang=1\n\nEstimated start: 15:25
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Importance of Being Earnest
+DTSTART;TZID=Europe/London:20250324T164500
+DTEND;TZID=Europe/London:20250324T200000
+DTSTAMP:20250324T164500Z
+UID:33231
+DESCRIPTION:Duration: 2h 50m (170 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/007/HO00015189/nt-live-the-importance-of-being-earn
+ est/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=007&txtSessionId=33231&visLang=1\n\nEstimated start: 17:10
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Importance of Being Earnest
+DTSTART;TZID=Europe/London:20250511T133000
+DTEND;TZID=Europe/London:20250511T164500
+DTSTAMP:20250511T123000Z
+UID:33145
+DESCRIPTION:Duration: 2h 50m (170 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/007/HO00015189/nt-live-the-importance-of-being-earn
+ est/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
+ x?cinemacode=007&txtSessionId=33145&visLang=1\n\nEstimated start: 13:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RBO Live: Die Walkure (2025)
+DTSTART;TZID=Europe/London:20250514T170000
+DTEND;TZID=Europe/London:20250514T230500
+DTSTAMP:20250514T160000Z
+UID:30992
+DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 1\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/007/HO00014746/rbo-live-die-walkure-2025/\n\nhttps://ticketing.
+ picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessio
+ nId=30992&visLang=1\n\nEstimated start: 17:00
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -743,133 +797,6 @@ DESCRIPTION:Duration: 2h 17m (137 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:McCabe & Mrs. Miller
-DTSTART;TZID=Europe/London:20250426T150000
-DTEND;TZID=Europe/London:20250426T173000
-DTSTAMP:20250426T140000Z
-UID:33028
-DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00012347/mccabe-mrs-miller/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33028
- &visLang=1\n\nEstimated start: 15:25
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MACBETH: David Tennant & Cush Jumbo
-DTSTART;TZID=Europe/London:20250322T150000
-DTEND;TZID=Europe/London:20250322T172000
-DTSTAMP:20250322T150000Z
-UID:33229
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/007/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=007&txtSessionId=33229&visLang=1\n\nEstimated start: 15:25
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MACBETH: David Tennant & Cush Jumbo
-DTSTART;TZID=Europe/London:20250327T141500
-DTEND;TZID=Europe/London:20250327T163500
-DTSTAMP:20250327T141500Z
-UID:33233
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/007/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=007&txtSessionId=33233&visLang=1\n\nEstimated start: 14:40
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MACBETH: David Tennant & Cush Jumbo
-DTSTART;TZID=Europe/London:20250423T200000
-DTEND;TZID=Europe/London:20250423T222000
-DTSTAMP:20250423T190000Z
-UID:33084
-DESCRIPTION:Duration: 1h 54m (114 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/007/HO00015513/macbeth-david-tennant-cush-jumbo/\n\
- nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinem
- acode=007&txtSessionId=33084&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250320T164000
-DTEND;TZID=Europe/London:20250320T185000
-DTSTAMP:20250320T164000Z
-UID:33115
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 1\n\nhttps://www.pictureho
- uses.com/movie-details/007/HO00015932/opus/\n\nhttps://ticketing.pictureho
- uses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33115
- &visLang=1\n\nEstimated start: 17:05
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Opus
-DTSTART;TZID=Europe/London:20250320T201500
-DTEND;TZID=Europe/London:20250320T222500
-DTSTAMP:20250320T201500Z
-UID:33114
-DESCRIPTION:Duration: 1h 44m (104 mins)\nScreen 2\n\nSubtitled (Captioned)
- : Everyone welcome. This screening has subtitles for people with hearing l
- oss.\n\nhttps://www.picturehouses.com/movie-details/007/HO00015932/opus/\n
- \nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cine
- macode=007&txtSessionId=33114&visLang=1\n\nEstimated start: 20:40
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Importance of Being Earnest
-DTSTART;TZID=Europe/London:20250324T164500
-DTEND;TZID=Europe/London:20250324T200000
-DTSTAMP:20250324T164500Z
-UID:33231
-DESCRIPTION:Duration: 2h 50m (170 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/007/HO00015189/nt-live-the-importance-of-being-earn
- est/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=007&txtSessionId=33231&visLang=1\n\nEstimated start: 17:10
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Importance of Being Earnest
-DTSTART;TZID=Europe/London:20250511T133000
-DTEND;TZID=Europe/London:20250511T164500
-DTSTAMP:20250511T123000Z
-UID:33145
-DESCRIPTION:Duration: 2h 50m (170 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/007/HO00015189/nt-live-the-importance-of-being-earn
- est/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.asp
- x?cinemacode=007&txtSessionId=33145&visLang=1\n\nEstimated start: 13:55
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RBO Live: Die Walkure (2025)
-DTSTART;TZID=Europe/London:20250514T170000
-DTEND;TZID=Europe/London:20250514T230500
-DTSTAMP:20250514T160000Z
-UID:30992
-DESCRIPTION:Duration: 6h 05m (365 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/007/HO00014746/rbo-live-die-walkure-2025/\n\nhttps://ticketing.
- picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessio
- nId=30992&visLang=1\n\nEstimated start: 17:00
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:War Paint – Women At War + Recorded Q&A
-DTSTART;TZID=Europe/London:20250326T171500
-DTEND;TZID=Europe/London:20250326T194000
-DTSTAMP:20250326T171500Z
-UID:33160
-DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/007/HO00015978/war-paint-women-at-war-recorded-q-a/
- \n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
- nemacode=007&txtSessionId=33160&visLang=1\n\nEstimated start: 17:40
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bonnie and Clyde
 DTSTART;TZID=Europe/London:20250405T171500
 DTEND;TZID=Europe/London:20250405T193500
@@ -882,6 +809,18 @@ DESCRIPTION:Duration: 1h 52m (112 mins)\nScreen 2\n\nreDiscover: Time to b
  e-details/007/HO00000138/bonnie-and-clyde/\n\nhttps://ticketing.picturehou
  ses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33024&
  visLang=1\n\nEstimated start: 17:40
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:War Paint – Women At War + Recorded Q&A
+DTSTART;TZID=Europe/London:20250326T171500
+DTEND;TZID=Europe/London:20250326T194000
+DTSTAMP:20250326T171500Z
+UID:33160
+DESCRIPTION:Duration: 1h 59m (119 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/007/HO00015978/war-paint-women-at-war-recorded-q-a/
+ \n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
+ nemacode=007&txtSessionId=33160&visLang=1\n\nEstimated start: 17:40
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -955,21 +894,6 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Salome (2025)
-DTSTART;TZID=Europe/London:20250517T180000
-DTEND;TZID=Europe/London:20250517T201500
-DTSTAMP:20250517T170000Z
-UID:31445
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/007/HO00014966/met-opera-live-salome-2025/\n\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessi
- onId=31445&visLang=1\n\nEstimated start: 18:00
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Holy Cow
 DTSTART;TZID=Europe/London:20250408T180000
 DTEND;TZID=Europe/London:20250408T195500
@@ -995,6 +919,21 @@ DESCRIPTION:Duration: 3h 55m (235 mins)\nScreen 2\n\nAd and Trailer Free:
  ie-details/007/HO00014964/met-opera-live-le-nozze-di-figaro-2025/\n\nhttps
  ://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=
  007&txtSessionId=31443&visLang=1\n\nEstimated start: 18:00
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salome (2025)
+DTSTART;TZID=Europe/London:20250517T180000
+DTEND;TZID=Europe/London:20250517T201500
+DTSTAMP:20250517T170000Z
+UID:31445
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nAd and Trailer Free: 
+ No advertisements or trailers will play ahead of this screening. You are r
+ ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
+ be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
+ ie-details/007/HO00014966/met-opera-live-salome-2025/\n\nhttps://ticketing
+ .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessi
+ onId=31445&visLang=1\n\nEstimated start: 18:00
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1042,21 +981,6 @@ DESCRIPTION:Duration: 2h 27m (147 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:RBO Live: Romeo & Juliet (2025)
-DTSTART;TZID=Europe/London:20250320T191500
-DTEND;TZID=Europe/London:20250320T224500
-DTSTAMP:20250320T191500Z
-UID:30988
-DESCRIPTION:Duration: 3h 30m (210 mins)\nScreen 1\n\nAd and Trailer Free: 
- No advertisements or trailers will play ahead of this screening. You are r
- ecommended to arrive promptly.\n\nLive via Satellite: This screening will 
- be streamed live via a Satellite Feed\n\nhttps://www.picturehouses.com/mov
- ie-details/007/HO00014743/rbo-live-romeo-juliet-2025/\n\nhttps://ticketing
- .picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessi
- onId=30988&visLang=1\n\nEstimated start: 19:15
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RBO Live: Turandot (2025)
 DTSTART;TZID=Europe/London:20250401T191500
 DTEND;TZID=Europe/London:20250401T224000
@@ -1084,51 +1008,6 @@ DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 1\n\nAd and Trailer Free:
  ie-details/007/HO00014747/rbo-live-ballet-to-broadway-wheeldon-works-2025/
  \n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.aspx?ci
  nemacode=007&txtSessionId=30994&visLang=1\n\nEstimated start: 19:15
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Fabelmans
-DTSTART;TZID=Europe/London:20250707T193000
-DTEND;TZID=Europe/London:20250707T223000
-DTSTAMP:20250707T183000Z
-UID:33089
-DESCRIPTION:Duration: 2h 31m (151 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00012408/the-fabelmans/\n\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33089&vis
- Lang=1\n\nEstimated start: 19:55
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inland Empire
-DTSTART;TZID=Europe/London:20251229T193000
-DTEND;TZID=Europe/London:20251229T225500
-DTSTAMP:20251229T193000Z
-UID:33096
-DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00012985/inland-empire-4k-restoration/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSess
- ionId=33096&visLang=1\n\nEstimated start: 19:55
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dune (1984)
-DTSTART;TZID=Europe/London:20250519T193000
-DTEND;TZID=Europe/London:20250519T223500
-DTSTAMP:20250519T183000Z
-UID:33087
-DESCRIPTION:Duration: 2h 37m (157 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00013554/dune-1984/\n\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33087&visLang
- =1\n\nEstimated start: 19:55
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1209,6 +1088,51 @@ DESCRIPTION:Duration: 2h 30m (150 mins)\nScreen 2\n\nhttps://www.pictureho
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Fabelmans
+DTSTART;TZID=Europe/London:20250707T193000
+DTEND;TZID=Europe/London:20250707T223000
+DTSTAMP:20250707T183000Z
+UID:33089
+DESCRIPTION:Duration: 2h 31m (151 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00012408/the-fabelmans/\n\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33089&vis
+ Lang=1\n\nEstimated start: 19:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inland Empire
+DTSTART;TZID=Europe/London:20251229T193000
+DTEND;TZID=Europe/London:20251229T225500
+DTSTAMP:20251229T193000Z
+UID:33096
+DESCRIPTION:Duration: 3h 00m (180 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00012985/inland-empire-4k-restoration/\n\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSess
+ ionId=33096&visLang=1\n\nEstimated start: 19:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dune (1984)
+DTSTART;TZID=Europe/London:20250519T193000
+DTEND;TZID=Europe/London:20250519T223500
+DTSTAMP:20250519T183000Z
+UID:33087
+DESCRIPTION:Duration: 2h 37m (157 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00013554/dune-1984/\n\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33087&visLang
+ =1\n\nEstimated start: 19:55
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mulholland Drive
 DTSTART;TZID=Europe/London:20251117T195000
 DTEND;TZID=Europe/London:20251117T224500
@@ -1224,33 +1148,30 @@ DESCRIPTION:Duration: 2h 27m (147 mins)\nScreen 2\n\nreDiscover: Time to b
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Last Picture Show
-DTSTART;TZID=Europe/London:20250524T200000
-DTEND;TZID=Europe/London:20250524T223500
-DTSTAMP:20250524T190000Z
-UID:33034
-DESCRIPTION:Duration: 2h 06m (126 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00001260/the-last-picture-show/\n\nhttps://ticketing.pictu
- rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
- 3034&visLang=1\n\nEstimated start: 20:25
+SUMMARY:Neil Young: Coastal
+DTSTART;TZID=Europe/London:20250417T200000
+DTEND;TZID=Europe/London:20250417T221000
+DTSTAMP:20250417T190000Z
+UID:33097
+DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nhttps://www.pictureho
+ uses.com/movie-details/007/HO00015988/neil-young-coastal/\n\nhttps://ticke
+ ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtS
+ essionId=33097&visLang=1\n\nEstimated start: 20:25
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Twin Peaks: Fire Walk With Me
-DTSTART;TZID=Europe/London:20250818T200000
-DTEND;TZID=Europe/London:20250818T224000
-DTSTAMP:20250818T190000Z
-UID:33092
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nreDiscover: Time to b
+SUMMARY:The Graduate
+DTSTART;TZID=Europe/London:20250419T200000
+DTEND;TZID=Europe/London:20250419T221500
+DTSTAMP:20250419T190000Z
+UID:33027
+DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
  iscover's under-the-radar releases\, and return to favourites of yesterday
   with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00000675/twin-peaks-fire-walk-with-me/\n\nhttps://ticketin
- g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSess
- ionId=33092&visLang=1\n\nEstimated start: 20:25
+ e-details/007/HO00015737/the-graduate/\n\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33027&visL
+ ang=1\n\nEstimated start: 20:25
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1284,6 +1205,51 @@ DESCRIPTION:Duration: 2h 17m (137 mins)\nScreen 2\n\nDiscover: Discover st
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lost Highway
+DTSTART;TZID=Europe/London:20250908T200000
+DTEND;TZID=Europe/London:20250908T224000
+DTSTAMP:20250908T190000Z
+UID:33093
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00006790/lost-highway/\n\nhttps://ticketing.picturehouses.
+ com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33093&visL
+ ang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twin Peaks: Fire Walk With Me
+DTSTART;TZID=Europe/London:20250818T200000
+DTEND;TZID=Europe/London:20250818T224000
+DTSTAMP:20250818T190000Z
+UID:33092
+DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00000675/twin-peaks-fire-walk-with-me/\n\nhttps://ticketin
+ g.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSess
+ ionId=33092&visLang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wild at Heart
+DTSTART;TZID=Europe/London:20250721T200000
+DTEND;TZID=Europe/London:20250721T223000
+DTSTAMP:20250721T190000Z
+UID:33090
+DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00015849/wild-at-heart/\n\nhttps://ticketing.picturehouses
+ .com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33090&vis
+ Lang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Elephant Man
 DTSTART;TZID=Europe/London:20250428T200000
 DTEND;TZID=Europe/London:20250428T223000
@@ -1296,6 +1262,21 @@ DESCRIPTION:Duration: 2h 03m (123 mins)\nScreen 2\n\nreDiscover: Time to b
  e-details/007/HO00000415/the-elephant-man/\n\nhttps://ticketing.picturehou
  ses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33086&
  visLang=1\n\nEstimated start: 20:25
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Velvet
+DTSTART;TZID=Europe/London:20250609T200000
+DTEND;TZID=Europe/London:20250609T223000
+DTSTAMP:20250609T190000Z
+UID:33088
+DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 2\n\nreDiscover: Time to b
+ roaden your cinematic horizons: you'll find the best of what's next with D
+ iscover's under-the-radar releases\, and return to favourites of yesterday
+  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
+ e-details/007/HO00000262/blue-velvet/\n\nhttps://ticketing.picturehouses.c
+ om/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33088&visLa
+ ng=1\n\nEstimated start: 20:25
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1338,75 +1319,18 @@ DESCRIPTION:Duration: 1h 25m (85 mins)\nScreen 2\n\nhttps://www.picturehou
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Graduate
-DTSTART;TZID=Europe/London:20250419T200000
-DTEND;TZID=Europe/London:20250419T221500
-DTSTAMP:20250419T190000Z
-UID:33027
-DESCRIPTION:Duration: 1h 47m (107 mins)\nScreen 2\n\nreDiscover: Time to b
+SUMMARY:The Last Picture Show
+DTSTART;TZID=Europe/London:20250524T200000
+DTEND;TZID=Europe/London:20250524T223500
+DTSTAMP:20250524T190000Z
+UID:33034
+DESCRIPTION:Duration: 2h 06m (126 mins)\nScreen 2\n\nreDiscover: Time to b
  roaden your cinematic horizons: you'll find the best of what's next with D
  iscover's under-the-radar releases\, and return to favourites of yesterday
   with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00015737/the-graduate/\n\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33027&visL
- ang=1\n\nEstimated start: 20:25
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blue Velvet
-DTSTART;TZID=Europe/London:20250609T200000
-DTEND;TZID=Europe/London:20250609T223000
-DTSTAMP:20250609T190000Z
-UID:33088
-DESCRIPTION:Duration: 2h 01m (121 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00000262/blue-velvet/\n\nhttps://ticketing.picturehouses.c
- om/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33088&visLa
- ng=1\n\nEstimated start: 20:25
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neil Young: Coastal
-DTSTART;TZID=Europe/London:20250417T200000
-DTEND;TZID=Europe/London:20250417T221000
-DTSTAMP:20250417T190000Z
-UID:33097
-DESCRIPTION:Duration: 1h 45m (105 mins)\nScreen 2\n\nhttps://www.pictureho
- uses.com/movie-details/007/HO00015988/neil-young-coastal/\n\nhttps://ticke
- ting.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtS
- essionId=33097&visLang=1\n\nEstimated start: 20:25
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wild at Heart
-DTSTART;TZID=Europe/London:20250721T200000
-DTEND;TZID=Europe/London:20250721T223000
-DTSTAMP:20250721T190000Z
-UID:33090
-DESCRIPTION:Duration: 2h 05m (125 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00015849/wild-at-heart/\n\nhttps://ticketing.picturehouses
- .com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33090&vis
- Lang=1\n\nEstimated start: 20:25
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Highway
-DTSTART;TZID=Europe/London:20250908T200000
-DTEND;TZID=Europe/London:20250908T224000
-DTSTAMP:20250908T190000Z
-UID:33093
-DESCRIPTION:Duration: 2h 15m (135 mins)\nScreen 2\n\nreDiscover: Time to b
- roaden your cinematic horizons: you'll find the best of what's next with D
- iscover's under-the-radar releases\, and return to favourites of yesterday
-  with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movi
- e-details/007/HO00006790/lost-highway/\n\nhttps://ticketing.picturehouses.
- com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33093&visL
- ang=1\n\nEstimated start: 20:25
+ e-details/007/HO00001260/the-last-picture-show/\n\nhttps://ticketing.pictu
+ rehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=3
+ 3034&visLang=1\n\nEstimated start: 20:25
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1425,6 +1349,34 @@ DESCRIPTION:Duration: 1h 32m (92 mins)\nScreen 2\n\nreDiscover: Time to br
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:On Falling
+DTSTART;TZID=Europe/London:20250415T201500
+DTEND;TZID=Europe/London:20250415T222500
+DTSTAMP:20250415T191500Z
+UID:33247
+DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nDiscover: Discover st
+ unning cinema. Each week\, the Picturehouse film team champion one must-se
+ e film.\n\nhttps://www.picturehouses.com/movie-details/007/HO00015839/on-f
+ alling/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
+ aspx?cinemacode=007&txtSessionId=33247&visLang=1\n\nEstimated start: 20:40
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eraserhead
+DTSTART;TZID=Europe/London:20250331T201500
+DTEND;TZID=Europe/London:20250331T221000
+DTSTAMP:20250331T191500Z
+UID:33085
+DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 2\n\nreDiscover: Time to br
+ oaden your cinematic horizons: you'll find the best of what's next with Di
+ scover's under-the-radar releases\, and return to favourites of yesterday 
+ with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
+ -details/007/HO00015941/eraserhead/\n\nhttps://ticketing.picturehouses.com
+ /Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33085&visLang
+ =1\n\nEstimated start: 20:40
+LOCATION:Picture House Exeter
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Short Films of David Lynch
 DTSTART;TZID=Europe/London:20250804T201500
 DTEND;TZID=Europe/London:20250804T222000
@@ -1437,19 +1389,6 @@ DESCRIPTION:Duration: 1h 37m (97 mins)\nScreen 2\n\nreDiscover: Time to br
  -details/007/HO00015966/the-short-films-of-david-lynch/\n\nhttps://ticketi
  ng.picturehouses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSes
  sionId=33091&visLang=1\n\nEstimated start: 20:40
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On Falling
-DTSTART;TZID=Europe/London:20250415T201500
-DTEND;TZID=Europe/London:20250415T222500
-DTSTAMP:20250415T191500Z
-UID:33247
-DESCRIPTION:Duration: 1h 42m (102 mins)\nScreen 2\n\nDiscover: Discover st
- unning cinema. Each week\, the Picturehouse film team champion one must-se
- e film.\n\nhttps://www.picturehouses.com/movie-details/007/HO00015839/on-f
- alling/\n\nhttps://ticketing.picturehouses.com/Ticketing/visSelectTickets.
- aspx?cinemacode=007&txtSessionId=33247&visLang=1\n\nEstimated start: 20:40
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
@@ -1543,21 +1482,6 @@ DESCRIPTION:Duration: 1h 53m (113 mins)\nScreen 2\n\nreDiscover: Time to b
  e-details/007/HO00015818/american-graffiti/\n\nhttps://ticketing.pictureho
  uses.com/Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33031
  &visLang=1\n\nEstimated start: 20:40
-LOCATION:Picture House Exeter
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eraserhead
-DTSTART;TZID=Europe/London:20250331T201500
-DTEND;TZID=Europe/London:20250331T221000
-DTSTAMP:20250331T191500Z
-UID:33085
-DESCRIPTION:Duration: 1h 29m (89 mins)\nScreen 2\n\nreDiscover: Time to br
- oaden your cinematic horizons: you'll find the best of what's next with Di
- scover's under-the-radar releases\, and return to favourites of yesterday 
- with our ReDiscover retrospectives.\n\nhttps://www.picturehouses.com/movie
- -details/007/HO00015941/eraserhead/\n\nhttps://ticketing.picturehouses.com
- /Ticketing/visSelectTickets.aspx?cinemacode=007&txtSessionId=33085&visLang
- =1\n\nEstimated start: 20:40
 LOCATION:Picture House Exeter
 END:VEVENT
 BEGIN:VEVENT
